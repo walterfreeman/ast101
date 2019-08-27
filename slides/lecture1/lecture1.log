@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  27 AUG 2019 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  27 AUG 2019 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,60 +839,62 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [4
 
+] [5
+
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 180.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 189.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 180.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5
+LaTeX Font Info:    Try loading font information for U+msb on input line 189.
 
-] [6
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [6
 
 ] [7
 
-]
-[8
+] [8
+
+] [9
 
 ]
-<trollface.png, id=87, 642.4pt x 522.753pt>
+<trollface.png, id=93, 642.4pt x 522.753pt>
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 261.
+Package pdftex.def Info: trollface.png  used on input line 270.
 (pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
- [9
+
+[10
 
  <./trollface.png>]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 261.
-(pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
- [10
-
-]
-File: trollface.png Graphic file (type png)
-<use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 261.
+Package pdftex.def Info: trollface.png  used on input line 270.
 (pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
  [11
 
 ]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 261.
+Package pdftex.def Info: trollface.png  used on input line 270.
 (pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
  [12
 
 ]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 261.
+Package pdftex.def Info: trollface.png  used on input line 270.
 (pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
  [13
 
-] [14
+]
+File: trollface.png Graphic file (type png)
+<use trollface.png>
+Package pdftex.def Info: trollface.png  used on input line 270.
+(pdftex.def)             Requested size: 130.57454pt x 106.25572pt.
+ [14
 
 ] [15
 
@@ -904,99 +906,99 @@ Package pdftex.def Info: trollface.png  used on input line 261.
 
 ] [19
 
-]
-[20
-
-] [21
+] [20
 
 ]
-<collage.jpg, id=172, 5018.75pt x 3011.25pt>
+[21
+
+] [22
+
+]
+<collage.jpg, id=178, 5018.75pt x 3011.25pt>
 File: collage.jpg Graphic file (type jpg)
 <use collage.jpg>
-Package pdftex.def Info: collage.jpg  used on input line 383.
+Package pdftex.def Info: collage.jpg  used on input line 392.
 (pdftex.def)             Requested size: 435.24405pt x 261.12201pt.
- [22
+ [23
 
  <./collage.jpg>]
-<sad-thing.png, id=179, 327.47343pt x 309.40594pt>
+<sad-thing.png, id=185, 327.47343pt x 309.40594pt>
 File: sad-thing.png Graphic file (type png)
 <use sad-thing.png>
-Package pdftex.def Info: sad-thing.png  used on input line 398.
+Package pdftex.def Info: sad-thing.png  used on input line 407.
 (pdftex.def)             Requested size: 217.62202pt x 205.61545pt.
-<awesome-thing.png, id=180, 384.6872pt x 301.125pt>
+<awesome-thing.png, id=186, 384.6872pt x 301.125pt>
 File: awesome-thing.png Graphic file (type png)
 <use awesome-thing.png>
-Package pdftex.def Info: awesome-thing.png  used on input line 398.
+Package pdftex.def Info: awesome-thing.png  used on input line 407.
 (pdftex.def)             Requested size: 217.62202pt x 170.35188pt.
- [23
+ [24
 
  <./sad-thing.png (PNG copy)> <./awesome-thing.png (PNG copy)>]
 File: sad-thing.png Graphic file (type png)
 <use sad-thing.png>
-Package pdftex.def Info: sad-thing.png  used on input line 398.
+Package pdftex.def Info: sad-thing.png  used on input line 407.
 (pdftex.def)             Requested size: 217.62202pt x 205.61545pt.
 File: awesome-thing.png Graphic file (type png)
 <use awesome-thing.png>
-Package pdftex.def Info: awesome-thing.png  used on input line 398.
+Package pdftex.def Info: awesome-thing.png  used on input line 407.
 (pdftex.def)             Requested size: 217.62202pt x 170.35188pt.
- [24
-
-]
-<lisk-corona.jpg, id=194, 1204.5pt x 804.00375pt>
-File: lisk-corona.jpg Graphic file (type jpg)
-<use lisk-corona.jpg>
-Package pdftex.def Info: lisk-corona.jpg  used on input line 408.
-(pdftex.def)             Requested size: 348.19656pt x 232.41904pt.
  [25
 
- <./lisk-corona.jpg>]
-<viralclimber1.jpeg, id=204, 444.15938pt x 295.85532pt>
-File: viralclimber1.jpeg Graphic file (type jpg)
-<use viralclimber1.jpeg>
-Package pdftex.def Info: viralclimber1.jpeg  used on input line 422.
-(pdftex.def)             Requested size: 348.19656pt x 231.93092pt.
+]
+<lisk-corona.jpg, id=201, 1204.5pt x 804.00375pt>
+File: lisk-corona.jpg Graphic file (type jpg)
+<use lisk-corona.jpg>
+Package pdftex.def Info: lisk-corona.jpg  used on input line 417.
+(pdftex.def)             Requested size: 348.19656pt x 232.41904pt.
  [26
 
- <./viralclimber1.jpeg>]
-[27
+ <./lisk-corona.jpg>]
+<viralclimber1.jpeg, id=210, 444.15938pt x 295.85532pt>
+File: viralclimber1.jpeg Graphic file (type jpg)
+<use viralclimber1.jpeg>
+Package pdftex.def Info: viralclimber1.jpeg  used on input line 431.
+(pdftex.def)             Requested size: 348.19656pt x 231.93092pt.
+ [27
 
-] [28
+ <./viralclimber1.jpeg>]
+[28
+
+] [29
 
 ]
-<alma-star-trails.jpg, id=227, 3685.77pt x 2699.08376pt>
+<alma-star-trails.jpg, id=233, 3685.77pt x 2699.08376pt>
 File: alma-star-trails.jpg Graphic file (type jpg)
 <use alma-star-trails.jpg>
-Package pdftex.def Info: alma-star-trails.jpg  used on input line 468.
+Package pdftex.def Info: alma-star-trails.jpg  used on input line 477.
 (pdftex.def)             Requested size: 217.62202pt x 159.3434pt.
- [29
-
- <./alma-star-trails.jpg>]
-<kep6.png, id=234, 540.0175pt x 504.88625pt>
-File: kep6.png Graphic file (type png)
-<use kep6.png>
-Package pdftex.def Info: kep6.png  used on input line 489.
-(pdftex.def)             Requested size: 217.62202pt x 203.46088pt.
  [30
 
- <./kep6.png>]
-<blackbody-spectrum.png, id=242, 501.875pt x 463.7325pt>
-File: blackbody-spectrum.png Graphic file (type png)
-<use blackbody-spectrum.png>
-Package pdftex.def Info: blackbody-spectrum.png  used on input line 511.
-(pdftex.def)             Requested size: 217.62202pt x 201.08516pt.
+ <./alma-star-trails.jpg>]
+<kep6.png, id=240, 540.0175pt x 504.88625pt>
+File: kep6.png Graphic file (type png)
+<use kep6.png>
+Package pdftex.def Info: kep6.png  used on input line 498.
+(pdftex.def)             Requested size: 217.62202pt x 203.46088pt.
  [31
 
- <./blackbody-spectrum.png>]
-<moonshorty_apollo17_1498.jpg, id=251, 1503.6175pt x 762.85pt>
-File: moonshorty_apollo17_1498.jpg Graphic file (type jpg)
-<use moonshorty_apollo17_1498.jpg>
-Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 522.
-(pdftex.def)             Requested size: 304.6695pt x 154.5694pt.
+ <./kep6.png>]
+<blackbody-spectrum.png, id=249, 501.875pt x 463.7325pt>
+File: blackbody-spectrum.png Graphic file (type png)
+<use blackbody-spectrum.png>
+Package pdftex.def Info: blackbody-spectrum.png  used on input line 520.
+(pdftex.def)             Requested size: 217.62202pt x 201.08516pt.
  [32
 
- <./moonshorty_apollo17_1498.jpg>] [33
+ <./blackbody-spectrum.png>]
+<moonshorty_apollo17_1498.jpg, id=257, 1503.6175pt x 762.85pt>
+File: moonshorty_apollo17_1498.jpg Graphic file (type jpg)
+<use moonshorty_apollo17_1498.jpg>
+Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 531.
+(pdftex.def)             Requested size: 304.6695pt x 154.5694pt.
+ [33
 
-] [34
+ <./moonshorty_apollo17_1498.jpg>] [34
 
 ] [35
 
@@ -1004,10 +1006,10 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 522.
 
 ] [37
 
-]
-[38
+] [38
 
-] [39
+]
+[39
 
 ] [40
 
@@ -1035,10 +1037,10 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 522.
 
 ] [52
 
-]
-[53
+] [53
 
-] [54
+]
+[54
 
 ] [55
 
@@ -1052,6 +1054,8 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 522.
 
 ] [60
 
+] [61
+
 ]
 \tf@nav=\write6
 \openout6 = `lecture1.nav'.
@@ -1062,19 +1066,19 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 522.
 \tf@snm=\write8
 \openout8 = `lecture1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 781.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 781.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 790.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 790.
  (./lecture1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 781.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 781.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 790.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 790.
 Package rerunfilecheck Info: File `lecture1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18272 strings out of 492615
- 346389 string characters out of 6131390
+ 18276 strings out of 492615
+ 346424 string characters out of 6131390
  423740 words of memory out of 5000000
- 21626 multiletter control sequences out of 15000+600000
+ 21628 multiletter control sequences out of 15000+600000
  17329 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,59p,795b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1091,10 +1095,10 @@ sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 ti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on lecture1.pdf (60 pages, 12216742 bytes).
+Output written on lecture1.pdf (61 pages, 12218108 bytes).
 PDF statistics:
- 519 PDF objects out of 1000 (max. 8388607)
- 412 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
+ 526 PDF objects out of 1000 (max. 8388607)
+ 418 compressed objects within 5 object streams
+ 123 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
