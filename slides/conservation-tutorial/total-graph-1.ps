@@ -1,0 +1,470 @@
+%!
+%%Creator: shemhazai:wfreeman(Walter,,,)
+%%Title: Unix plot file
+%%CreationDate: Mon Oct  9 21:31:36 2017
+%%DocumentFonts: Courier
+%%EndComments
+%%BoundingBox: 0 0 4096 4096
+% Start of psplot.pro -- prolog for plot(5) translator
+% Copyright (c) 1984,1985,1987 Adobe Systems Incorporated. All Rights Reserved. 
+%              RESTRICTED RIGHTS LEGEND
+% Use, duplication or disclosure by the Government is subject to
+% restrictions as set forth in subdivision (b)(3)(ii) of the Rights in
+% Technical Data and Computer Software Clause at 252.227-7013.
+% Name of Contractor: Adobe Systems Incorporated
+% Address:  1870 Embarcadero Road
+%	  Palo Alto, California  94303
+% RCS: $Header: psplot.pro,v 2.2 87/11/17 16:41:06 byron Rel $
+save 50 dict begin /psplot exch def
+/StartPSPlot
+   {newpath 0 0 moveto 8 setlinewidth 0 setgray 1 setlinecap
+    /imtx matrix currentmatrix def /dmtx matrix defaultmatrix def
+    /fnt /Courier findfont def /smtx matrix def fnt 8 scalefont setfont}def
+/solid {{}0}def
+/dotted	{[2 nail 3.5 nail ] 0}def
+/longdashed {[10 nail] 0}def
+/shortdashed {[6 nail] 0}def
+/dotdashed {[2 nail 6 nail 10 nail 6 nail] 0}def
+/disconnected {{}0}def
+/min {2 copy lt{pop}{exch pop}ifelse}def
+/max {2 copy lt{exch pop}{pop}ifelse}def
+/len {dup mul exch dup mul add sqrt}def
+/nail {0 imtx dtransform len 0 idtransform len}def
+
+/m {newpath moveto}def
+/n {lineto currentpoint stroke moveto}def
+/p {newpath moveto gsave 1 setlinecap solid setdash
+    dmtx setmatrix .4 nail setlinewidth
+    .05 0 idtransform rlineto stroke grestore}def
+/l {moveto lineto currentpoint stroke moveto}def
+/t {smtx currentmatrix pop imtx setmatrix show smtx setmatrix}def
+/a {gsave newpath /y2 exch def /x2 exch def 
+    /y1 exch def /x1 exch def /yc exch def /xc exch def
+    /r x1 xc sub dup mul y1 yc sub dup mul add sqrt
+       x2 xc sub dup mul y2 yc sub dup mul add sqrt add 2 div def
+    /ang1 y1 yc sub x1 xc sub atan def
+    /ang2 y2 yc sub x2 xc sub atan def
+    xc yc r ang1 ang2 arc stroke grestore}def
+/c {gsave newpath 0 360 arc stroke grestore}def
+/e {gsave showpage grestore newpath 0 0 moveto}def
+/f {load exec setdash}def
+/s {/ury exch def /urx exch def /lly exch def /llx exch def
+    imtx setmatrix newpath clippath pathbbox newpath
+    /dury exch def /durx exch def /dlly exch def /dllx exch def
+    /md durx dllx sub dury dlly sub min def
+    /Mu urx llx sub ury lly sub max def
+    36 144 translate .8 .8 scale
+    dllx dlly translate md Mu div dup scale llx neg lly neg translate}def
+/EndPSPlot {clear psplot end restore}def
+StartPSPlot
+%%EndProlog
+%%Page: 1 1
+0 0 4096 4096 s
+/solid f
+1300 925 m
+1300 1900 n
+3900 1900 n
+3900 925 n
+1300 925 n
+2600 844 m
+2591 877 m
+2591 814 n
+2594 877 m
+2594 814 n
+2573 877 m
+2570 859 n
+2570 877 n
+2615 877 n
+2615 859 n
+2612 877 n
+2582 814 m
+2603 814 n
+2657 844 m
+2636 877 m
+2633 874 n
+2636 871 n
+2639 874 n
+2636 877 n
+2636 856 m
+2636 814 n
+2639 856 m
+2639 814 n
+2627 856 m
+2639 856 n
+2627 814 m
+2648 814 n
+2690 844 m
+2669 856 m
+2669 814 n
+2672 856 m
+2672 814 n
+2672 847 m
+2678 853 n
+2687 856 n
+2693 856 n
+2702 853 n
+2705 847 n
+2705 814 n
+2693 856 m
+2699 853 n
+2702 847 n
+2702 814 n
+2705 847 m
+2711 853 n
+2720 856 n
+2726 856 n
+2735 853 n
+2738 847 n
+2738 814 n
+2726 856 m
+2732 853 n
+2735 847 n
+2735 814 n
+2660 856 m
+2672 856 n
+2660 814 m
+2681 814 n
+2693 814 m
+2714 814 n
+2726 814 m
+2747 814 n
+2789 844 m
+2765 838 m
+2801 838 n
+2801 844 n
+2798 850 n
+2795 853 n
+2789 856 n
+2780 856 n
+2771 853 n
+2765 847 n
+2762 838 n
+2762 832 n
+2765 823 n
+2771 817 n
+2780 814 n
+2786 814 n
+2795 817 n
+2801 823 n
+2798 838 m
+2798 847 n
+2795 853 n
+2780 856 m
+2774 853 n
+2768 847 n
+2765 838 n
+2765 832 n
+2768 823 n
+2774 817 n
+2780 814 n
+2846 844 m
+2894 844 m
+2915 847 m
+2924 841 n
+2915 835 n
+2906 856 m
+2921 841 n
+2906 826 n
+2870 841 m
+2921 841 n
+2600 844 m
+/dotted f
+1820 925 m
+1820 1900 n
+2860 925 m
+2860 1900 n
+3380 925 m
+3380 1900 n
+/solid f
+1187 1055 m
+1250 1055 n
+1187 1058 m
+1250 1058 n
+1187 1037 m
+1205 1034 n
+1187 1034 n
+1187 1079 n
+1205 1079 n
+1187 1076 n
+1250 1046 m
+1250 1067 n
+1220 1121 m
+1208 1112 m
+1211 1103 n
+1217 1097 n
+1226 1094 n
+1232 1094 n
+1241 1097 n
+1247 1103 n
+1250 1112 n
+1250 1118 n
+1247 1127 n
+1241 1133 n
+1232 1136 n
+1226 1136 n
+1217 1133 n
+1211 1127 n
+1208 1118 n
+1208 1112 n
+1208 1112 m
+1211 1106 n
+1217 1100 n
+1226 1097 n
+1232 1097 n
+1241 1100 n
+1247 1106 n
+1250 1112 n
+1250 1118 m
+1247 1124 n
+1241 1130 n
+1232 1133 n
+1226 1133 n
+1217 1130 n
+1211 1124 n
+1208 1118 n
+1220 1181 m
+1187 1160 m
+1238 1160 n
+1247 1163 n
+1250 1169 n
+1250 1175 n
+1247 1181 n
+1241 1184 n
+1187 1163 m
+1238 1163 n
+1247 1166 n
+1250 1169 n
+1208 1151 m
+1208 1175 n
+1220 1226 m
+1214 1205 m
+1217 1205 n
+1217 1202 n
+1214 1202 n
+1211 1205 n
+1208 1211 n
+1208 1223 n
+1211 1229 n
+1214 1232 n
+1220 1235 n
+1241 1235 n
+1247 1238 n
+1250 1241 n
+1214 1232 m
+1241 1232 n
+1247 1235 n
+1250 1241 n
+1250 1244 n
+1220 1232 m
+1223 1229 n
+1226 1211 n
+1229 1202 n
+1235 1199 n
+1241 1199 n
+1247 1202 n
+1250 1211 n
+1250 1220 n
+1247 1226 n
+1241 1232 n
+1226 1211 m
+1229 1205 n
+1235 1202 n
+1241 1202 n
+1247 1205 n
+1250 1211 n
+1220 1286 m
+1187 1265 m
+1250 1265 n
+1187 1268 m
+1250 1268 n
+1187 1256 m
+1187 1268 n
+1250 1256 m
+1250 1277 n
+1220 1319 m
+1220 1367 m
+1226 1343 m
+1226 1379 n
+1220 1379 n
+1214 1376 n
+1211 1373 n
+1208 1367 n
+1208 1358 n
+1211 1349 n
+1217 1343 n
+1226 1340 n
+1232 1340 n
+1241 1343 n
+1247 1349 n
+1250 1358 n
+1250 1364 n
+1247 1373 n
+1241 1379 n
+1226 1376 m
+1217 1376 n
+1211 1373 n
+1208 1358 m
+1211 1352 n
+1217 1346 n
+1226 1343 n
+1232 1343 n
+1241 1346 n
+1247 1352 n
+1250 1358 n
+1220 1424 m
+1208 1403 m
+1250 1403 n
+1208 1406 m
+1250 1406 n
+1217 1406 m
+1211 1412 n
+1208 1421 n
+1208 1427 n
+1211 1436 n
+1217 1439 n
+1250 1439 n
+1208 1427 m
+1211 1433 n
+1217 1436 n
+1250 1436 n
+1208 1394 m
+1208 1406 n
+1250 1394 m
+1250 1415 n
+1250 1427 m
+1250 1448 n
+1220 1490 m
+1226 1466 m
+1226 1502 n
+1220 1502 n
+1214 1499 n
+1211 1496 n
+1208 1490 n
+1208 1481 n
+1211 1472 n
+1217 1466 n
+1226 1463 n
+1232 1463 n
+1241 1466 n
+1247 1472 n
+1250 1481 n
+1250 1487 n
+1247 1496 n
+1241 1502 n
+1226 1499 m
+1217 1499 n
+1211 1496 n
+1208 1481 m
+1211 1475 n
+1217 1469 n
+1226 1466 n
+1232 1466 n
+1241 1469 n
+1247 1475 n
+1250 1481 n
+1220 1547 m
+1208 1526 m
+1250 1526 n
+1208 1529 m
+1250 1529 n
+1226 1529 m
+1217 1532 n
+1211 1538 n
+1208 1544 n
+1208 1553 n
+1211 1556 n
+1214 1556 n
+1217 1553 n
+1214 1550 n
+1211 1553 n
+1208 1517 m
+1208 1529 n
+1250 1517 m
+1250 1538 n
+1220 1598 m
+1208 1586 m
+1211 1580 n
+1214 1577 n
+1220 1574 n
+1226 1574 n
+1232 1577 n
+1235 1580 n
+1238 1586 n
+1238 1592 n
+1235 1598 n
+1232 1601 n
+1226 1604 n
+1220 1604 n
+1214 1601 n
+1211 1598 n
+1208 1592 n
+1208 1586 n
+1211 1580 m
+1217 1577 n
+1229 1577 n
+1235 1580 n
+1235 1598 m
+1229 1601 n
+1217 1601 n
+1211 1598 n
+1214 1601 m
+1211 1604 n
+1208 1610 n
+1211 1610 n
+1211 1604 n
+1232 1577 m
+1235 1574 n
+1241 1571 n
+1244 1571 n
+1250 1574 n
+1253 1583 n
+1253 1598 n
+1256 1607 n
+1259 1610 n
+1244 1571 m
+1247 1574 n
+1250 1583 n
+1250 1598 n
+1253 1607 n
+1259 1610 n
+1262 1610 n
+1268 1607 n
+1271 1598 n
+1271 1580 n
+1268 1571 n
+1262 1568 n
+1259 1568 n
+1253 1571 n
+1250 1580 n
+1220 1655 m
+1208 1631 m
+1250 1649 n
+1208 1634 m
+1244 1649 n
+1208 1667 m
+1250 1649 n
+1262 1643 n
+1268 1637 n
+1271 1631 n
+1271 1628 n
+1268 1625 n
+1265 1628 n
+1268 1631 n
+1208 1625 m
+1208 1643 n
+1208 1655 m
+1208 1673 n
+1220 1712 m
+1220 1760 m
+1217 1781 m
+1223 1790 n
+1229 1781 n
+1208 1772 m
+1223 1787 n
+1238 1772 n
+1223 1736 m
+1223 1787 n
+1 1 m
+e
+%%Trailer
+EndPSPlot
