@@ -5,6 +5,9 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
+<h2>
+<a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
+</h2>
 **Announcements:**
 
 Welcome to Astronomy 101! This website will have everything related to our class on it; nothing will be posted on Blackboard other than your grades.

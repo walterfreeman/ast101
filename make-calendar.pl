@@ -1,4 +1,4 @@
-open Sched,"schedule5.csv";
+open Sched,"schedule.csv";
 
 <Sched>;
 
@@ -13,7 +13,7 @@ while (<Sched>)
   
   unless ($topic[$line] =~ /EXAM/)
   {
-    $topic[$line]="<a href=\"slides/lecture$day.pdf\">$topic[$line]</a>";
+    $topic[$line]="<a href=\"slides/lecture$day/lecture$day.pdf\">$topic[$line]</a>";
     $day++;
   }
   $sec6[$line]=$w[2];
@@ -39,8 +39,10 @@ use_math: true
 ---
 
     
-This calendar is tentative and might change based on your input. Exam dates will not change, but topics might be adjusted if the calendar changes.
-  
+This calendar is tentative and might change based on your input. 
+
+Exam dates may change during the first week of class, but will not change after that. Topics might be adjusted if the calendar changes.
+
 You should read the pages listed in the textbook **before** class. The pages in the tutorial will be covered in that day's class.
 
 

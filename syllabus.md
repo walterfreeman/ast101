@@ -188,21 +188,23 @@ class; please let us know if something is going on that requires special accommo
 ### Grading and Exams 
 
 
+The dates of the exams posted here may change during the first week of class, but will be fixed after that.
+
 | Item       |            Date           | Points           |
 |------------|:-------------------------:|-----------------:|
 | Paper 1    | TBA, around 15 October    |          10+     |
 | Paper 2    | TBA, around 15 November   |          10+     |
 | Final project| TBA, during finals week |          10+     |
-| Exam 1     |        23 September       |          15      |
-| Exam 2     |        14 October         |          15      |
-| Exam 3     |        5 November         |          15      |
+| Exam 1     |        24 September       |          15      |
+| Exam 2     |        17 October         |          15      |
+| Exam 3     |        7 November         |          15      |
 | Final Exam |  10 December              |          30      |
 | Labs       |   Throughout the semester | 25               |
 | Quizzes    | Throughout the semester | 15 |
 
-uctors before the end of the second week of classes. An online notification process is available for students in My Slice / StudentServices The lowest 15 points of your exam grades will be dropped. (That is, I will drop your lowest exam grade, unless the final is your lowest exam grade; in that case, the final will only count for 15 points.)
+The lowest 15 points of your exam grades will be dropped. (That is, I will drop your lowest exam grade, unless the final is your lowest exam grade; in that case, the final will only count for 15 points.)
 
-Your lowest lab grade will also be dropped.
+Your lowest lab grade will also be dropped. (This is ordinarily used to allow students to miss one lab without penalty.)
 
 Your score will be converted to a percentage and your final grade will be determined from your score as follows:
 
