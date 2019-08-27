@@ -7,7 +7,7 @@ use_math: true
 ---
 
     
-This calendar is tentative and might change based on your input. 
+This calendar is tentative and might change based on your input. (We will likely add a guest lecture at some point.)
 
 Exam dates may change during the first week of class, but will not change after that. Topics might be adjusted if the calendar changes.
 
