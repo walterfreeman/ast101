@@ -19,7 +19,7 @@ If you're having trouble installing and running Stellarium on your Mac, [here ar
 Before next Tuesday's class, you should:
 
 * Read the [syllabus](syllabus.html)
-* Do the [first prelab](labs/prelab1.pdf), or arrange to do it before your first lab
+* Do the [first prelab](labs/lab1prelab.pdf), or arrange to do it before your first lab
 * Join the [course Slack channel](https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk) (and post memes to #ast101memes :) )
 * Arrange to get the textbooks if you haven't already
 
