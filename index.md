@@ -17,7 +17,7 @@ Labs start this week! Remember, you need to do the [prelab](labs/lab1prelab.pdf)
 If you're having trouble installing and running Stellarium on your Mac, [here are some instructions](stellarium-mac.html).
 
 
-Current lecture slides: <a href="slides/lecture2/lecture3.pdf">The daily motion of the sky</a><br><br> 
+Current lecture slides: <a href="slides/lecture3/lecture3.pdf">The daily motion of the sky</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
