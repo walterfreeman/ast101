@@ -5,25 +5,19 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-<h2>
+<h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
-</h2>
+</h4>
 **Announcements:**
 
 Welcome to Astronomy 101! This website will have everything related to our class on it; nothing will be posted on Blackboard other than your grades.
 
-Labs start next week! Remember, you need to do the [prelab](labs/lab1prelab.pdf) before you come to lab.
+Labs start this week! Remember, you need to do the [prelab](labs/lab1prelab.pdf) before you come to lab.
 
 If you're having trouble installing and running Stellarium on your Mac, [here are some instructions](stellarium-mac.html).
 
-Before next Tuesday's class, you should:
 
-* Read the [syllabus](syllabus.html)
-* Do the [first prelab](labs/lab1prelab.pdf), or arrange to do it before your first lab
-* Join the [course Slack channel](https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk) (and post memes to #ast101memes :) )
-* Arrange to get the textbooks if you haven't already
-
-Current lecture slides: <a href="slides/lecture2/lecture2.pdf">The celestial sphere</a><br><br> 
+Current lecture slides: <a href="slides/lecture2/lecture3.pdf">The daily motion of the sky</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
