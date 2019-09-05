@@ -13,6 +13,8 @@ Note that the prelab for Lab 1 might change slightly up until Thursday.
 <a href="labs/lab1prelab.pdf">Lab 1 Prelab</a><br>
 <a href="labs/lab1.pdf">Lab 1</a><br><br>
 
+<a href="labs/lab2prelab.pdf">Lab 2 Prelab</a><br>
+<a href="labs/lab2.pdf">Lab 2</a><br><br>
 
 ---
 <!---
@@ -36,7 +38,6 @@ Note that the prelab for Lab 1 might change slightly up until Thursday.
 <a href="labs/lab6-prelab.pdf">Lab 6 Prelab</a><br><br>
 <a href="labs/lab5-prelab.pdf">Lab 5 Prelab</a><br><br>
 <a href="labs/lab4-prelab.pdf">Lab 4 Prelab</a><br><br>
-<a href="./labs/lab2prelab-figures.pdf">Lab 2 Prelab</a><br>
 <a href="lab2.html">Lab 2</a><br><br>
 
 

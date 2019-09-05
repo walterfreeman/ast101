@@ -15,11 +15,23 @@ Welcome to Astronomy 101! This website will have everything related to our class
 Labs start this week! Remember, you need to do the [prelab](labs/lab1prelab.pdf) before you come to lab.
 
 If you're having trouble installing and running Stellarium on your Mac, [here are some instructions](stellarium-mac.html).
+You can also do everything you need on the web version; the interface is just a little different.
 
+---
 
-Current lecture slides: <a href="slides/lecture3/lecture3.pdf">The daily motion of the sky</a><br><br> 
+Current lecture slides: <a href="slides/lecture4/lecture4.pdf">The yearly motion of the sky</a><br><br> 
 
 [Forgot your response cards?](cards.html)
+
+---
+
+Pending ask-the-physicist questions:
+
+Cal Parker asks: Does the universe have an edge?
+
+<br>
+
+Quincy Gray asks, in brief: would it be possible for life to be based on elements other than carbon, and what would it look like?
 
 ---
 
