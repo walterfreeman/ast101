@@ -18,7 +18,7 @@ category: top
 
 | **Section**    | **Instructor** | **Time** |
 |:----------:|:-------------:|:----:|
-|M024|Evangelos Nastas		 |Monday 8:00AM-9:20AM |
+|M024|Saumik Banerjee 		 |Monday 8:00AM-9:20AM |
 |M003|Saumik Banerjee		 |Monday 9:30AM-10:50AM |
 |M004|Saumik Banerjee		 |Monday 11:00AM-12:20PM |
 |M005|Saumik Banerjee		 |Monday 12:45PM-2:05PM |
