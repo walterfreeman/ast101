@@ -15,7 +15,7 @@ You can also do everything you need on the web version; the interface is just a 
 
 ---
 
-Current lecture slides: <a href="slides/lecture5/lecture5.pdf">The yearly motion of the sky</a><br><br> 
+Current lecture slides: <a href="slides/lecture5/lecture5.pdf">Solar and sidereal days; the seasons</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
