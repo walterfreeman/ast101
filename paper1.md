@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Paper 1
+category: top
 permalink: paper1.html 
 use_math: true
 ---
 
 ## Writing Assignment 1: Calendars and the Sky
 
-**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. It's due October 1 at 5PM. But you should read all of this, since it has important information.**
+**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. It's due October 2 at 5PM. But you should read all of this, since it has important information.**
 
 ---
 
@@ -17,16 +18,11 @@ Choose a historical or fictional culture which had a reasonably sophisticated wa
 any of the Buddhist calendars used in Southeast Asia; the Hijra calendar (used by many Muslims); the Hebrew calendar; the Korean calendar; any of the traditional Japanese calendars; the ancient Egyptian calendar; the traditional Ethiopian calendar;
 the pagan/neopagan Wheel of the Year; the Zoroastrian calendar. If you choose Mayan calendar, be aware that it is somewhat complicated, and there is only speculation as to what the tzolk'in might be used for. Give me that speculation and discuss its astronomical implications.
 
-If you have a background in a culture that uses a different calendar from the Gregorian calendar, you may write about your own culture's calendar (and teach me something I didn't know!)
+If you have a background in a particular culture, you may write about your own culture's calendar (and teach me something I didn't know!)
 
-Alternatively, you may choose to write about the reckoning of time used in any major work of speculative fiction (science fiction, fantasy). Possible choices include:
+Alternatively, you may choose to write about the reckoning of time used in any major work of speculative fiction (science fiction, fantasy), including the concept of "astrological ages"; do they themselves form a very long calendar? 
 
-* the calendar used by the Hobbits in *Lord of the Rings*, detailed in the appendices to *Return of the King* (I can get you a copy if you don't have one, but I can't post it here). 
-* *Game of Thrones*. See below.
-* Any other work of fiction you are familiar with that takes place on a non-Earth cosmology. There are likely some very interesting calendars used in science fiction settings involving interplanetary/interstellar travel.
-* the concept of "astrological ages"; do they themselves form a very long calendar?
-
-You should **see the section on specific calendars**, at the bottom, for some modifications to the assignment depending on your choice.
+You should **see the section on specific calendars**, at the bottom, for some modifications to the assignment depending on your choice. **Note that if you choose the Chinese, Jewish, or Islamic calendars, there is a [slightly different assignment](#common)**.
 
 For example, the **Gregorian calendar**, the calendar we use, has the following properties:
 
@@ -94,7 +90,7 @@ But, ultimately, you must understand everything you write, and have composed the
 ### When is this due?
 
 Please either give your papers to your lab TA's or place them in their mailboxes, before **5PM Monday, October 1**. Please print your name, lab section number, and TA's name on your paper. The mailboxes are located in front of the Main Office, Physics Building 201. You must also submit an electronic copy by email to suast101projects@gmail.com.
-Please put your TA's name and "Calendar paper" in the subject line of your email. 
+Please put your TA's name and "Paper 1" in the subject line of your email. 
 
 ---
 
@@ -109,8 +105,7 @@ encyclopedia) and what it is not (the authoritative writing of experts.)
 
 ### Modifications for particular calendars
 
-* **The ancient Egyptian calendar**: We think that the new year in the Egyptian calendar was related to the "heliacal rising" of the star Sirius. What does that mean? Is the Egyptian year the exact same length as the modern year? Consider carefully
-the effect of the "precession of the equinoxes", the fact that the tilt direction of the Earth's rotation changes slowly over thousands of years.
+<a name="common"></a>
 
 * **The Jewish calendar or the Chinese calendar**: Both of these calendars are very similar, and are based on something called the "Metonic cycle" in the Western world. They are called *lunisolar calendars* because they try to accurately depict
 both the season and the phase of the moon in their timekeeping. If you write about either of these, your paper should discuss questions like:
@@ -123,6 +118,9 @@ both the season and the phase of the moon in their timekeeping. If you write abo
 * **The Islamic calendar**: Compare the Islamic calendar to the Jewish calendar. The Jewish calendar uses intercalation, but the Islamic calendar does not. What are the consequences of this? As inspiration, compare the (Gregorian) dates of
 Rosh Hashanah and Eid al-Fitr over the last decade. Relate the pattern you see to the fact that the Jewish year sometimes has an intercalary month, but the Islamic year does not. (You can find these 
 tabulated online -- see <https://www.timeanddate.com/holidays/us/eid-al-fitr#obs> for Eid al-Fitr and <https://www.timeanddate.com/holidays/us/rosh-hashana#obs> for Rosh Hashanah.
+
+* **The ancient Egyptian calendar**: We think that the new year in the Egyptian calendar was related to the "heliacal rising" of the star Sirius. What does that mean? Is the Egyptian year the exact same length as the modern year? Consider carefully
+the effect of the "precession of the equinoxes", the fact that the tilt direction of the Earth's rotation changes slowly over thousands of years.
 
 * **Lord of the Rings**: What are these funny *Yule* and *Lithe* things? Why are they there, what function do they serve in the Hobbits' calendar (which is otherwise pretty normal), and why do they have those names? Why is Lithe sometimes extended? Tolkien wanted to write "a mythology for the British people", blending both their Christian and pagan heritage. If the Hobbits are the Britons of Middle-Earth, does this fit?
 Additionally, if you are familiar with these elements from the setting, you might address in addition or instead: how do you expect the Star of E&auml;rendil to move in the night sky? Do you expect the Undying Lands (Tol Eress&euml;a and Valinor) to experience days, nights, and seasons in the same

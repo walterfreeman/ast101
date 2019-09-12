@@ -332,10 +332,11 @@ int main(int argc, char **argv)
   int phantomflag=0;
   while (1)
   {
-    globe(zv, zhat*0.1, xhat,1,1,0,13);
+ //   globe(zv, zhat*0.1, xhat,1,1,0,13);
     printf("C 1 0 0\n");
     ring(zv,1,zhat);
-    lit_globe(earth, zhat*0.1, earth_or, rdark,gdark,bdark,rlit,glit,blit,13);
+    printf("c3 %e %e %e %e\n",earth.x, earth.y, earth.z, 0.05);
+//    lit_globe(earth, zhat*0.1, earth_or, rdark,gdark,bdark,rlit,glit,blit,13);
     printf("F\n");
     rotate_z(earth, 1.0/sec_per_year*2*M_PI/60);
     ang += 1.0/sec_per_year*2*M_PI/60;
@@ -386,47 +387,7 @@ int main(int argc, char **argv)
    
    ring(zv,6,zhat); 
 
-   for (int i=0;i<12;i++)
-   {
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.5 0.3 0.3\n");
-     printf("c3 %e %e %e0.4\n",Vc.x,Vc.y,Vc.z);
-     rotate_z(Vc,M_PI/6);
-   }
-   Vc=zv; Vc.x=Rconst;
 
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nTaurus\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nGemini\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nCancer\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nLeo\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nVirgo\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nLibra\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nScor.\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nSagit.\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nCapri.\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nAqua.\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nPisces\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-     if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
-   printf("t3 %e %e %e\nAries\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
-
-     if (lines)
-     {
-     printf("C 0.5 0.5 1\n");
-     lin(earth,earth*10);
-
-     printf("C 0.6 0.6 0\n");
-     lin(earth,earth*-10);
-}
   }
 }
 

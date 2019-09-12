@@ -10,12 +10,12 @@ title: Welcome to Astronomy 101!
 </h4>
 **Announcements:**
 
-If you're having trouble installing and running Stellarium on your Mac, [here are some instructions](stellarium-mac.html).
-You can also do everything you need on the web version; the interface is just a little different.
+
+I am a bit behind revising Lab 3. The prelab will be done tonight; the lab will be done tomorrow morning.
 
 ---
 
-Current lecture slides: <a href="slides/lecture5/lecture5.pdf">Solar and sidereal days; the seasons</a><br><br> 
+Current lecture slides: <a href="slides/lecture5/lecture6.pdf">The seasons</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
@@ -25,7 +25,7 @@ Pending ask-the-physicist questions:
 
 Cal Parker asks: Does the universe have an edge?
 
-Dmytro Kuchirka asks: Pardon me for writing so late, but you have your notifications turned off so I hope I won't bother you too much. I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience?
+Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience?
 
 
 <br>

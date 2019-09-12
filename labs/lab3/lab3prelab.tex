@@ -1,0 +1,100 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 3: Phases of the Moon 
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+\hrule
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Please note that prelabs must be completed \underline{\textbf{***BEFORE***}} you arrive at your lab section, and your TA will verify that you have done so. If you have not completed your prelab before arriving you will be asked to leave, and will need to either complete your prelab in time to begin your lab, or find a different section. If you do neither, you will receive a zero for the lab!
+
+\subsection*{Objective}
+
+In this lab, we'll be working through some exercises involving predicting phases of the moon and what time of day the moon 
+rises and sets. In the prelab, we want you to become familiar with the diagrams we'll use to reason through this.
+
+Don't be discouraged by the large number of pages here; most of them are diagrams for you to fill out.
+
+\subsection*{Basic ideas}
+
+\begin{enumerate}
+\item The Moon travels around the Earth about once every 27 days (about every four weeks).
+\item The Sun always lights up half of the Moon -- the half that faces the Sun.
+\item From Earth, we can only see half of the Moon -- the half that faces the Earth.
+\item What phase of the Moon we see is determined by {\bf what portion of the half we can see is illuminated by the Sun}.
+\end{enumerate}
+
+

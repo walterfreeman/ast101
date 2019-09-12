@@ -1,0 +1,15 @@
+#w 1.2 x -10 14 y -10 10
+arrow -9 -8 -6 -8
+arrow -9 -4 -6 -4
+arrow -9 -0 -6  0
+arrow -9  4 -6  4
+arrow -9  8 -6  8
+-9 1 "Sunlight"
+#m 2
+circ 5 0 8
+#m 1 cs 0.8 
+4 9.5 "Moon's orbit"
+4.45 0 "Earth"
+circ 5 0 1
+circ 5 0 1.02
+circ 5 0 0.98

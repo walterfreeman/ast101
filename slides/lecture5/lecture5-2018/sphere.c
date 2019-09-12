@@ -281,7 +281,7 @@ int main(int argc, char **argv)
   int axis=1;
   if (argc <= 1)
   {
-    fprintf(stderr, "Usage: <this> <sec per day> <sec per year> <axial tilt> <ghost after n sidereal days> <stop after n sidereal days> <draw axis?> <draw lines?>\n"); 
+    fprintf(stderr, "Usage: <this> <sec per day> <sec per year> <axial tilt> <ghost after n sidereal days> <stop after n sidereal days> <draw axis?> <draw lines?> <phase angle (0=Yule 180=Lithe)>\n"); 
     exit(0);
   }
   
@@ -291,6 +291,7 @@ int main(int argc, char **argv)
   phantom_after=atof(argv[4]);
   stop_after=atof(argv[5]);
   axis=atoi(argv[6]);
+  double phase=atof(argv[8]);
   int lines=atoi(argv[7]);
 
   printf("!%.3f seconds per day\n",sec_per_day);
@@ -310,21 +311,23 @@ int main(int argc, char **argv)
   vector zhat=zv; zhat.z=1;
   vector xhat=zv; xhat.x=1;
   vector yhat=zv; yhat.y=1;
- 
   vector earth_or;
   earth_or.x=-cos(axialtilt/180.*M_PI);
   earth_or.y=0;
   earth_or.z=sin(axialtilt/180.*M_PI);
- 
+   
   vector rotax;
   rotax.x=sin(axialtilt/180.*M_PI);
   rotax.z=cos(axialtilt/180.*M_PI);
   rotax.y=0;
 
+  vector obs;
+
   vector earth;
   earth.x=1;
   earth.y=0;
   earth.z=0; 
+  rotate_z(earth,phase*M_PI/180.);
   double rarrow=1, barrow=1, garrow=1;
   phantom_init_earth=earth;
   phantom_init_earth_or=earth_or;
@@ -335,7 +338,7 @@ int main(int argc, char **argv)
     globe(zv, zhat*0.1, xhat,1,1,0,13);
     printf("C 1 0 0\n");
     ring(zv,1,zhat);
-    lit_globe(earth, zhat*0.1, earth_or, rdark,gdark,bdark,rlit,glit,blit,13);
+    lit_globe(earth, rotax*0.1, earth_or, rdark,gdark,bdark,rlit,glit,blit,25);
     printf("F\n");
     rotate_z(earth, 1.0/sec_per_year*2*M_PI/60);
     ang += 1.0/sec_per_year*2*M_PI/60;
@@ -347,12 +350,14 @@ int main(int argc, char **argv)
 
     if (phantom_after)
     {
-      lit_globe(phantom_init_earth, zhat*0.1,phantom_init_earth_or, 0.3,0.2,0.1,0.6,0.6,0.6,13);
+      lit_globe(phantom_init_earth, rotax*0.1,phantom_init_earth_or, 0.3,0.2,0.1,0.6,0.6,0.6,13);
       globe(phantom_init_earth+phantom_init_earth_or*0.1,zhat*0.04, phantom_init_earth_or,0.5,0.5,0,13);
       arrow(phantom_init_earth+phantom_init_earth_or*0.1,phantom_init_earth_or*0.3,1,1,1);
-      if (axis) arrow(earth+rotax*0.1,rotax*0.3,0,0.5,0);
-    }  
-
+      if (axis) 
+      {
+	      arrow(earth+rotax*0.1,rotax*0.3,0,0.5,0);
+      }  
+    }
     if (ang2/(2*M_PI) > phantom_after && phantomflag==0) 
     {
       phantom_earth_or=earth_or; phantom_earth=earth; phantomflag=1;
@@ -360,7 +365,7 @@ int main(int argc, char **argv)
 
     if (ang2/(2*M_PI) > phantom_after && phantom_after)
     {
-      lit_globe(phantom_earth, zhat*0.1,phantom_earth_or, 0.5,0.2,0.2,1,0.5,0.5,8);
+      lit_globe(phantom_earth, rotax*0.1,phantom_earth_or, 0.5,0.2,0.2,1,0.5,0.5,8);
       globe(phantom_earth+phantom_earth_or*0.1,zhat*0.04, phantom_earth_or,0.3,0.1,0,6);
       arrow(phantom_earth+phantom_earth_or*0.1,phantom_earth_or*0.3,1,0.5,0.5);
       if (axis) arrow(earth+rotax*0.1,rotax*0.3,0,0.5,0);
@@ -371,16 +376,32 @@ int main(int argc, char **argv)
       rlit=0.0;glit=1;blit=0;rdark=0;gdark=0.4;bdark=0;
       rarrow=0.6; garrow=0.6; barrow=1;
     }
+    obs=sin(0.8)*rotax + cos(0.8)*earth_or;
+    // obs=earth_or;
 
-// draw observer
-    globe(earth+earth_or*0.1,zhat*0.04, earth_or,1,1,0,6);
+   int tod;
+   if (obs*earth < 0) tod=1; else tod=0;
+   
+
+  // draw observer
+    if (tod==1) 
+      globe(earth+obs*0.11,rotax*0.01, earth_or,1,1,0,6);
+    else 
+      globe(earth+obs*0.11,rotax*0.01, earth_or,0.4,0.4,0,6);
 // draw arrow in direction of observer
-    arrow(earth+earth_or*0.1,earth_or*0.3,rarrow,garrow,barrow);
+    if (tod==1) 
+      arrow(earth+obs*0.11,obs*0.3,rarrow,garrow,barrow);
+    else
+      arrow(earth+obs*0.11,obs*0.3,rarrow*0.8,garrow*0.5,barrow*0.2);
+       
 // draw rotation axis
     if (axis) arrow(earth+rotax*0.1,rotax*0.3,0,1,0);
 
 // write constellation names at r=Rconst 
    
+
+  if (lines)
+   {
    vector Vc=zv;
    Vc.x=6; 
    
@@ -419,8 +440,7 @@ int main(int argc, char **argv)
      if (earth_or * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.7 0.5 0.5\n");
    printf("t3 %e %e %e\nAries\n",Vc.x,Vc.y,Vc.z); rotate_z(Vc,M_PI/6.);
 
-     if (lines)
-     {
+     
      printf("C 0.5 0.5 1\n");
      lin(earth,earth*10);
 
