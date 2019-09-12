@@ -62,9 +62,10 @@ if ($bisect)
 {
   printf("#cm 1\n");
   printf("line 5 0 $moonx $moony\n");
-  for ($s = 0; $s < 0.8; $s += 0.1)
+  for ($s = 0; $s > -0.8; $s -= 0.1)
   {
     $r = sqrt(0.8*0.8 - $s*$s);
+    $r *= 3 if $s == 0;
     $x1 = -$s*cos($moonloc) - $r*sin($moonloc);
     $y1 = -$s*sin($moonloc) + $r*cos($moonloc);
     $x2 = -$s*cos($moonloc) + $r*sin($moonloc);
