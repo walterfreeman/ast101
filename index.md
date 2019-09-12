@@ -15,6 +15,8 @@ I am a bit behind revising Lab 3. The prelab will be done tonight; the lab will 
 
 ---
 
+Here is last year's <a href="exam1.pdf">first exam</a>.
+
 Current lecture slides: <a href="slides/lecture6/lecture6.pdf">The seasons</a><br><br> 
 
 [Forgot your response cards?](cards.html)
