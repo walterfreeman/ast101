@@ -46,6 +46,14 @@ while (@ARGV)
     $obsang = $tod/24 * 2 * 3.14159;
     printf "stickfig %e %e %e %e\n",5+1*cos($obsang),1*sin($obsang),5+1.5*cos($obsang),1.5*sin($obsang);
   }
+  if ($a eq "timeall")
+  {
+    for ($tod=0; $tod<24; $tod+=3) 
+    {
+      $obsang = $tod/24 * 2 * 3.14159;
+      printf "stickfig %e %e %e %e\n",5+1*cos($obsang),1*sin($obsang),5+1.5*cos($obsang),1.5*sin($obsang);
+    }
+  }
 }
 
 if ($moonshade)
