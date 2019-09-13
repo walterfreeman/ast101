@@ -17,7 +17,7 @@ Note that the prelab for Lab 1 might change slightly up until Thursday.
 <a href="labs/lab2.pdf">Lab 2</a><br><br>
 
 <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a><br>
-<a href="labs/lab3.pdf">Lab 3</a><br><br>
+<a href="labs/lab3/lab3.pdf">Lab 3</a><br><br>
 
 ---
 <!---
