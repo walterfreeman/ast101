@@ -10,14 +10,13 @@ title: Welcome to Astronomy 101!
 </h4>
 **Announcements:**
 
-
-I am a bit behind revising Lab 3. The prelab will be done tonight; the lab will be done tomorrow morning.
+<a href="https://docs.google.com/forms/d/1rpQp2BBb1eWjyAl5x1-IiyVTdGMRIL0PO2O0tI2JvXE/">Suggest a question for Exam 1 and earn extra credit!</a>
 
 ---
 
-Here is last year's <a href="exam1.pdf">first exam</a>.
+Here is last year's <a href="exam1.pdf">first exam</a>. I will post an answer key and explanations Friday, after we review in class Thursday.
 
-Current lecture slides: <a href="slides/lecture6/lecture6.pdf">The seasons</a><br><br> 
+Current lecture slides: <a href="slides/lecture7/lecture7.pdf">The Moon</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
