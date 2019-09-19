@@ -16,7 +16,7 @@ title: Welcome to Astronomy 101!
 
 Here is last year's <a href="exam1.pdf">first exam</a>. I will post an answer key and explanations Friday, after we review in class Thursday.
 
-Current lecture slides: <a href="slides/lecture7/lecture7.pdf">The Moon</a><br><br> 
+Current lecture slides: <a href="slides/lecture8/lecture8.pdf">The Moon, continued; exam review</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
