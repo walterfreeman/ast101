@@ -14,7 +14,12 @@ title: Welcome to Astronomy 101!
 
 ---
 
-Here is last year's <a href="exam1.pdf">first exam</a>. I will post an answer key and explanations Friday, after we review in class Thursday.
+<b>Here is last year's <a href="exam1.pdf">first exam</a></b>.
+
+
+
+
+I will post an answer key and explanations Friday, after we review in class Thursday.
 
 Current lecture slides: <a href="slides/lecture8/lecture8.pdf">The Moon, continued; exam review</a><br><br> 
 
@@ -27,6 +32,8 @@ Pending ask-the-physicist questions:
 Cal Parker asks: Does the universe have an edge?
 
 Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience?
+
+Paritosh Jain asks: what is a neutron star?
 
 
 <br>
