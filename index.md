@@ -35,6 +35,7 @@ Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it w
 
 Paritosh Jain asks: what is a neutron star?
 
+Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
 
 <br>
 
