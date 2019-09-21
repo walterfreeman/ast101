@@ -14,12 +14,11 @@ title: Welcome to Astronomy 101!
 
 ---
 
-<b>Here is last year's <a href="exam1.pdf">first exam</a></b>.
+<b>Here is 2017's<a href="exam1.pdf">first exam</a></b> along with the <a href="exam1-key.pdf">answer key</a> to it.
 
 
 
 
-I will post an answer key and explanations Friday, after we review in class Thursday.
 
 Current lecture slides: <a href="slides/lecture8/lecture8.pdf">The Moon, continued; exam review</a><br><br> 
 
