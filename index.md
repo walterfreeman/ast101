@@ -14,7 +14,7 @@ title: Welcome to Astronomy 101!
 
 ---
 
-<b>Here is 2017's<a href="exam1.pdf">first exam</a></b> along with the <a href="exam1-key.pdf">answer key</a> to it.
+<b>Here is 2017's <a href="exam1.pdf">first exam</a></b> along with the <a href="exam1-key.pdf">answer key</a> to it.
 
 **Note**: There was an error in question 30. (A), (B), and (D) are all true,
  but I meant to write "December" rather than "July" for choice (C). Thus it is not true, and the answer isn't (E). In 2017 we threw this question out because of the error. Sorry!
