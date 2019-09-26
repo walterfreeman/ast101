@@ -10,19 +10,14 @@ title: Welcome to Astronomy 101!
 </h4>
 **Announcements:**
 
-<a href="https://docs.google.com/forms/d/1rpQp2BBb1eWjyAl5x1-IiyVTdGMRIL0PO2O0tI2JvXE/">Suggest a question for Exam 1 and earn extra credit!</a>
+Exam 1 grades should be available Friday or Saturday on Blackboard. 
+
+[Prelab 4](labs/lab4-prelab.pdf) is available now.
 
 ---
 
-<b>Here is 2017's <a href="exam1.pdf">first exam</a></b> along with the <a href="exam1-key.pdf">answer key</a> to it.
 
-**Note**: There was an error in question 30. (A), (B), and (D) are all true,
- but I meant to write "December" rather than "July" for choice (C). Thus it is not true, and the answer isn't (E). In 2017 we threw this question out because of the error. Sorry!
-
-
-
-
-Current lecture slides: <a href="slides/lecture8/lecture8.pdf">The Moon, continued; exam review</a><br><br> 
+Current lecture slides: <a href="slides/lecture9/lecture9.pdf">From Egypt to Italy; from Ptolemy to Galileo</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
