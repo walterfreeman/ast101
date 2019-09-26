@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  26 SEP 2019 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  26 SEP 2019 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,68 +907,75 @@ Package pdftex.def Info: lunar-eclipse-composite.jpg  used on input line 340.
 
  <./lunar-eclipse-composite.jpg>] [24
 
-] [25
+]
+<eclipse-flat.jpg, id=186, 321.2pt x 321.2pt>
+File: eclipse-flat.jpg Graphic file (type jpg)
+<use eclipse-flat.jpg>
+Package pdftex.def Info: eclipse-flat.jpg  used on input line 364.
+(pdftex.def)             Requested size: 261.14908pt x 261.1557pt.
+ [25
 
-] [26
+ <./eclipse-flat.jpg>] [26
 
 ]
-<parallax.png, id=199, 235.88126pt x 359.3425pt>
+[27
+
+]
+<parallax.png, id=206, 235.88126pt x 359.3425pt>
 File: parallax.png Graphic file (type png)
 <use parallax.png>
-Package pdftex.def Info: parallax.png  used on input line 434.
+Package pdftex.def Info: parallax.png  used on input line 443.
 (pdftex.def)             Requested size: 130.57454pt x 198.92203pt.
- [27
-
- <./parallax.png (PNG copy)>]
-<retrograde.jpg, id=206, 1541.76pt x 1027.84pt>
-File: retrograde.jpg Graphic file (type jpg)
-<use retrograde.jpg>
-Package pdftex.def Info: retrograde.jpg  used on input line 443.
-(pdftex.def)             Requested size: 369.96008pt x 246.63959pt.
  [28
 
- <./retrograde.jpg>] [29
+ <./parallax.png (PNG copy)>]
+<retrograde.jpg, id=213, 1541.76pt x 1027.84pt>
+File: retrograde.jpg Graphic file (type jpg)
+<use retrograde.jpg>
+Package pdftex.def Info: retrograde.jpg  used on input line 452.
+(pdftex.def)             Requested size: 369.96008pt x 246.63959pt.
+ [29
 
-] [30
+ <./retrograde.jpg>] [30
 
-]
-File: sphere-medieval.png Graphic file (type png)
-<use sphere-medieval.png>
-Package pdftex.def Info: sphere-medieval.png  used on input line 498.
-(pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
-
-Overfull \vbox (15.80423pt too high) detected at line 498
- []
-
-[31
+] [31
 
 ]
 File: sphere-medieval.png Graphic file (type png)
 <use sphere-medieval.png>
-Package pdftex.def Info: sphere-medieval.png  used on input line 498.
+Package pdftex.def Info: sphere-medieval.png  used on input line 507.
 (pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
 
-Overfull \vbox (15.80423pt too high) detected at line 498
+Overfull \vbox (15.80423pt too high) detected at line 507
  []
 
 [32
 
 ]
-<epicycle1.png, id=238, 1003.75pt x 1003.75pt>
+File: sphere-medieval.png Graphic file (type png)
+<use sphere-medieval.png>
+Package pdftex.def Info: sphere-medieval.png  used on input line 507.
+(pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
+
+Overfull \vbox (15.80423pt too high) detected at line 507
+ []
+
+[33
+
+]
+<epicycle1.png, id=245, 1003.75pt x 1003.75pt>
 File: epicycle1.png Graphic file (type png)
 <use epicycle1.png>
-Package pdftex.def Info: epicycle1.png  used on input line 520.
+Package pdftex.def Info: epicycle1.png  used on input line 529.
 (pdftex.def)             Requested size: 130.57454pt x 130.56865pt.
- [33
+ [34
 
  <./epicycle1.png>]
 File: epicycle1.png Graphic file (type png)
 <use epicycle1.png>
-Package pdftex.def Info: epicycle1.png  used on input line 520.
+Package pdftex.def Info: epicycle1.png  used on input line 529.
 (pdftex.def)             Requested size: 130.57454pt x 130.56865pt.
- [34
-
-] [35
+ [35
 
 ] [36
 
@@ -984,18 +991,18 @@ Package pdftex.def Info: epicycle1.png  used on input line 520.
 
 ] [42
 
+] [43
+
 ]
-<copernican-model.jpg, id=306, 812.03375pt x 743.77875pt>
+<copernican-model.jpg, id=314, 812.03375pt x 743.77875pt>
 File: copernican-model.jpg Graphic file (type jpg)
 <use copernican-model.jpg>
-Package pdftex.def Info: copernican-model.jpg  used on input line 633.
+Package pdftex.def Info: copernican-model.jpg  used on input line 642.
 (pdftex.def)             Requested size: 217.62202pt x 199.32486pt.
 
-[43
+[44
 
- <./copernican-model.jpg>] [44
-
-] [45
+ <./copernican-model.jpg>] [45
 
 ] [46
 
@@ -1005,30 +1012,30 @@ Package pdftex.def Info: copernican-model.jpg  used on input line 633.
 
 ] [49
 
+] [50
+
 ]
-<jupiter-moons.png, id=354, 605.10814pt x 357.64384pt>
+<jupiter-moons.png, id=361, 605.10814pt x 357.64384pt>
 File: jupiter-moons.png Graphic file (type png)
 <use jupiter-moons.png>
-Package pdftex.def Info: jupiter-moons.png  used on input line 725.
+Package pdftex.def Info: jupiter-moons.png  used on input line 734.
 (pdftex.def)             Requested size: 348.19656pt x 205.80186pt.
- [50
-
- <./jupiter-moons.png (PNG copy)>]
-<jupiter-stellarium.png, id=362, 698.20169pt x 410.76538pt>
-File: jupiter-stellarium.png Graphic file (type png)
-<use jupiter-stellarium.png>
-Package pdftex.def Info: jupiter-stellarium.png  used on input line 743.
-(pdftex.def)             Requested size: 348.19656pt x 204.84943pt.
  [51
 
- <./jupiter-stellarium.png (PNG copy)>] [52
+ <./jupiter-moons.png (PNG copy)>]
+<jupiter-stellarium.png, id=369, 698.20169pt x 410.76538pt>
+File: jupiter-stellarium.png Graphic file (type png)
+<use jupiter-stellarium.png>
+Package pdftex.def Info: jupiter-stellarium.png  used on input line 752.
+(pdftex.def)             Requested size: 348.19656pt x 204.84943pt.
+ [52
 
-] [53
+ <./jupiter-stellarium.png (PNG copy)>] [53
+
+] [54
 
 ]
-[54
-
-] [55
+[55
 
 ] [56
 
@@ -1044,6 +1051,8 @@ Package pdftex.def Info: jupiter-stellarium.png  used on input line 743.
 
 ] [62
 
+] [63
+
 ]
 \tf@nav=\write6
 \openout6 = `lecture9.nav'.
@@ -1054,19 +1063,19 @@ Package pdftex.def Info: jupiter-stellarium.png  used on input line 743.
 \tf@snm=\write8
 \openout8 = `lecture9.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 875.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 875.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 884.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 884.
  (./lecture9.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 875.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 875.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 884.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 884.
 Package rerunfilecheck Info: File `lecture9.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18218 strings out of 492615
- 345522 string characters out of 6131390
+ 18227 strings out of 492615
+ 345656 string characters out of 6131390
  425495 words of memory out of 5000000
- 21581 multiletter control sequences out of 15000+600000
+ 21587 multiletter control sequences out of 15000+600000
  11350 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,59p,795b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1082,10 +1091,10 @@ fonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 
-Output written on lecture9.pdf (62 pages, 2047484 bytes).
+Output written on lecture9.pdf (63 pages, 2074114 bytes).
 PDF statistics:
- 508 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
- 125 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 516 PDF objects out of 1000 (max. 8388607)
+ 410 compressed objects within 5 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
