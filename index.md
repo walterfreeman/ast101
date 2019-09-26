@@ -12,7 +12,9 @@ title: Welcome to Astronomy 101!
 
 Exam 1 grades should be available Friday or Saturday on Blackboard. 
 
-[Prelab 4](labs/lab4-prelab.pdf) is available now.
+[Prelab 4](labs/lab4/lab4prelab.pdf) is available now.
+
+[The take-home lab](labs/moon-and-sun.pdf) is also available now.
 
 ---
 

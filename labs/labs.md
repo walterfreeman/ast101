@@ -8,7 +8,7 @@ use_math: true
 
 Here you can find links to the lab handouts and the prelabs, as well as any supplementary material used in them (computer simulations, etc.)
 
-Note that the prelab for Lab 1 might change slightly up until Thursday.
+<a href="labs/moon_and_sun.pdf">Take-Home Lab (due 2 December)</a><br><br>
 
 <a href="labs/lab1prelab.pdf">Lab 1 Prelab</a><br>
 <a href="labs/lab1.pdf">Lab 1</a><br><br>
@@ -19,6 +19,9 @@ Note that the prelab for Lab 1 might change slightly up until Thursday.
 <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a><br>
 <a href="labs/lab3/lab3.pdf">Lab 3</a><br><br>
 
+<a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a><br>
+
+---
 ---
 <!---
 
@@ -49,5 +52,4 @@ Note that the prelab for Lab 1 might change slightly up until Thursday.
 <a href="lab4.html">Lab 4</a><br>
 <a href="lab5.html">Lab 5</a><br>
 <a href="labs/lab6.pdf">Lab 6</a><br>
-<a href="labs/moon_and_sun.pdf">Take-Home Lab (due 3 December)</a><br>
 -->
