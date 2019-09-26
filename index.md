@@ -14,7 +14,7 @@ Exam 1 grades should be available Friday or Saturday on Blackboard.
 
 [Prelab 4](labs/lab4/lab4prelab.pdf) is available now.
 
-[The take-home lab](labs/moon-and-sun.pdf) is also available now.
+[The take-home lab](labs/moon_and_sun.pdf) is also available now.
 
 ---
 
