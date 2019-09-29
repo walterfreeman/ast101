@@ -89,7 +89,7 @@ But, ultimately, you must understand everything you write, and have composed the
 
 ### When is this due?
 
-Please either give your papers to your lab TA's or place them in their mailboxes, before **5PM Monday, October 1**. Please print your name, lab section number, and TA's name on your paper. The mailboxes are located in front of the Main Office, Physics Building 201. You must also submit an electronic copy by email to suast101projects@gmail.com.
+Please either give your papers to your lab TA's or place them in their mailboxes, before **5PM Monday, October 2**. Please print your name, lab section number, and TA's name on your paper. The mailboxes are located in front of the Main Office, Physics Building 201. You must also submit an electronic copy by email to suast101projects@gmail.com.
 Please put your TA's name and "Paper 1" in the subject line of your email. 
 
 ---
