@@ -20,6 +20,7 @@ Here you can find links to the lab handouts and the prelabs, as well as any supp
 <a href="labs/lab3/lab3.pdf">Lab 3</a><br><br>
 
 <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a><br>
+<a href="labs/lab4/lab4.pdf">Lab 4</a><br><br>
 
 ---
 ---
