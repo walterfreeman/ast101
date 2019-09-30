@@ -31,7 +31,7 @@ category: top
 |M028|Jeffrey Frelier   		 |Tuesday 5:00PM-6:20PM |
 |M029|Jeffrey Frelier   		 |Tuesday 6:30PM-7:50PM |
 |M030|Jeffrey Frelier   		 |Tuesday 8:00PM-9:20PM |
-|M025|Manu Mannatil         	 |Wednesday 8:00AM-9:20AM |
+|M025|Suman Kundu           	 |Wednesday 8:00AM-9:20AM |
 |M011|Suman Kundu		 |Wednesday 9:30AM-10:50AM |
 |M012|Mario Olivaras  	 	 |Wednesday 11:00AM-12:20PM |
 |M013|Mario Olivaras             |Wednesday 12:45PM-2:05PM |
@@ -43,8 +43,8 @@ category: top
 |M019|Pan Dong			 |Thursday 5:00PM-6:20PM |
 |M020|Pan Dong     		 |Thursday 6:30PM-7:50PM |
 |M031|Jeffrey Frelier                 |Thursday 8:00PM-9:20PM |
+|M026|Suman Kundu          	 |Friday 8:00AM-9:20AM |
 |M021|Pan Dong                	 |Friday 9:30AM-10:50AM |
 |M022|Pan Dong  		 |Friday 11:00AM-12:20PM |
 |M023|Mario Olivaras 		 |Friday 12:45PM-2:05PM |
-|M026|Manu Mannatil        	 |Friday 8:00AM-9:20AM |
 
