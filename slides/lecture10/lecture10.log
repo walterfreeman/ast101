@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.12.16)  4 OCT 2016 09:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.22)  1 OCT 2019 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **lecture10.tex
 (./lecture10.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasercs.sty
 Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
@@ -114,15 +114,15 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -152,10 +152,10 @@ ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks17
@@ -188,7 +188,7 @@ File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 Driver file for pgf: pgfsys-pdftex.def
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
 f
@@ -221,7 +221,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
@@ -280,13 +280,13 @@ File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen156
 \pgf@shorten@start@additional=\dimen157
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
@@ -294,12 +294,12 @@ File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen158
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen159
 \pgf@pt@y=\dimen160
 \pgf@pt@temp=\dimen161
@@ -317,7 +317,7 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen162
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
@@ -330,7 +330,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box39
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
@@ -590,7 +590,7 @@ Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
 Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
 \c@figure=\count138
@@ -606,40 +606,40 @@ Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
 Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
 \ex@=\dimen177
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen178
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count140
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count141
 \leftroot@=\count142
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count143
 \DOTSCASE@=\count144
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box51
 \strutbox@=\box52
 \big@size=\dimen179
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count145
 \c@MaxMatrixCols=\count146
 \dotsspace@=\muskip11
@@ -660,8 +660,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks36
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
@@ -702,7 +702,7 @@ Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
 fault.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 ))) (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2015/06/17 v1.17 mathematical typesetting tools
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
@@ -752,11 +752,11 @@ This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsfframemargin=\dimen197
 \epsfframethickness=\dimen198
 \epsfrsize=\dimen199
-\epsftmp=\dimen200
-\epsftsize=\dimen201
-\epsfxsize=\dimen202
-\epsfysize=\dimen203
-\pspoints=\dimen204
+\epsftmp=\dimen256
+\epsftsize=\dimen257
+\epsfxsize=\dimen258
+\epsfysize=\dimen259
+\pspoints=\dimen260
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeMadrid.
 sty
@@ -780,29 +780,29 @@ Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
 ))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 108.
+(hyperref)                removing `\\' on input line 109.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 108.
+(hyperref)                removing `\\' on input line 109.
 
 (./lecture10.aux)
 \openout1 = `lecture10.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -841,13 +841,13 @@ LaTeX Font Info:    ... okay on input line 112.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count158
-\scratchdimen=\dimen205
+\scratchdimen=\dimen261
 \scratchbox=\box53
 \nofMPsegments=\count159
 \nofMParguments=\count160
 \everyMPshowfont=\toks43
 \MPscratchCnt=\count161
-\MPscratchDim=\dimen206
+\MPscratchDim=\dimen262
 \MPnumerator=\count162
 \makeMPintoPDFobject=\count163
 \everyMPtoPDFconversion=\toks44
@@ -868,7 +868,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 112.
+Package hyperref Info: Link coloring OFF on input line 113.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -878,9 +878,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count164
 )
-LaTeX Info: Redefining \ref on input line 112.
-LaTeX Info: Redefining \pageref on input line 112.
-LaTeX Info: Redefining \nameref on input line 112.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
 
 (./lecture10.out) (./lecture10.out)
 \@outlinefile=\write5
@@ -911,11 +911,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 112.
+LaTeX Info: Redefining \includegraphics on input line 113.
  (./lecture10.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 116.
+(Font)              size <5> substituted on input line 117.
 
 [1
 
@@ -924,14 +924,14 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
 File: moonjupiter_hackmann.jpg Graphic file (type jpg)
 
 <use moonjupiter_hackmann.jpg>
-Package pdftex.def Info: moonjupiter_hackmann.jpg used on input line 131.
+Package pdftex.def Info: moonjupiter_hackmann.jpg used on input line 132.
 (pdftex.def)             Requested size: 174.09496pt x 259.83853pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -941,27 +941,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [4
 
-] [5
+]
+<exam-grade-histo-crop.pdf, id=61, 428.60126pt x 269.005pt>
+File: exam-grade-histo-crop.pdf Graphic file (type pdf)
 
-] [6
+<use exam-grade-histo-crop.pdf>
+Package pdftex.def Info: exam-grade-histo-crop.pdf used on input line 165.
+(pdftex.def)             Requested size: 261.14908pt x 163.9081pt.
+ [5
+
+ <./exam-grade-histo-crop.pdf>] [6
 
 ] [7
 
 ]
-<epicycles.jpg, id=74, 307.90031pt x 328.22626pt>
-File: epicycles.jpg Graphic file (type jpg)
- <use epicycles.jpg>
-Package pdftex.def Info: epicycles.jpg used on input line 251.
-(pdftex.def)             Requested size: 87.04747pt x 92.7942pt.
+[8
 
-<ss-modern.jpg, id=75, 398.99063pt x 272.51813pt>
-File: ss-modern.jpg Graphic file (type jpg)
- <use ss-modern.jpg>
-Package pdftex.def Info: ss-modern.jpg used on input line 251.
-(pdftex.def)             Requested size: 100.10759pt x 68.3747pt.
- [8
-
- <./epicycles.jpg> <./ss-modern.jpg>] [9
+] [9
 
 ] [10
 
@@ -969,153 +965,179 @@ Package pdftex.def Info: ss-modern.jpg used on input line 251.
 
 ] [12
 
-] [13
+] <epicycles.jpg, id=116, 307.90031pt x 328.22626pt>
+File: epicycles.jpg Graphic file (type jpg)
 
-] [14
+<use epicycles.jpg>
+Package pdftex.def Info: epicycles.jpg used on input line 264.
+(pdftex.def)             Requested size: 87.04747pt x 92.7942pt.
+ <ss-modern.jpg, id=117, 398.99063pt x 272.51813pt>
+File: ss-modern.jpg Graphic file (type jpg)
+
+<use ss-modern.jpg>
+Package pdftex.def Info: ss-modern.jpg used on input line 264.
+(pdftex.def)             Requested size: 100.10759pt x 68.3747pt.
+ [13
+
+ <./epicycles.jpg> <./ss-modern.jpg>] [14
 
 ] [15
 
 ] [16
 
 ]
-<tycho.jpg, id=134, 304.13625pt x 451.6875pt>
+[17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] <tycho.jpg, id=175, 304.13625pt x 451.6875pt>
 File: tycho.jpg Graphic file (type jpg)
- <use tycho.jpg>
-Package pdftex.def Info: tycho.jpg used on input line 329.
+
+<use tycho.jpg>
+Package pdftex.def Info: tycho.jpg used on input line 347.
 (pdftex.def)             Requested size: 174.09828pt x 258.56729pt.
- [17
+ [22
 
  <./tycho.jpg>]
 File: tycho.jpg Graphic file (type jpg)
  <use tycho.jpg>
-Package pdftex.def Info: tycho.jpg used on input line 329.
+Package pdftex.def Info: tycho.jpg used on input line 347.
 (pdftex.def)             Requested size: 174.09828pt x 258.56729pt.
- [18
+ [23
 
 ]
 File: tycho.jpg Graphic file (type jpg)
  <use tycho.jpg>
-Package pdftex.def Info: tycho.jpg used on input line 329.
+Package pdftex.def Info: tycho.jpg used on input line 347.
 (pdftex.def)             Requested size: 174.09828pt x 258.56729pt.
- [19
+
+[24
 
 ]
 File: tycho.jpg Graphic file (type jpg)
  <use tycho.jpg>
-Package pdftex.def Info: tycho.jpg used on input line 329.
+Package pdftex.def Info: tycho.jpg used on input line 347.
 (pdftex.def)             Requested size: 174.09828pt x 258.56729pt.
- [20
+ [25
 
 ]
 File: tycho.jpg Graphic file (type jpg)
-
-<use tycho.jpg>
-Package pdftex.def Info: tycho.jpg used on input line 329.
+ <use tycho.jpg>
+Package pdftex.def Info: tycho.jpg used on input line 347.
 (pdftex.def)             Requested size: 174.09828pt x 258.56729pt.
- [21
+ [26
 
-] <tycho-supernova.jpg, id=167, 803.0pt x 1012.78375pt>
+]
+<tycho-supernova.jpg, id=207, 803.0pt x 1012.78375pt>
 File: tycho-supernova.jpg Graphic file (type jpg)
 
 <use tycho-supernova.jpg>
-Package pdftex.def Info: tycho-supernova.jpg used on input line 356.
+Package pdftex.def Info: tycho-supernova.jpg used on input line 374.
 (pdftex.def)             Requested size: 174.09828pt x 219.58327pt.
- [22
+ [27
 
  <./tycho-supernova.jpg>]
 File: tycho-supernova.jpg Graphic file (type jpg)
 
 <use tycho-supernova.jpg>
-Package pdftex.def Info: tycho-supernova.jpg used on input line 356.
+Package pdftex.def Info: tycho-supernova.jpg used on input line 374.
 (pdftex.def)             Requested size: 174.09828pt x 219.58327pt.
- [23
+ [28
 
-] <uraniborg.jpg, id=181, 192.72pt x 260.172pt>
+] <uraniborg.jpg, id=221, 192.72pt x 260.172pt>
 File: uraniborg.jpg Graphic file (type jpg)
 
 <use uraniborg.jpg>
-Package pdftex.def Info: uraniborg.jpg used on input line 377.
+Package pdftex.def Info: uraniborg.jpg used on input line 395.
 (pdftex.def)             Requested size: 174.09828pt x 235.02995pt.
- [24
+ [29
 
  <./uraniborg.jpg>]
-<tycho_kepler.jpg, id=188, 1254.6875pt x 1033.8625pt>
+<tycho_kepler.jpg, id=228, 1254.6875pt x 1033.8625pt>
 File: tycho_kepler.jpg Graphic file (type jpg)
  <use tycho_kepler.jpg>
-Package pdftex.def Info: tycho_kepler.jpg used on input line 394.
+Package pdftex.def Info: tycho_kepler.jpg used on input line 412.
 (pdftex.def)             Requested size: 217.62202pt x 179.31955pt.
 
-[25
+[30
 
  <./tycho_kepler.jpg>]
 File: tycho_kepler.jpg Graphic file (type jpg)
  <use tycho_kepler.jpg>
-Package pdftex.def Info: tycho_kepler.jpg used on input line 394.
+Package pdftex.def Info: tycho_kepler.jpg used on input line 412.
 (pdftex.def)             Requested size: 217.62202pt x 179.31955pt.
- [26
-
-] [27
-
-] [28
-
-] [29
-
-] [30
-
-]
-[31
+ [31
 
 ] [32
 
-] <ellipse.png, id=239, 543.02875pt x 324.21124pt>
+] [33
+
+] [34
+
+] [35
+
+]
+[36
+
+] [37
+
+] <ellipse.png, id=279, 543.02875pt x 324.21124pt>
 File: ellipse.png Graphic file (type png)
  <use ellipse.png>
-Package pdftex.def Info: ellipse.png used on input line 490.
+Package pdftex.def Info: ellipse.png used on input line 508.
 (pdftex.def)             Requested size: 261.14908pt x 155.92139pt.
 
-[33
+[38
 
  <./ellipse.png>]
 File: ellipse.png Graphic file (type png)
  <use ellipse.png>
-Package pdftex.def Info: ellipse.png used on input line 505.
+Package pdftex.def Info: ellipse.png used on input line 523.
 (pdftex.def)             Requested size: 261.14908pt x 155.92139pt.
- [34
+ [39
 
 ]
-<ellipse-question1.png, id=254, 746.79pt x 606.01407pt>
+<ellipse-question1.png, id=295, 746.79pt x 606.01407pt>
 File: ellipse-question1.png Graphic file (type png)
 
 <use ellipse-question1.png>
-Package pdftex.def Info: ellipse-question1.png used on input line 523.
+Package pdftex.def Info: ellipse-question1.png used on input line 541.
 (pdftex.def)             Requested size: 217.62202pt x 176.59955pt.
- [35
+ [40
 
- <./ellipse-question1.png>]
-<second-law.png, id=261, 652.68843pt x 586.44093pt>
+ <./ellipse-question1.png>] [41
+
+]
+<second-law.png, id=308, 652.68843pt x 586.44093pt>
 File: second-law.png Graphic file (type png)
  <use second-law.png>
-Package pdftex.def Info: second-law.png used on input line 541.
+Package pdftex.def Info: second-law.png used on input line 577.
 (pdftex.def)             Requested size: 217.62202pt x 195.53053pt.
 
-[36
+[42
 
  <./second-law.png>]
 File: second-law.png Graphic file (type png)
  <use second-law.png>
-Package pdftex.def Info: second-law.png used on input line 541.
+Package pdftex.def Info: second-law.png used on input line 577.
 (pdftex.def)             Requested size: 217.62202pt x 195.53053pt.
- [37
+ [43
 
-] [38
+] [44
 
-] [39
+] [45
 
-] [40
+] [46
 
-] [41
+] [47
 
-] [42
+] [48
 
 ]
 \tf@nav=\write6
@@ -1127,12 +1149,12 @@ Package pdftex.def Info: second-law.png used on input line 541.
 \tf@snm=\write8
 \openout8 = `lecture10.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 620.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 620.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 656.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 656.
 
 (./lecture10.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 620.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 620.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 656.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 656.
 Package rerunfilecheck Info: File `lecture10.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1140,28 +1162,30 @@ Package rerunfilecheck Info: File `lecture10.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 620.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 656.
  ) 
 Here is how much of TeX's memory you used:
- 17616 strings out of 493085
- 336557 string characters out of 6136916
- 409215 words of memory out of 5000000
- 20589 multiletter control sequences out of 15000+600000
- 10079 words of font info for 38 fonts, out of 8000000 for 9000
+ 17738 strings out of 493029
+ 339111 string characters out of 6136233
+ 411257 words of memory out of 5000000
+ 20741 multiletter control sequences out of 15000+600000
+ 13664 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,57p,409b,892s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,57p,409b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb>
-Output written on lecture10.pdf (42 pages, 1868939 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmtt9.pfb>
+Output written on lecture10.pdf (48 pages, 1908540 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 85 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 411 PDF objects out of 1000 (max. 8388607)
+ 320 compressed objects within 4 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
