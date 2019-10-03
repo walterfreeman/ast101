@@ -5,27 +5,23 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-<h2>Submission instructions for papers</h2>
-
-* Put a copy in your TA's mailbox
-* Email a copy (as an attachment -- no Google Drive or Sharepoint links) to <suast101projects@gmail.com>
-* Do this by 5PM Wednesday
-* Late papers lose 20% per day
-* If you need an extension for a good reason, talk to me or your TA
+Current lecture slides: <a href="slides/lecture11/lecture11.pdf">Gravity</a><br><br> 
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
 </h4>
 **Announcements:**
 
-[Prelab 4](labs/lab4/lab4prelab.pdf) is available now.
+[Prelab 5](labs/lab5/lab5prelab.pdf) is available now. You will need a computer or tablet with keyboard to complete it.
 
 [The take-home lab](labs/moon_and_sun.pdf) is also available now. It is due on December 3.
+<h4>Submission instructions for papers</h4>
+
+* If you haven't turned in your papers yet, get on that!
+* Put a copy in your TA's mailbox
+* Email a copy (as an attachment -- no Google Drive or Sharepoint links) to <suast101projects@gmail.com>
 
 ---
-
-
-Current lecture slides: <a href="slides/lecture10/lecture10.pdf">Kepler's laws of motion</a><br><br> 
 
 [Forgot your response cards?](cards.html)
 
@@ -33,7 +29,7 @@ Current lecture slides: <a href="slides/lecture10/lecture10.pdf">Kepler's laws o
 
 Pending ask-the-physicist questions:
 
-Cal Parker asks: Does the universe have an edge?
+<!-- Cal Parker asks: Does the universe have an edge? -->
 
 <!-- Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience? -->
 

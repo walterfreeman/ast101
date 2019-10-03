@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  3 OCT 2019 09:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  3 OCT 2019 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**lecture11-2018.tex
-(./lecture11-2018.tex
+**lecture11.tex
+(./lecture11.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -707,8 +707,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 109.
 
-(./lecture11-2018.aux)
-\openout1 = `lecture11-2018.aux'.
+(./lecture11.aux)
+\openout1 = `lecture11.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
@@ -805,9 +805,9 @@ LaTeX Info: Redefining \ref on input line 113.
 LaTeX Info: Redefining \pageref on input line 113.
 LaTeX Info: Redefining \nameref on input line 113.
 
-(./lecture11-2018.out) (./lecture11-2018.out)
+(./lecture11.out) (./lecture11.out)
 \@outlinefile=\write5
-\openout5 = `lecture11-2018.out'.
+\openout5 = `lecture11.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
@@ -833,7 +833,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./lecture11-2018.nav) [1
+) (./lecture11.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
@@ -841,7 +841,17 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [4
 
-] [5
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 206.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 206.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5
 
 ] [6
 
@@ -849,27 +859,28 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [8
 
-] [9
-
 ]
-<equal-areas.png, id=89, 695.59875pt x 590.95781pt>
-File: equal-areas.png Graphic file (type png)
-<use equal-areas.png>
-Package pdftex.def Info: equal-areas.png  used on input line 213.
-(pdftex.def)             Requested size: 217.62202pt x 184.88126pt.
+[9
 
-Overfull \vbox (28.81656pt too high) detected at line 213
- []
+] [10
 
-[10
-
- <./equal-areas.png>] [11
+] [11
 
 ] [12
 
-] [13
+]
+<equal-areas.png, id=111, 695.59875pt x 590.95781pt>
+File: equal-areas.png Graphic file (type png)
+<use equal-areas.png>
+Package pdftex.def Info: equal-areas.png  used on input line 268.
+(pdftex.def)             Requested size: 217.62202pt x 184.88126pt.
 
-] [14
+Overfull \vbox (28.81656pt too high) detected at line 268
+ []
+
+[13
+
+ <./equal-areas.png>] [14
 
 ] [15
 
@@ -883,125 +894,131 @@ Overfull \vbox (28.81656pt too high) detected at line 213
 
 ] [20
 
-]
-[21
+] [21
 
 ] [22
 
 ] [23
 
-] [24
+]
+<lego-set.png, id=182, 546.04pt x 273.02pt>
+File: lego-set.png Graphic file (type png)
+<use lego-set.png>
+Package pdftex.def Info: lego-set.png  used on input line 413.
+(pdftex.def)             Requested size: 174.09828pt x 87.0474pt.
+<lego-house.png, id=183, 361.35pt x 361.35pt>
+File: lego-house.png Graphic file (type png)
+<use lego-house.png>
+Package pdftex.def Info: lego-house.png  used on input line 413.
+(pdftex.def)             Requested size: 174.09828pt x 174.09665pt.
 
-] [25
+[24
 
-] [26
+ <./lego-set.png (PNG copy)> <./lego-house.png>]
+File: lego-set.png Graphic file (type png)
+<use lego-set.png>
+Package pdftex.def Info: lego-set.png  used on input line 413.
+(pdftex.def)             Requested size: 174.09828pt x 87.0474pt.
+File: lego-house.png Graphic file (type png)
+<use lego-house.png>
+Package pdftex.def Info: lego-house.png  used on input line 413.
+(pdftex.def)             Requested size: 174.09828pt x 174.09665pt.
+ [25
 
-] [27
+]
+<newton.jpg, id=198, 2409.0pt x 2922.92pt>
+File: newton.jpg Graphic file (type jpg)
+<use newton.jpg>
+Package pdftex.def Info: newton.jpg  used on input line 472.
+(pdftex.def)             Requested size: 174.09496pt x 211.22612pt.
+ [26
+
+ <./newton.jpg>]
+File: newton.jpg Graphic file (type jpg)
+<use newton.jpg>
+Package pdftex.def Info: newton.jpg  used on input line 472.
+(pdftex.def)             Requested size: 174.09496pt x 211.22612pt.
+
+[27
 
 ] [28
 
 ] [29
 
 ]
-<lego-set.png, id=216, 546.04pt x 273.02pt>
-File: lego-set.png Graphic file (type png)
-<use lego-set.png>
-Package pdftex.def Info: lego-set.png  used on input line 400.
-(pdftex.def)             Requested size: 174.09828pt x 87.0474pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 400.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 400.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<lego-house.png, id=217, 361.35pt x 361.35pt>
-File: lego-house.png Graphic file (type png)
-<use lego-house.png>
-Package pdftex.def Info: lego-house.png  used on input line 400.
-(pdftex.def)             Requested size: 174.09828pt x 174.09665pt.
+<law-gravity-crop.png, id=224, 287.80089pt x 223.20558pt>
+File: law-gravity-crop.png Graphic file (type png)
+<use law-gravity-crop.png>
+Package pdftex.def Info: law-gravity-crop.png  used on input line 547.
+(pdftex.def)             Requested size: 282.90598pt x 219.42113pt.
  [30
 
- <./lego-set.png (PNG copy)> <./lego-house.png>]
-File: lego-set.png Graphic file (type png)
-<use lego-set.png>
-Package pdftex.def Info: lego-set.png  used on input line 400.
-(pdftex.def)             Requested size: 174.09828pt x 87.0474pt.
-File: lego-house.png Graphic file (type png)
-<use lego-house.png>
-Package pdftex.def Info: lego-house.png  used on input line 400.
-(pdftex.def)             Requested size: 174.09828pt x 174.09665pt.
- [31
+ <./law-gravity-crop.png (PNG copy)>] [31
+
+] [32
+
+] [33
 
 ]
-<newton.jpg, id=232, 2409.0pt x 2922.92pt>
-File: newton.jpg Graphic file (type jpg)
-<use newton.jpg>
-Package pdftex.def Info: newton.jpg  used on input line 459.
-(pdftex.def)             Requested size: 174.09496pt x 211.22612pt.
- [32
+<planet-grav.png, id=251, 236.52pt x 236.52pt>
+File: planet-grav.png Graphic file (type png)
+<use planet-grav.png>
+Package pdftex.def Info: planet-grav.png  used on input line 626.
+(pdftex.def)             Requested size: 217.62202pt x 217.62268pt.
+ [34
 
- <./newton.jpg>]
-File: newton.jpg Graphic file (type jpg)
-<use newton.jpg>
-Package pdftex.def Info: newton.jpg  used on input line 459.
-(pdftex.def)             Requested size: 174.09496pt x 211.22612pt.
- [33
+ <./planet-grav.png (PNG copy)>]
+<planet-grav-2.png, id=258, 345.9734pt x 236.03075pt>
+File: planet-grav-2.png Graphic file (type png)
+<use planet-grav-2.png>
+Package pdftex.def Info: planet-grav-2.png  used on input line 642.
+(pdftex.def)             Requested size: 304.6695pt x 207.85175pt.
+ [35
 
-] [34
-
-] [35
-
-]
-[36
-
-] [37
-
-] [38
+ <./planet-grav-2.png (PNG copy)>] [36
 
 ]
 \tf@nav=\write6
-\openout6 = `lecture11-2018.nav'.
+\openout6 = `lecture11.nav'.
 
 \tf@toc=\write7
-\openout7 = `lecture11-2018.toc'.
+\openout7 = `lecture11.toc'.
 
 \tf@snm=\write8
-\openout8 = `lecture11-2018.snm'.
+\openout8 = `lecture11.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 570.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 570.
- (./lecture11-2018.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 570.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 570.
-Package rerunfilecheck Info: File `lecture11-2018.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 654.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 654.
+
+(./lecture11.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 654.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 654.
+Package rerunfilecheck Info: File `lecture11.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17929 strings out of 492982
- 340118 string characters out of 6134895
- 414534 words of memory out of 5000000
- 21008 multiletter control sequences out of 15000+600000
- 14707 words of font info for 56 fonts, out of 8000000 for 9000
+ 17972 strings out of 492982
+ 340641 string characters out of 6134895
+ 413514 words of memory out of 5000000
+ 21046 multiletter control sequences out of 15000+600000
+ 18569 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,57p,801b,649s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,57p,796b,649s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on lecture11-2018.pdf (38 pages, 1893678 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
+2.pfb>
+Output written on lecture11.pdf (36 pages, 2000395 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 325 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
