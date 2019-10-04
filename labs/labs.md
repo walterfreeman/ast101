@@ -13,6 +13,7 @@ Here you can find links to the lab handouts and the prelabs, as well as any supp
 <a href="labs/moon_and_sun.pdf">Take-Home Lab (due 3 December)</a><br><br>
 
 <a href="labs/lab5/lab5prelab.pdf">Lab 5 Prelab</a><br><br>
+<a href="labs/lab5/lab5.pdf">Lab 5</a><br><br>
 
 
 <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a><br>

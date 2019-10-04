@@ -59,6 +59,8 @@
 
 % TOC
 
+\pagenumbering{gobble}
+
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{center}
@@ -78,13 +80,18 @@ Lab 5: Simulating Planets' Orbits
 \vspace*{0.5cm}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Objective}
+
+To use a computer simulation to explore the properties of planets' orbits, and in the process learn a little about how computers simulate things.
+
 \section{Introduction}
 
 As we've discussed in class, the development of orbital mechanics proceeded in two steps. First, Johannes Kepler worked out the correct {\it shapes} of the orbits of the planets, but didn't know {\it why} they moved in that way. Later, Isaac Newton discovered the laws of gravity and motion that explain {\it why}, not just {\it how}, the planets move in elliptical orbits.
 
 In this lab, you will work directly with a computer program that contains within it Newton's laws of motion and gravity. You can use this program to simulate all kinds of orbits! In this lab, you will use this program to simulate different kinds of orbits and see how they behave.
 
-This lab will also expose you to a little computer code, written in the language Python. You do not need to know anything about computer programming beforehand. However, one step in this lab requires you to look at some computer code and connect it to Newton's law of motion. We're not going to require you to {\it write} code, but we want to give you a little exposure to what it looks like.
+This lab will also expose you to a little computer code, written in the language Python. You do not need to know anything about computer programming beforehand. However, one step in this lab requires you to look at some computer code and think about what it does. We're not going to require you to {\it write} code, but we want to give you a little exposure to what it looks like. Python is a language used by many scientists and web developers (and other people) for all kinds of things; it is one of the most popular programming languages today.
 
 \subsection{Kepler's laws of planetary motion}
 
@@ -94,7 +101,7 @@ First, Kepler realized that if planets moved in *elliptical* orbits rather than 
 
 \item Planets move in elliptical orbits with the Sun at one focus
   
-\item  Planets move faster when they are closer to the Sun, and slower when they are further away
+\item The line connecting a planet to the sun sweeps out equal area in equal time, so planets move faster when they are closer to the Sun, and slower when they are further away
 
 \item  The time it takes a planet to orbit the Sun depends only on the length of its semimajor axis. In particular, if the semimajor axis is multiplied by a factor $A$, the period $P$ is multiplied by $A^{3/2}.$
 
@@ -114,161 +121,231 @@ Newton realized several things about moving objects:
 	where $r$ is the distance between the two objects, and $m_1$ and $m_2$ are their masses.
 \end{enumerate}
 
+\subsection{Computer programs}
 
-\subsection*{Materials}
+You won't need to write your own code here -- only modify my code to see what happens, and then look at some parts of it to see how it works. You can't break anything; if something goes wrong, you can just click the three-lines menu in the top left and choose ``Reset''.
 
-Two meter sticks.
+If you press ``Run'' and your code gives you an error (a big red bar at the bottom), either hit Ctrl-Z to undo your last few changes and then try again, or refresh your browser. Your GTA might be able to assist you as well (most of the graduate students will know some Python). 
 
-\subsection*{Objective}
+Computers, at heart, do {\it math} on {\it variables}. Look at line 5: this assigns the value {\tt 1.017} to the variable {\tt start\_distance}. A computer program is just a list of math instructions in order, along with other instructions that do things like draw on the screen and repeat some segments of math.
 
-To use parallax to determine the distance to an object, verify the procedure works, and apply the concepts to the stars.
+It is important that you don't change the names of any of the variables here: if you rename {\tt start\_distance} to {\tt begin\_distance}, even though those mean the same thing in English, the computer won't know what is going on later.
 
-\newpage
+It is also important that you don't add extra spaces before the beginning of any lines, or remove any that are there. Spaces before a line mean something special in Python, and if you remove them, the program will mean something different than it did before (and probably won't work).
 
-\section{Measuring Angular Distance}
+Also, notice the text that's displayed in green and follows a \# sign. These are {\it comments} -- the computer ignores them. They're just in the code to give you ``signposts'' to describe what parts of the code do.
 
-\subsection{How to Measure Angular Distance}
-Like in the prelab, hold a finger up right in front of your face. Then, slowly move your finger away. At first, you finger appears very large, but as you move it away, it begins to appear smaller and smaller. Clearly, your finger isn't actually shrinking. What's happening is the amount of your vision that your finger is occupying is changing. This is the \textbf{angular size} of an object; the amount of your field of vision the object occupies. Clearly this depends on both the actual size of the object, and the distance the object is from you.\\
 
-As another example, the Moon and the Sun both \textit{appear} to be the same size in the sky, but in fact the Sun is considerably larger. It's just also farther away!\\
-
-To measure angular distance, we use angles, measured in degrees. And like regular distance, we will measure this using a meter stick. \textbf{If you hold a meter stick exactly 57cm away from your face, then every cm on the meter stick will take up $1^\circ$ of your field of view.} For example, if you hold the meter 57cm away, and find that the object's left edge is on the 8.5cm mark, and its right edge is on the 10.5 cm mark, then its angular size is 10.5-8.5=$2^\circ$.\\
-
-\subsection{Practicing With Heads}
-
-\textbf{Question 1.} Practice measuring angular size by holding the meter stick 57cm from your face (You may need the help of your partners and the second meter stick!).
-Remember, the angular size of any object that you see is $1^\circ$ for every centimeter mark that it spans on your meter stick. How large is your group mate's head, in degrees?\\
-
-\vspace*{1.5cm}
-(1) \hrulefill\\
-\textbf{Please make sure each member of the group measures at least one head!}
-
-\textbf{Question 2.} Now, measure the head of someone at another table, and then at a table across the room. You may get up if you need to.\\
-
-\vspace{1.5cm}
-(1) \hrulefill
 
 \newpage
 
-\textbf{Question 3.} Were all three measurements the same, or did they vary? If they varied, was it because the heads you measured were all actually different sizes, or was something else going on?\\
+\section{Exploring Kepler's laws}
+
+\textbf{Question 1.} Go to the orbit simulator and set it to fullscreen. Then run the simulator. You've played with it before for your prelab, but now we're going to make sure that our computer program's orbits follow Kepler's laws. 
+
+Kepler's first law says that planets orbit the Sun in elliptical orbits with the Sun at a focus. Does the orbit that you see follow Kepler's first law?
 
 \vspace{1.5cm}
 (2) \hrulefill\\
 
-\textbf{Question 4.} Do objects that are farther away appear smaller or larger?\\
 
-\vspace{1.5cm}
-(1) \hrulefill\\
+(10) \textbf{Question 2.} Now, try different starting velocities for the planet, and record what the orbit looks like. Notice that the starting point (1.02 AU) will always either be perihelion or aphelion. For each of the following, record:
 
-\subsection{Measure Carefully...}
-
-\textbf{Question 5.} Hold the meter stick 57cm away\footnote{Those who remember your high school mathematics: there are about 57 degrees in one radian. This funny number is here because we're measuring angles in degrees.}, and remeasure the angular size of one of your group members' heads. Then, move the meter stick closer to your face, and measure the size of the head again. Does the size you measured get bigger or smaller?\\ 
-
-\vspace{1.5cm}
-(1) \hrulefill\\
-
-\textbf{Question 6.} If you hold the meter stick \textbf{closer} than 57cm, will you overestimate or underestimate the angular sizes of objects?\\
-
-\vspace{1.5cm}
-(2) \hrulefill
-
-\newpage
-
-\section{Using Parallax to Measure Distance}
-
-We've observed that parallax depends on distance. Objects that are farther away exhibit a much smaller parallax effect than those that are closer. Using a little geometry, we can use this fact to determine how far away an object is using its parallax, per the following formula:
-
-\begin{center}
-	$\text{distance from center of baseline=}57\times\frac{\text{length of baseline}}{\text{total parallax}}$
-\end{center}
-
-Two of these should be familiar...
 \begin{itemize}
-	\item distance from center of baseline: this is how far the object is from the halfway point between the two points you observed the object from. Roughly speaking, this is the distance the object is away from you.
-	\item length of baseline: this is the distance between the two points you observed the object from. From the prelab, you should know that making the baseline longer makes it easier to observe parallax.
+
+\item A picture of the planet's orbit, labeling its starting point, and mark where aphelion and perihelion are
+
+\item How close, or how far, the planet gets to the Sun on the other side (the computer will tell you this; it's the other perihelion/aphelion point)
+
+\item The eccentricity of the planet's orbit
+
+\item Whether anything weird happened that wasn't at all what you expected
+
 \end{itemize}
-We have yet to define "total parallax". Total parallax is the total change in angular separation between the object you're observing and a distant background object as you observe it from two different observation points.\\
 
-As an example of these ideas, recall the exercise in the prelab where you observed your finger with your right and then left eye, and compared it with Hendricks Chapel. Suppose you actually measured the angular separation between your finger and Hendricks. You might have found that your finger was first $1.5^\circ$ to the left when viewing with your right eye, and then $1.0^\circ$ to the right when viewing with your left eye. In this case, the total parallax would be $2.5^\circ$, because that's how much the angle changed. The baseline would be the distance between your eyes, about 6cm. And the distance of the object from the baseline would be how far your finger was held from your face; probably around 3cm. \\
 
-\textbf{If it is raining or dark:} You should now go over to the physics building, in the hallways that runs aloAs we discussed in class last Thursday, one of the issues that led to the development of the celestial sphere model was the observation that stars do not exhibit parallax; that is, to the naked eye, the position of stars relative to one another never appear to alter in even the slightest. If the stars are not all the same distance away, then they ought to at times appear closer together or farther apart. This lab will explore the concept of parallax, and culminate with the realization that even though the stars {\it are} different distances away, we never could've found this with the tools available at the time. ngside the quad. Please remember that classes may be in session, and to be respectful!\\
+If your planet moves too slowly or too quickly, change the value of {\tt seconds\_per\_year} that controls how many seconds in the simulation corresponds to one year of real time.
 
-\textbf{Otherwise:} Go outside of Holden Observatory.
+
+\newpage
+Try starting velocities of
+
+
+\begin{enumerate}
+	\item 2.5 AU/year
+	\vspace{1.5in}
+	\item 5 AU/year
+	\vspace{1.5in}
+	\item The value you found during your prelab that matches Earth's actual orbit
+	\vspace{1.5in}
+	\item 8 AU/year
+	\vspace{1.5in}
+	\item 10 AU/year
+	
+\end{enumerate}
 
 \newpage
 
-\subsection{Measuring Distance Yourself}
-For the next several question, put your answers into the chart on the next page!
-
-\textbf{Question 7.} Select an object that you will attempt to measure the distance to using parallax. This object should be relatively close by. Then, choose a far away object or building as a reference object. List the object you're measuring the distance to and the distant reference object below.\\
-
-\textbf{Question 8.} Choose a point to observe the object from. Using your meter stick, measure the angular separation between the object and your reference point. List this below. Be sure to indicate whether your object appears to the left or to the right of your reference object.\\
-
-\textbf{Question 9.} Keep track of where you made your first measurement (perhaps by having one of your group mates stand on the spot), and move to a second observation point. Again, measure the angular separation between your object and your reference point, and indicate whether it is to the left or the right\\
-
-\textbf{Question 10.} Calculate the total parallax as described in the last section. Note: If your object swapped whether it was on the left or on the right, you must add your angular separations. If it stayed on the same side both times, you must subtract them.\\
-
-\textbf{Question 11.} Using your meterstick, measure how far apart your two observation points were from each other. Remember that this is the length of your baseline!\\
-
-\textbf{Question 12.} Using the equation at the start of Section 3, calculate how far away your object is from your baseline.\\
-
-\textbf{Question 13.} Stand on the point halfway between your two observation points, and then measure the distance to your chosen object.\\
-
-\textbf{Question 14.} Calculate the percent difference between the value you calculated and the value you measured. Recall that the formula for percent difference is $100\times\frac{calculated-measured}{measured}$, and that for percent difference, you always make your final answer positive (So that if your percent difference ends up being -25\%, you would just write 25\%).
-
-\newpage
-
-\subsection*{A Second Trial}
-
-(16) \textbf{Question 15.} Keeping your chosen object and reference point the same, repeat this process, this time making sure to choose observation points that were farther apart than those you chose the first time, so that you Length of Baseline is longer. Then, fill in the column "Trial 2" below: \\
-
-\begin{tabular}{| l | l | l |}
-	\hline
-	                               & Trial 1\hspace{4cm} & Trial 2\hspace{4cm}  \\ \hline
-	(1) Angular Separation at Point 1 (L/R)  &                     &                      \\ \hline
-	(1) Angular Separation at Point 2  (L/R) &                     &                      \\ \hline
-	(2) Total Parallax                       &                     &                      \\ \hline
-	(1) Length of Baseline                   &                     &                      \\ \hline
-	(1) Calculated Distance to Object        &                     &                      \\ \hline
-	(1) Measured Distance to Object          &                     &                      \\ \hline
-	(1) Percent Difference                   &                     &                      \\
-	\hline
-\end{tabular}\\
-
-\textbf{Question 16.} For both trials, how accurately were you able to calculate the distance to the object? Which trial gave a better result?\\
-
-\vspace{1.5cm}
-(2) \hrulefill\\
-
-\textbf{Question 17.} Think back to the prelab simulator, and how including error in your measurement affected how believable your result was. In this experiment, there are a number of possible sources of error. List as many as you can below (at least 3!). Please note that "human error" is not an acceptable answer. Human error means you did something wrong or imperfect; what specifically did you do wrong or imperfectly?\\
-
-\vspace{4.5cm}
-(3+2)\hrulefill
-
-\newpage
-
-(5) \textbf{Question 18.} In the space below, draw a sketch of one trial in the experiment we've done. Like the prelab, this should be a \textbf{schematic} diagram, consisting mostly of simple lines, dots and labels, rather than an art project. In your sketch, be sure to label your two observation points, your baseline, the object you were measuring the distance to, and your distant reference object!
-
-\newpage
-
-\section{Closing Concepts}
-\textbf{Question 19.} Before the age of rockets, any measurement of the stars had to be made on Earth. If you're confined to Earth and wish to observe the parallax of stars, what is the longest baseline you can possibly have? \textit{hint: it may involve making observations at two different times and the orbit of the Earth}.\\
-
-\vspace{1.5cm}
-(1) \hrulefill\\
-
-\textbf{Question 20.} The diameter of the Earth's orbit is 2 AU (Do you remember what an AU is?), and the closest star system to Earth other than the Sun is Alpha Centauri, approximately 276000 AU away. Using the equation in Section 3, calculate how much parallax this star exhibits using the longest possible baseline available to us on Earth.\\
-
-\vspace{1.5cm}
-(2) \hrulefill\\
-
-\textbf{Question 21.} Tycho Brahe made the best "naked eye" measurements of the stars to date, with an accuracy of 0.03 degrees. Compare with your answer to question 21; was Tycho Brahe able to measure the parallax of Alpha Centauri?\\
-
-\vspace{1.5cm}
-(2) \hrulefill\\
-
-\textbf{Question 22.} If the stars really do exhibit parallax, why couldn't ancient astronomers see it? This is why the Celestial Sphere model happened!\\
+\textbf{Question 3.} What happened when you gave the Earth a large starting velocity of 10 AU/year? Is this what you expected? Do you think that the Earth would really move in this way if its velocity were suddenly increased to 10 AU/year?
 
 \vspace{1.5cm}
 (3) \hrulefill\\
+
+\textbf {Question 4.} Remember that the focus of an ellipse is close to the center of the long axis if the ellipse is not very eccentric, but close to the edge if it is strongly eccentric. Look back at your drawings for the previous question. Is this true in the orbits you observed?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf {Question 5.} Now, let's look at Kepler's second law, which compares {\it the speed of a planet} at {\it different places in its orbit}. By changing the starting distance from the Sun and the starting velocity, put your planet into an orbit with eccentricity at least 0.6.
+
+Does your planet move more quickly near perihelion or aphelion? In evaluating this, look at both the animation and the graph to make sure that they agree. How does your graph show this?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf {Question 6.} Does your planet spend more time near perihelion or aphelion?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+
+\textbf {Question 7.} Does your planet appear to follow Kepler's second law? How do you know?
+
+\vspace{1.5cm}
+(3) \hrulefill\\
+
+
+\newpage
+
+Now, let's look at Kepler's third law, which compares {\it the time that different planets take to go around the Sun}.
+
+Kepler's original formulation of the third law says that
+
+$$
+\frac{(\mbox{orbital period})^2}{(\mbox{length of long axis})^3} = \mbox{constant}
+$$
+
+This means that if you calculate this fraction for any planet orbiting the Sun, it should be the same.
+
+\textbf {Question 8.} How can you determine the length of the long axis if you know the perihelion and aphelion distances? (A diagram on scratch paper may help you figure this out!)
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 9.} Simulate two different orbits with different starting distances and velocities. (Remember, if your planet flies off, your starting velocity is too high!)
+
+\begin{center}
+\Large
+\begin{tabular}{| c | c | c | c | c |}
+	\hline
+	Aphelion & Perihelion & Long axis & Orbital period & $\frac{(\mbox{orbital period})^2}{(\mbox{long axis})^3}$ \\
+	\hline
+	& & & & \\[1.2cm]
+	\hline
+	& & & & \\[1.2cm]
+	\hline
+	\end{tabular}
+\end{center}
+
+(8) Do your two orbits appear to follow Kepler's third law? (You won't need to square and cube things on the exam, but you can do it here!)
+
+\newpage
+
+\section{Does the Mass Matter?}
+
+The mass of the planet is set to the mass of Earth by default: 0.000003 times the mass of the Sun. Change the mass of the planet to the mass of Jupiter: 0.001 times the mass of the Sun. 
+
+\textbf{Question 10.} Did the planet's orbit change? Describe how it changed, or explain why it didn't.
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+\textbf{Question 11.} Now, change the {\it star's} mass. Does this affect the orbit? Why or why not?
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+\vspace{3em}
+
+Kepler's laws of motion were based only on the planets in our solar system. They are true only if:
+
+\begin{itemize}
+	\item A much smaller object orbits a much larger one (like Earth around the Sun)
+	\item The gravity of the larger object being orbited is the only force that causes much of an effect on the smaller object. (We don't have any other large masses near us.)
+\end{itemize}
+
+Earlier, you saw that changing the mass of the planet orbiting the Sun doesn't affect its orbit. But what happens if you make it {\it very} massive -- almost as massive as the Sun itself? 
+
+\textbf{Question 12.} Increase the mass of the planet to at least ten percent of the star's mass. What happens {\it now?} Is this what you expect?
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+
+\textbf{Question 13.} Is this behavior something that's predicted by Kepler's laws? If so, how? If it violates Kepler's laws, which of the above assumptions were violated?
+
+\vspace{1.5cm}
+
+
+(2) \hrulefill\\
+
+\textbf{Question 14.} Suppose that you looked in space and saw a star wiggling back and forth. We can see stars with telescopes, but can't see planets since they don't make their own light. If you saw a star wiggling back and forth, what could you conclude about it?
+
+\vspace{1.5cm}
+
+(2) \textbf{Question 15.} We know that many stars are {\it binary stars} -- there are two stars that orbit each other closely. Since we know that gravity affects stars in the same way as it affects planets, we can use this program to simulate binary stars too. 
+
+Set the mass of the ``planet'' to nearly the same as the mass of the ``star'': both of them will now represent stars. See if you can create an orbit where the two stars orbit each other. Show your orbit to your TA when you've got it.
+
+
+
+
+
+
+\section{How's This All Work?}
+
+This program may look complicated. But most of the code has to do with making the animation and table you see! The only code that actually performs the simulation -- where the actual {\it physics} is -- is between line 50 and 65.
+
+All of the laws of nature that control the motion of orbits are the following:
+
+\begin{itemize}
+	\item Forces cause things to accelerate, where the acceleration is equal to the force divided by the mass of that thing {\bf (Newton's second law of motion)}
+	\item Any two objects attract each other with a force equal to $F=\frac{Gm_1m_2}{r^2}$, where the force is directed toward the other object {\bf (The law of gravity)}
+	\item Forces come in pairs: if the star's gravity exerts a force on the planet, the planet's gravity exerts a force back on the star that goes {\bf (Newton's third law of motion)} in the opposite direction and has the same size
+	\item In a small interval of time, an object's position changes by an amount equal to its velocity multiplied by the amount of time. (You know this already: if you are traveling at 50 miles per hour, and you do this for two hours, you will go 100 miles...) {\bf (Definition of velocity)}
+	\item In a small interval of time, an object's velocity changes by an amount equal to its acceleration multiplied by the amount of time. {\bf (Definition of acceleration)}
+\end{itemize}
+\newpage
+
+The computer simulation in this program works as follows. First, we divide time up into very tiny intervals (the length is given on line 40, if you want to change it). Then, repeat the following:
+
+\begin{enumerate}
+	\item Determine the distance from the planet to the star
+	\item Determine the {\it direction} from the planet to the star
+	\item Using Newton's law of gravity and the distance and direction you just found, determine the force the two objects feel from each other
+	\item Using Newton's second law of motion, determine the acceleration that this causes on each object
+	\item Using the definition of velocity, change the positions of the star and the planet by the amount that they will move during the small interval
+	\item Using the definition of acceleration, change the velocities of the star and the planet by the amount that they will change during the small interval
+\end{enumerate}
+
+This is all it does! 
+
+\vspace{1em}
+
+(5) \textbf{Question 16.} Look at the code from lines 50-65. Look at the code and try to identify what each group of lines does. Write those line numbers by the steps in the above list. 
+
+(5) \textbf{Question 17.} As you saw earlier, this simulation has all of the features that Kepler observed in the orbits of the actual planets. However, Kepler's laws don't appear {\it anywhere} in this code; there are no mentions of ellipses, long and short axes, moving faster near perihelion, or anything like that!
+
+You've already seen how this program works. Why do you think it correctly simulates the features of the planets' orbits, even though it doesn't have any of the substance of Kepler's laws inside it?
+
+
+
+
+
+
+
+
 \end{document}
