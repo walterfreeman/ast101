@@ -13,7 +13,7 @@ category: top
 * Jeffrey Frelier: <jpfrelie@syr.edu>
 * Suman Kumar Kundu: <skundu@syr.edu> 
 * Manu Mannatil: <mmannatt@syr.edu>
-* Mario Olivaras: <maolivar@syr.edu>
+* Mario Olivares: <maolivar@syr.edu>
 * Fang Wang: <fwang13@syr.edu>
 
 | **Section**    | **Instructor** | **Time** |
@@ -33,10 +33,10 @@ category: top
 |M030|Jeffrey Frelier   		 |Tuesday 8:00PM-9:20PM |
 |M025|Suman Kundu           	 |Wednesday 8:00AM-9:20AM |
 |M011|Suman Kundu		 |Wednesday 9:30AM-10:50AM |
-|M012|Mario Olivaras  	 	 |Wednesday 11:00AM-12:20PM |
-|M013|Mario Olivaras             |Wednesday 12:45PM-2:05PM |
+|M012|Mario Olivares  	 	 |Wednesday 11:00AM-12:20PM |
+|M013|Mario Olivares             |Wednesday 12:45PM-2:05PM |
 |M014|Manu Mannatil		 |Wednesday 2:15PM-3:35PM |
-|M015|Mario Olivaras		 |Wednesday 3:45PM-5:05PM |
+|M015|Mario Olivares		 |Wednesday 3:45PM-5:05PM |
 |M016|Fang Wang		 |Wednesday 5:15PM-6:35PM |
 |M017|Fang Wang 		 |Wednesday 6:45PM-8:05PM |
 |M018|Manu Mannatil	   	 |Wednesday 8:15PM-9:35PM |
@@ -46,5 +46,5 @@ category: top
 |M026|Suman Kundu          	 |Friday 8:00AM-9:20AM |
 |M021|Pan Dong                	 |Friday 9:30AM-10:50AM |
 |M022|Pan Dong  		 |Friday 11:00AM-12:20PM |
-|M023|Mario Olivaras 		 |Friday 12:45PM-2:05PM |
+|M023|Mario Olivares 		 |Friday 12:45PM-2:05PM |
 
