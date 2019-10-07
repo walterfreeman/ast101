@@ -12,6 +12,8 @@ Current lecture slides: <a href="slides/lecture11/lecture11.pdf">Gravity</a><br>
 </h4>
 **Announcements:**
 
+[Exam 2 from last year](exam2-formA.pdf) is available now. I'll post the answer key next Monday.
+
 [Prelab 5](labs/lab5/lab5prelab.pdf) is available now. You will need a computer or tablet with keyboard to complete it.
 
 [The take-home lab](labs/moon_and_sun.pdf) is also available now. It is due on December 3.
@@ -33,7 +35,7 @@ Pending ask-the-physicist questions:
 
 <!-- Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience? -->
 
-Paritosh Jain asks: what is a neutron star? 
+<!-- Paritosh Jain asks: what is a neutron star? -->
 
 Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
 
