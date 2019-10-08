@@ -7,6 +7,8 @@ title: Welcome to Astronomy 101!
 
 Current lecture slides: <a href="slides/lecture12/lecture12.pdf">Newtonian mechanics</a><br><br> 
 
+Current lecture slides: <a href="lecture12.pdf">Newtonian mechanics</a><br><br> 
+
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
 </h4>
