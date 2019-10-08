@@ -5,7 +5,7 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture11/lecture11.pdf">Gravity</a><br><br> 
+Current lecture slides: <a href="slides/lecture12/lecture12.pdf">Newtonian mechanics</a><br><br> 
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
@@ -17,11 +17,6 @@ Current lecture slides: <a href="slides/lecture11/lecture11.pdf">Gravity</a><br>
 [Prelab 5](labs/lab5/lab5prelab.pdf) is available now. You will need a computer or tablet with keyboard to complete it.
 
 [The take-home lab](labs/moon_and_sun.pdf) is also available now. It is due on December 3.
-<h4>Submission instructions for papers</h4>
-
-* If you haven't turned in your papers yet, get on that!
-* Put a copy in your TA's mailbox
-* Email a copy (as an attachment -- no Google Drive or Sharepoint links) to <suast101projects@gmail.com>
 
 ---
 
@@ -38,6 +33,8 @@ Pending ask-the-physicist questions:
 <!-- Paritosh Jain asks: what is a neutron star? -->
 
 Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
+
+Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work?
 
 Alex Wyers asks: In *Star Wars*, the planet Tatooine has two suns. Besides making the planet incredibly hot all the time, what other effects might this have on the planet, and have we observed any solar systems in the real world with two suns similar to Tatooine?
 
