@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.22)  10 OCT 2018 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  10 OCT 2019 09:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,13 +81,39 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -102,8 +128,8 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
 )
 (/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
@@ -112,32 +138,66 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 (./lecture-tutorial-conservation-of-energy.aux)
 \openout1 = `lecture-tutorial-conservation-of-energy.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(43.36243pt, 527.57014pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=620.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count99
-\scratchdimen=\dimen114
+\scratchcounter=\count102
+\scratchdimen=\dimen122
 \scratchbox=\box28
-\nofMPsegments=\count100
-\nofMParguments=\count101
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count102
-\MPscratchDim=\dimen115
-\MPnumerator=\count103
-\makeMPintoPDFobject=\count104
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen123
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -174,10 +234,6 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -194,74 +250,73 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 <kinetic-graph-1-crop.pdf, id=15, 327.2225pt x 156.585pt>
 File: kinetic-graph-1-crop.pdf Graphic file (type pdf)
 <use kinetic-graph-1-crop.pdf>
-Package pdftex.def Info: kinetic-graph-1-crop.pdf  used on input line 102.
+Package pdftex.def Info: kinetic-graph-1-crop.pdf  used on input line 105.
 (pdftex.def)             Requested size: 281.85587pt x 134.8755pt.
 <gpe-graph-1-crop.pdf, id=16, 327.2225pt x 144.54pt>
 File: gpe-graph-1-crop.pdf Graphic file (type pdf)
 <use gpe-graph-1-crop.pdf>
-Package pdftex.def Info: gpe-graph-1-crop.pdf  used on input line 104.
+Package pdftex.def Info: gpe-graph-1-crop.pdf  used on input line 107.
 (pdftex.def)             Requested size: 281.85587pt x 124.50044pt.
 <other-graph-1-crop.pdf, id=17, 329.23pt x 165.61874pt>
 File: other-graph-1-crop.pdf Graphic file (type pdf)
 <use other-graph-1-crop.pdf>
-Package pdftex.def Info: other-graph-1-crop.pdf  used on input line 106.
+Package pdftex.def Info: other-graph-1-crop.pdf  used on input line 109.
 (pdftex.def)             Requested size: 281.85587pt x 141.78996pt.
 <total-graph-1-crop.pdf, id=18, 327.2225pt x 132.495pt>
 File: total-graph-1-crop.pdf Graphic file (type pdf)
 <use total-graph-1-crop.pdf>
-Package pdftex.def Info: total-graph-1-crop.pdf  used on input line 108.
+Package pdftex.def Info: total-graph-1-crop.pdf  used on input line 111.
 (pdftex.def)             Requested size: 281.85587pt x 114.12541pt.
  [3 <./kinetic-graph-1-crop.pdf> <./gpe-graph-1-crop.pdf> <./other-graph-1-crop
 .pdf> <./total-graph-1-crop.pdf>]
 <orbit-crop.pdf, id=38, 244.915pt x 165.61874pt>
 File: orbit-crop.pdf Graphic file (type pdf)
 <use orbit-crop.pdf>
-Package pdftex.def Info: orbit-crop.pdf  used on input line 142.
+Package pdftex.def Info: orbit-crop.pdf  used on input line 145.
 (pdftex.def)             Requested size: 234.8775pt x 158.8355pt.
- [4 <./orbit-crop.pdf>]
-<kinetic-orbit-crop.pdf, id=46, 330.23375pt x 146.5475pt>
+ [4 <./orbit-crop.pdf>] [5]
+<kinetic-orbit-crop.pdf, id=49, 330.23375pt x 146.5475pt>
 File: kinetic-orbit-crop.pdf Graphic file (type pdf)
 <use kinetic-orbit-crop.pdf>
-Package pdftex.def Info: kinetic-orbit-crop.pdf  used on input line 186.
+Package pdftex.def Info: kinetic-orbit-crop.pdf  used on input line 189.
 (pdftex.def)             Requested size: 281.85587pt x 125.08249pt.
- [5]
 <gpe-orbit-crop.pdf, id=50, 327.2225pt x 144.54pt>
 File: gpe-orbit-crop.pdf Graphic file (type pdf)
 <use gpe-orbit-crop.pdf>
-Package pdftex.def Info: gpe-orbit-crop.pdf  used on input line 188.
+Package pdftex.def Info: gpe-orbit-crop.pdf  used on input line 191.
 (pdftex.def)             Requested size: 281.85587pt x 124.50044pt.
 <total-orbit-crop.pdf, id=51, 329.23pt x 168.63pt>
 File: total-orbit-crop.pdf Graphic file (type pdf)
 <use total-orbit-crop.pdf>
-Package pdftex.def Info: total-orbit-crop.pdf  used on input line 190.
+Package pdftex.def Info: total-orbit-crop.pdf  used on input line 193.
 (pdftex.def)             Requested size: 281.85587pt x 144.36797pt.
 File: orbit-crop.pdf Graphic file (type pdf)
 <use orbit-crop.pdf>
-Package pdftex.def Info: orbit-crop.pdf  used on input line 196.
-(pdftex.def)             Requested size: 234.8775pt x 158.8355pt.
+Package pdftex.def Info: orbit-crop.pdf  used on input line 199.
+(pdftex.def)             Requested size: 164.41711pt x 111.18636pt.
  [6 <./kinetic-orbit-crop.pdf> <./gpe-orbit-crop.pdf> <./total-orbit-crop.pdf>]
  [7] (./lecture-tutorial-conservation-of-energy.aux) ) 
 Here is how much of TeX's memory you used:
- 2150 strings out of 492982
- 29632 string characters out of 6134896
- 88267 words of memory out of 5000000
- 5692 multiletter control sequences out of 15000+600000
+ 2629 strings out of 492982
+ 36657 string characters out of 6134895
+ 101138 words of memory out of 5000000
+ 6160 multiletter control sequences out of 15000+600000
  8304 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,25p,306b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,4n,32p,306b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
@@ -269,7 +324,7 @@ fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb>
-Output written on lecture-tutorial-conservation-of-energy.pdf (7 pages, 113032 
+Output written on lecture-tutorial-conservation-of-energy.pdf (7 pages, 112917 
 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)

@@ -5,13 +5,15 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture12/lecture12.pdf">Newtonian mechanics</a><br><br> 
+Current lecture slides: <a href="slides/lecture13/lecture13.pdf">The conservation of energy</a><br><br> 
 
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
 </h4>
 **Announcements:**
+
+Here's the [Exam 2 Suggest-A-Question](https://docs.google.com/forms/d/10v16Hwed2N0IgKIhOZi6dYtIq71vhd2wMZX-cUqU__Y/) form for extra credit on Exam 2.
 
 [Exam 2 from last year](exam2-formA.pdf) is available now. I'll post the answer key next Monday.
 
@@ -31,11 +33,11 @@ Pending ask-the-physicist questions:
 
 <!-- Dmytro Kuchirka asks: I have a question regarding the velocity of Earth. If it was increased to the speed approximate to the simulation you showed in class how would it affect life on Earth and what changes could mankind and Earth experience? -->
 
-<!-- Paritosh Jain asks: what is a neutron star? -->
+<!-- Paritosh Jain asks: what is a neutron star? 
 
 Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
 
-Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work?
+Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? -->
 
 Alex Wyers asks: In *Star Wars*, the planet Tatooine has two suns. Besides making the planet incredibly hot all the time, what other effects might this have on the planet, and have we observed any solar systems in the real world with two suns similar to Tatooine?
 

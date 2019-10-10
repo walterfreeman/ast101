@@ -28,6 +28,10 @@
 \def\leftpartial{{\overleftarrow\partial}}
 \def\diffpartial{\buildrel\leftrightarrow\over\partial}
 
+\def\BS{\bigskip}
+\def\HC{\column{0.5\textwidth}}
+\def\BCC{\begin{columns}}
+\def\ECC{\end{columns}}
 \def\BC{\begin{center}}
 \def\EC{\end{center}}
 \def\BN{\begin{enumerate}}
@@ -78,6 +82,7 @@
 \definecolor{Green}         {cmyk}{1,0,1,0}
 \definecolor{Brown}         {cmyk}{0,0.81,1,0.60}
 \definecolor{Silver}        {rgb}{0.95,0.9,1.0}
+\definecolor{White}        {rgb}{0.95,0.9,1.0}
 \definecolor{Sky}           {rgb}{0.07,0.0,0.2}
 \definecolor{Darkbrown}     {rgb}{0.4,0.3,0.2}
 \definecolor{40Gray}        {rgb}{0.4,0.4,0.5}
@@ -101,11 +106,11 @@
 
 %AB: remove navigation icons
 \beamertemplatenavigationsymbolsempty
-\title[Celestial mechanics]{
-  \textbf {Celestial mechanics}}
+\title[The conservation of energy]{
+  \textbf {The conservation of energy}}
 
 
-\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2016\\Walter Freeman}
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2019\\Walter Freeman}
 
 \date{\today}
 
@@ -115,457 +120,272 @@
 
 \frame{\titlepage}
 
+%\frame{
+%
+%
+%"What, then, is the meaning of it all? ... I think that we must frankly admit that {\em we do not know.}
+%
+%\bigskip
+%
+%This is not a new idea; this is the idea of the age of reason.  This is the philosophy that guided the men who made the democracy that we live under. 
+%The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, tossed out, more new ideas brought in; a trial and error system.  
+%This method was a result of the fact that science was already showing itself to be a successful venture at the end of the 18th century.  
+%Even then it was clear to socially‑minded people that the openness of the possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown.  
+%If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar.
+%
+%\bigskip
+%
+%We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems....  Our responsibility is to do what we can, learn what we can, improve the solutions and pass them on.  
+%It is our responsibility to leave the men of the future a free hand.  In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time.
+%This we will do if we say we have the answers now, so young and ignorant; if we suppress all discussion, all criticism, saying, "This is it, boys, man is saved!" and thus doom man for a long time to the chains of authority, confined to the limits of our present imagination.  It has been done so many times before.
+%
+%\bigskip
+%
+%It is our responsibility as scientists, knowing the great progress and great value of a satisfactory philosophy
+%of ignorance, the great progress that is the fruit of freedom of thought, to proclaim the value of this freedom, 
+%to teach how doubt is not to be feared but welcomed and discussed, and to demand this freedom as our duty to all coming generations.
+%
+%\bigskip
+%
+%\large
+%\begin{flushright}--Feynman, {\it The Value of Science} (1955)\end{flushright}
+%}
+%
+%
+
 
 \frame{\frametitle{\textbf{Announcements}}
 \Large
+\BC Exam 2 is next Thursday. That means:\EC
 \BI
-\item{Per email: blanket mini-extension given to everyone for Mastering Astronomy until tonight at midnight}
-\item{Study guide posted}
-\item{Exam prep schedule:}
-\BI
-\item{Thursday: Class as usual, with a mini-review and time for questions}
-\item{Friday: Help session Friday morning (9:30-11:30) and afternoon (1:30-3:30)}
-\item{Sunday: Review session, times announced Thursday}
-\item{Monday: Available all day for questions.}
-\item{Extra coach in Clinic: Friday at 4:45 PM - 7:45 PM and Monday at 2:05 PM ~ 5:05PM}
+
+
+\item Review session 2-5 PM Monday in the Physics Clinic (by Walter) 
+\item ``Suggest-a-question'' warmup question is on the course website
 \EI
-\item Remember, there are astronomy coaches and/or physics PhD students in the Clinic all the time to help you!
-\EI
+
+\pause
+
+\BS\BS
+
+Next week's prelab is available online; paper copies will be available by the end of the day today.
+\pause
+
+\BS\BS
+
+I am behind answering messages. I hope to catch up tomorrow morning. Sorry!
 }
 
-\frame{\frametitle{\textbf{For the exam:}}
-
-\BC
-\Large
-Bring your student ID (or memorize your SUID)!
-
-\bigskip
-\bigskip
-\bigskip
-
-\large
-
-The biggest cause of grading issues is {\it SUID errors}. Reducing these will help everything go more smoothly.
-
-\EC
-
-}
 
 \frame{\frametitle{\textbf{Last time}}
 \Large
+We saw last time that Newton's two big ideas let us predict the motion of all the planets.
 
-Newton's laws of motion (the first two):
+\BCC
+\HC
+\color{A}
+\BC
+\Huge Newton's second law
+\EC
+\HC
+\color{B}
+\BC
+\Huge Gravitation 
+\EC
+\ECC
 
-\large
+\BCC
+\HC
+\color{A}
+\Large \BC $F = ma$ or $a = F/m$
 
-\BI
-\item{Objects continue moving in a straight line at a constant velocity unless a force acts on them}
-\item{Forces make objects accelerate}
-\EI
+\BS
 
-The terms used here have particular meanings:
+Tells us the size of the acceleration created by any force\EC
+\HC 
+\color{B}
+\Large \BC $F_g = \frac{Gm_Am_B}{r^2}$
 
-\BI
-\item{{\bf Velocity:} The speed {\it and direction} of an object's motion}
-\item{{\bf Acceleration:} A change in an object's velocity (speeding up, slowing down, or changing direction}
-\EI
+\BS
 
-\bigskip
-\bigskip
-
-In symbols, Newton's second law can be written:
-
-$$(\rm object's\,acceleration) = (\rm force\,applied\,to\,object) \div (\rm object's\,mass)$$
-
-or
-
-$$F=ma.$$
+Tells us how big the gravitational force is between two objects A and B whose centers are a distance $r$ apart
+\EC
+\ECC
 }
-
-\frame{\frametitle{\textbf{Last time: gravity}}
-\Large
-We also saw that
-
-$$
-F_{\rm grav} = \frac{G \times ({\rm mass\, of\, object\, A}) \times ({\rm mass\, of\, object\, B})}{({\rm distance\, between\, them})^2}
-$$
-
-\pause\bigskip\bigskip
-
-or, in mathematical shorthand,
-
-$$
-F_{\rm grav} = \frac{Gm_1m_2}{r^2}.
-$$
-
-
-\large
-\pause
-
-\bigskip
-\bigskip
-
-$G$ is just a number telling how strong gravity is: about a ten-billionth of the weight of an apple for two kilogram objects a meter apart.
-} 
 
 \frame{
 
+\Huge
 \BC
-\Large
-Now we're going to see how Newton's discovery of the principles of physics explains some features of Kepler's laws.
+Finish {\it Lecture Tutorials} pp. 29-32 if you haven't yet.
 \EC
 }
 
 
-\frame{\frametitle{\textbf{How does gravity make things accelerate?}}
+\frame{\frametitle{\textbf{Ugh, math}}
+\Large
 
+These two ideas, put together, let us predict things as complicated
+as galactic collisions! 
+
+\BS\pause
+
+Kepler's laws (``what happens'') are consequences of Newton's mechanics (``why 
+does it happen?'')
+
+\pause\BS
+
+\color{Red}
+... but we need a {\it supercomputer} to do that, and it takes either very hard math 
+or a computer simulation to even get Kepler's second law out of them! 
+ 
+\BS\pause
+
+\color{B}
+
+Kepler knew that there were underlying causes of his laws, but he wasn't good enough
+at math to discover them. Can we do better than Kepler? Can we find 
+{\it general principles of physics} that give us insight without needing hard math?
+}
+
+\frame{\frametitle{\textbf{The conservation of energy}}
 \BC
-\large Find the acceleration due to gravity using \\Newton's second law $F=ma$ and $F_{\rm grav}=\frac{GMm}{r^2}$.
+\Large
+
+Yes -- at least for Kepler's second law.
+
+\BS
+
+Newton totally missed the idea of {\it energy} in all his work. 
 \EC
-
-\bigskip
-\bigskip
-
+\pause\BS\BS
+\Large
+Energy comes in two kinds:
+\BI
+\large
+\item Kinetic energy: the motion of objects
+\BI
 \normalsize
+\item Heat, light, and sound energy are technically kinds of kinetic energy, but
+we usually call them by those names instead
+\EI
 
-Here I'm using $m$ for the object being accelerated, and $M$ for the mass of the other object. 
+\BS
 
-\bigskip
+\item Potential energy: objects are in a place where they are attracted to each 
+other
+\BI 
+\normalsize
+\item If I let them go, they'll move toward each other
+\item {\it \color{Red} Potential} to become kinetic energy
+\item Chemical energy is a kind of potential energy
+\item The one we really care about is {\it gravitational potential energy}
+\EI
+\EI
+}
 
-If we're looking at how Earth's causes a satellite to accelerate in its orbit around it, $M$ is the mass of the Earth and $m$ is the mass of the satellite.
 
-\bigskip
-\bigskip
-\bigskip
-\Large
+\frame{\frametitle{\textbf{The big idea: {conservation} of energy}}
+
+\huge\color{Red}\BC Energy can never be created or destroyed.
+
+It can only be changed from one form to another.\EC
+
+\Large\BS
+\color{White}
+A pendulum swings back and forth: it converts gravitational potential energy
+to kinetic energy and back again.
+
+\BS
+
+This perspective is universal: {\color{B}all} forces just convert energy from one sort into another}
+
+\frame{\frametitle{\textbf{A short history of some energy:}}
+\small
+
 \begin{columns}
-\column{0.5\textwidth}
-$$F_g=ma$$
-\column{0.5\textwidth}
-$$F_g = \frac{GMm}{r^2}$$
+  \column{0.5\textwidth}
+\BI
+\item{Hydrogen in the sun fuses into helium}
+\item{Hot gas emits light}
+\item{Light shines on the ocean, heating it}
+\item{Seawater evaporates and rises, then falls as rain}
+\item{Rivers run downhill}
+\item{Falling water turns a turbine}
+\item{Turbine turns coils of wire in generator}
+\item{Electric current ionizes gas}
+\item{Recombination of gas ions emits light}
+  \EI
+  \column{0.5\textwidth}
+\BI
+\item{Nuclear energy $\rightarrow$ thermal energy}
+\item{Thermal energy $\rightarrow$ light}
+\item{Light $\rightarrow$ thermal energy}
+\item{Thermal energy $\rightarrow$ gravitational pot. energy}
+\item{Gravitational PE $\rightarrow$ kinetic energy and sound}
+\item{Kinetic energy in water $\rightarrow$ KE in turbine}
+\item{Kinetic energy $\rightarrow$ electric energy}
+\item{Electric energy $\rightarrow$ chemical potential energy}
+\item{Chemical PE $\rightarrow$ light}
+\EI
 \end{columns}
+}
 
+\frame{\frametitle{\textbf{The pendulum, revisited}}
+\Large
+How much kinetic energy does the pendulum have when I hold it?
+
+\pause \BS \BS
+
+As it moves downward, what happens?
+
+\BS
+
+\color{A}A: It converts some potential energy into kinetic energy \\
+\color{B}B: The Earth's gravity makes it accelerate down \\
+\color{C}C: Its total energy goes up, since its kinetic energy increases \\ 
+\color{D}D: Its total energy goes down, since its potential energy decreases \\
+\color{E}E: Its kinetic energy and potential energy both go up \\
+}
+
+\frame{\frametitle{\textbf{The pendulum, revisited}}
+\Large
+How much kinetic energy does the pendulum have when I hold it?
+
+\pause \BS \BS
+
+How high will it go on the other side?
+
+\BS
+
+\color{A}A: To the same height that it started at \\ 
+\color{B}B: Slightly less high \\
+\color{C}C: A little bit higher \\  \pause
+\color{D}D: Let's try it and find out!
+
+\pause\BS
+
+\color{White}
+
+At its starting height it has no kinetic energy; to make it go higher, 
+we'd need to get more energy from {\it somewhere} to convert into 
+gravitational potential energy.
+}
+
+
+
+
+\frame{
+\Huge
 \BC
-Set the two equal:
+Complete the handout Tutorial. 
+
+\BS
+
+After this, we'll discuss Exam 2 from last year.
 \EC
-$${\color{Red} m}a = \frac{GM{\color{Red}m}}{r^2}$$
-}
-
-\frame{\frametitle{\textbf{How does gravity make things accelerate?}}
-\Large
-\begin{columns}
-\column{0.5\textwidth}
-$$F_g=ma$$
-\column{0.5\textwidth}
-$$F_g = \frac{GMm}{r^2}$$
-\end{columns}
-
-\BC
-Set the two equal:
-\EC
-$${\color{Red} m}a = \frac{GM{\color{Red}m}}{r^2}$$
-\BC
-The $m$'s (mass of the satellite, here) cancel!
-\EC
-$$a = \frac{GM}{r^2}$$
-
-\large
-\BC
-The acceleration {\color{Red}doesn't depend on mass!} 
-\EC
-\bigskip
-
-This explains why Kepler's third law, about orbital times, doesn't depend on the mass of the planet; the acceleration from gravity doesn't depend on the 
-mass being accelerated.
 }
 
 
-
-\frame{\frametitle{\textbf{How does this create circular motion?}}
-\Large
-Without a force, things travel in straight lines at constant speeds (Newton's first law).
-
-\bigskip
-
-It requires a force {\it directed toward the center} to hold something in circular motion.
-
-\bigskip
-\bigskip
-
-Let's demonstrate and watch this.}
-
-
-\frame{\frametitle{\textbf{Which way will the ball go?}}
-\Large
-I'm going to whirl a ball around a circular metal track. When I remove a bit of the track, the ball will fly out.
-Which way will it go? (Answer choices on document camera)}
-
-
-\frame{\frametitle{\textbf{How does this create circular motion?}}
-\Large
-
-Consider a planet orbiting a star:
-
-\BI
-\item Gravity always pulls the planet inward
-\item A force directed toward the center is required for a circular orbit
-\item Very specific balance between orbital speed and distance required for a circle (otherwise we get an ellipse!)
-\EI
-}
-
-\frame{
-\Large
-
-\BC Let's watch this. Note: \EC
-
-\BI
-\item The planet's {\it velocity} {\color{Red} (red arrow)} is always pointed in the direction it is moving
-\item The planet's {\it acceleration} {\color{Green} (green arrow)} is always pointed toward the Sun
-\EI
-}
-
-
-
-\frame{\frametitle{\textbf{What about elliptical orbits?}}
-
-\Large
-For gravity, the force depends on the distance from the center, as you know. 
-
-\bigskip
-
-The particular mathematics that produces ellipses is beyond the scope of this class. But we can understand the principles!}
-
-
-\frame{\frametitle{\textbf{What about elliptical orbits?}}
-\large
-``If we imagine a line connecting a comet and the sun, we can see that when a comet is closer to the sun, the line is smaller and when the comet is further, the line is longer. Newton's law of gravity says that the shorter the line gets, the stronger the connection (gravity) is between the sun and the comet. Conversely, the longer the line gets, the weaker the connection (gravity) is between the comet and the sun.''
-
-\bigskip
-\bigskip
-
-\begin{flushright}--Ariana\end{flushright}
-}
-
-\frame{\frametitle{\textbf{What about elliptical orbits?}}
-\Large
-If the comet is closer to the Sun, that means:
-
-\BI
-\item The gravitational force is higher
-\item The acceleration is higher
-\item The comet's velocity changes direction faster
-\item It ``whips around the Sun'' near perihelion (point of close approach)
-\EI
-
-\bigskip
-\bigskip
-
-When it is further from the Sun:
-
-\BI
-\item The gravitational force is very small
-\item It takes a long time to change direction
-\item The Sun's gravity takes a long time to arrest the comet's motion and turn it back around
-\EI
-}
-
-\frame{\frametitle{\textbf{Angular momentum}}
-\Large
-Another consequence of the mathematics of Newton's laws is {\it angular momentum}.
-
-\bigskip
-\bigskip
-
-Any spinning or revolving object has angular momentum.
-
-\bigskip
-\bigskip
-
-Angular momentum = (mass) $\times$ (how far it is from the center of motion) $\times$ (how fast it is moving around the center)
-
-\bigskip
-\bigskip
-
-Angular momentum is {\color{Red}conserved} -- unless an outside agent messes with it, this product will always remain the same!
-
-\pause
-
-\bigskip
-\bigskip
-
-\url{https://www.youtube.com/watch?v=VmeM0BNnGR0}
-
-}
-
-\frame{\frametitle{\textbf{Angular momentum and Kepler's laws}}
-\Large
-Consider an elliptical orbit like the one displayed. When the planet is closer to the Sun, is its angular momentum:
-
-\bigskip
-\bigskip
-
-\color{A}A: Larger than when it is far from the Sun\\
-\color{B}B: Smaller than when it is far from the Sun\\
-\color{C}C: The same as when it is far from the Sun
-}
-
-\frame{\frametitle{\textbf{Angular momentum and Kepler's laws}}
-\Large
-Consider an elliptical orbit like the one displayed. When the planet is closer to the Sun, is its speed around the Sun
-
-\bigskip
-\bigskip
-
-\color{A}A: Larger than when it is far from the Sun\\
-\color{B}B: Smaller than when it is far from the Sun\\
-\color{C}C: The same as when it is far from the Sun
-}
-
-\frame{\frametitle{\textbf{Angular momentum and Kepler's laws}}
-
-\Large
-
-Angular momentum = (mass) $\times$ {\color{Red}(how far it is from the Sun)} $\times$ {\color{Green}(how fast it is moving around the Sun)}
-
-\bigskip
-\bigskip
-\bigskip
-
-\pause
-
-Remember, angular momentum is {\color{Red}conserved} -- this product is always the same. 
-
-\bigskip
-
-If the distance from the Sun increases, the speed it moves around the Sun must decrease to keep angular momentum the same.
-
-\pause
-
-\bigskip
-\bigskip
-\bf Kepler's second law is a {\color{Red}consequence} of the conservation of angular momentum!
-}
-
-\frame{\frametitle{\textbf{The full machinery of Newton}}
-
-\Large
-$F=ma$ along with Newton's law of gravity is enough to calculate that orbits are ellipses, and all of their properties.
-
-\bigskip
-
-The math here is hard if you don't have a computer to help you.
-\large
-
-\bigskip
-
-
-\BI
-\item{I've shown you simulations with a few planets}
-\item{My poor dying laptop can handle perhaps a hundred planets before it gets unbearably slow}
-\item{... a supercomputer, with faster algorithms than I have, can do very many more!}
-\pause
-\item{Remember this? \url{https://youtu.be/PrIk6dKcdoU}}
-\item{This is all a consequence of Newton's laws, just with many more objects than I've used}
-\EI
-}
-
-
-\frame{\frametitle{\textbf{The clockwork universe}}
-``Our imagination only beautifies the World surrounding us; however, the successes of physics help us know more about the "truth" in this world. Moreover, when the word "World" means some place bigger than the Earth, the successful physics brings us to a new system - the Universe, which is much more attractive and special.''
-
-\bigskip
-\bigskip
-
-\begin{flushright}
---Boting Zhu
-\end{flushright}
-
-
-}
-
-\frame{
-
-``I think that this "clockwork universe" picture detracts from the romance of the world around us. For example, when you look at a complex math equation with 6 different variables and 10 different operations between them, do we marvel at its beauty? No, we get a headache and we get confused. I believe that there is beauty in simplicity, and thats why I do not look at Nature as an immensely complicated machine. Our successes of physics are helping our quest to find beauty and meaning in the world around us because even though the mathematics behind the new models and theories may be difficult, the underlying ideas are helping to explain the simplicity of the world. For example, even though we are learning that gravity has many complexities, gravity is simply just a force. There is beauty in that simplicity.''
-
-\begin{flushright}
---Lillee
-\end{flushright}
-
-\pause
-
-``I believe that the clockwork universe is inspiring, and while it is necessary to see how it works scientifically, it would be quite a beautiful thing to believe that the universe operates so simply, and isn't as complex as it's made out to be. The successes of physics detract from the natural beauty of it all, but are integral towards our understanding of how everything works.''
-
-\pause
-
-\begin{flushright}
---``Ken Bone Apple Tea'', apparently a memelord or a Redditor
-\end{flushright}
-}
-
-\frame{
-``I think the clockwork nature of our universe is romantic, it doesn't take away from the beauty of the world around us, it contributes to it. To believe the universe is itself far more connected than most people can imagine is an idea which contains its own complex beauty. The successes of physics will allow us to develop a more in depth understanding of the universe in which we reside, which can lead to a relationship in which all parts of the universe, big and small, are seen as central to our lives.''
-
-\begin{flushright}
---``Ich bin ein Berliner'', apparently either a president or a jelly doughnut
-\end{flushright}
-}
-
-\frame{
-``I believe that every time we keep discovering more about our universe, it keeps becoming more complicated, and it keeps becoming more beautiful in our eyes. The universe is something very complicated to understand, but really easy to enjoy. I think the "clockwork universe" picture is very inspiring, and it shows us the beauty of the world. The successes of physics mean that everyday we are going to know more and more about the universe, which also means we are going to enjoy the beauty of it more and more as the years go by.''
-\begin{flushright}
---Eduardo Sola
-\end{flushright}
-}
-
-\frame{
-``[T]he imagination of nature is far, far greater than the imagination of man (sic). For instance, how much more remarkable it is for us to be stuck -- half of us upside down -- by a mysterious attraction, to a spinning ball that has been swinging in space for billions of years, than to be carried on the back of an elephant supported on a tortoise swimming in a bottomless sea.
-
-\bigskip
-
-For instance, I stand at the seashore, alone, and start to think. 
-
-\smallskip
-
-There are the rushing waves, mountains of molecules, each stupidly minding its own business, trillions apart, yet forming white surf in unison.
-
-\smallskip
-
-
-Ages on ages, before any eyes could see, year after year, thunderously pounding the shore as now. 
-
-\smallskip
-
-
-For whom, for what? On a dead planet, with no life to entertain.
-
-\smallskip
-
-
-Never at rest,  tortured by energy, wasted prodigiously by the sun, poured into space. A mite makes the sea roar.
-
-
-\smallskip
-
-Deep in the sea, all molecules repeat the patterns of one another till complex new ones are formed. They make others like themselves, and a new dance starts.
-
-\smallskip
-
-
-Growing in size and complexity: living things, masses of atoms, DNA, protein... dancing a pattern ever more intricate.
-
-\medskip
-
-
-Out of the cradle onto the dry land, here it is standing: atoms with consciousness,  matter with curiosity.
-
-\smallskip
-
-
-Stands at the sea, wonders at wondering: I, a universe of atoms, an atom in the universe.''
-
-\begin{flushright}
---Richard Feynman (again), from {\it The Value of Science} (1955)
-\end{flushright}
-}
 
 \end{document}

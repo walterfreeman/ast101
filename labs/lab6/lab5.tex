@@ -1,0 +1,351 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\pagenumbering{gobble}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 5: Simulating Planets' Orbits (I)
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+{\Large Group Members:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Objective}
+
+To use a computer simulation to explore the properties of planets' orbits, and in the process learn a little about how computers simulate things.
+
+\section{Introduction}
+
+As we've discussed in class, the development of orbital mechanics proceeded in two steps. First, Johannes Kepler worked out the correct {\it shapes} of the orbits of the planets, but didn't know {\it why} they moved in that way. Later, Isaac Newton discovered the laws of gravity and motion that explain {\it why}, not just {\it how}, the planets move in elliptical orbits.
+
+In this lab, you will work directly with a computer program that contains within it Newton's laws of motion and gravity. You can use this program to simulate all kinds of orbits! In this lab, you will use this program to simulate different kinds of orbits and see how they behave.
+
+This lab will also expose you to a little computer code, written in the language Python. You do not need to know anything about computer programming beforehand. However, one step in this lab requires you to look at some computer code and think about what it does. We're not going to require you to {\it write} code, but we want to give you a little exposure to what it looks like. Python is a language used by many scientists and web developers (and other people) for all kinds of things; it is one of the most popular programming languages today.
+
+\subsection{Kepler's laws of planetary motion}
+
+First, Kepler realized that if planets moved in *elliptical* orbits rather than circular ones, their movements fit the observations very well. He formulated three laws of orbits that describe the motion of the planets. Paraphrased, they are:
+
+\begin{enumerate}
+
+\item Planets move in elliptical orbits with the Sun at one focus
+  
+\item The line connecting a planet to the sun sweeps out equal area in equal time, so planets move faster when they are closer to the Sun, and slower when they are further away
+
+\item  The time it takes a planet to orbit the Sun depends only on the length of its semimajor axis. In particular, if the semimajor axis is multiplied by a factor $A$, the period $P$ is multiplied by $A^{3/2}.$
+
+\end{enumerate}
+
+
+\subsection{Newton's laws of gravity and motion}
+
+Newton realized several things about moving objects:
+
+\begin{enumerate}
+	\item Forces cause objects to accelerate by an amount $a = F/m$ in the direction of those forces.
+	\item Gravity is one such force. All objects attract each other with a force equal to
+	
+	$$ F_{\rm grav} = \frac{Gm_1m_2}{r^2} $$
+	
+	where $r$ is the distance between the two objects, and $m_1$ and $m_2$ are their masses.
+\end{enumerate}
+
+\subsection{Computer programs}
+
+You won't need to write your own code here -- only modify my code to see what happens, and then look at some parts of it to see how it works. You can't break anything; if something goes wrong, you can just click the three-lines menu in the top left and choose ``Reset''.
+
+If you press ``Run'' and your code gives you an error (a big red bar at the bottom), either hit Ctrl-Z to undo your last few changes and then try again, or refresh your browser. Your GTA might be able to assist you as well (most of the graduate students will know some Python). 
+
+Computers, at heart, do {\it math} on {\it variables}. Look at line 5: this assigns the value {\tt 1.017} to the variable {\tt start\_distance}. A computer program is just a list of math instructions in order, along with other instructions that do things like draw on the screen and repeat some segments of math.
+
+It is important that you don't change the names of any of the variables here: if you rename {\tt start\_distance} to {\tt begin\_distance}, even though those mean the same thing in English, the computer won't know what is going on later.
+
+It is also important that you don't add extra spaces before the beginning of any lines, or remove any that are there. Spaces before a line mean something special in Python, and if you remove them, the program will mean something different than it did before (and probably won't work).
+
+Also, notice the text that's displayed in green and follows a \# sign. These are {\it comments} -- the computer ignores them. They're just in the code to give you ``signposts'' to describe what parts of the code do.
+
+
+
+\newpage
+
+\section{Exploring Kepler's laws}
+
+\textbf{Question 1.} Go to the orbit simulator and set it to fullscreen. Then run the simulator. You've played with it before for your prelab, but now we're going to make sure that our computer program's orbits follow Kepler's laws. 
+
+Kepler's first law says that planets orbit the Sun in elliptical orbits with the Sun at a focus. Does the orbit that you see follow Kepler's first law?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+
+(10) \textbf{Question 2.} Now, try different starting velocities for the planet, and sketch the planet's orbit around its star. Notice that the starting point (1.02 AU) will always either be perihelion or aphelion. For each of the following, record:
+
+\begin{itemize}
+
+\item A picture of the planet's orbit, labeling its starting point, and mark where aphelion and perihelion are
+
+\item How close, or how far, the planet gets to the Sun on the other side (the computer will tell you this; it's the other perihelion/aphelion point)
+
+\item The eccentricity of the planet's orbit
+
+\item Whether anything weird happened that wasn't at all what you expected
+
+\end{itemize}
+
+
+If your planet moves too slowly or too quickly, change the value of {\tt seconds\_per\_year} that controls how many seconds in the simulation corresponds to one year of real time.
+
+
+\newpage
+Try starting velocities of
+
+
+\begin{enumerate}
+	\item 2.5 AU/year
+	\vspace{1.5in}
+	\item 5 AU/year
+	\vspace{1.5in}
+	\item The value you found during your prelab that matches Earth's actual orbit
+	\vspace{1.5in}
+	\item 8 AU/year
+	\vspace{1.5in}
+	\item 10 AU/year
+	
+\end{enumerate}
+
+\newpage
+
+\textbf{Question 3.} What happened when you gave the Earth a large starting velocity of 10 AU/year? Is this what you expected? Do you think that the Earth would really move in this way if its velocity were suddenly increased to 10 AU/year?
+
+\vspace{1.5cm}
+(3) \hrulefill\\
+
+\textbf {Question 4.} Remember that the focus of an ellipse is close to the center of the long axis if the ellipse is not very eccentric, but close to the edge if it is strongly eccentric. Look back at your drawings for the previous question. Is this true in the orbits you observed?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf {Question 5.} Now, let's look at Kepler's second law, which compares {\it the speed of a planet} at {\it different places in its orbit}. By changing the starting distance from the Sun and the starting velocity, put your planet into an orbit with eccentricity at least 0.6.
+
+Does your planet move more quickly near perihelion or aphelion? In evaluating this, look at both the animation and the graph to make sure that they agree. How does your graph show this?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf {Question 6.} Does your planet spend more time near perihelion or aphelion?
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+
+\textbf {Question 7.} Does your planet appear to follow Kepler's second law? How do you know?
+
+\vspace{1.5cm}
+(3) \hrulefill\\
+
+
+\newpage
+
+Now, let's look at Kepler's third law, which compares {\it the time that different planets take to go around the Sun}.
+
+Kepler's original formulation of the third law says that
+
+$$
+\frac{(\mbox{orbital period})^2}{(\mbox{length of long axis})^3} = \mbox{constant}
+$$
+
+This means that if you calculate this fraction for any planet orbiting the Sun, it should be the same.
+
+\textbf {Question 8.} How can you determine the length of the long axis if you know the perihelion and aphelion distances? (A diagram on scratch paper may help you figure this out!)
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 9.} Simulate two different orbits with different starting distances and velocities. (Remember, if your planet flies off, your starting velocity is too high!)
+
+\begin{center}
+\Large
+\begin{tabular}{| c | c | c | c | c |}
+	\hline
+	Aphelion & Perihelion & Long axis & Orbital period & $\frac{(\mbox{orbital period})^2}{(\mbox{long axis})^3}$ \\
+	\hline
+	& & & & \\[1.2cm]
+	\hline
+	& & & & \\[1.2cm]
+	\hline
+	\end{tabular}
+\end{center}
+
+(8) Do your two orbits appear to follow Kepler's third law? (You won't need to square and cube things on the exam, but you can do it here!)
+
+\newpage
+
+\section{Does the Mass Matter?}
+
+The mass of the planet is set to the mass of Earth by default: 0.000003 times the mass of the Sun. Change the mass of the planet to the mass of Jupiter: 0.001 times the mass of the Sun. 
+
+\textbf{Question 10.} Did the planet's orbit change? Describe how it changed, or explain why it didn't.
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+\textbf{Question 11.} Now, change the {\it star's} mass. Does this affect the orbit? Why or why not?
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+\vspace{3em}
+
+Kepler's description of planet orbits -- where the Sun doesn't move and the planet orbits around it in an ellipse -- are based only on the motions of the planets in our solar system. They are true only if:
+
+\begin{itemize}
+	\item A much less massive object orbits a much more massive one (like Earth around the Sun)
+	\item The gravity of the larger object being orbited is the only force that causes much of an effect on the smaller object. 
+\end{itemize}
+
+Earlier, you saw that changing the mass of the planet orbiting the Sun doesn't affect its orbit. But what happens if you make it {\it very} massive -- almost as massive as the Sun itself? 
+
+\textbf{Question 12.} Increase the mass of the planet to at least ten percent of the star's mass. What happens {\it now?} Is this what you expect?
+
+\vspace{1.5cm}
+
+(2) \hrulefill\\
+
+
+\textbf{Question 13.} Is this behavior something that matches Kepler's description of planetary orbits? If it's not, which of the assumptions above are no longer true?
+
+\vspace{1.5cm}
+
+
+(2) \hrulefill\\
+
+\textbf{Question 14.} Suppose that you looked in space and saw a star wiggling back and forth. We can see stars with telescopes, but can't see planets since they don't make their own light. If you saw a star wiggling back and forth, what could you conclude about it?
+
+\vspace{1.5cm}
+
+(2) \textbf{Question 15.} We know that many stars are {\it binary stars} -- there are two stars that orbit each other closely. Since we know that gravity affects stars in the same way as it affects planets, we can use this program to simulate binary stars too. 
+
+Set the mass of the ``planet'' to nearly the same as the mass of the ``star'': both of them will now represent stars. See if you can create an orbit where the two stars orbit each other. Show your orbit to your TA when you've got it.
+
+
+
+
+
+
+\section{How's This All Work?}
+
+This program may look complicated. But most of the code has to do with making the animation and table you see! The only code that actually performs the simulation -- where the actual {\it physics} is -- is between line 50 and 65.
+
+All of the laws of nature that control the motion of orbits are the following:
+
+\begin{itemize}
+	\item Forces cause things to accelerate, where the acceleration is equal to the force divided by the mass of that thing {\bf (Newton's second law of motion)}
+	\item Any two objects attract each other with a force equal to $F=\frac{Gm_1m_2}{r^2}$, where the force is directed toward the other object {\bf (The law of gravity)}
+	\item Forces come in pairs: if the star's gravity exerts a force on the planet, the planet's gravity exerts a force back on the star that goes {\bf (Newton's third law of motion)} in the opposite direction and has the same size
+	\item In a small interval of time, an object's position changes by an amount equal to its velocity multiplied by the amount of time. (You know this already: if you are traveling at 50 miles per hour, and you do this for two hours, you will go 100 miles...) {\bf (Definition of velocity)}
+	\item In a small interval of time, an object's velocity changes by an amount equal to its acceleration multiplied by the amount of time. {\bf (Definition of acceleration)}
+\end{itemize}
+\newpage
+
+The computer simulation in this program works as follows. First, we divide time up into very tiny intervals (the length is given on line 40, if you want to change it). Then, repeat the following:
+
+\begin{enumerate}
+	\item Determine the distance from the planet to the star
+	\item Determine the {\it direction} from the planet to the star
+	\item Using Newton's law of gravity and the distance and direction you just found, determine the force the two objects feel from each other
+	\item Using Newton's second law of motion, determine the acceleration that this causes on each object
+	\item Using the definition of velocity, change the positions of the star and the planet by the amount that they will move during the small interval
+	\item Using the definition of acceleration, change the velocities of the star and the planet by the amount that they will change during the small interval
+\end{enumerate}
+
+This is all it does! 
+
+\vspace{1em}
+
+(5) \textbf{Question 16.} Look at the code from lines 50-65. Look at the code and try to identify what each group of lines does. Write those line numbers by the steps in the above list. 
+
+(5) \textbf{Question 17.} As you saw earlier, this simulation has all of the features that Kepler observed in the orbits of the actual planets. However, Kepler's laws don't appear {\it anywhere} in this code; there are no mentions of ellipses, long and short axes, moving faster near perihelion, or anything like that!
+
+You've already seen how this program works. Why do you think it correctly simulates the features of the planets' orbits, even though it doesn't have any of the substance of Kepler's laws inside it?
+
+
+
+
+
+
+
+
+\end{document}

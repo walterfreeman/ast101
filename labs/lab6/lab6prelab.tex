@@ -1,0 +1,147 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+\pagenumbering{gobble}
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 6: Planetary Orbits (II) Prelab
+}
+
+\normalsize
+\it Note: You will need to show your prelab to your lab TA when you come to lab, but you won't be turning it in for a grade. Just show them that you've done your work!
+\end{center}
+
+\vspace*{0.5cm}
+
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+In this prelab, you'll be doing two things:
+
+\begin{enumerate}
+	\item Figuring out the correct initial velocity to put into the simulator to model the orbits of Venus and Jupiter
+	\item Thinking about whether certain systems obey Kepler's laws exactly, a little bit, or not at all
+\end{enumerate}
+
+
+\section{The orbits of Venus and Jupiter}
+
+Here's a table that shows orbital parameters for Earth, Venus, and Jupiter. Using the orbit simulator from last week, determine (by trial and error) the correct initial velocity that you can use to reproduce the orbits of Venus and Jupiter. (You can do this by setting {\tt start\_position} equal to their aphelion distance, then tinkering with {\tt start\_velocity} until the simulator gives you the physical orbit that these planets are in.)
+
+\begin{center}
+
+\bigskip
+
+\Large
+\begin{tabular}{|l|l|l|l|}
+	\hline
+	& Earth    & Venus     & Jupiter \\ \hline
+	Aphelion (AU)             & 1.017    & 0.728     & 5.46    \\ \hline
+	Perihelion (AU)           & 0.983    & 0.718     & 4.95    \\ \hline
+	Eccentricity              & 0.017    & 0.007     & 0.049   \\ \hline
+	Orbital period (years)    & 1.00     & 0.62      & 11.9    \\ \hline
+	\textbf{Initial velocity} &          &           &         \\ \hline
+	Mass (solar masses)       & 0.000003 & 0.0000024 & 0.0096  \\ \hline
+	Mass (Earths)             & 1        & 0.82      & 318     \\ \hline
+\end{tabular}
+
+\end{center}
+
+\newpage
+
+\section{Kepler's laws -- where do they apply?}
+
+Kepler's laws describe orbits that are elliptical and unchanging (meaning that the ellipse's eccentricity and orientation are always the same, and that the orbit ``comes back on itself'' each time around.)
+
+Newton showed mathematically that gravitational orbits between {\bf two objects} always behave like this. \footnote{Even if the masses are similar enough that both objects move, like a very massive planet orbiting a star, both objects will move in ellipses with the {\it center of mass} at the focus.}
+
+However, if the gravity of {\bf something else} interferes, then something else might happen. If the extra gravitational force changes the orbit enough, then it's possible that you will get orbits that change slowly over time (i.e. violate Kepler's laws a little bit), or orbits that are completely different (i.e. violate Kepler's laws a lot).
+
+For each situation, frame a hypothesis about whether you expect the object to follow Kepler's laws exactly (i.e. the orbit never changes at all), approximately (i.e. the orbit changes slowly over time, but is still basically elliptical), or not at all. Explain why. (The point is not whether your estimate is correct, but how you are thinking about these things. In the lab you'll have a chance to test your hypotheses.)
+
+
+\begin{enumerate}
+	
+	\item \it The International Space Station in its orbit around Earth
+	\vspace{2in}
+	\item The Earth in its orbit around the Sun, where you also consider gravity from Jupiter.
+	
+		\vspace{2in}
+
+
+\newpage
+\rm	Now, imagine that we split the Sun into two stars, each with half of the Sun's mass, orbiting each other 0.6 AU apart.
+
+	\item \it A planet like the Earth, orbiting at a distance of 1 AU from the center of those two stars
+		\vspace{2.5in}
+	\item A very distant planet, orbiting at a distance of 50 AU from the center of those two stars
+		\vspace{2.5in}
+	\item A cluster of three stars, each with the same mass, located around 1 AU from their common center
+
+\end{enumerate}
+\end{document}
