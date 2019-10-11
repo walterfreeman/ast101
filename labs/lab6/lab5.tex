@@ -67,7 +67,7 @@
 \textbf{\Large
 AST101: Our Corner of the Universe \\
 \vspace*{0.1cm}
-Lab 5: Simulating Planets' Orbits (I)
+Lab 5: Simulating Planets' Orbits (II): The Three-Body Problem
 }
 \end{center}
 
@@ -83,70 +83,61 @@ Lab 5: Simulating Planets' Orbits (I)
 
 \section{Objective}
 
-To use a computer simulation to explore the properties of planets' orbits, and in the process learn a little about how computers simulate things.
+To use a computer simulation to explore the properties of the gravitational motion of three objects at once.
 
 \section{Introduction}
 
-As we've discussed in class, the development of orbital mechanics proceeded in two steps. First, Johannes Kepler worked out the correct {\it shapes} of the orbits of the planets, but didn't know {\it why} they moved in that way. Later, Isaac Newton discovered the laws of gravity and motion that explain {\it why}, not just {\it how}, the planets move in elliptical orbits.
+Isaac Newton was able to use the laws of motion to solve -- with pen and paper -- for the *exact* motions of two objects orbiting each other. But it is possible to prove that there is {\it no} pencil and paper solution (using algebra and calculus with variables )for three objects. We have to resort to calculations with numbers using a computer.
 
-In this lab, you will work directly with a computer program that contains within it Newton's laws of motion and gravity. You can use this program to simulate all kinds of orbits! In this lab, you will use this program to simulate different kinds of orbits and see how they behave.
+This situation is called the {\it three-body problem}.
 
-This lab will also expose you to a little computer code, written in the language Python. You do not need to know anything about computer programming beforehand. However, one step in this lab requires you to look at some computer code and think about what it does. We're not going to require you to {\it write} code, but we want to give you a little exposure to what it looks like. Python is a language used by many scientists and web developers (and other people) for all kinds of things; it is one of the most popular programming languages today.
+\section{New Simulators}
 
-\subsection{Kepler's laws of planetary motion}
+I've modified the computer simulation we used previously so that it can handle the motion of three objects at once. This requires us to think carefully about Newton's law of motion a little bit, since it is the {\it combined} force from all of the objects that gives the acceleration.
 
-First, Kepler realized that if planets moved in *elliptical* orbits rather than circular ones, their movements fit the observations very well. He formulated three laws of orbits that describe the motion of the planets. Paraphrased, they are:
+Suppose we are thinking about the motion of the Earth, the Sun, and the planet Jupiter together. In symbols, we can say
 
-\begin{enumerate}
+$$
+\mbox{Acceleration of Earth} = \frac{\mbox{Force on Earth from the Sun's gravity + Force on Earth from Jupiter's gravity}}{\mbox{Mass of Earth}}
+$$
 
-\item Planets move in elliptical orbits with the Sun at one focus
-  
-\item The line connecting a planet to the sun sweeps out equal area in equal time, so planets move faster when they are closer to the Sun, and slower when they are further away
-
-\item  The time it takes a planet to orbit the Sun depends only on the length of its semimajor axis. In particular, if the semimajor axis is multiplied by a factor $A$, the period $P$ is multiplied by $A^{3/2}.$
-
-\end{enumerate}
+We have several different simulators this time. One of them is intended for two planets around one star, one of them is intended for one planet around two stars, and one of them is intended for three stars, but they all work the same: the only difference is what the variables are called and which things the simulator graphs for you.
 
 
-\subsection{Newton's laws of gravity and motion}
-
-Newton realized several things about moving objects:
-
-\begin{enumerate}
-	\item Forces cause objects to accelerate by an amount $a = F/m$ in the direction of those forces.
-	\item Gravity is one such force. All objects attract each other with a force equal to
-	
-	$$ F_{\rm grav} = \frac{Gm_1m_2}{r^2} $$
-	
-	where $r$ is the distance between the two objects, and $m_1$ and $m_2$ are their masses.
-\end{enumerate}
-
-\subsection{Computer programs}
-
-You won't need to write your own code here -- only modify my code to see what happens, and then look at some parts of it to see how it works. You can't break anything; if something goes wrong, you can just click the three-lines menu in the top left and choose ``Reset''.
-
-If you press ``Run'' and your code gives you an error (a big red bar at the bottom), either hit Ctrl-Z to undo your last few changes and then try again, or refresh your browser. Your GTA might be able to assist you as well (most of the graduate students will know some Python). 
-
-Computers, at heart, do {\it math} on {\it variables}. Look at line 5: this assigns the value {\tt 1.017} to the variable {\tt start\_distance}. A computer program is just a list of math instructions in order, along with other instructions that do things like draw on the screen and repeat some segments of math.
-
-It is important that you don't change the names of any of the variables here: if you rename {\tt start\_distance} to {\tt begin\_distance}, even though those mean the same thing in English, the computer won't know what is going on later.
-
-It is also important that you don't add extra spaces before the beginning of any lines, or remove any that are there. Spaces before a line mean something special in Python, and if you remove them, the program will mean something different than it did before (and probably won't work).
-
-Also, notice the text that's displayed in green and follows a \# sign. These are {\it comments} -- the computer ignores them. They're just in the code to give you ``signposts'' to describe what parts of the code do.
 
 
 
 \newpage
 
-\section{Exploring Kepler's laws}
+\section{The Earth, the Sun, and Other Planets}
 
-\textbf{Question 1.} Go to the orbit simulator and set it to fullscreen. Then run the simulator. You've played with it before for your prelab, but now we're going to make sure that our computer program's orbits follow Kepler's laws. 
+Here is some background information on the planets:
 
-Kepler's first law says that planets orbit the Sun in elliptical orbits with the Sun at a focus. Does the orbit that you see follow Kepler's first law?
+
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		& Earth     & Venus     & Jupiter \\ \hline
+		Aphelion (AU)       & 1.017     & 0.728     & 5.46    \\ \hline
+		Perihelion (AU)     & 0.983     & 0.718     & 4.95    \\ \hline
+		Eccentricity        & 0.017     & 0.007     & 0.049   \\ \hline
+		Period (years)      & 1         & 0.62      & 11.86   \\ \hline
+		Mass (solar masses) & 0.0000030 & 0.0000024 (0.8 Earths) & 0.00096 (318 Earths)\\ \hline
+	\end{tabular}
+
+
+
+For your prelabs this week and last, you simulated the orbits of Earth, Venus, and Jupiter around the Sun, each planet by itself.
+
+Newton showed that, if {\it the only objects that exist are the Sun and one planet}, that the planet will orbit the Sun in the same orbit, with the same eccentricity and period, forever. However, we now need to think about the effects of the planets' gravity on each other.
+
+\textbf{Question 1.} Do you think that the gravity of Venus will have any effect on Earth's orbit? If so, how much? (You can answer ``None at all)
+
 
 \vspace{1.5cm}
 (2) \hrulefill\\
+
+
+Kepler's first law says that planets orbit the Sun in elliptical orbits with the Sun at a focus. Does the orbit that you see follow Kepler's first law?
 
 
 (10) \textbf{Question 2.} Now, try different starting velocities for the planet, and sketch the planet's orbit around its star. Notice that the starting point (1.02 AU) will always either be perihelion or aphelion. For each of the following, record:

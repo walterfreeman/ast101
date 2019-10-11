@@ -1,0 +1,13 @@
+For those of you with labs early in the week, you MUST inform all of your students that the length of the pendulumand its error must be measured in meters!
+
+The begining section is nothing more than algebra. I expect they will struggle greatly with this section. Be prepared to offer a great deal of help here. Remember, these are NOT math people!
+
+You will be asked to verify that their work is correct up to question 4. As long as their equation is solved correctly, you can give them credit and allow them to advance, but do encourage them to simplify the equation if they can.
+
+Equipment wise, I could only gather the materials for 2 pendula. Groups can take turns using them, or briefly combine to collect data and then split back up.
+
+Keep an eye on them as they use the pendulum, and stop them if they're making the amplitude too big. Don't want to go violating that small angle approximation...
+
+To make grading easier, I've also included an excel sheet that solves the lab for you.
+
+On grading, do NOT allow errors to cascade; if an early mistake taints every answer that follows, only grade the first instance of the mistake. 
