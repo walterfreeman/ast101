@@ -15,7 +15,7 @@ Current lecture slides: <a href="slides/lecture13/lecture13.pdf">The conservatio
 
 Here's the [Exam 2 Suggest-A-Question](https://docs.google.com/forms/d/10v16Hwed2N0IgKIhOZi6dYtIq71vhd2wMZX-cUqU__Y/) form for extra credit on Exam 2.
 
-[Exam 2 from last year](exam2-formA.pdf) is available now. I'll post the answer key next Monday.
+[Exam 2 from last year](exam2-formA.pdf) and its [answer key](exam2-2018-formAkey.pdf).
 
 [Prelab 6](labs/lab6/lab6prelab.pdf) is available now.
 
@@ -38,6 +38,8 @@ Pending ask-the-physicist questions:
 Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
 
 Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? -->
+
+Harris Krahn asks: At what point does spaghettification occur?
 
 Alex Wyers asks: In *Star Wars*, the planet Tatooine has two suns. Besides making the planet incredibly hot all the time, what other effects might this have on the planet, and have we observed any solar systems in the real world with two suns similar to Tatooine?
 
