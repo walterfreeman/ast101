@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  15 OCT 2019 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  15 OCT 2019 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**lecture14.tex
-(./lecture14.tex
+**lecture14-2018.tex
+(./lecture14-2018.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -705,8 +705,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 111.
 
-No file lecture14.aux.
-\openout1 = `lecture14.aux'.
+(./lecture14-2018.aux)
+\openout1 = `lecture14-2018.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
@@ -722,6 +722,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -801,8 +802,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 115.
 LaTeX Info: Redefining \pageref on input line 115.
 LaTeX Info: Redefining \nameref on input line 115.
+
+(./lecture14-2018.out) (./lecture14-2018.out)
 \@outlinefile=\write5
-\openout5 = `lecture14.out'.
+\openout5 = `lecture14-2018.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
@@ -828,9 +831,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file lecture14.nav.
-[1
+) (./lecture14-2018.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
@@ -842,8 +843,7 @@ No file lecture14.nav.
 
 ] [6
 
-]
-[7
+] [7
 
 ] [8
 
@@ -910,7 +910,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [33
 
 ]
-<map.png, id=240, 408.77719pt x 408.77719pt>
+<map.png, id=241, 408.77719pt x 408.77719pt>
 File: map.png Graphic file (type png)
 <use map.png>
 Package pdftex.def Info: map.png  used on input line 603.
@@ -925,7 +925,7 @@ Package pdftex.def Info: map.png  used on input line 603.
  [35
 
 ]
-<significant1.png, id=256, 487.8225pt x 280.04625pt>
+<significant1.png, id=257, 487.8225pt x 280.04625pt>
 File: significant1.png Graphic file (type png)
 <use significant1.png>
 Package pdftex.def Info: significant1.png  used on input line 610.
@@ -933,7 +933,7 @@ Package pdftex.def Info: significant1.png  used on input line 610.
  [36
 
  <./significant1.png>]
-<significant2.png, id=263, 487.8225pt x 356.83313pt>
+<significant2.png, id=264, 487.8225pt x 356.83313pt>
 File: significant2.png Graphic file (type png)
 <use significant2.png>
 Package pdftex.def Info: significant2.png  used on input line 615.
@@ -941,7 +941,7 @@ Package pdftex.def Info: significant2.png  used on input line 615.
  [37
 
  <./significant2.png>]
-<significant3.png, id=271, 487.8225pt x 363.15675pt>
+<significant3.png, id=272, 487.8225pt x 363.15675pt>
 File: significant3.png Graphic file (type png)
 <use significant3.png>
 Package pdftex.def Info: significant3.png  used on input line 620.
@@ -949,7 +949,7 @@ Package pdftex.def Info: significant3.png  used on input line 620.
  [38
 
  <./significant3.png>]
-<significant4.png, id=278, 279.14287pt x 336.0555pt>
+<significant4.png, id=279, 279.14287pt x 336.0555pt>
 File: significant4.png Graphic file (type png)
 <use significant4.png>
 Package pdftex.def Info: significant4.png  used on input line 641.
@@ -961,12 +961,12 @@ Package pdftex.def Info: significant4.png  used on input line 641.
 ] [41
 
 ]
-<ad-hom.jpg, id=301, 752.8125pt x 501.875pt>
+<ad-hom.jpg, id=302, 752.8125pt x 501.875pt>
 File: ad-hom.jpg Graphic file (type jpg)
 <use ad-hom.jpg>
 Package pdftex.def Info: ad-hom.jpg  used on input line 729.
 (pdftex.def)             Requested size: 174.09828pt x 116.06442pt.
-<tobacco-ad.jpg, id=302, 156.38358pt x 102.72491pt>
+<tobacco-ad.jpg, id=303, 156.38358pt x 102.72491pt>
 File: tobacco-ad.jpg Graphic file (type jpg)
 <use tobacco-ad.jpg>
 Package pdftex.def Info: tobacco-ad.jpg  used on input line 729.
@@ -1008,38 +1008,31 @@ Package pdftex.def Info: tobacco-ad.jpg  used on input line 729.
 
 ]
 \tf@nav=\write6
-\openout6 = `lecture14.nav'.
+\openout6 = `lecture14-2018.nav'.
 
 \tf@toc=\write7
-\openout7 = `lecture14.toc'.
+\openout7 = `lecture14-2018.toc'.
 
 \tf@snm=\write8
-\openout8 = `lecture14.snm'.
+\openout8 = `lecture14-2018.snm'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1095.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1095.
- (./lecture14.aux)
+ (./lecture14-2018.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1095.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1095.
 
-
-
-Package rerunfilecheck Warning: File `lecture14.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lecture14.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `lecture14-2018.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18153 strings out of 492615
- 345049 string characters out of 6131390
- 431437 words of memory out of 5000000
- 21534 multiletter control sequences out of 15000+600000
+ 18230 strings out of 492615
+ 345779 string characters out of 6131390
+ 431564 words of memory out of 5000000
+ 21603 multiletter control sequences out of 15000+600000
  15707 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,59p,796b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,59p,801b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
@@ -1054,7 +1047,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on lecture14.pdf (53 pages, 1104879 bytes).
+Output written on lecture14-2018.pdf (53 pages, 1105004 bytes).
 PDF statistics:
  454 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams

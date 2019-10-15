@@ -5,7 +5,8 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture13/lecture13.pdf">The conservation of energy</a><br><br> 
+Current lecture slides: <a href="slides/lecture14/lecture14.pdf">The process of science</a>. Ohana's slides will be available
+in Keynote format later today.<br><br>
 
 
 <h4>
