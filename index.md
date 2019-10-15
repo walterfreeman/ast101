@@ -5,8 +5,9 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture14/lecture14.pdf">The process of science</a>. Ohana's slides will be available
-in Keynote format later today.<br><br>
+Current lecture slides: <a href="slides/lecture14/lecture14.pdf">The process of science</a><br><br>
+
+Ohana's slides on neutrino physics: [PDF](AST101_neutrinos_2019.pdf) or [PowerPoint](AST101_neutrinos_2019.pptx)
 
 
 <h4>
@@ -39,6 +40,8 @@ Pending ask-the-physicist questions:
 Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Milky Way Galaxy also moving? In which direction? Move towards where? How does the whole universe travel?
 
 Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? -->
+
+Brandon Decato asks: I have an ask a physicist question that my friends and I were debating late Sunday night while playing video games. If I had a twin born at the exact same time as me, and at the age of 5 I was separated from him, put into a spaceship that travelled near the speed of light, and was gone for what to me was 5 years, would I be younger than my twin brother? If this is true, would my body still age at the same rate as my twin on earth, aka I would have the mind of a 10 year old but the body of an 87 year old? Would it age the same way as a normal human ages from 5-10?
 
 Harris Krahn asks: At what point does spaghettification occur?
 
