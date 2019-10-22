@@ -105,7 +105,7 @@
   \textbf {Light}}
 
 
-\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2018\\Walter Freeman}
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2019\\Walter Freeman}
 
 \date{\today}
 
@@ -126,11 +126,28 @@ This is a ``picture'' of the Sun. What can we learn from it?
 \Large
 
 \BI
-\item Everyone who took Exam 2 at the normal time should have their grade.
-\item I still have some Paper 1's to grade; I'll get to those as soon as I can.
-\item I'll update the textbook pages later today on the website.
-\item I am way behind on answering email; I will catch up as soon as I can.
+\item I'm catching up after being out sick for a while
+\item I am way behind on answering email and messages because of this
+\item The Scantron folks closed early on Friday because of sportsball and I was out sick Monday
+\item You should have your Exam 2 grades late tomorrow
+\item I'll post an answer key with the exam tomorrow as well
 \EI
+}
+
+\frame{\frametitle{\textbf{Paper 2}}
+	\Large
+	\BI
+	\item Paper 2's assignment is posted
+	\item It is due three weeks from tomorrow.
+	\pause
+	\bigskip
+	\item This paper is an argumentative paper:
+	\BI
+	\large
+	\item You're telling us that someone else is wrong
+	\item You can be bold in making these claims, as long as you argue your point well!
+	\EI
+	\EI
 }
 
 \frame{
@@ -239,6 +256,8 @@ Where do these fields come from?
 
 \frame{\frametitle{\bf{An illuminating story}}
 
+\begin{columns}
+\column{0.6\textwidth}
 \BI
 \item Electric charges make electric fields
 \item Moving electric charges make magnetic fields
@@ -258,6 +277,11 @@ a surprising consequence:
 \pause \item ... which makes an electric field further away ...
 \pause \item This leads to a traveling electromagnetic disturbance: an {\it electromagnetic wave}.
 \EI
+\column{0.4\textwidth}
+\begin{center}
+	\includegraphics[width=0.95\textwidth]{experiencephysics.jpg}
+	\end{center}
+\end{columns}
 }
 
 \frame{\frametitle{\bf{An illuminating story}}
@@ -291,11 +315,11 @@ Light is a traveling {\it electromagnetic wave}. This means:
 \large
 
 \BI
-\item ... it moves through space at some {\color{Red}speed}: the speed of light, $c=3 \times 10^8$ m/s.
+\item ... it moves through space at some {\color{Red}speed: the speed of light, $c=3 \times 10^8$ m/s.}
 \pause\BS
-\item ... these waves have a {\color{Yellow}wavelength}: the distance from peak to peak of the electric field. We use the letter $\lambda$ for wavelength.
+\item ... these waves have a {\color{Yellow}wavelength}: the distance from peak to peak of the electric field. We use the letter {\color{Yellow}$\lambda$} for wavelength.
 \pause\BS
-\item ... and, as an observer holds still, a certain number of waves pass that observer per second. This is called the {\color{Green}frequency}, $f$.
+\item ... and, as an observer holds still, a certain number of waves pass that observer per second. This is called the {\color{Green}frequency, $f$}.
 \EI
 
 \BC 
@@ -310,30 +334,46 @@ Light is a traveling {\it electromagnetic wave}. This means:
 Three basic wave properties:
 
 \BI
-\item Wave speed: $c$
-\item Wavelength: $\lambda$
-\item Frequency: $f$
+\item \color{Red}Wave speed: $c$
+\item \color{Yellow}Wavelength: $\lambda$
+\item \color{Green}Frequency: $f$
 \EI
 
 \BS\BS
 
-If I keep $c$ constant and increase $f$, then $\lambda$ will \underline{\hspace{3cm}}...
+If I keep {\color{Red}$c$} constant and increase {\color{Yellow}$f$}, then {\color{Green}$\lambda$} will \underline{\hspace{3cm}}...
+
+\BS\BS
+If I keep {\color{Red}$c$} constant and decrease {\color{Yellow}$f$}, then {\color{Green}$\lambda$} will \underline{\hspace{3cm}}...
 
 \BS\BS
 
-If I keep $c$ constant and decrease $f$, then $\lambda$ will \underline{\hspace{3cm}}...
-
-\BS\BS
-
-If I keep $\lambda$ constant and increase $c$, then $f$ will \underline{\hspace{3cm}}...
+If I keep {\color{Green}$\lambda$} constant and increase {\color{Red}$c$}, then {\color{Yellow}$f$} will \underline{\hspace{3cm}}...
 }
 
 \frame{
 \Large
 \BC
 This leads us to the basic relation:
-\Huge $$c = f \lambda$$
+\Huge $$\color{Red}c = \color{Yellow}f \color{Green}\lambda$$
+\large
+Or in words:
+\huge
+$$
+{\color{Red}(\text {speed of light})} = {\color{Yellow}(\text{frequency})} \times {\color{Green}(\text{wavelength})}
+$$
+
+\large
+
+This is easy to remember by thinking about how each quantity is measured:
+\huge
+$$
+{\color{Red}\frac{\text {meters}}{\text{second}}} = {\color{Yellow}\frac{\text{waves}}{\text{second}} }\times {\color{Green}\frac{\text{meters}}{\text{wave}}}
+$$
+
 \EC
+
+
 
 This means:
 \large
@@ -355,7 +395,13 @@ straight lines, like bullets.
 Maxwell deduced that it was a {\color{Red}wave}, and experiments confirmed that.
 
 \BS\BS\pause
+You should know:
 
+\BI
+\item Energy per photon is {\it proportional} to the frequency of the light
+\item Energy per photon is {\it inversely proportional} to its wavelength
+\item Wavelength is inversely proportional to frequency
+\EI
 ... but later experiments (which we'll see soon) showed that it had to come in discrete chunks! What gives?
 
 \BS
@@ -384,9 +430,26 @@ $$E=hf=hc/\lambda$$
 
 \large
 
-You should know:
+This value $h$ is called Planck's constant. It is baked into the fabric of the Universe, like $G$ and $c$:
+
+\bigskip
+\BI
+\item $G$, the universal gravitational constant: tells us how strong gravity is
+\item $c$, the speed of light: tells us how fast light goes
+\pause
+\item \color{Red}$h$, Planck's constant: tells us how ``lumpy'' light is: how much energy do photons of a given frequency have?
+\EI
+
+}
+
+\frame{\frametitle{\textbf{Things you should know:}}
+
+\Large Light is both a particle and a wave.
+\BS
 
 \BI
+\item All light travels at the same speed, $c = $ 300 million m/s, in vacuum
+\item Light comes in little lumps called {\it photons}
 \item Energy per photon is {\it proportional} to the frequency of the light
 \item Energy per photon is {\it inversely proportional} to its wavelength
 \item Wavelength is inversely proportional to frequency

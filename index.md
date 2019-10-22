@@ -5,9 +5,7 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture14/lecture14.pdf">The process of science</a><br><br>
-
-Ohana's slides on neutrino physics: [PDF](AST101_neutrinos_2019.pdf) or [PowerPoint](AST101_neutrinos_2019.pptx)
+Current lecture slides: <a href="slides/lecture15/lecture15.pdf">Light</a><br><br>
 
 
 <h4>
@@ -15,13 +13,7 @@ Ohana's slides on neutrino physics: [PDF](AST101_neutrinos_2019.pdf) or [PowerPo
 </h4>
 **Announcements:**
 
-Here's the [Exam 2 Suggest-A-Question](https://docs.google.com/forms/d/10v16Hwed2N0IgKIhOZi6dYtIq71vhd2wMZX-cUqU__Y/) form for extra credit on Exam 2.
-
-[Exam 2 from last year](exam2-formA.pdf) and its [answer key](exam2-2018-formAkey.pdf).
-
-[Prelab 6](labs/lab6/lab6prelab.pdf) is available now.
-
-[The take-home lab](labs/moon_and_sun.pdf) is also available now. It is due on December 3.
+No labs this week.
 
 ---
 
@@ -55,6 +47,6 @@ Abigail Cramer asks: Will [global warming] affect the air outside of our atmosph
 
 <br>
 
-<center> <img src="sphere-medieval.png">
+<center> <img src="solarspectrum.jpg">
 <br>
-<em>The medieval European concept of the celestial sphere model of Ptolemy.</em> 
+<em>Light from the Sun, sorted by color: a very stretched-out rainbow.</em>
