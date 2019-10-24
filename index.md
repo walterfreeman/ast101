@@ -5,7 +5,7 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture15/lecture15.pdf">Light</a><br><br>
+Current lecture slides: <a href="slides/lecture16/lecture16.pdf">Thermal radiation</a><br><br>
 
 
 <h4>
@@ -13,7 +13,15 @@ Current lecture slides: <a href="slides/lecture15/lecture15.pdf">Light</a><br><b
 </h4>
 **Announcements:**
 
-No labs this week.
+Prelab 7 is available online now and will be available in print after class today. Labs resume next week.
+
+<br>
+
+Exam grade posting is delayed; should be up Friday. Sorry about that! 
+
+<br>
+
+Office hours Friday will be held either in the lounge across from my office or in the Physics Clinic, because of water damage to my office.
 
 ---
 
@@ -40,6 +48,8 @@ Harris Krahn asks: At what point does spaghettification occur?
 Alex Wyers asks: In *Star Wars*, the planet Tatooine has two suns. Besides making the planet incredibly hot all the time, what other effects might this have on the planet, and have we observed any solar systems in the real world with two suns similar to Tatooine?
 
 Abigail Cramer asks: Will [global warming] affect the air outside of our atmosphere and since molecules move faster in a heated environment, will this change overall cause more “things” to enter our atmosphere leading to higher risk of issues related to the things. Does that make sense, basically, will our beat impact the asteroids and space things outside and potentially cause them to move in a way that will negatively impact our species and life on this planet? Yet another reason to work on climate change if so...
+
+Katherine Nehring asks: Since Earth transfers the slightest rotational angular momentum (stated in the textbook), will that affect global warming or climate change at all if the rotation of the Earth is slowing down?
 
 <br>
 

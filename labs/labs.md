@@ -8,11 +8,12 @@ use_math: true
 
 Here you can find links to the lab handouts and the prelabs, as well as any supplementary material used in them (computer simulations, etc.)
 
-<a href="lab5sim.html">Click here for the orbit simulator used in Lab 5</a><br><br>
-
 <a href="labs/moon_and_sun.pdf">Take-Home Lab (due 3 December)</a><br><br>
 
+<a href="labs/lab7/lab7-prelab.pdf">Lab 6 Prelab</a><br><br>
+
 <a href="labs/lab6/lab6prelab.pdf">Lab 6 Prelab</a><br>
+<a href="labs/lab6/lab6.pdf">Lab 6</a><br>
 
 <br>
 
