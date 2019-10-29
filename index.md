@@ -15,7 +15,13 @@ Current lecture slides: <a href="slides/lecture17/lecture17.pdf">Light and matte
 
 Prelab 7 is available online and in the Physics Clinic.<br><br>
 
-**I propose postponing Exam 3 until November 12**. If you have strong feelings about this, let me know.
+**I propose postponing Exam 3 until November 12**. If you have strong feelings about this, let me know.<br><br>
+
+Answer keys to Exam 2:<br>
+* [Form A](exam2-formAkey.pdf)
+* [Form B](exam2-formBkey.pdf)
+* [Form C](exam2-formCkey.pdf)
+* [Form D](exam2-formDkey.pdf)
 
 ---
 
