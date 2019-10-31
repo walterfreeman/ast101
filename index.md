@@ -5,7 +5,7 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture17/lecture17.pdf">Light and matter</a><br><br>
+Current lecture slides: <a href="slides/lecture18/lecture18.pdf">Spectroscopy</a><br><br>
 
 
 <h4>
@@ -13,9 +13,13 @@ Current lecture slides: <a href="slides/lecture17/lecture17.pdf">Light and matte
 </h4>
 **Announcements:**
 
+[Exam 3 from last year](exam3-formA.pdf) is available now. <br><br>
+
 Prelab 7 is available online and in the Physics Clinic.<br><br>
 
-**I propose postponing Exam 3 until November 12**. If you have strong feelings about this, let me know.<br><br>
+**There is no prelab next week.**
+
+
 
 Answer keys to Exam 2:<br>
 * [Form A](exam2-formAkey.pdf)
@@ -42,6 +46,8 @@ Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Mil
 Harris Krahn asks: At what point does spaghettification occur?
 
 Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? -->
+
+Elise Newhouse points out: When we were looking at the Milky Way in all its different light emissions, you mentioned not knowing what the really bright spot was on the x-ray and gamma ray images.  I think its the Vela Pulsar!
 
 Brandon Decato asks: I have an ask a physicist question that my friends and I were debating late Sunday night while playing video games. If I had a twin born at the exact same time as me, and at the age of 5 I was separated from him, put into a spaceship that travelled near the speed of light, and was gone for what to me was 5 years, would I be younger than my twin brother? If this is true, would my body still age at the same rate as my twin on earth, aka I would have the mind of a 10 year old but the body of an 87 year old? Would it age the same way as a normal human ages from 5-10?
 
