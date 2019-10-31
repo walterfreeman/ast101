@@ -40,8 +40,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 29 Oct | <a href="slides/lecture17/lecture17.pdf">Atomic energy levels; absorption and emission</a> | 5.2 | 112-120 | 65-69 |
 | 31 Oct | <a href="slides/lecture18/lecture18.pdf">Putting it all together: spectroscopy</a> | 5.2 | 112-120 | 71-74 |
 | 5 Nov | <a href="slides/lecture19/lecture19.pdf">Composition of and workings of the Sun</a> | 11.1 | 288-298 | None |
-| 7 Nov | EXAM 3 |  |  |  |
-| 12 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 7 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 12 Nov | EXAM 3 |  |  |  |
 | 14 Nov | <a href="slides/lecture21/lecture21.pdf">The nature of atmospheres</a> |  |  | 105-110 |
 | 19 Nov | <a href="slides/lecture22/lecture22.pdf">Climate change in depth</a> |  |  |  |
 | 21 Nov | <a href="slides/lecture23/lecture23.pdf">Spaceflight: getting to the Moon</a> |  |  |  |
@@ -79,8 +79,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 29 Oct | <a href="slides/lecture17/lecture17.pdf">Atomic energy levels; absorption and emission</a> | 5.2 | 112-120 | 65-69 |
 | 31 Oct | <a href="slides/lecture18/lecture18.pdf">Putting it all together: spectroscopy</a> | 5.2 | 112-120 | 71-74 |
 | 5 Nov | <a href="slides/lecture19/lecture19.pdf">Composition of and workings of the Sun</a> | 11.1 | 285-294 | None |
-| 7 Nov | EXAM 3 |  |  |  |
-| 12 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 7 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 12 Nov | EXAM 3 |  |  |  |
 | 14 Nov | <a href="slides/lecture21/lecture21.pdf">The nature of atmospheres</a> |  |  | 105-110 |
 | 19 Nov | <a href="slides/lecture22/lecture22.pdf">Climate change in depth</a> |  |  |  |
 | 21 Nov | <a href="slides/lecture23/lecture23.pdf">Spaceflight: getting to the Moon</a> |  |  |  |
@@ -122,8 +122,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 29 Oct | <a href="slides/lecture17/lecture17.pdf">Atomic energy levels; absorption and emission</a> | 5.2 | 117-124 | 65-69 |
 | 31 Oct | <a href="slides/lecture18/lecture18.pdf">Putting it all together: spectroscopy</a> | 5.2 | 117-124 | 71-74 |
 | 5 Nov | <a href="slides/lecture19/lecture19.pdf">Composition of and workings of the Sun</a> | 10.1-2 | 287-297 | None |
-| 7 Nov | EXAM 3 |  |  |  |
-| 12 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 7 Nov | <a href="slides/lecture20/lecture20.pdf">The formation of stars and planets</a> |  |  | 111-112 |
+| 12 Nov | EXAM 3 |  |  |  |
 | 14 Nov | <a href="slides/lecture21/lecture21.pdf">The nature of atmospheres</a> |  |  | 105-110 |
 | 19 Nov | <a href="slides/lecture22/lecture22.pdf">Climate change in depth</a> |  |  |  |
 | 21 Nov | <a href="slides/lecture23/lecture23.pdf">Spaceflight: getting to the Moon</a> |  |  |  |
