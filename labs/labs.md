@@ -10,10 +10,14 @@ Here you can find links to the lab handouts and the prelabs, as well as any supp
 
 <a href="labs/moon_and_sun.pdf">Take-Home Lab (due 3 December)</a><br><br>
 
-<a href="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html">Simulator link for Lab 7</a>
+There is no prelab for Lab 8.
 
-<a href="labs/lab7/lab7-prelab.pdf">Lab 7 Prelab</a><br><br>
-<a href="labs/lab7/lab7.pdf">Lab 7</a><br>
+<a href="labs/lab8/lab8.pdf">Lab 8</a><br><br>
+
+
+<a href="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html">Simulator link for Lab 7</a>
+<a href="labs/lab7/lab7-prelab.pdf">Lab 7 Prelab</a><br>
+<a href="labs/lab7/lab7.pdf">Lab 7</a><br><br>
 
 <a href="labs/lab6/lab6prelab.pdf">Lab 6 Prelab</a><br>
 <a href="labs/lab6/lab6.pdf">Lab 6</a><br>
