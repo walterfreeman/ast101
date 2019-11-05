@@ -109,7 +109,7 @@
 \title[The Sun]{
   \textbf {The Sun}}
 
-\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2018\\Walter Freeman}
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2019\\Walter Freeman}
 
 \date{\today}
 
@@ -126,27 +126,72 @@
 \frame{\frametitle{\textbf{Announcements}}
 \Large
 \BI
-\item Exam 3 on Tuesday
+\item {\color{Red}No prelab this week}
+\BS
+\pause
+\item Exam 3 next Tuesday
 \pause
 \item Study guide and last year's exam posted, as usual
 \item Solutions to last year's exam will be posted on Friday
 \item Extra study sessions (priority for groups): 
 \BI
-\item Saturday 10AM-1PM, in the Physics Clinic, led by me
-\item Sunday 5:45-7:45 PM, in HOL 114, led by Anna
+\item Wednesday 2-4pm, Physics 215
+\item Friday 9:30am-noon, Physics 215
+\item Sunday 1-4pm, Physics Clinic
 \EI
+\EI
+
+}
+
+\frame{\frametitle{\textbf{Last year's Exam 3}}
+\large
+Last year's exam has some questions on it that you may not know how to do yet, or that may not be part of Unit 3 this year:
+
+
+\BI
+\item Questions 4 and 9 cover neutrino astronomy, which was on Unit 2 this year
+\item Question 29 covers conservation of angular momentum, which will be on Unit 4 this year
+\item Questions 23 and 24 cover what will be next week's lab, which will be on Unit 4 this year
 \pause
-\item Grade calculator posted on course website
+\BS
+\item Question 7 covers today's material on how the Sun works
+\pause
+\BS
+\item Questions 8, 11, 13, 19, 25, 26, and 30 touch on an idea we'll review now
 \EI
-
 }
 
-\frame{
-\BC
-\includegraphics[height=\textheight]{kepler.jpg}
-\EC
+\frame{\frametitle{\textbf{Benchmarks: thermal radiation}}
+\large
+You should know, roughly, what sort of light objects at different temperatures emit.
+
+\BS
+
+Keep in mind that an object may {\it mostly} emit light outside our visible range...
+
+\BS
+
+\small
+\begin{tabular}{|l|l|l|l|}
+	\hline
+	& \color{Red}T (Kelvin) & \color{Red}Peak wavelength & \color{Red}Visible light?                          \\ \hline
+	Deep space                 & 3                    & Microwave       & None                                    \\ \hline
+	Freezing ice               & 273                  & Infrared        & None                                    \\ \hline
+	People                     & 300                  & Infrared        & None                                    \\ \hline
+	Boiling water              & 373                  & Infrared        & None                                    \\ \hline
+	Hot stove, candle, etc.      & 1500                 & Near infrared   & A little red               \\ \hline
+	Incandescent light         & 2400-2800            & Near infrared   & Mostly red/orange       \\ \hline
+	The Sun                    & 5700                 & Visible         & Mix of all colors (looks white)  \\ \hline
+	Hot stars & 10000+               & UV              & Mostly blue   \\ \hline
+\end{tabular}
 }
 
+\frame{\frametitle{\textbf{Light bulbs}}
+\Large
+
+Why is one of these light bulbs so much easier to operate than the other?
+
+}
 
 \frame{\frametitle{\textbf{The Sun's history and the source of its power}}
 
@@ -171,16 +216,94 @@ If you smash hydrogen nuclei together hard enough, they fuse to make helium
 
 $$(P) + (P) + (P) + (P) \rightarrow (NNPP) + 2e^+ + 2\nu$$
 
-How much energy? Let's calculate it!
-
-\pause\BS\BS
-
-This {\color{Red} nuclear fusion} process converts hydrogen fuel into 
-helium and a vast amount of energy. Could we harness it here on Earth?
+How much energy? We can calculate it...
 \EC
 }
 
-\frame{\frametitle{\textbf{The Sun's fate and the fates of stars}}
+\frame{\frametitle{\textbf{Nuclear potential energy}}
+
+There is potential energy associated with the {\it arrangement of protons and neutrons in nuclei}.
+
+\BS
+
+We can calculate how much energy is associated with nuclear fusion by looking at how much potential energy
+there is.
+
+\BS
+
+\begin{columns}
+	\column{0.5\textwidth}
+	\includegraphics[width=\textwidth]{binding.png}
+		\column{0.5\textwidth}
+	\includegraphics[width=\textwidth]{binding-upsidedown.png}
+\end{columns}
+}
+
+
+\frame{\frametitle{\textbf{A star's life}}
+	\BI
+	\item Gravity compresses a star's core, heating it up
+	\item Nuclear fusion starts, pushing back against gravity
+	\item Once the nuclear fuel is depleted, gravity takes back over
+	\item Once it reaches even higher temperatures, the next stage of fusion starts
+	\EI
+	
+	
+	\BS
+	\BS
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		& Energy produced           & Temperature required \\ 
+		& \scriptsize(power plant time per ton) &     (Kelvin)         \\ \hline
+		{\color{Red}Hydrogen to helium }         & 20 years                  & 10 million           \\ \hline
+		{\color{Green}Helium to carbon  }          & 2 years                    & 100 million          \\ \hline
+		Carbon to neon              & 1 year                    & 500 million          \\ \hline
+		Neon to oxygen              & 5 days                 & 1 billion            \\ \hline
+		Oxygen to silicon           & 1.5 years                    & 2 billion            \\ \hline
+		Silicon to iron             & 10 months                    & 3 billion            \\ \hline\hline
+
+		
+		Uranium to fission products & 3.6 years                    &                      \\ \hline
+		Coal    & 20 seconds        &                      \\ \hline
+		Natural gas    & 45 seconds        &                      \\ \hline
+	\end{tabular}
+}
+	
+
+\frame{\frametitle{\textbf{The life of the Sun}}
+	\BCC
+	\HC
+	\includegraphics[width=\textwidth]{hr.png}
+	\footnotesize\it
+	\BC
+	(European Southern Observatory)
+	\EC
+	\HC
+	Most stars are less massive than the Sun.
+	
+	\BS
+	
+	These ``red dwarfs'' lead long, cool, boring lives, slowly fusing hydrogen to helium, emitting red and infrared light. 
+	
+	\BS
+	
+	They are too faint for
+	us to see without telescopes, but they contribute to the Milky Way glow. (Our nearest star is a red dwarf.)
+	
+	\BS
+	
+	They will live 10-100 times as long as the present age of the universe -- a trillion years.
+	
+	\BS 
+	
+	They will burn their hydrogen until it is all gone, then slowly fade away as brown dwarfs made of helium.
+	
+	\ECC
+	
+}
+
+\frame{\frametitle{\textbf{The Sun's fate}}
 
 \begin{columns}
 \column{0.5\textwidth}
@@ -221,45 +344,13 @@ briefly forming a nebula.
 \frame{\frametitle{\textbf{Other stars}}
 \BCC
 \HC
-\includegraphics[width=\textwidth]{hr.png}
-\footnotesize\it
-\BC
-(European Southern Observatory)
-\EC
-\HC
-Most stars are less massive than the Sun.
-
-\BS
-
-These ``red dwarfs'' lead long, cool, boring lives, emitting red and infrared light. 
-
-\BS
-
-They are too faint for
-us to see without telescopes, but they contribute to the Milky Way glow.
-
-\BS
-
-They will live 10-100 times as long as the present age of the universe -- a trillion years.
-
-\BS 
-
-They will burn their hydrogen until it is all gone, then slowly fade away as brown dwarfs.
-
-\ECC
-
-}
-
-\frame{\frametitle{\textbf{Other stars}}
-\BCC
-\HC
 \includegraphics[width=\textwidth]{onion-fusion.png}
 \BC
 \it \footnotesize Wikimedia Commons / R. J. Hall. \\Image not to scale.
 \EC
 \HC
 \small
-More massive stars have enough weight to compress their carbon cores and fuse it to neon.
+More massive stars have enough weight to compress their carbon cores and fuse it to (mostly) Ne, Na, Mg, and O. 
 
 \BS
 
@@ -278,7 +369,6 @@ Iron is ``stellar ash'' -- it can't release any more energy by fusion.
 
 In some of these heaviest stars, once their iron cores grow too much, 
 gravity crushes them into one enormous atomic nucleus -- a neutron star.
-
 
 \ECC
 }

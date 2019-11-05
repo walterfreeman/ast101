@@ -5,7 +5,7 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture18/lecture18.pdf">Spectroscopy</a><br><br>
+Current lecture slides: <a href="slides/lecture19/lecture19.pdf">Nuclear fusion and the Sun</a><br><br>
 
 
 <h4>
@@ -15,9 +15,9 @@ Current lecture slides: <a href="slides/lecture18/lecture18.pdf">Spectroscopy</a
 
 [Exam 3 from last year](exam3-formA.pdf) is available now. <br><br>
 
-Prelab 7 is available online and in the Physics Clinic.<br><br>
+If you'd like to suggest a question for Exam 3 (and earn extra credit), [submit your idea here](https://docs.google.com/forms/d/1PSApqZUnxZ28GgZCJHmRpyA87wzbbyrry2_Mc6wUtPI/)
 
-**There is no prelab next week.**
+**There is no prelab this week.**
 
 
 

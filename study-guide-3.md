@@ -13,8 +13,6 @@ In this unit, we studied:
 * how light interacts with matter
 * how the spectra we observe can tell us about things in the sky 
 * how the Sun produces its energy (see the notes for more detail)
-* how we can use gravitational waves and neutrinos to observe the universe
-without collecting light
 
 I'll talk about each in turn.
 
