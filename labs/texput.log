@@ -1,19 +1,19 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.22)  7 SEP 2018 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  7 NOV 2019 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**lab2.tex
+**lab9prelab.tex
 
 ! Emergency stop.
-<*> lab2.tex
-            
+<*> lab9prelab.tex
+                  
 End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
  3 strings out of 492982
- 106 string characters out of 6134896
- 53906 words of memory out of 5000000
+ 112 string characters out of 6134895
+ 53919 words of memory out of 5000000
  3671 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

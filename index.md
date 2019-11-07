@@ -5,8 +5,9 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture19/lecture19.pdf">Nuclear fusion and the Sun</a><br><br>
+Current lecture slides: <a href="slides/lecture20/lecture20.pdf">Birth of the Solar System</a><br><br>
 
+Lab 9 Prelab is now available <a href="labs/lab9/lab9prelab.pdf">here</a>.
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
@@ -17,8 +18,7 @@ Current lecture slides: <a href="slides/lecture19/lecture19.pdf">Nuclear fusion 
 
 If you'd like to suggest a question for Exam 3 (and earn extra credit), [submit your idea here](https://docs.google.com/forms/d/1PSApqZUnxZ28GgZCJHmRpyA87wzbbyrry2_Mc6wUtPI/)
 
-**There is no prelab this week.**
-
+Prelab 9 is available.
 
 
 Answer keys to Exam 2:<br>

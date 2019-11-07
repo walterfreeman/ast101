@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  8 NOV 2018 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  7 NOV 2019 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,7 +861,7 @@ Package pdftex.def Info: ss-origin.jpg  used on input line 121.
 <ss-overview.jpg, id=89, 1416.29124pt x 834.11626pt>
 File: ss-overview.jpg Graphic file (type jpg)
 <use ss-overview.jpg>
-Package pdftex.def Info: ss-overview.jpg  used on input line 196.
+Package pdftex.def Info: ss-overview.jpg  used on input line 199.
 (pdftex.def)             Requested size: 431.74432pt x 254.27145pt.
  [10
 
@@ -869,7 +869,7 @@ Package pdftex.def Info: ss-overview.jpg  used on input line 196.
 <ss-properties.jpg, id=96, 663.4386pt x 524.1984pt>
 File: ss-properties.jpg Graphic file (type jpg)
 <use ss-properties.jpg>
-Package pdftex.def Info: ss-properties.jpg  used on input line 203.
+Package pdftex.def Info: ss-properties.jpg  used on input line 206.
 (pdftex.def)             Requested size: 388.56725pt x 307.02676pt.
  [11
 
@@ -887,7 +887,7 @@ Package pdftex.def Info: ss-properties.jpg  used on input line 203.
 <nebula-history.jpg, id=134, 1416.29124pt x 412.54124pt>
 File: nebula-history.jpg Graphic file (type jpg)
 <use nebula-history.jpg>
-Package pdftex.def Info: nebula-history.jpg  used on input line 274.
+Package pdftex.def Info: nebula-history.jpg  used on input line 277.
 (pdftex.def)             Requested size: 431.74432pt x 125.75879pt.
  [17
 
@@ -904,14 +904,14 @@ Package pdftex.def Info: nebula-history.jpg  used on input line 274.
 ]
 File: ss-origin.jpg Graphic file (type jpg)
 <use ss-origin.jpg>
-Package pdftex.def Info: ss-origin.jpg  used on input line 343.
+Package pdftex.def Info: ss-origin.jpg  used on input line 346.
 (pdftex.def)             Requested size: 215.87216pt x 202.46489pt.
  [23
 
 ]
 File: ss-origin.jpg Graphic file (type jpg)
 <use ss-origin.jpg>
-Package pdftex.def Info: ss-origin.jpg  used on input line 343.
+Package pdftex.def Info: ss-origin.jpg  used on input line 346.
 (pdftex.def)             Requested size: 215.87216pt x 202.46489pt.
  [24
 
@@ -919,14 +919,14 @@ Package pdftex.def Info: ss-origin.jpg  used on input line 343.
 <planetesimals.jpg, id=185, 1416.29124pt x 623.32875pt>
 File: planetesimals.jpg Graphic file (type jpg)
 <use planetesimals.jpg>
-Package pdftex.def Info: planetesimals.jpg  used on input line 357.
+Package pdftex.def Info: planetesimals.jpg  used on input line 360.
 (pdftex.def)             Requested size: 345.39677pt x 152.00829pt.
  [25
 
  <./planetesimals.jpg>]
 File: planetesimals.jpg Graphic file (type jpg)
 <use planetesimals.jpg>
-Package pdftex.def Info: planetesimals.jpg  used on input line 357.
+Package pdftex.def Info: planetesimals.jpg  used on input line 360.
 (pdftex.def)             Requested size: 345.39677pt x 152.00829pt.
 
 [26
@@ -936,10 +936,10 @@ Package pdftex.def Info: planetesimals.jpg  used on input line 357.
 ] [28
 
 ]
-<ss-full-history.jpg, id=210, 938.50626pt x 1092.08pt>
+<ss-full-history.jpg, id=211, 938.50626pt x 1092.08pt>
 File: ss-full-history.jpg Graphic file (type jpg)
 <use ss-full-history.jpg>
-Package pdftex.def Info: ss-full-history.jpg  used on input line 393.
+Package pdftex.def Info: ss-full-history.jpg  used on input line 396.
 (pdftex.def)             Requested size: 215.87216pt x 251.18977pt.
  [29
 
@@ -953,19 +953,19 @@ Package pdftex.def Info: ss-full-history.jpg  used on input line 393.
 \tf@snm=\write8
 \openout8 = `lecture20-2018.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
  (./lecture20-2018.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
 Package rerunfilecheck Info: File `lecture20-2018.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17852 strings out of 492982
- 338998 string characters out of 6134895
+ 17854 strings out of 492982
+ 339014 string characters out of 6134895
  416612 words of memory out of 5000000
- 20963 multiletter control sequences out of 15000+600000
+ 20965 multiletter control sequences out of 15000+600000
  7977 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,57p,801b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -975,7 +975,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on lecture20-2018.pdf (29 pages, 850504 bytes).
+Output written on lecture20-2018.pdf (29 pages, 850589 bytes).
 PDF statistics:
  252 PDF objects out of 1000 (max. 8388607)
  194 compressed objects within 2 object streams
