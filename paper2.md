@@ -5,7 +5,7 @@ permalink: paper2.html
 use_math: true
 ---
 
-**tl;dr Write either about the astronomy done by an ancient culture or on issues of scientific integrity. Due Monday, November 5, by 5PM. Email your submission
+**tl;dr Write either about the astronomy done by an ancient culture or on issues of scientific integrity. Due Friday, November 15, by 5PM. Email your submission
 to suast101projects@gmail.com *and* put a copy in your TA's mailbox.**
 
 ## Paper 2 Option 1: Scientific ethics and integrity / Pseudoscience

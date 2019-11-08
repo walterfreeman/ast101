@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <time.h>
 
-int N = 4000;
+int N = 3000;
 int ntrails=0;
 double rmin = 0.5;
 double rmax = 10;
@@ -36,7 +36,7 @@ int main(void)
   for (int i=0; i<N; i++)
   {
     double r=rmin + (double)i/N * (rmax-rmin);
-    m[i] = 0.3/N;
+    m[i] = 0.15/N;
     menclosed += m[i];
     printf("!placing particle %d at radius %e; total mass enclosed now %e\n",i,r,menclosed);
     trlind[i]=-1;
@@ -73,11 +73,11 @@ int main(void)
   if (istime(50) || framecount == 10)
   {
     printf("C 1 1 1\n");
-    printf("T -0.9 -0.9\nstepcount = %d(%d) \t planets remaining %d\n",stepcount,framecount,N);
+    printf("T -0.9 -0.9\nstepcount = %d(%d) \t planetesimals remaining %d\n",stepcount,framecount,N);
     framecount=0;
     for (int i=0; i<N; i++)
     {
-      if (trlind[i] == -1 && m[i] > (0.8/N))
+      if (trlind[i] == -1 && m[i] > (1.3/N))
       {
         printf("!Body %d has grown large enough to leave a trail; assigning it number %d\n",i,ntrails);
         trlind[i]=ntrails;

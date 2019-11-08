@@ -7,7 +7,7 @@ use_math: true
 ---
 
 **tl;dr Write a case study of a situation where the process of science either deliberately or accidentally ran off the rails. 
-Due November 13 by 9pm. You will turn in two copies: one to your TA's mailbox, and the other to <suast101projects@gmail.com>. 
+Due November 15 by 9pm. You will turn in two copies: one to your TA's mailbox, and the other to <suast101projects@gmail.com>. 
 
 ## The Process of Science 
 
