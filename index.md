@@ -14,7 +14,7 @@ Lab 9 Prelab is now available <a href="labs/lab9/lab9prelab.pdf">here</a>.
 </h4>
 **Announcements:**
 
-[Exam 3 from last year](exam3-formA.pdf) is available now. <br><br>
+[Exam 3 from last year](exam3-formA.pdf) and its [answer key](exam3-formAkey.pdf) are available now. <br><br>
 
 If you'd like to suggest a question for Exam 3 (and earn extra credit), [submit your idea here](https://docs.google.com/forms/d/1PSApqZUnxZ28GgZCJHmRpyA87wzbbyrry2_Mc6wUtPI/)
 
