@@ -5,27 +5,14 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture20/lecture20.pdf">Birth of the Solar System</a><br><br>
-
-Lab 9 Prelab is now available <a href="labs/lab9/lab9prelab.pdf">here</a>.
+Current lecture slides: <a href="slides/lecture21/lecture21.pdf">Differences between the inner planets; the role of atmospheres</a><br><br>
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
 </h4>
 **Announcements:**
 
-[Exam 3 from last year](exam3-formA.pdf) and its [answer key](exam3-formAkey.pdf) are available now. <br><br>
-
-If you'd like to suggest a question for Exam 3 (and earn extra credit), [submit your idea here](https://docs.google.com/forms/d/1PSApqZUnxZ28GgZCJHmRpyA87wzbbyrry2_Mc6wUtPI/)
-
-Prelab 9 is available.
-
-
-Answer keys to Exam 2:<br>
-* [Form A](exam2-formAkey.pdf)
-* [Form B](exam2-formBkey.pdf)
-* [Form C](exam2-formCkey.pdf)
-* [Form D](exam2-formDkey.pdf)
+[Prelab 10](labs/lab10/lab10prelab.pdf) is available now.
 
 ---
 
@@ -45,12 +32,12 @@ Chris Ruan asks:  I know the earth, moon, stars,etc are moving, but does the Mil
 
 Harris Krahn asks: At what point does spaghettification occur?
 
-Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? -->
+Shannon Kirkpatrick asks: I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work? 
 
 Elise Newhouse points out: When we were looking at the Milky Way in all its different light emissions, you mentioned not knowing what the really bright spot was on the x-ray and gamma ray images.  I think its the Vela Pulsar!
+-->
 
 Brandon Decato asks: I have an ask a physicist question that my friends and I were debating late Sunday night while playing video games. If I had a twin born at the exact same time as me, and at the age of 5 I was separated from him, put into a spaceship that travelled near the speed of light, and was gone for what to me was 5 years, would I be younger than my twin brother? If this is true, would my body still age at the same rate as my twin on earth, aka I would have the mind of a 10 year old but the body of an 87 year old? Would it age the same way as a normal human ages from 5-10?
-
 
 Alex Wyers asks: In *Star Wars*, the planet Tatooine has two suns. Besides making the planet incredibly hot all the time, what other effects might this have on the planet, and have we observed any solar systems in the real world with two suns similar to Tatooine?
 
