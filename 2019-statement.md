@@ -24,7 +24,7 @@ At a time when the world was concerned about nuclear annihilation and seemed div
 
 So many of our brightest minds were spending their genius on producing plutonium to make nuclear weapons, but this little craft used the energy stored in plutonium instead to generate warmth and electricity, 
 keeping its instruments and radios running in the cold void. And some of the more hopeful among us, scientists who spent as much time imagining what a better world might look like as they spent calculating the details of ours, argued that
-before Voyager's power dwindled to the point where it no longer could, we should take one last picture of Earth. So they turned that little robot around, and 
+before Voyager's power dwindled to the point where it no longer could, we should take one last picture of Earth.
 
 Here it is -- all of us, made of the same atoms as each other and as the stars, all on this little blue pixel right here. This is but one in a long line of moments when we've looked to the stars and told stories about them that bring us together and that inspire a shared sense of community. 
 
