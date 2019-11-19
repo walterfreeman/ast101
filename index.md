@@ -5,7 +5,9 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="slides/lecture21/lecture21.pdf">Differences between the inner planets; the role of atmospheres</a><br><br>
+Current lecture slides: <a href="climate-change.pdf">Anthropogenic climate change</a> and [notes on climate change](climate-change.html)
+
+
 
 <h4>
 <a href="https://join.slack.com/t/suphysics/shared_invite/enQtNzI2MzU4NzU5NDI2LWMxZWE2MmYzMjVmZGMzZWU5ZDk5OWFkYjMyMmI5ZGIyZDBkMDZiMjFmY2YzYWY1Y2U5ODY3ZDNlNDhmMDczMzk">Invitation link to course Slack team</a>
@@ -14,7 +16,7 @@ Current lecture slides: <a href="slides/lecture21/lecture21.pdf">Differences bet
 
 [Prelab 10](labs/lab10/lab10prelab.pdf) is available now.
 
-Audiorecordings from Thursday's class: [12:30](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY) [2:00](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY). I will transcode these into mp3 and Opus when I get a chance.
+Audiorecordings from last Thursday's class: [12:30](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY) [2:00](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY). I will transcode these into mp3 and Opus when I get a chance.
 
 ---
 

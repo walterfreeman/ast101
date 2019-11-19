@@ -6,7 +6,7 @@ use_math: true
 ---
 
 
-Here are the long-promised notes on climate change. Please read them before the final; there will be a few questions on the main ideas here.
+Here are the notes on climate change. 
 
 ## The greenhouse effect
 
