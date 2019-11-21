@@ -5,7 +5,10 @@ use_math: true
 title: Welcome to Astronomy 101! 
 ---
 
-Current lecture slides: <a href="climate-change.pdf">Anthropogenic climate change</a> and [notes on climate change](climate-change.html)
+
+Current lecture slides: [To the Moon!](slides/lecture23/lecture23.pdf)
+
+Lecture slides on climate change (calendar page link will be broken for a bit): <a href="climate-change.pdf">Anthropogenic climate change</a> and [notes on climate change](climate-change.html)
 
 [Statement on campus climate and vandalism](2019-statement.html)
 
