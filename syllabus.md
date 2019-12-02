@@ -87,7 +87,7 @@ This course focuses mostly on the astronomy of the solar system, and is divided 
 
 ### Learning Objectives
 
-A more detailed version of the <a href="learning-objectives.md">learning objectives for this class</a> is on a separate page.
+A more detailed version of the <a href="learning-objectives.html">learning objectives for this class</a> is on a separate page.
 
 After this class, students will be able to...
 
