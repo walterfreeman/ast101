@@ -27,8 +27,6 @@ use_math: true
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215
 -   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, Stolkin Auditorium 
 -   Office hours: Wednesday 2-4PM and Friday 10-12AM, or other times -- Slack me or drop by!
--   "Virtual office hours": TBD.
-    - This is time that I will schedule in advance to be on Slack for questions, and working to answer email.
 -   Course website: http://walterfreeman.github.io/ast101/
 -   Slack team: <a href="https://suphysics.slack.com">suphysics.slack.com</a>
 -   Lead TA: Suman Kumar Kundu, <skundu@syr.edu>
@@ -126,8 +124,8 @@ In the auditorium, we will alternate between presentation and practice. I will f
 Throughout the semester I will assign several short writing assignments. These will focus on the connections between astronomy and the broader study of the humanities; astronomy is likely the scientific discipline that has
 both exerted the greatest influence on, and been influenced the most by, the broader story of human intellect and philosophy. The topics will be, broadly, as follows:
 
-* First paper: an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
-* Second paper: any of a number of topics that explore the connections between astronomy and literature, history, sociology, or culture
+* First paper: an exploration of the connection between timekeeping and the sky, as embodied in a historical, present, or fictional calendar 
+* Second paper: an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
 * Final project: Extremely open-ended; a topic you didn't choose from earlier, or a topic or creative fine-art project that you propose yourself
 
 Some of you, at some point in the semester, will probably ask me for extra credit. **This is it**; these papers will be graded out of ten points, but there is no limit on the grade you can achieve.
