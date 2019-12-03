@@ -15,11 +15,12 @@ and knowing how to apply it to learn something else. **You** are responsible for
 
 This is particularly true for Unit 1, which is all about geometry. 
 
+<a href="exam1study.html">Unit 1</a>
 
+<a href="exam2study.html">Unit 2</a>
 
-<a href="exam1study.html">Unit 1 (from 2018)</a>
+<a href="exam3study.html">Unit 3</a>
 
-<a href="exam2study.html">Unit 2 (from 2018)</a>
+<a href="exam4study.html">Unit 4</a>
 
-<a href="exam3study.html">Unit 3 (from 2018)</a>
 

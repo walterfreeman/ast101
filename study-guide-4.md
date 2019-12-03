@@ -28,7 +28,7 @@ in earlier stars that exploded in supernovae
 * As the Sun grew larger, eventually the pressure at the center was sufficient to kindle nuclear fusion
 * The solar wind swept away the remnant gas and dust. This process was complete around 4.5 billion years ago.
 
-### Radioactive dating
+### Radioactive dating (in lab)
 
 * Certain rocks can form only with certain elements, but not others. For instance, zircons form with uranium inside
 them, but not lead.
