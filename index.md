@@ -18,8 +18,6 @@ Current lecture slides: [Ad astra per aspera!](slides/lecture24/lecture24.pdf)
 </h4>
 **Announcements:**
 
-[Prelab 10](labs/lab10/lab10prelab.pdf) is available now.
-
 Audiorecording from Tuesday, November 19th's class: [2:00](https://mega.nz/#!kYkRXYTI!b_dHcVmLkjBesEiVo501UxDIE-L2QNABtcNooicuKnE)
 
 Audiorecordings from Thursday, November 14th's class: [12:30](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY) [2:00](https://mega.nz/#!4REUSIBC!oz7zxJqSLtgqPt19Uy5YSMfFzx2lPzUYucu3AjmGgQY). I will transcode these into mp3 and Opus when I get a chance.

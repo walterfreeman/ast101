@@ -23,4 +23,12 @@ This is particularly true for Unit 1, which is all about geometry.
 
 <a href="exam4study.html">Unit 4</a>
 
+If you're looking for the past exams with answer keys, here they are:
 
+2019 Exam 1: <a href="exam1-formAkey.pdf">form A</a> <a href="exam1-formBkey.pdf">form B</a> <a href="exam1-formCkey.pdf">form C</a> <a href="exam1-formDkey.pdf">form D</a><br>
+
+2019 Exam 2: <a href="exam2-formAkey.pdf">form A</a> <a href="exam2-formBkey.pdf">form B</a> <a href="exam2-formCkey.pdf">form C</a> <a href="exam2-formDkey.pdf">form D</a><br>
+
+2019 Exam 3: <a href="exam3-formAkey.pdf">form A</a> <a href="exam3-formBkey.pdf">form B</a> <a href="exam3-formCkey.pdf">form C</a> <a href="exam3-formDkey.pdf">form D</a><br>
+
+2018 Final Exam: <a href="examfinal-formAkey.pdf">form A</a>. Note that there was an error on this exam in question 25: the correct answer, which is not listed, is "$\beta > \gamma > \alpha$". Oops! 
