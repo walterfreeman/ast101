@@ -6,7 +6,7 @@ title: Welcome to Astronomy 101!
 ---
 
 
-Current lecture slides: [Ad astra per aspera!](slides/lecture24/lecture24.pdf)
+Current lecture slides: [Ad astra per aspera, II!](slides/lecture25/lecture25.pdf)
 
 [Notes on climate change](climate-change.html)
 

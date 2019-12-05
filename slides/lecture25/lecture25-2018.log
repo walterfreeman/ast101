@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  6 DEC 2018 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  5 DEC 2019 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,6 +701,13 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count162
 \@thisrulewidth=\dimen267
 )
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
@@ -790,29 +797,29 @@ This is `epsf.tex' v2.7.4 <14 February 2011>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 115.
+(hyperref)                removing `\\' on input line 116.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 115.
+(hyperref)                removing `\\' on input line 116.
 
 (./lecture25-2018.aux)
 \openout1 = `lecture25-2018.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -822,14 +829,14 @@ LaTeX Font Info:    ... okay on input line 119.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(11.74988pt, 431.74432pt, 11.74988pt)
+* h-part:(L,W,R)=(11.74713pt, 431.74982pt, 11.74713pt)
 * v-part:(T,H,B)=(0.0pt, 341.43306pt, 0.0pt)
 * \paperwidth=455.24408pt
 * \paperheight=341.43306pt
-* \textwidth=431.74432pt
+* \textwidth=431.74982pt
 * \textheight=312.98033pt
-* \oddsidemargin=-60.52011pt
-* \evensidemargin=-60.52011pt
+* \oddsidemargin=-60.52286pt
+* \evensidemargin=-60.52286pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -880,7 +887,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 119.
+Package hyperref Info: Link coloring OFF on input line 120.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -890,9 +897,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count178
 )
-LaTeX Info: Redefining \ref on input line 119.
-LaTeX Info: Redefining \pageref on input line 119.
-LaTeX Info: Redefining \nameref on input line 119.
+LaTeX Info: Redefining \ref on input line 120.
+LaTeX Info: Redefining \pageref on input line 120.
+LaTeX Info: Redefining \nameref on input line 120.
 
 (./lecture25-2018.out) (./lecture25-2018.out)
 \@outlinefile=\write5
@@ -928,145 +935,168 @@ Dictionary: translator-theorem-dictionary, Language: English
 <saturn.jpg, id=32, 1927.2pt x 980.66376pt>
 File: saturn.jpg Graphic file (type jpg)
 <use saturn.jpg>
-Package pdftex.def Info: saturn.jpg  used on input line 133.
-(pdftex.def)             Requested size: 431.74432pt x 219.68214pt.
+Package pdftex.def Info: saturn.jpg  used on input line 134.
+(pdftex.def)             Requested size: 431.74982pt x 219.69711pt.
  [2
 
  <./saturn.jpg>]
 File: saturn.jpg Graphic file (type jpg)
 <use saturn.jpg>
-Package pdftex.def Info: saturn.jpg  used on input line 145.
-(pdftex.def)             Requested size: 431.74432pt x 219.68214pt.
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
+Package pdftex.def Info: saturn.jpg  used on input line 146.
+(pdftex.def)             Requested size: 431.74982pt x 219.69711pt.
 
-Overfull \vbox (6.48238pt too high) detected at line 145
+Overfull \vbox (20.09477pt too high) detected at line 146
  []
 
 [3
 
-] [4
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 164.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [4
 
 ] [5
 
 ] [6
 
-] [7
+]
+[7
 
 ] [8
 
 ] [9
 
-] [10
-
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 254.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 257.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 254.
+LaTeX Font Info:    Try loading font information for U+msb on input line 257.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [11
+) [10
+
+] [11
 
 ] [12
 
-] [13
-
 ]
-[14
+[13
+
+] [14
 
 ] [15
 
 ] [16
 
 ]
-<tube-worms.jpg, id=134, 1927.2pt x 1084.05pt>
-File: tube-worms.jpg Graphic file (type jpg)
-<use tube-worms.jpg>
-Package pdftex.def Info: tube-worms.jpg  used on input line 336.
-(pdftex.def)             Requested size: 194.28362pt x 109.27148pt.
+<evan.jpg, id=134, 196.3335pt x 289.08pt>
+File: evan.jpg Graphic file (type jpg)
+<use evan.jpg>
+Package pdftex.def Info: evan.jpg  used on input line 339.
+(pdftex.def)             Requested size: 212.30962pt x 312.5863pt.
  [17
 
- <./tube-worms.jpg>]
-<europa.jpg, id=141, 929.33113pt x 929.33113pt>
-File: europa.jpg Graphic file (type jpg)
-<use europa.jpg>
-Package pdftex.def Info: europa.jpg  used on input line 365.
-(pdftex.def)             Requested size: 194.28362pt x 194.27193pt.
+ <./evan.jpg>]
+<cap.jpg, id=141, 289.08pt x 282.3348pt>
+File: cap.jpg Graphic file (type jpg)
+<use cap.jpg>
+Package pdftex.def Info: cap.jpg  used on input line 365.
+(pdftex.def)             Requested size: 205.08049pt x 200.29538pt.
  [18
 
- <./europa.jpg>]
-<enceladus.jpg, id=148, 3764.0625pt x 2886.785pt>
-File: enceladus.jpg Graphic file (type jpg)
-<use enceladus.jpg>
-Package pdftex.def Info: enceladus.jpg  used on input line 380.
-(pdftex.def)             Requested size: 302.2197pt x 231.7404pt.
+ <./cap.jpg>]
+File: cap.jpg Graphic file (type jpg)
+<use cap.jpg>
+Package pdftex.def Info: cap.jpg  used on input line 365.
+(pdftex.def)             Requested size: 205.08049pt x 200.29538pt.
  [19
 
- <./enceladus.jpg>]
-<enceladus-3.jpg, id=157, 1662.21pt x 1027.84pt>
-File: enceladus-3.jpg Graphic file (type jpg)
-<use enceladus-3.jpg>
-Package pdftex.def Info: enceladus-3.jpg  used on input line 394.
-(pdftex.def)             Requested size: 388.56725pt x 240.27206pt.
+]
+File: cap.jpg Graphic file (type jpg)
+<use cap.jpg>
+Package pdftex.def Info: cap.jpg  used on input line 365.
+(pdftex.def)             Requested size: 205.08049pt x 200.29538pt.
  [20
 
- <./enceladus-3.jpg>]
-<enceladus-2.jpg, id=164, 3521.155pt x 1801.73125pt>
-File: enceladus-2.jpg Graphic file (type jpg)
-<use enceladus-2.jpg>
-Package pdftex.def Info: enceladus-2.jpg  used on input line 407.
-(pdftex.def)             Requested size: 388.56725pt x 198.82336pt.
+]
+<tube-worms.jpg, id=165, 1927.2pt x 1084.05pt>
+File: tube-worms.jpg Graphic file (type jpg)
+<use tube-worms.jpg>
+Package pdftex.def Info: tube-worms.jpg  used on input line 399.
+(pdftex.def)             Requested size: 194.28609pt x 109.27148pt.
  [21
 
+ <./tube-worms.jpg>]
+<europa.jpg, id=173, 929.33113pt x 929.33113pt>
+File: europa.jpg Graphic file (type jpg)
+<use europa.jpg>
+Package pdftex.def Info: europa.jpg  used on input line 428.
+(pdftex.def)             Requested size: 194.28609pt x 194.2861pt.
+ [22
+
+ <./europa.jpg>]
+<enceladus.jpg, id=182, 3764.0625pt x 2886.785pt>
+File: enceladus.jpg Graphic file (type jpg)
+<use enceladus.jpg>
+Package pdftex.def Info: enceladus.jpg  used on input line 443.
+(pdftex.def)             Requested size: 302.22354pt x 231.78444pt.
+ [23
+
+ <./enceladus.jpg>]
+<enceladus-3.jpg, id=189, 1662.21pt x 1027.84pt>
+File: enceladus-3.jpg Graphic file (type jpg)
+<use enceladus-3.jpg>
+Package pdftex.def Info: enceladus-3.jpg  used on input line 457.
+(pdftex.def)             Requested size: 388.57219pt x 240.27206pt.
+ [24
+
+ <./enceladus-3.jpg>]
+<enceladus-2.jpg, id=196, 3521.155pt x 1801.73125pt>
+File: enceladus-2.jpg Graphic file (type jpg)
+<use enceladus-2.jpg>
+Package pdftex.def Info: enceladus-2.jpg  used on input line 470.
+(pdftex.def)             Requested size: 388.57219pt x 198.82336pt.
+
+[25
+
  <./enceladus-2.jpg>]
-<enceladus-4.jpg, id=171, 1558.82375pt x 693.59125pt>
+<enceladus-4.jpg, id=204, 1558.82375pt x 693.59125pt>
 File: enceladus-4.jpg Graphic file (type jpg)
 <use enceladus-4.jpg>
-Package pdftex.def Info: enceladus-4.jpg  used on input line 421.
-(pdftex.def)             Requested size: 431.74432pt x 192.09813pt.
- [22
+Package pdftex.def Info: enceladus-4.jpg  used on input line 484.
+(pdftex.def)             Requested size: 431.74982pt x 192.09813pt.
+ [26
 
  <./enceladus-4.jpg>]
 File: enceladus-4.jpg Graphic file (type jpg)
 <use enceladus-4.jpg>
-Package pdftex.def Info: enceladus-4.jpg  used on input line 421.
-(pdftex.def)             Requested size: 431.74432pt x 192.09813pt.
-
-[23
+Package pdftex.def Info: enceladus-4.jpg  used on input line 484.
+(pdftex.def)             Requested size: 431.74982pt x 192.09813pt.
+ [27
 
 ]
-<europa-plumes.jpg, id=184, 308.352pt x 308.352pt>
+<europa-plumes.jpg, id=217, 308.352pt x 308.352pt>
 File: europa-plumes.jpg Graphic file (type jpg)
 <use europa-plumes.jpg>
-Package pdftex.def Info: europa-plumes.jpg  used on input line 451.
-(pdftex.def)             Requested size: 194.28362pt x 194.2863pt.
- [24
+Package pdftex.def Info: europa-plumes.jpg  used on input line 514.
+(pdftex.def)             Requested size: 194.28609pt x 194.2863pt.
+ [28
 
  <./europa-plumes.jpg>]
-<pnas.jpg, id=191, 1941.2525pt x 1184.425pt>
+<pnas.jpg, id=224, 1941.2525pt x 1184.425pt>
 File: pnas.jpg Graphic file (type jpg)
 <use pnas.jpg>
-Package pdftex.def Info: pnas.jpg  used on input line 460.
-(pdftex.def)             Requested size: 345.39677pt x 210.72939pt.
- [25
+Package pdftex.def Info: pnas.jpg  used on input line 523.
+(pdftex.def)             Requested size: 345.40117pt x 210.72939pt.
+ [29
 
- <./pnas.jpg>] [26
+ <./pnas.jpg>] [30
 
-] [27
-
-] [28
-
-] [29
-
-] [30
-
-]
-[31
+] [31
 
 ] [32
 
@@ -1086,7 +1116,8 @@ Package pdftex.def Info: pnas.jpg  used on input line 460.
 
 ] [40
 
-] [41
+]
+[41
 
 ] [42
 
@@ -1096,8 +1127,7 @@ Package pdftex.def Info: pnas.jpg  used on input line 460.
 
 ] [45
 
-]
-[46
+] [46
 
 ] [47
 
@@ -1117,7 +1147,8 @@ Package pdftex.def Info: pnas.jpg  used on input line 460.
 
 ] [55
 
-] [56
+]
+[56
 
 ] [57
 
@@ -1125,61 +1156,62 @@ Package pdftex.def Info: pnas.jpg  used on input line 460.
 
 ] [59
 
-] [60
-
 ]
-[61
-
-] [62
-
-]
-<pale-blue-dot.jpg, id=430, 572.1375pt x 775.89874pt>
+<pale-blue-dot.jpg, id=419, 572.1375pt x 775.89874pt>
 File: pale-blue-dot.jpg Graphic file (type jpg)
 <use pale-blue-dot.jpg>
-Package pdftex.def Info: pale-blue-dot.jpg  used on input line 717.
-(pdftex.def)             Requested size: 194.28362pt x 263.47058pt.
- [63
+Package pdftex.def Info: pale-blue-dot.jpg  used on input line 804.
+(pdftex.def)             Requested size: 194.28609pt x 263.48242pt.
+ [60
 
  <./pale-blue-dot.jpg>]
 File: pale-blue-dot.jpg Graphic file (type jpg)
 <use pale-blue-dot.jpg>
-Package pdftex.def Info: pale-blue-dot.jpg  used on input line 746.
-(pdftex.def)             Requested size: 194.28362pt x 263.47058pt.
- [64
+Package pdftex.def Info: pale-blue-dot.jpg  used on input line 833.
+(pdftex.def)             Requested size: 194.28609pt x 263.48242pt.
+ [61
+
+] [62
+
+] [63
+
+] [64
 
 ] [65
 
-] [66
-
-] [67
-
-] [68
-
-] [69
+]
+[66
 
 ]
-<delta-v.png, id=475, 192.72pt x 234.6366pt>
+<delta-v.png, id=464, 192.72pt x 234.6366pt>
 File: delta-v.png Graphic file (type png)
 <use delta-v.png>
-Package pdftex.def Info: delta-v.png  used on input line 828.
-(pdftex.def)             Requested size: 215.87216pt x 262.82341pt.
- [70
+Package pdftex.def Info: delta-v.png  used on input line 915.
+(pdftex.def)             Requested size: 215.87491pt x 262.82698pt.
+ [67
 
  <./delta-v.png>]
-<kerbal.jpg, id=484, 971.63pt x 786.94pt>
+<kerbal.jpg, id=474, 971.63pt x 786.94pt>
 File: kerbal.jpg Graphic file (type jpg)
 <use kerbal.jpg>
-Package pdftex.def Info: kerbal.jpg  used on input line 841.
-(pdftex.def)             Requested size: 259.04922pt x 209.79892pt.
- [71
+Package pdftex.def Info: kerbal.jpg  used on input line 928.
+(pdftex.def)             Requested size: 259.05252pt x 209.81093pt.
+ [68
 
- <./kerbal.jpg>] [72
+ <./kerbal.jpg>] [69
+
+] [70
+
+] [71
+
+] [72
 
 ] [73
 
 ] [74
 
-] [75
+]
+[75
 
 ] [76
 
@@ -1187,59 +1219,21 @@ Package pdftex.def Info: kerbal.jpg  used on input line 841.
 
 ] [78
 
+] [79
+
+] [80
+
+] [81
+
 ]
-<andromeda.jpg, id=535, 1395.2125pt x 1053.9375pt>
-File: andromeda.jpg Graphic file (type jpg)
-<use andromeda.jpg>
-Package pdftex.def Info: andromeda.jpg  used on input line 940.
+<andromeda-3.png, id=570, 1395.2125pt x 1053.9375pt>
+File: andromeda-3.png Graphic file (type png)
+<use andromeda-3.png>
+Package pdftex.def Info: andromeda-3.png  used on input line 1096.
 (pdftex.def)             Requested size: 451.99103pt x 341.43306pt.
+ [82
 
-Overfull \hbox (20.2467pt too wide) in paragraph at lines 940--940
-[][]  
- []
-
-
-Overfull \vbox (13.39577pt too high) detected at line 940
- []
-
-[79
-
- <./andromeda.jpg>]
-<andromeda-annotated-first.jpg, id=544, 1395.2125pt x 1053.9375pt>
-File: andromeda-annotated-first.jpg Graphic file (type jpg)
-<use andromeda-annotated-first.jpg>
-Package pdftex.def Info: andromeda-annotated-first.jpg  used on input line 944.
-
-(pdftex.def)             Requested size: 451.99103pt x 341.43306pt.
-
-Overfull \hbox (20.2467pt too wide) in paragraph at lines 944--944
-[][]  
- []
-
-
-Overfull \vbox (13.39577pt too high) detected at line 944
- []
-
-[80
-
- <./andromeda-annotated-first.jpg>]
-<andromeda-annotated.jpg, id=551, 1395.2125pt x 1053.9375pt>
-File: andromeda-annotated.jpg Graphic file (type jpg)
-<use andromeda-annotated.jpg>
-Package pdftex.def Info: andromeda-annotated.jpg  used on input line 948.
-(pdftex.def)             Requested size: 451.99103pt x 341.43306pt.
-
-Overfull \hbox (20.2467pt too wide) in paragraph at lines 948--948
-[][]  
- []
-
-
-Overfull \vbox (13.39577pt too high) detected at line 948
- []
-
-[81
-
- <./andromeda-annotated.jpg>]
+ <./andromeda-3.png>]
 \tf@nav=\write6
 \openout6 = `lecture25-2018.nav'.
 
@@ -1249,36 +1243,41 @@ Overfull \vbox (13.39577pt too high) detected at line 948
 \tf@snm=\write8
 \openout8 = `lecture25-2018.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 988.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 988.
- (./lecture25-2018.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 988.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 988.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1105.
+
+(./lecture25-2018.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1105.
+
 Package rerunfilecheck Info: File `lecture25-2018.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21048 strings out of 492982
- 410517 string characters out of 6134895
- 481480 words of memory out of 5000000
- 23969 multiletter control sequences out of 15000+600000
- 14716 words of font info for 56 fonts, out of 8000000 for 9000
+ 21296 strings out of 492982
+ 413206 string characters out of 6134895
+ 481603 words of memory out of 5000000
+ 24196 multiletter control sequences out of 15000+600000
+ 23013 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,59p,801b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmtt12.pfb>
-Output written on lecture25-2018.pdf (81 pages, 9404408 bytes).
+ 56i,15n,59p,801b,709s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+ftt1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on lecture25-2018.pdf (82 pages, 11494144 bytes).
 PDF statistics:
- 629 PDF objects out of 1000 (max. 8388607)
- 501 compressed objects within 6 object streams
- 163 named destinations out of 1000 (max. 500000)
+ 667 PDF objects out of 1000 (max. 8388607)
+ 531 compressed objects within 6 object streams
+ 165 named destinations out of 1000 (max. 500000)
  152 words of extra memory for PDF output out of 10000 (max. 10000000)
 
