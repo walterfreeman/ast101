@@ -6,6 +6,10 @@ title: Welcome to Astronomy 101!
 ---
 
 
+<h3>
+Submit your final projects to <a href="mailto:suast101projects@gmail.com">suast101projects@gmail.com</a>.
+</h3>
+
 Current lecture slides: [Ad astra per aspera, II!](slides/lecture25/lecture25.pdf)
 
 [Notes on climate change](climate-change.html)
