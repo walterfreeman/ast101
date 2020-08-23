@@ -2,11 +2,12 @@
 #include "vector.h"
 #include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 
-int N = 3000;
+int N = 4000;
 int ntrails=0;
-double rmin = 0.5;
-double rmax = 10;
+double rmin = 0.4;
+double rmax = 6;
 double rconst=0.2;
 double rpower = 0.35;
 double zspread=0.1;

@@ -5,16 +5,14 @@ title: Lab schedule
 category: top
 ---
 
-** Labs begin the second week of classes. Students with Monday labs will complete Lab 1 on the Monday of the third week of classes, to account for the Labor Day holiday. **
+** Labs begin the second week of classes. Lab schedule coming soon, and will change based on demand for different times.**
 
 * Vidyesh Rao Anisetti: <vvaniset@syr.edu>
-* Saumik Banerjee: <sbaner03@syr.edu> 
-* Pan Dong: <padong@syr.edu>
 * Jeffrey Frelier: <jpfrelie@syr.edu>
 * Suman Kumar Kundu: <skundu@syr.edu> 
-* Manu Mannatil: <mmannatt@syr.edu>
 * Mario Olivares: <maolivar@syr.edu>
-* Fang Wang: <fwang13@syr.edu>
+
+<!--
 
 | **Section**    | **Instructor** | **Time** |
 |:----------:|:-------------:|:----:|
@@ -48,3 +46,4 @@ category: top
 |M022|Pan Dong  		 |Friday 11:00AM-12:20PM |
 |M023|Mario Olivares 		 |Friday 12:45PM-2:05PM |
 
+-->

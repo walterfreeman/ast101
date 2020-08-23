@@ -1,0 +1,277 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab: Astrology 101
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Throughout this course, you've studied the field of astronomy, but in a context that is applicable to all of science. Creating models to explain and predict the behavior of the world around us, collecting data to verify and improve those models, and eventually developing deeper insight into the workings of nature from those models, is at the core of every scientific discipline, from astronomy to economics. Having now (almost!) completed this course, you are equipped to be able to examine an idea in a scientific way. We'll practice using these skills to study a topic that, based on the headings of many of your emails, a lot of you wish this course had been about: astrology!
+
+\subsection*{Materials}
+
+A computer and a calculator.
+
+\subsection*{Objective}
+
+To study the constellations in the Zodiac to determine their impact in our day to day lives, and in the process review ideas that you saw in lab throughout the year. \\ \\ \\
+
+%\begin{center}
+%	\textbf{You are to complete this lab \textit{on your own!}}
+%\end{center}
+
+\newpage
+\section{Stellarium}
+If you need your table's lab computer and it is currently in use, you may skip this sections and return to it when the computer is available.\\
+
+\textbf{Question 1.} Open Stellarium, and set the date to January 1 in the year 2002. What constellation is the Sun in on this day? Note: it may help to turn off the atmosphere and ground and turn on the display of constellation boundaries and art.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 2.} Rewind time until the Sun is halfway between this constellation and one other. What date does this occur? We'll refer to this as the first day that someone would have that constellation as their birth sign. This need not be exact.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 3.} Go back to January 1 2002, and advance time until the Sun is halfway between the constellation it starts in and one other. What date does this occur? We'll refer to this as the last day that someone would have that constellation as their birth sign. This need not be exact!\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\newpage
+
+\textbf{Question 4.} Complete the chart below by finding the start and end dates for each constellation in the year 2002. The ``traditional'' dates for the horoscope are shown for comparison.\\
+
+\begin{center}
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		Constellation&Start Day&End Day&Horoscope\\ \hline
+		Aquarius    & & &Jan 20-Feb 18\\ \hline
+		Pisces      & & &Feb 19-Mar 20\\ \hline
+		Aries       & & &Mar 21-Apr 19\\ \hline
+		Taurus      & & &Apr 20-May 20\\ \hline
+		Gemini      & & &May 21-Jun 20\\ \hline
+		Cancer      & & &Jun 21-Jul 22\\ \hline
+		Leo         & & &Jul 23-Aug 22\\ \hline	
+		Virgo       & & &Aug 23-Sep 22\\ \hline
+		Libra       & & &Sep 23-Oct 22\\ \hline
+		Scorpio     & & &Oct 23-Nov 21\\ \hline
+		Sagittarius & & &Nov 22-Dec 21\\ \hline
+		Capricorn   & & &Dec 22-Jan 19\\
+		\hline
+	\end{tabular}
+\end{center}
+
+\textbf{Question 5.} Compare the date ranges for the constellations that you found with Stellarium to those claimed by horoscopes. Is the horoscope correct?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 6.} Set yourself to the start date for Taurus according to the horoscope. Go back in time to find approximately the year in which the horoscope correctly predicts when that birth-sign began. You will likely want to move more than 1 year at a time.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+If the zodiac constellations can impact us here on Earth, there must be a mechanism by which this happens. The two most promising mechanisms seem to be either the force of gravity, or the light from the stars. To explore these options, we'll need to learn a bit more about the constellations themselves. We'll do this by studying one of the stars in the Zodiac, Teegarden's Star, and use this to draw conclusions about whether gravity or light from them could be affecting us here on Earth.\\
+
+\newpage
+
+\section{Parallax}
+
+\textbf{Question 7.} Recall that parallax occurs when you observe an object from two different locations, and even though the object and the background haven't moved, the object \textit{appears} to move relative to the background. The distance between the two places you observe the object from is called your \textit{baseline}.\\
+
+What is the largest baseline we have access to on Earth, measured in AU?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 8.} The formula to calculate the distance to an object by measuring its parallax is:
+\begin{align*}
+distance=57\times \frac{baseline}{parallax}
+\end{align*}
+where ``distance'' is how far away the object is, ``baseline'' is the distance between observation points, and ``parallax'' is the apparent motion of the object due to observing it from two different locations, measured in degrees.\\
+
+If you observe two objects using the \textit{same} baseline, which one is closer; the object with larger parallax, or smaller parallax? \\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 9.} One of the stars in the constellation Aries is called ``Teegarden's Star''. Although this star is very dim, it is special for being the closest star to Earth within the Aries constellation.\\ 
+
+After observing this star in January and then again in July, astronomers found it had a parallax of 0.00015$^\circ$. Based on this, and your answer to question 7, how far away is this star? Give your answer in AU, then convert it to meters by multiplying your answer by $1.5\times 10^{11}$.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\section{Gravity}
+If the constellations do have an effect on us, we would need to figure out by what physical process they affect us. Perhaps it's gravity!\\
+
+\textbf{Question 10.} Newton's law of gravity tells us that the force in newtons due to gravity between two objects is
+\begin{align*}
+F_G=G\frac{m_1 m_2}{r^2}
+\end{align*}
+where $m_1$ and $m_2$ are the masses of the two objects, r is the distance between the two objects, and G is a constant whose value is approximately $6.67\times 10^{-11}$. We've not used the exact value of $G$ before; now we will!\\
+
+Use the distance in meters you calculated using parallax (Question 9), the mass of the star ($1.6\times 10^{29}$ kg), and the fact that the average mass of a person is around 70kg to calculate the force of gravity that this star exerts on a person on Earth.\\
+
+The result you get will be in newtons, the SI unit of force. One newton is about 1/5 of a pound and 1/10 of a kilogram-weight. Convert your answer to pounds or kilogram-weights by dividing by 5 or 10.
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 11.} How much do you think the gravity of people around you affects you? Calculate the force of gravity two people would exert on each other when sitting next to each other, with about 1 meter of space between them. \\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 12.} How does the force of gravity that a person exerts on you compare to the gravity that Teegarden's star exerts on you? Do you think it's reasonable to think that, if the constellations affect our lives and futures, that the force of gravity is the mechanism that makes it happen? \\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\newpage
+
+\section{Light}
+If gravity isn't the mechanism that allows stars to influence us, perhaps it's the light from those stars?\\
+
+\textbf{Question 13.)} We know that a lot can be learned about the light from a star by knowing its temperature. If Teegarden's star is a dim, red star, is it hotter or colder than the Sun?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 14.)} The peak wavelength for Teegarden's star is around $1.1\mu m$. Open the PhET blackbody simulator (link below) and change the temperature until you find the temperature of Teegarden's star.
+
+\begin{center}\small
+	\url{https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html}
+\end{center}
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 15.} In the "How Hot are the Planets?" lab, you derived a formula for the intensity of light from a star with radius r a distance d away from the star:
+\begin{align*}
+I=\frac{\sigma T^4r^2}{d^2}
+\end{align*} 
+During that lab, we never had to calculate anything with $\sigma$, but here we will. So, for when you need it, the value of $\sigma$ is about $5.67\times 10^{-8}$.\\
+
+Use the temperature you found in Question 14, the distance to the star in AU you found in Question 9, and the fact that the radius of Teegarden's Star is 0.0006 AU, to find the intensity of the light that the Earth gets from Teegarden's Star.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\newpage
+
+\textbf{Question 16.)} The intensity of radiation from your cellphone is around $70 W/m^2$. How does this compare to the radiation we receive from Teegarden's Star? Do you think it's possible for light to be how the constellations affect us?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\section{Pseudoscience}
+By now, you've probably realized that astrophysics takes the position that there is no physical basis for the motions of the stars to dictate our fates. This isn't to say that it's wrong or bad to be interested in it or to check your horoscope, but it serves as an interesting case study in people trying to justify its validity in ways that do not match the scientific method. Remember that while ``science'' can apply to many things, there are a few features that sound scientific claims have in common:
+\begin{itemize}
+	
+	\item \textbf{Naturalness:} Any explanation of something must be based on natural laws.\\
+	\item \textbf{Universality:} Those physical laws should be the same at all places and times.\\
+	\item \textbf{Falsifiability / Empirical testing:} It must be possible to prove that a scientific claim is not correct by observation or experiment.
+	\item \textbf{Objectivity:} This explanation of something by natural principles doesn't depend on the identity of the people involved, and doesn't apply special rules to human beings simply because they are human that don't apply to other matter.
+\end{itemize}
+
+\textbf{Question 17.)} When read carefully, you can see that most horoscopes would apply to just about anyone, using vague terms and generalities that aren't very specific. Because of this, it's all but impossible for a horoscope to actually be wrong.\\
+
+Which of the above aspects of science does this fail? If it meets all of them, briefly explain how.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\newpage
+
+\textbf{Question 18.)} We've shown throughout this lab that there aren't any physical processes that would allow the stars in the zodiac constellations to meaningfully impact us on Earth. However, some people claim that there's perhaps an unseeable, undetectable mystical force that the stars exert specifically on people that science can't ever measure.\\
+
+Which of the above aspects of science does this fail? If it meets all of them, briefly explain how.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 19.)} Despite all of this, there ARE real trends in the zodiac. For example, those with a birth sign of Libra, Scorpio, Saggitarius, or Capricorn, live a year longer on average than those whose birthsign is Taurus, Gemini, Cancer, or Leo.\\
+
+However, there is an explanation; birthsigns correlate exactly with dates on Earth! The constellations that live longer are those in winter, and those that live the shortest occur in summer. Somehow, being born in winter seems to affect your development in such a way that leads you to live longer, perhaps because you hit certain developmental stages at better times.\\
+
+Which of the above aspects of science does this fail? If it meets all of them, briefly explain how.
+
+\vspace{1.5cm}
+\hrulefill
+\end{document}

@@ -1,0 +1,7 @@
+#g 2 cm 1
+30 0
+90 2000
+#lx "Temperature (degrees C)"
+#ly "Rate of heat loss (watts)"
+#h 0.6
+

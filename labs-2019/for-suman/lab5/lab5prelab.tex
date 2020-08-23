@@ -1,0 +1,207 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+\pagenumbering{gobble}
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 5: Planetary Orbits Prelab
+}
+
+\normalsize
+\it Note: You will need to show your prelab to your lab TA when you come to lab, but you won't be turning it in for a grade. Just show them that you've done your work!
+\end{center}
+
+\vspace*{0.5cm}
+
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+In this lab, you'll be using a short computer program to simulate planetary orbits around a star. This program works in the following way:
+
+\begin{enumerate}
+	\item Choose the mass of your planet, as well as the mass of the star it orbits.
+	\item Choose a starting position for the planet, as well as its velocity. 
+	\item Repeat the following steps many times:
+	\begin{enumerate}
+		\item Use Newton's law of gravity to find the size and direction of the gravitational force
+		\item Use Newton's law of motion to determine how this force changes the objects' motion over a tiny amount of time, and then change the motion
+		\item Along the way, draw some stuff so you can see how the planet moves
+	\end{enumerate}
+\end{enumerate}
+
+That's all it does. 
+
+Remember some terms we learned in class:
+
+\begin{itemize}
+	\item Aphelion: The distance from a planet to its star at the furthest point in its orbit
+	\item Perihelion: The distance from a planet to its star at the closest point in its orbit
+	\item Eccentricity: A measure of how ``stretched-out'' an ellipse is. The minimum value is 0 (this is just a circle); the maximum value is 1.
+	
+	Eccentricity can be calculated from perihelion and aphelion distances as $$e=\frac{p-a}{p+a}.$$
+	
+	\item Period: How long it takes a planet to go around its star
+\end{itemize}
+
+\subsection*{Materials} 
+
+You will need a computer or tablet. Any computer or tablet will work, since this is a web-based simulation. You could use a cellphone, too, but 
+the small screen and lack of keyboard will likely be annoying.
+
+\newpage
+
+\section{Running the Code}
+
+\textbf{Question 1.} On the course webpage, follow the link at the top to the orbit simulator. You should see a window with computer code on the left
+and a blank pane on the right where the output will show up.
+
+This window isn't big enough, so click on the ``hamburger menu'' (three lines) in the top left and choose ``Fullscreen''.
+
+Now, click ``Run''. What happens?
+
+\vspace*{1.5cm}
+\hrulefill
+
+\textbf{Question 2.} This orbit has the same aphelion as Earth's. How do the other properties (its perihelion, its eccentricity, and its period) compare to Earth's? 
+You can either compare them numerically (by looking up those values on Wikipedia) or just look at the orbit and compare it to what you know about ours.
+
+\vspace*{2.5cm}
+\hrulefill\\
+
+\section{Working with Trinket}
+
+This computer program is written in the language Python\footnote{Technically, it is a Python version called ``Glowscript'' that has some animation tools and is supported
+	by Trinket. This is why you see the top line: {\tt GlowScript 2.7 VPython}. It's needed to tell Trinket what kind of code this is!}, and is embedded in a tool called Trinket that allows it to run in a web browser. You can modify anything you want and see what it does! {\bf Don't worry; you won't break anything}. You can just choose ``Reset'' from the menu in the top left to reset it.
+
+Most of the code involves things like drawing on the screen and calculating period, aphelion, perihelion, and eccentricity. You don't need to worry about that part. The things you'll need to change the planet's orbit are right at the top, outlined in a green rectangle made out of \# marks. The computer ignores any code on a line after a \#, so I have left ``comments'' in the code for you with these.
+\newpage
+\textbf{Question 3.} Try changing the line {\tt start\_velocity   = 5} to {\tt start\_velocity   = 4}. This lets you change how fast the planet is moving at the beginning of the simulation. Run the program again. What happened?
+
+Remember, if you ever break anything and want to go back, just reload the webpage.
+
+\vspace*{1.5cm}
+\hrulefill\\
+
+\textbf{Question 4.} Change a few other things, one at a time. What did you change, and what happened? {\it (Note: if your planet flies away from the Sun, then the initial velocity is so high that the Sun's gravity isn't strong enough to pull it back in.)}
+
+\vspace*{4cm}
+\hrulefill\\
+
+\textbf{Question 5.} Why do you think you have to wait until the planet finishes a complete orbit (or more) before the simulation can show you the eccentricity and orbital period?
+
+\vspace*{2.5cm}
+\hrulefill\\
+
+
+
+\section{The Earth's orbit}
+
+Reload the page to go back to the default parameters. Most of these are the actual values for Earth; our aphelion, for instance, is 1.017 AU. (In the orbits simulated here, the planet always starts at either aphelion or perihelion.) 
+
+However, the initial velocity is not right.
+
+We know that the Earth's perihelion is 0.98 AU; this gives it an eccentricity of 0.0167. (Since the perihelion and aphelion distances are so close together, our orbit is very nearly circular, and the eccentricity is very small.)
+
+Play around with the ``initial velocity'' parameter; by trial and error, figure out the initial velocity that gives the correct perihelion distance. (Make small changes to the number and run the program, and find the value that gives you a perihelion of 0.98 AU.)
+
+\medskip
+
+{\textbf{Question 6.} What value for the initial velocity gives you the right perihelion?}
+
+\vspace*{1.5cm}
+\hrulefill\\
+
+\textbf{Question 7.} 
+
+As you change the initial velocity, you'll notice the shape of the orbit change, as well as the orbital period and the eccentricity. What is the period? Is it what you expect it to be?
+
+\vspace*{1.5cm}
+\hrulefill\\
+
+\textbf{Question 8.} 
+
+As you change the initial velocity, you'll notice the shape of the orbit change, as well as the orbital period and the eccentricity. Does the change in the eccentricity match what you expect? 
+
+\vspace*{1.5cm}
+\hrulefill\\
+
+\textbf{Question 9.} 
+
+In class, you learned that the force of gravity causes two objects to attract each other with a force $$F_g = \frac{Gm_1m_2}{r^2}.$$
+
+You also learned what forces do: they cause objects to accelerate. The acceleration on an object from a force is given by Newton's second law of motion
+
+$$ \mbox{(acceleration of an object)} = \frac{\mbox{(force on that object)}}{\mbox{(object's mass)}}.$$
+
+Look at lines 53 and 54 of the code. Take a guess what they do. (This computer code should look a lot like one of the equations above!) What do you think ** means in Python?
+
+\vspace*{3cm}
+\hrulefill\\
+
+
+\end{document}
