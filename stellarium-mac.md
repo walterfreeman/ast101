@@ -5,6 +5,9 @@ use_math: true
 title: Installing Stellarium on a Mac 
 ---
 
+You are welcome to use the web version of Stellarium. But if you want to download it and run it (for better graphics and performance) and have an Apple 
+computer, this may be interesting to you.
+
 Apple has a security feature on Macs that makes it harder to run software that macOS doesn't recognize as signed by Apple.
 
 However, Stellarium is safe, and so you'll want to say to your computer "Yes, I know this program isn't signed, but I want to run 
@@ -14,8 +17,8 @@ I don't have a Mac. But a friend does, and she provided some instructions on how
 
 <br><br>
 
-First download Stellarium from <a href="https://github.com/Stellarium/stellarium/releases/download/v0.19.1/Stellarium-0.19.1.dmg">
-the publisher</a>, and open the `.dmg` disk image.
+First download Stellarium from <a href="https://github.com/Stellarium/stellarium/releases/download/v0.20.2/Stellarium-0.20.2.zip">
+the publisher</a>, unzip the archive, and open the `.dmg` disk image.
 
 
 When trying to open it, she got that error message saying that she couldn't open it because it isn't from a recognized Apple developer.
