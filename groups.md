@@ -5,6 +5,16 @@ title: Group Information
 category: top
 ---
 
+This page has group information listed for everyone in our class. Make sure you find your own listing. (Unless you are Andrew Dinnhaupt, the first listing isn't yours!)
+
+Students are listed in alphabetical order by email address. It will be easiest if you search for your own name. You may have to search a couple of times, since your name will 
+appear in the information for other students who are in your group or who will be sending you their work for evaluation.
+
+---
+
+---
+
+
 #### Andrew Dinnhaupt Jr, abdinnha@syr.edu
 
 Your group is number 401. Your lab time is Monday 12:45-2:05 PM.
