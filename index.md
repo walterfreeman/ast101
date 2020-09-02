@@ -2,11 +2,17 @@
 layout: page 
 permalink: index.html
 use_math: true 
+title: Announcements and Information
 ---
 
-### Announcements
+### Class Links
 
-The calendar page, with readings and links to lecture slides and recordings, is now online.
+Twitch stream at <https://twitch.tv/suphysics> (better audio and video)
+
+Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2JiMUxFQk8wR1UyZz09> (This link shouldn't change)
+
+
+The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
 <br><br>
 
@@ -38,12 +44,6 @@ If you still haven't filled out the lab time survey, then you should email <skun
 and he'll get you set up with a group.
 
 Remember that you can go to <https://piazza.com/syr/fall2020/ast101> to sign up for Piazza and ask questions there.
-
-### Links
-
-Twitch stream at <https://twitch.tv/suphysics> (better audio and video)
-
-Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2JiMUxFQk8wR1UyZz09> (This link shouldn't change)
 
 ---
 
