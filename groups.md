@@ -23,26 +23,12 @@ Again, unless you are Andrew Dinnhaupt, the first listing is not yours.
 
 
 
-#### Ruiyun  Zhang, @syr.edu
+#### Joshua Foley, @syr.edu
 
-You weren't assigned a group because it looks like you have groupmates who want to work with you, but who did not fill the survey out
-		listing the same time as you. Instead of putting you with a random group, we decided to give you and your group a chance to fix this.
-		Contact the people you are hoping to work with and figure out what time you want your lab group to meet. Then one of you should email 
-		<skundu@syr.edu> with your decision. He will sort the groups out for you. Don't worry -- you'll get a little extra time on Project 1.
-
-
-<br>
-
----
-
-<br>
-
-
-#### First Name Last Name, NetID@syr.edu
-
-Your group is number Group ID. Your lab time is Time Slot.
+Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
+* Ryan Kalata (rakalata@syr.edu)
 <br>
 
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
@@ -3653,6 +3639,7 @@ Your group is number 709. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
 * Zhen Huang (zhuang38@syr.edu)
+* Ruiyun  Zhang (rzhang63@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -8888,7 +8875,7 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Kevin Robertson, kroberts@syr.edu
 
-Your group is number 711. Your lab time is Monday 11:00 AM-12:20 PM.
+Your group is number 711. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
 * Matthew Dragon (mtdragon@syr.edu)
@@ -8897,7 +8884,7 @@ Your other group members are:
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
-	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
+	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
 Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
 
@@ -12066,12 +12053,11 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Ruiyun  Zhang (@syr.edu)
+* Joshua Foley (@syr.edu)
 <br>
 
-Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
-		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
-	       Collaborate at Monday 2:15-3:35 PM for your lab.
+Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
+		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
 Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
@@ -12563,6 +12549,31 @@ Based on your responses your group will likely be meeting online. This week, you
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
 Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
+#### Ruiyun  Zhang, rzhang63@syr.edu
+
+Your group is number 709. Your lab time is Monday 5:15-6:35 PM.
+
+Your other group members are:
+* Connor Napierala (csnapier@syr.edu)
+* Zhen Huang (zhuang38@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
+		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
+	       Collaborate at Monday 5:15-6:35 PM for your lab.
+
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -15599,6 +15610,7 @@ Your group is number 709. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
 * Connor Napierala (csnapier@syr.edu)
+* Ruiyun  Zhang (rzhang63@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
