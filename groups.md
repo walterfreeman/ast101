@@ -23,29 +23,6 @@ Again, unless you are Andrew Dinnhaupt, the first listing is not yours.
 
 
 
-#### Joshua Foley, @syr.edu
-
-Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
-
-Your other group members are:
-* Ryan Kalata (rakalata@syr.edu)
-<br>
-
-Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
-		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
 #### Andrew Dinnhaupt Jr, abdinnha@syr.edu
 
 Your group is number 401. Your lab time is Monday 12:45-2:05 PM.
@@ -75,8 +52,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2003. Your lab time is Wednesday 5:15-6:35 PM.
 
 Your other group members are:
-* Noah Simpson (nrsimpso@syr.edu)
 * Liam Creeden (ldcreede@syr.edu)
+* Noah Simpson (nrsimpso@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -149,8 +126,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 210. Your lab time is Monday 9:30-10:50 AM.
 
 Your other group members are:
-* Morgan Fahy (mofahy@syr.edu)
 * Emily Gold (emgold@syr.edu)
+* Morgan Fahy (mofahy@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -173,8 +150,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2207. Your lab time is Thursday 5:00-6:20 PM.
 
 Your other group members are:
-* Lauren Kang (jkang21@syr.edu)
 * Cecelia Westwater (cjwestwa@syr.edu)
+* Lauren Kang (jkang21@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -197,8 +174,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1806. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
-* Kyra Singh (klsingh@syr.edu)
 * Anthony Haak (anhaak@syr.edu)
+* Kyra Singh (klsingh@syr.edu)
 * Nya Bragg (nabragg@syr.edu)
 <br>
 
@@ -296,8 +273,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 708. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Rehan Ahmed (rdahmed@syr.edu)
 * Max Cotroneo (mcotrone@syr.edu)
+* Rehan Ahmed (rdahmed@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -418,8 +395,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1906. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Oluwaseminire Babafemi (oebabafe@syr.edu)
 * Mia Rodriguez (mkrodrig@syr.edu)
+* Oluwaseminire Babafemi (oebabafe@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -659,8 +636,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1004. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Ellen Kingman (eekingma@syr.edu)
 * Courtney Lynch (clynch12@syr.edu)
+* Ellen Kingman (eekingma@syr.edu)
 * Jack Gonzalez (jgonza09@syr.edu)
 <br>
 
@@ -781,8 +758,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 311. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Luka Vrbaski (lvrbaski@syr.edu)
 * Amanda Miller (amille19@syr.edu)
+* Luka Vrbaski (lvrbaski@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -829,8 +806,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1600. Your lab time is Wednesday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Molly Shoap (mpshoap@syr.edu)
 * Andrew Joseph (ajosep06@syr.edu)
+* Molly Shoap (mpshoap@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -1050,8 +1027,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 307. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Luis Lopez-Crespo (llopezcr@syr.edu)
 * Kiersten Edwards (kedwar03@syr.edu)
+* Luis Lopez-Crespo (llopezcr@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -1142,31 +1119,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
-#### Alexi Farnes, arfarnes@syr.edu
-
-Your group is number 1700. Your lab time is Wednesday 12:45-2:05 PM.
-
-Your other group members are:
-* Samantha Greco (slgreco@syr.edu)
-* Tyler Thibeau (tjthibea@syr.edu)
-<br>
-
-Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
-		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
-	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
 #### Aidan Hayes, arhayes@syr.edu
 
 Your group is number 1810. Your lab time is Wednesday 2:15-3:35 PM.
@@ -1244,9 +1196,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1106. Your lab time is Tuesday 5:00-6:20 PM.
 
 Your other group members are:
-* Olivia Troilo (ottroilo@syr.edu)
 * Eli Lesser (eflesser@syr.edu)
 * Olivia Zoeckler (orzoeckl@syr.edu)
+* Olivia Troilo (ottroilo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -1269,8 +1221,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 604. Your lab time is Monday 3:45-5:05 PM.
 
 Your other group members are:
-* Rachel Goldberg (rgoldb03@syr.edu)
 * Antonio Cruz (acruz21@syr.edu)
+* Rachel Goldberg (rgoldb03@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -1390,8 +1342,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1403. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
-* Jordan Kakuyo (jdkakuyo@syr.edu)
 * Diana Avila (davila@syr.edu)
+* Jordan Kakuyo (jdkakuyo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -1634,8 +1586,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 509. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Duncan Grant (dugrant@syr.edu)
 * Michael McKeon (cmmckeon@syr.edu)
+* Duncan Grant (dugrant@syr.edu)
 * Kathryn Voler (kvvoler@syr.edu)
 <br>
 
@@ -1659,6 +1611,7 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1404. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
+* Michael Hernandez Jr (mahernan@syr.edu)
 * Matthew Martin (mamartin@syr.edu)
 <br>
 
@@ -1875,8 +1828,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2802. Your lab time is Friday 11:00-12:20 AM.
 
 Your other group members are:
-* Olivia Porter (ogporter@syr.edu)
 * Juliette Keller (jukeller@syr.edu)
+* Olivia Porter (ogporter@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -2067,13 +2020,36 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Brianna Paroff, bmparoff@syr.edu
+
+Your group is number 804. Your lab time is Monday 6:45-8:05 PM.
+
+Your other group members are:
+* Jared Regenstein (jmregens@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
+               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
+
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Beckett Dardia, bndardia@syr.edu
 
 Your group is number 1006. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Jaden Gerard (jagerard@syr.edu)
 * Daouda Diawara (ddiawara@syr.edu)
+* Jaden Gerard (jagerard@syr.edu)
 * Matthew Reese (mcreese@syr.edu)
 <br>
 
@@ -2097,8 +2073,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 902. Your lab time is Monday 8:15-9:35 PM.
 
 Your other group members are:
-* Matthieu Theard (matheard@syr.edu)
 * Dylan Goldberg (dygoldbe@syr.edu)
+* Matthieu Theard (matheard@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -2148,29 +2124,6 @@ Your group is number 1710. Your lab time is Wednesday 12:45-2:05 PM.
 Your other group members are:
 * Jacob Yousem (jwyousem@syr.edu)
 * Ryan Conner (rgconner@syr.edu)
-<br>
-
-Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
-               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
-#### Benjamin Chairnoff, brchairn@syr.edu
-
-Your group is number 1610. Your lab time is Wednesday 11:00 AM-12:20 PM.
-
-Your other group members are:
-* Joseph Deblasio (jtdeblas@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -2241,8 +2194,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 415. Your lab time is Monday 12:45AM-2:05 PM.
 
 Your other group members are:
-* Ivana Xie (ixie01@syr.edu)
 * David George (dgeorg02@syr.edu)
+* Ivana Xie (ixie01@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -2266,9 +2219,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1901. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
+* Caleb Welsh (cwelsh@syr.edu)
 * Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
-* Caleb Welsh (cwelsh@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -2365,9 +2318,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 515. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Zoe Copeland (zccopela@syr.edu)
-* Tessa Pulgar (tkpulgar@syr.edu)
 * Marykate Keevins (mdkeevin@syr.edu)
+* Tessa Pulgar (tkpulgar@syr.edu)
+* Zoe Copeland (zccopela@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -2464,8 +2417,8 @@ Your group is number 2700. Your lab time is Friday 9:30-10:50 AM.
 
 Your other group members are:
 * Qiaomu Yao (qyao09@syr.edu)
-* Xiaoping Yuan (xyuan16@syr.edu)
 * Xinyu Xing (xxing05@syr.edu)
+* Xiaoping Yuan (xyuan16@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -2757,9 +2710,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 710. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
+* Edward Lockowitz (elockowi@syr.edu)
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
-* Edward Lockowitz (elockowi@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -2956,8 +2909,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2603. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
-* Yuqi Chen (ychen396@syr.edu)
 * Xinran Ma (xma135@syr.edu)
+* Yuqi Chen (ychen396@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -3126,8 +3079,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2207. Your lab time is Thursday 5:00-6:20 PM.
 
 Your other group members are:
-* Lauren Kang (jkang21@syr.edu)
 * Alexis Trainor (actraino@syr.edu)
+* Lauren Kang (jkang21@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -3150,9 +3103,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1903. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Megan Caffey (mcaffey@syr.edu)
 * Mia Angioletti (meangiol@syr.edu)
-* Zoe Carlson (zecarlso@syr.edu)
+* Paulini Ferguson (pjfergus@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -3373,8 +3325,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2807. Your lab time is Friday 11:00-12:20 AM.
 
 Your other group members are:
-* Gordon Taubenfeld (gstauben@syr.edu)
 * David Heiman (dmheiman@syr.edu)
+* Gordon Taubenfeld (gstauben@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -3638,8 +3590,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 709. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Zhen Huang (zhuang38@syr.edu)
 * Ruiyun  Zhang (rzhang63@syr.edu)
+* Zhen Huang (zhuang38@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -3663,8 +3615,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1300. Your lab time is Tuesday 8:00-9:20 PM.
 
 Your other group members are:
-* Zijian Xu (zxu104@syr.edu)
 * Renata Lee (rlee17@syr.edu)
+* Zijian Xu (zxu104@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -3737,8 +3689,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1809. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
-* Tyler O'Neill (tmoneill@syr.edu)
 * Maxum O'Halloran (mjohallo@syr.edu)
+* Tyler O'Neill (tmoneill@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on South Campus. This week, you should contact each other by email, and arrange to meet
@@ -3811,8 +3763,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1901. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Wayne Kaminski (wakamins@syr.edu)
 * Benjamin Stickle (bstickle@syr.edu)
+* Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
 <br>
 
@@ -3957,17 +3909,17 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Daniel Cunningham, dcunni03@syr.edu
 
-Your group is number 2007. Your lab time is Wednesday 5:15-6:35 PM.
+Your group is number 2006. Your lab time is Wednesday 5:15-6:35 PM.
 
 Your other group members are:
-* Timothy Skeval (tbskeval@syr.edu)
 * Luke Kaleeba (lkaleeba@syr.edu)
+* Timothy Skeval (tbskeval@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -4081,8 +4033,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 309. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Stefany Lema Rodriguez (sklema@syr.edu)
 * Madison Grebler (mpgreble@syr.edu)
+* Stefany Lema Rodriguez (sklema@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -4127,8 +4079,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 415. Your lab time is Monday 12:45AM-2:05 PM.
 
 Your other group members are:
-* Ivana Xie (ixie01@syr.edu)
 * Bisman Singh (bsingh@syr.edu)
+* Ivana Xie (ixie01@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -4324,9 +4276,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 505. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Sahil Kirpalani (skirpala@syr.edu)
-* Jackson Carrel (jlcarrel@syr.edu)
 * Gianluca  Pisacane (gapisaca@syr.edu)
+* Jackson Carrel (jlcarrel@syr.edu)
+* Sahil Kirpalani (skirpala@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -4472,8 +4424,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2906. Your lab time is Friday 12:45-2:05 PM.
 
 Your other group members are:
-* Isaac Dawson (iadawson@syr.edu)
 * El Urgola (eurgola@syr.edu)
+* Isaac Dawson (iadawson@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on South Campus. This week, you should contact each other by email, and arrange to meet
@@ -4642,13 +4594,38 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Dingkai Yao, dyao02@syr.edu
+
+Your group is number 704. Your lab time is Monday 5:15-6:35 PM.
+
+Your other group members are:
+* Karina Freeland (kmfreela@syr.edu)
+* Sophie Schlosser (syschlos@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
+		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
+	       Collaborate at Monday 5:15-6:35 PM for your lab.
+
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Dylan Goldberg, dygoldbe@syr.edu
 
 Your group is number 902. Your lab time is Monday 8:15-9:35 PM.
 
 Your other group members are:
-* Matthieu Theard (matheard@syr.edu)
 * Brianna Liberman (bnliberm@syr.edu)
+* Matthieu Theard (matheard@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -4820,8 +4797,8 @@ Your group is number 1106. Your lab time is Tuesday 5:00-6:20 PM.
 
 Your other group members are:
 * Andrew Pogue (arpogue@syr.edu)
-* Olivia Troilo (ottroilo@syr.edu)
 * Olivia Zoeckler (orzoeckl@syr.edu)
+* Olivia Troilo (ottroilo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -4990,9 +4967,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 710. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
+* Catherine Cohen (ccohen06@syr.edu)
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
-* Catherine Cohen (ccohen06@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -5152,29 +5129,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
-#### Emma Repice, erepice@syr.edu
-
-Your group is number 2006. Your lab time is Wednesday 5:15-6:35 PM.
-
-Your other group members are:
-* Gabriela Corso (gecorso@syr.edu)
-<br>
-
-Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
-               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
 #### Ernest Joseph Ramos, erramos@syr.edu
 
 Your group is number 703. Your lab time is Monday 5:15-6:35 PM.
@@ -5204,8 +5158,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 308. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Greta Hartwyk (ghartwyk@syr.edu)
 * Caitlin Plemons (crplemon@syr.edu)
+* Greta Hartwyk (ghartwyk@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -5252,8 +5206,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1007. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Lauren Mix (lmix02@syr.edu)
 * Andrew Noesner (awnoesne@syr.edu)
+* Lauren Mix (lmix02@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 <br>
 
@@ -5302,8 +5256,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1010. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Xavier Steele (xsteele@syr.edu)
 * Imani Diggs (idiggs@syr.edu)
+* Xavier Steele (xsteele@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -5327,8 +5281,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2906. Your lab time is Friday 12:45-2:05 PM.
 
 Your other group members are:
-* Isaac Dawson (iadawson@syr.edu)
 * Dean Gwadz (dogwadz@syr.edu)
+* Isaac Dawson (iadawson@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on South Campus. This week, you should contact each other by email, and arrange to meet
@@ -5569,8 +5523,8 @@ Your group is number 505. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
 * Dylan Buck (dlbuck@syr.edu)
-* Sahil Kirpalani (skirpala@syr.edu)
 * Jackson Carrel (jlcarrel@syr.edu)
+* Sahil Kirpalani (skirpala@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -5626,29 +5580,6 @@ Your other group members are:
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
-#### Gabriela Corso, gecorso@syr.edu
-
-Your group is number 2006. Your lab time is Wednesday 5:15-6:35 PM.
-
-Your other group members are:
-* Emma Repice (erepice@syr.edu)
-<br>
-
-Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
-               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
 Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
@@ -5763,8 +5694,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 308. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Emily Campbell (escampbe@syr.edu)
 * Caitlin Plemons (crplemon@syr.edu)
+* Emily Campbell (escampbe@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -5811,8 +5742,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 406. Your lab time is Monday 12:45-2:05 PM.
 
 Your other group members are:
-* Lily Koller (lmkoller@syr.edu)
 * Harrison Ray (hray01@syr.edu)
+* Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 <br>
 
@@ -6153,7 +6084,7 @@ Your group is number 1401. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
 * Zhishan Ni (zni106@syr.edu)
-* Michael Hernandez Jr (mahernan@syr.edu)
+* Jieying Xing (jxie102@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -6275,8 +6206,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 406. Your lab time is Monday 12:45-2:05 PM.
 
 Your other group members are:
-* Lily Koller (lmkoller@syr.edu)
 * Gianna Delgado (gldelgad@syr.edu)
+* Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 <br>
 
@@ -6300,8 +6231,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 903. Your lab time is Monday 8:15-9:35 PM.
 
 Your other group members are:
-* Phyoe Thandar (pthandar@syr.edu)
 * Michael Diblasi (madiblas@syr.edu)
+* Phyoe Thandar (pthandar@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -6326,8 +6257,8 @@ Your group is number 2301. Your lab time is Thursday 6:30-7:50 PM.
 
 Your other group members are:
 * Jackson Holzer (jpholzer@syr.edu)
-* Telusila Vunipola (tmvunipo@syr.edu)
 * Reid Thompson (rthomp10@syr.edu)
+* Telusila Vunipola (tmvunipo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -6524,8 +6455,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 503. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Zachary Rohrer (ztrohrer@syr.edu)
 * Skyler Rivera (skrivera@syr.edu)
+* Zachary Rohrer (ztrohrer@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -6838,8 +6769,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2401. Your lab time is Thursday 8:00-9:20 PM.
 
 Your other group members are:
-* Ryan Smith (rsmith18@syr.edu)
 * Wura Martins-Kuye (kmartins@syr.edu)
+* Ryan Smith (rsmith18@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -6962,8 +6893,8 @@ Your group is number 801. Your lab time is Monday 6:45-8:05 PM.
 
 Your other group members are:
 * Matthew Krengel (makrenge@syr.edu)
-* Taylor Moss (tmoss02@syr.edu)
 * Nikki Rafferty (ngraffer@syr.edu)
+* Taylor Moss (tmoss02@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -6986,8 +6917,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1902. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Jack Gordon (jhgordon@syr.edu)
 * Annabelle Barbara (ajbarbar@syr.edu)
+* Jack Gordon (jhgordon@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -7129,6 +7060,30 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Joshua Foley, jfoley04@syr.edu
+
+Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
+
+Your other group members are:
+* Ryan Kalata (rakalata@syr.edu)
+* Ryan Blowers (rblowers@syr.edu)
+<br>
+
+Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
+		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
+
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Jessica Friebely, jfriebel@syr.edu
 
 Your group is number 702. Your lab time is Monday 5:15-6:35 PM.
@@ -7257,8 +7212,8 @@ Your group is number 1004. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
 * Anthony Ruscitto (ajruscit@syr.edu)
-* Ellen Kingman (eekingma@syr.edu)
 * Courtney Lynch (clynch12@syr.edu)
+* Ellen Kingman (eekingma@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on South Campus. This week, you should contact each other by email, and arrange to meet
@@ -7355,8 +7310,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1902. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Joseph Lauria (jclauria@syr.edu)
 * Annabelle Barbara (ajbarbar@syr.edu)
+* Joseph Lauria (jclauria@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -7469,29 +7424,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
-#### Justin King, jking20@syr.edu
-
-Your group is number 2005. Your lab time is Wednesday 5:15-6:35 PM.
-
-Your other group members are:
-* Liam Griffin (lgriff02@syr.edu)
-<br>
-
-Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
-		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
-
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
 #### Jake Kurtz, jkurtz01@syr.edu
 
 You weren't assigned a group because it looks like you have groupmates who want to work with you, but who did not fill the survey out
@@ -7513,8 +7445,8 @@ Your group is number 505. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
 * Dylan Buck (dlbuck@syr.edu)
-* Sahil Kirpalani (skirpala@syr.edu)
 * Gianluca  Pisacane (gapisaca@syr.edu)
+* Sahil Kirpalani (skirpala@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -7729,6 +7661,29 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Jared Regenstein, jmregens@syr.edu
+
+Your group is number 804. Your lab time is Monday 6:45-8:05 PM.
+
+Your other group members are:
+* Brianna Paroff (bmparoff@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
+               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
+
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Jacob Stives, jmstives@syr.edu
 
 Your group is number 2801. Your lab time is Friday 11:00-12:20 AM.
@@ -7854,9 +7809,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2301. Your lab time is Thursday 6:30-7:50 PM.
 
 Your other group members are:
-* Telusila Vunipola (tmvunipo@syr.edu)
-* Reid Thompson (rthomp10@syr.edu)
 * Hope D'Angerio (hsdanger@syr.edu)
+* Reid Thompson (rthomp10@syr.edu)
+* Telusila Vunipola (tmvunipo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -8120,29 +8075,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
-#### Joseph Deblasio, jtdeblas@syr.edu
-
-Your group is number 1610. Your lab time is Wednesday 11:00 AM-12:20 PM.
-
-Your other group members are:
-* Benjamin Chairnoff (brchairn@syr.edu)
-<br>
-
-Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
-               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
-
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
-
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
-
-
-<br>
-
----
-
-<br>
-
-
 #### Jacob Thomassen, jthoma42@syr.edu
 
 Your group is number 1105. Your lab time is Tuesday 5:00-6:20 PM.
@@ -8317,8 +8249,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 711. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Matthew Dragon (mtdragon@syr.edu)
 * Kevin Robertson (kroberts@syr.edu)
+* Matthew Dragon (mtdragon@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -8375,6 +8307,31 @@ Based on your responses your group will likely be meeting on Main Campus. This w
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
 Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
+#### Jieying Xing, jxie102@syr.edu
+
+Your group is number 1401. Your lab time is Wednesday 8:00-9:20 AM.
+
+Your other group members are:
+* Hongchen Liu (hliu117@syr.edu)
+* Zhishan Ni (zni106@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
+		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
+	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
+
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -8707,6 +8664,7 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 704. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
+* Dingkai Yao (dyao02@syr.edu)
 * Sophie Schlosser (syschlos@syr.edu)
 <br>
 
@@ -8804,8 +8762,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2602. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
-* Ying Pei (ypei04@syr.edu)
 * Elvis Lee (yli170@syr.edu)
+* Ying Pei (ypei04@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -8878,8 +8836,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 711. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Matthew Dragon (mtdragon@syr.edu)
 * John Mcgovern (jwmcgove@syr.edu)
+* Matthew Dragon (mtdragon@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -9001,8 +8959,8 @@ Your group is number 509. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
 * Bailey Gorman (bagorman@syr.edu)
-* Duncan Grant (dugrant@syr.edu)
 * Michael McKeon (cmmckeon@syr.edu)
+* Duncan Grant (dugrant@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -9147,8 +9105,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 904. Your lab time is Monday 8:15-9:35 PM.
 
 Your other group members are:
-* Jacob Wolf (jwolf04@syr.edu)
 * Gerard Porreca (gdporrec@syr.edu)
+* Jacob Wolf (jwolf04@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -9292,8 +9250,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1800. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
-* Madeline Gorewitz (mggorewi@syr.edu)
 * Dean Johnston (dhjohnst@syr.edu)
+* Madeline Gorewitz (mggorewi@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 <br>
 
@@ -9318,7 +9276,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2005. Your lab time is Wednesday 5:15-6:35 PM.
 
 Your other group members are:
-* Justin King (jking20@syr.edu)
 <br>
 
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
@@ -9365,8 +9322,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 203. Your lab time is Monday 9:30-10:50 AM.
 
 Your other group members are:
-* Teresa Greenwood (tegreenw@syr.edu)
 * Stephen Sklar (sasklar@syr.edu)
+* Teresa Greenwood (tegreenw@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -9411,17 +9368,17 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Luke Kaleeba, lkaleeba@syr.edu
 
-Your group is number 2007. Your lab time is Wednesday 5:15-6:35 PM.
+Your group is number 2006. Your lab time is Wednesday 5:15-6:35 PM.
 
 Your other group members are:
-* Timothy Skeval (tbskeval@syr.edu)
 * Daniel Cunningham (dcunni03@syr.edu)
+* Timothy Skeval (tbskeval@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -9534,8 +9491,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1007. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Erin Thompson (ethomp07@syr.edu)
 * Andrew Noesner (awnoesne@syr.edu)
+* Erin Thompson (ethomp07@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 <br>
 
@@ -9779,8 +9736,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 903. Your lab time is Monday 8:15-9:35 PM.
 
 Your other group members are:
-* Phyoe Thandar (pthandar@syr.edu)
 * Hana Redzepagic (hredzepa@syr.edu)
+* Phyoe Thandar (pthandar@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -9801,18 +9758,18 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Michael Hernandez Jr, mahernan@syr.edu
 
-Your group is number 1401. Your lab time is Wednesday 8:00-9:20 AM.
+Your group is number 1404. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
-* Hongchen Liu (hliu117@syr.edu)
-* Zhishan Ni (zni106@syr.edu)
+* Bruce Liska (baliska@syr.edu)
+* Matthew Martin (mamartin@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -9830,8 +9787,8 @@ Your group is number 801. Your lab time is Monday 6:45-8:05 PM.
 
 Your other group members are:
 * Jami Kopf Jr (jckopfjr@syr.edu)
-* Taylor Moss (tmoss02@syr.edu)
 * Nikki Rafferty (ngraffer@syr.edu)
+* Taylor Moss (tmoss02@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -9880,6 +9837,7 @@ Your group is number 1404. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
 * Bruce Liska (baliska@syr.edu)
+* Michael Hernandez Jr (mahernan@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -10003,8 +9961,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 314. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Nicholas Mancuso (nmancuso@syr.edu)
 * Toder Jenna (jltoder@syr.edu)
+* Nicholas Mancuso (nmancuso@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10027,8 +9985,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1904. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Ross McKee (rmckee@syr.edu)
 * Conor Chesterman (cchester@syr.edu)
+* Ross McKee (rmckee@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10048,11 +10006,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Megan Caffey, mcaffey@syr.edu
 
-Your group is number 1903. Your lab time is Wednesday 3:45-5:05 PM.
+Your group is number 1907. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Capeley Zimet (cjzimet@syr.edu)
-* Mia Angioletti (meangiol@syr.edu)
 * Zoe Carlson (zecarlso@syr.edu)
 <br>
 
@@ -10123,8 +10079,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 708. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Rehan Ahmed (rdahmed@syr.edu)
 * Andres Saclamente (afsancle@syr.edu)
+* Rehan Ahmed (rdahmed@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -10149,8 +10105,8 @@ Your group is number 1006. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
 * Beckett Dardia (bndardia@syr.edu)
-* Jaden Gerard (jagerard@syr.edu)
 * Daouda Diawara (ddiawara@syr.edu)
+* Jaden Gerard (jagerard@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10173,9 +10129,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 515. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Zoe Copeland (zccopela@syr.edu)
-* Tessa Pulgar (tkpulgar@syr.edu)
 * Brandon Gecaj Sr (btgecaj@syr.edu)
+* Tessa Pulgar (tkpulgar@syr.edu)
+* Zoe Copeland (zccopela@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10199,8 +10155,7 @@ Your group is number 1903. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
 * Capeley Zimet (cjzimet@syr.edu)
-* Megan Caffey (mcaffey@syr.edu)
-* Zoe Carlson (zecarlso@syr.edu)
+* Paulini Ferguson (pjfergus@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10295,8 +10250,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1707. Your lab time is Wednesday 12:45-2:05 PM.
 
 Your other group members are:
-* Samantha Denaro (skdenaro@syr.edu)
 * Ava Salazar (avsalaza@syr.edu)
+* Samantha Denaro (skdenaro@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10392,8 +10347,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1800. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
-* Laura Goldin (lgoldin@syr.edu)
 * Dean Johnston (dhjohnst@syr.edu)
+* Laura Goldin (lgoldin@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 <br>
 
@@ -10442,9 +10397,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 710. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Naftali Reyes (nmreyesj@syr.edu)
 * Catherine Cohen (ccohen06@syr.edu)
 * Edward Lockowitz (elockowi@syr.edu)
+* Naftali Reyes (nmreyesj@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10491,8 +10446,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2803. Your lab time is Friday 11:00-12:20 AM.
 
 Your other group members are:
-* Camila Carbajal (ccarbaja@syr.edu)
 * Alexa Kahn (ankahn@syr.edu)
+* Camila Carbajal (ccarbaja@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10540,8 +10495,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1809. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
-* Tyler O'Neill (tmoneill@syr.edu)
 * Charlotte Walsh (cwalsh10@syr.edu)
+* Tyler O'Neill (tmoneill@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on South Campus. This week, you should contact each other by email, and arrange to meet
@@ -10566,8 +10521,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 803. Your lab time is Monday 6:45-8:05 PM.
 
 Your other group members are:
-* Shoshana Turek (sfturek@syr.edu)
 * Daniel Cavalier (dacavali@syr.edu)
+* Shoshana Turek (sfturek@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -10760,8 +10715,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 309. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Stefany Lema Rodriguez (sklema@syr.edu)
 * Devanand Persaud (depersau@syr.edu)
+* Stefany Lema Rodriguez (sklema@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -10857,8 +10812,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1600. Your lab time is Wednesday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Annastacia Kilgallon (amkilgal@syr.edu)
 * Andrew Joseph (ajosep06@syr.edu)
+* Annastacia Kilgallon (amkilgal@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11125,8 +11080,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1506. Your lab time is Wednesday 9:30-10:50 AM.
 
 Your other group members are:
-* Shoshanna Tokar (stokar@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
+* Shoshanna Tokar (stokar@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11199,8 +11154,8 @@ Your group is number 1806. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
 * Anna Vila (acvila@syr.edu)
-* Kyra Singh (klsingh@syr.edu)
 * Anthony Haak (anhaak@syr.edu)
+* Kyra Singh (klsingh@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11370,8 +11325,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 314. Your lab time is Monday 11:00 AM-12:20 PM.
 
 Your other group members are:
-* Maxwell Boise (mboise@syr.edu)
 * Toder Jenna (jltoder@syr.edu)
+* Maxwell Boise (mboise@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11394,9 +11349,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1007. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
+* Andrew Noesner (awnoesne@syr.edu)
 * Erin Thompson (ethomp07@syr.edu)
 * Lauren Mix (lmix02@syr.edu)
-* Andrew Noesner (awnoesne@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11442,9 +11397,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 710. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
-* Matteo Ficarella (mificare@syr.edu)
 * Catherine Cohen (ccohen06@syr.edu)
 * Edward Lockowitz (elockowi@syr.edu)
+* Matteo Ficarella (mificare@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11516,9 +11471,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2601. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
+* Linxin Wan (lwan03@syr.edu)
 * Sofya Golubovskaya (sgolubov@syr.edu)
 * Sofya Treshcheva (streshch@syr.edu)
-* Linxin Wan (lwan03@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -11711,8 +11666,8 @@ Your group is number 1106. Your lab time is Tuesday 5:00-6:20 PM.
 
 Your other group members are:
 * Andrew Pogue (arpogue@syr.edu)
-* Olivia Troilo (ottroilo@syr.edu)
 * Eli Lesser (eflesser@syr.edu)
+* Olivia Troilo (ottroilo@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -11876,6 +11831,30 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Paulini Ferguson, pjfergus@syr.edu
+
+Your group is number 1903. Your lab time is Wednesday 3:45-5:05 PM.
+
+Your other group members are:
+* Capeley Zimet (cjzimet@syr.edu)
+* Mia Angioletti (meangiol@syr.edu)
+<br>
+
+Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
+               up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
+
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Petey Peterson, popeters@syr.edu
 
 Your group is number 1008. Your lab time is Tuesday 3:35-4:50 PM.
@@ -11981,8 +11960,8 @@ Your group is number 2700. Your lab time is Friday 9:30-10:50 AM.
 
 Your other group members are:
 * Bangshi Zeng (bzeng04@syr.edu)
-* Xiaoping Yuan (xyuan16@syr.edu)
 * Xinyu Xing (xxing05@syr.edu)
+* Xiaoping Yuan (xyuan16@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -12053,7 +12032,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Joshua Foley (@syr.edu)
+* Joshua Foley (jfoley04@syr.edu)
+* Ryan Blowers (rblowers@syr.edu)
 <br>
 
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
@@ -12095,14 +12075,38 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 <br>
 
 
+#### Ryan Blowers, rblowers@syr.edu
+
+Your group is number 518. Your lab time is Monday 2:15-3:35 PM.
+
+Your other group members are:
+* Joshua Foley (jfoley04@syr.edu)
+* Ryan Kalata (rakalata@syr.edu)
+<br>
+
+Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
+		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
+
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+
+Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+
+
+<br>
+
+---
+
+<br>
+
+
 #### Reed Rosen, rbrosen@syr.edu
 
 Your group is number 406. Your lab time is Monday 12:45-2:05 PM.
 
 Your other group members are:
-* Lily Koller (lmkoller@syr.edu)
 * Gianna Delgado (gldelgad@syr.edu)
 * Harrison Ray (hray01@syr.edu)
+* Lily Koller (lmkoller@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -12198,8 +12202,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1710. Your lab time is Wednesday 12:45-2:05 PM.
 
 Your other group members are:
-* Jacob Yousem (jwyousem@syr.edu)
 * Bryan Brush (brbrush@syr.edu)
+* Jacob Yousem (jwyousem@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -12222,8 +12226,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 604. Your lab time is Monday 3:45-5:05 PM.
 
 Your other group members are:
-* Alexander Styrt (arstyrt@syr.edu)
 * Antonio Cruz (acruz21@syr.edu)
+* Alexander Styrt (arstyrt@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -12320,8 +12324,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1904. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Martin Brennan (mbrenn05@syr.edu)
 * Conor Chesterman (cchester@syr.edu)
+* Martin Brennan (mbrenn05@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -12466,9 +12470,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2301. Your lab time is Thursday 6:30-7:50 PM.
 
 Your other group members are:
+* Hope D'Angerio (hsdanger@syr.edu)
 * Jackson Holzer (jpholzer@syr.edu)
 * Telusila Vunipola (tmvunipo@syr.edu)
-* Hope D'Angerio (hsdanger@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13049,8 +13053,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 803. Your lab time is Monday 6:45-8:05 PM.
 
 Your other group members are:
-* Maximus Jones (mjones09@syr.edu)
 * Daniel Cavalier (dacavali@syr.edu)
+* Maximus Jones (mjones09@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13098,9 +13102,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2601. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
+* Linxin Wan (lwan03@syr.edu)
 * Nathan McPeak (npmcpeak@syr.edu)
 * Sofya Treshcheva (streshch@syr.edu)
-* Linxin Wan (lwan03@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13212,8 +13216,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1707. Your lab time is Wednesday 12:45-2:05 PM.
 
 Your other group members are:
-* Michele Orleans (meorlean@syr.edu)
 * Ava Salazar (avsalaza@syr.edu)
+* Michele Orleans (meorlean@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -13237,8 +13241,8 @@ Your group is number 505. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
 * Dylan Buck (dlbuck@syr.edu)
-* Jackson Carrel (jlcarrel@syr.edu)
 * Gianluca  Pisacane (gapisaca@syr.edu)
+* Jackson Carrel (jlcarrel@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13309,8 +13313,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 503. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Zachary Rohrer (ztrohrer@syr.edu)
 * Isaac Chapin (igchapin@syr.edu)
+* Zachary Rohrer (ztrohrer@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13334,7 +13338,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1700. Your lab time is Wednesday 12:45-2:05 PM.
 
 Your other group members are:
-* Alexi Farnes (arfarnes@syr.edu)
 * Tyler Thibeau (tjthibea@syr.edu)
 <br>
 
@@ -13553,8 +13556,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1009. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Theodore Gelb (tcgelb@syr.edu)
 * Andrew Sullivan (asulli10@syr.edu)
+* Theodore Gelb (tcgelb@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13578,8 +13581,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2402. Your lab time is Thursday 8:00-9:20 PM.
 
 Your other group members are:
-* Youhao Luo (yluo27@syr.edu)
 * Xiaojie Wu (xwu100@syr.edu)
+* Youhao Luo (yluo27@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13603,9 +13606,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1800. Your lab time is Wednesday 2:15-3:35 PM.
 
 Your other group members are:
+* Dean Johnston (dhjohnst@syr.edu)
 * Laura Goldin (lgoldin@syr.edu)
 * Madeline Gorewitz (mggorewi@syr.edu)
-* Dean Johnston (dhjohnst@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13723,8 +13726,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1506. Your lab time is Wednesday 9:30-10:50 AM.
 
 Your other group members are:
-* Maya Tsimmer (mtsimmer@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
+* Maya Tsimmer (mtsimmer@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -13747,9 +13750,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2601. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
+* Linxin Wan (lwan03@syr.edu)
 * Nathan McPeak (npmcpeak@syr.edu)
 * Sofya Golubovskaya (sgolubov@syr.edu)
-* Linxin Wan (lwan03@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13773,6 +13776,7 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 704. Your lab time is Monday 5:15-6:35 PM.
 
 Your other group members are:
+* Dingkai Yao (dyao02@syr.edu)
 * Karina Freeland (kmfreela@syr.edu)
 <br>
 
@@ -13871,8 +13875,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 603. Your lab time is Monday 3:45-5:05 PM.
 
 Your other group members are:
-* Jordan McKey (jmckey@syr.edu)
 * Bendeguz Kevin Balogh (bkbalogh@syr.edu)
+* Jordan McKey (jmckey@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -13893,17 +13897,17 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Timothy Skeval, tbskeval@syr.edu
 
-Your group is number 2007. Your lab time is Wednesday 5:15-6:35 PM.
+Your group is number 2006. Your lab time is Wednesday 5:15-6:35 PM.
 
 Your other group members are:
-* Luke Kaleeba (lkaleeba@syr.edu)
 * Daniel Cunningham (dcunni03@syr.edu)
+* Luke Kaleeba (lkaleeba@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
 
 Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
 
@@ -13944,8 +13948,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1009. Your lab time is Tuesday 3:35-4:50 PM.
 
 Your other group members are:
-* Samantha Mussman (snmussma@syr.edu)
 * Andrew Sullivan (asulli10@syr.edu)
+* Samantha Mussman (snmussma@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -14152,7 +14156,6 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1700. Your lab time is Wednesday 12:45-2:05 PM.
 
 Your other group members are:
-* Alexi Farnes (arfarnes@syr.edu)
 * Samantha Greco (slgreco@syr.edu)
 <br>
 
@@ -14177,9 +14180,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 515. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Zoe Copeland (zccopela@syr.edu)
 * Brandon Gecaj Sr (btgecaj@syr.edu)
 * Marykate Keevins (mdkeevin@syr.edu)
+* Zoe Copeland (zccopela@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -14326,9 +14329,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2301. Your lab time is Thursday 6:30-7:50 PM.
 
 Your other group members are:
+* Hope D'Angerio (hsdanger@syr.edu)
 * Jackson Holzer (jpholzer@syr.edu)
 * Reid Thompson (rthomp10@syr.edu)
-* Hope D'Angerio (hsdanger@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -14597,8 +14600,8 @@ Your group is number 1901. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
 * Benjamin Stickle (bstickle@syr.edu)
-* Win Tran (whtran@syr.edu)
 * Caleb Welsh (cwelsh@syr.edu)
+* Win Tran (whtran@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -14646,9 +14649,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 1901. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Wayne Kaminski (wakamins@syr.edu)
 * Benjamin Stickle (bstickle@syr.edu)
 * Caleb Welsh (cwelsh@syr.edu)
+* Wayne Kaminski (wakamins@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -14817,8 +14820,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 517. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Peyton Persing (papersin@syr.edu)
 * Alena Criss (agcriss@syr.edu)
+* Peyton Persing (papersin@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -14866,8 +14869,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2603. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
-* Yuqi Chen (ychen396@syr.edu)
 * Chengyi Jiang (chjiang@syr.edu)
+* Yuqi Chen (ychen396@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -15364,8 +15367,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2303. Your lab time is Thursday 6:30-7:50 PM.
 
 Your other group members are:
-* Jing Wang (jwang79@syr.edu)
 * Jiaxing Natalia Deng Yuan (jdengyua@syr.edu)
+* Jing Wang (jwang79@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -15412,9 +15415,9 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 515. Your lab time is Monday 2:15-3:35 PM.
 
 Your other group members are:
-* Tessa Pulgar (tkpulgar@syr.edu)
 * Brandon Gecaj Sr (btgecaj@syr.edu)
 * Marykate Keevins (mdkeevin@syr.edu)
+* Tessa Pulgar (tkpulgar@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -15437,8 +15440,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 103. Your lab time is Monday 8:00-9:20 AM.
 
 Your other group members are:
-* Yueru Wang (ywang584@syr.edu)
 * Kunkun Hu (khu113@syr.edu)
+* Yueru Wang (ywang584@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -15508,12 +15511,10 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 
 #### Zoe Carlson, zecarlso@syr.edu
 
-Your group is number 1903. Your lab time is Wednesday 3:45-5:05 PM.
+Your group is number 1907. Your lab time is Wednesday 3:45-5:05 PM.
 
 Your other group members are:
-* Capeley Zimet (cjzimet@syr.edu)
 * Megan Caffey (mcaffey@syr.edu)
-* Mia Angioletti (meangiol@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
@@ -15659,7 +15660,7 @@ Your group is number 1401. Your lab time is Wednesday 8:00-9:20 AM.
 
 Your other group members are:
 * Hongchen Liu (hliu117@syr.edu)
-* Michael Hernandez Jr (mahernan@syr.edu)
+* Jieying Xing (jxie102@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
@@ -15732,8 +15733,8 @@ Since a few groups might change, I'll send out the list of evaluating groups ove
 Your group is number 2604. Your lab time is Friday 8:00-9:20 AM.
 
 Your other group members are:
-* Suyun Chen (schen188@syr.edu)
 * Chengting Wu (cwu141@syr.edu)
+* Suyun Chen (schen188@syr.edu)
 <br>
 
 Based on your responses your group will likely be meeting online. This week, you should contact each other by email, and arrange to use
