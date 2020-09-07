@@ -6,7 +6,8 @@ permalink: labs.html
 use_math: true
 ---
 
-We will post links to the labs here. Stand by!
+Lab 1, working in person: <a href="labs/lab1-2020-inperson.odt">[OpenDocument]</a> <a href="labs/lab1-2020-inperson.docx">[Word]</a><br>
+Lab 1, working online: <a href="labs/lab1-2020-remote.odt">[OpenDocument]</a> <a href="labs/lab1-2020-remote.docx">[Word]</a><br>
 
 <!---
 
