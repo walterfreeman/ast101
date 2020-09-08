@@ -35,9 +35,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -59,9 +59,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -85,9 +85,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Tuesday 5:00-6:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -109,9 +109,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -134,9 +134,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -158,9 +158,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -183,9 +183,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -208,9 +208,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -233,9 +233,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -258,9 +258,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -283,9 +283,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -308,9 +308,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -331,9 +331,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -355,9 +355,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -379,9 +379,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -403,9 +403,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -427,9 +427,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -451,9 +451,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -475,9 +475,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -500,9 +500,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -524,9 +524,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -549,9 +549,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -573,9 +573,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -597,9 +597,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -621,9 +621,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -645,9 +645,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -669,9 +669,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -691,9 +691,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -715,9 +715,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -739,9 +739,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -763,9 +763,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -788,9 +788,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -812,9 +812,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -837,9 +837,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -860,9 +860,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -884,9 +884,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -910,9 +910,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -934,9 +934,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -958,9 +958,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -984,9 +984,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Monday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1007,9 +1007,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1031,9 +1031,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1056,9 +1056,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1081,9 +1081,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1105,9 +1105,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1130,9 +1130,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1154,9 +1154,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1178,9 +1178,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1203,9 +1203,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1227,9 +1227,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1252,9 +1252,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1277,9 +1277,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1302,9 +1302,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1326,9 +1326,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1350,9 +1350,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1374,9 +1374,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1399,9 +1399,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1423,9 +1423,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1447,9 +1447,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1472,9 +1472,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1495,9 +1495,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1519,9 +1519,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1544,9 +1544,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1569,9 +1569,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1593,9 +1593,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1618,9 +1618,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1642,9 +1642,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1666,9 +1666,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1691,9 +1691,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1715,9 +1715,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1739,9 +1739,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1763,9 +1763,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1788,9 +1788,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1813,9 +1813,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1838,9 +1838,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1863,9 +1863,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1887,9 +1887,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1911,9 +1911,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1936,9 +1936,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1960,9 +1960,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -1984,9 +1984,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2008,9 +2008,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2033,9 +2033,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2058,9 +2058,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2082,9 +2082,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2107,9 +2107,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2131,9 +2131,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2157,9 +2157,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2182,9 +2182,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2207,9 +2207,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2231,9 +2231,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2255,9 +2255,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2280,9 +2280,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2304,9 +2304,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2329,9 +2329,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2354,9 +2354,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2378,9 +2378,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2403,9 +2403,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2427,9 +2427,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2451,9 +2451,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2475,9 +2475,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2499,9 +2499,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2525,9 +2525,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45AM-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2551,9 +2551,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2575,9 +2575,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2598,9 +2598,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2623,9 +2623,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2648,9 +2648,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2673,9 +2673,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2697,9 +2697,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2722,9 +2722,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2747,9 +2747,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2772,9 +2772,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2796,9 +2796,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2820,9 +2820,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2844,9 +2844,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2870,9 +2870,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Monday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2894,9 +2894,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2918,9 +2918,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2941,9 +2941,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2965,9 +2965,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -2989,9 +2989,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3014,9 +3014,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3038,9 +3038,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3061,9 +3061,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3086,9 +3086,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3112,9 +3112,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Thursday 8:00-9:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3137,9 +3137,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3162,9 +3162,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3187,9 +3187,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3211,9 +3211,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3236,9 +3236,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3261,9 +3261,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Monday 11:00 AM-12:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3287,9 +3287,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3311,9 +3311,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3336,9 +3336,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3360,9 +3360,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3384,9 +3384,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3408,9 +3408,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3432,9 +3432,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3456,9 +3456,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3481,9 +3481,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3505,9 +3505,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3529,9 +3529,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3554,9 +3554,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3579,9 +3579,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3603,9 +3603,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3627,9 +3627,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3651,9 +3651,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3676,9 +3676,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3700,9 +3700,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3725,9 +3725,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3748,9 +3748,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3773,9 +3773,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3797,9 +3797,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3821,9 +3821,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3845,9 +3845,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3870,9 +3870,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3895,9 +3895,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3920,9 +3920,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3946,9 +3946,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3970,9 +3970,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -3994,9 +3994,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4017,9 +4017,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4042,9 +4042,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4067,9 +4067,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4092,9 +4092,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4117,9 +4117,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4143,9 +4143,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Wednesday 2:15-3:35 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4167,9 +4167,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4191,9 +4191,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4217,9 +4217,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4242,9 +4242,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4266,9 +4266,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4291,9 +4291,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4315,9 +4315,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4340,9 +4340,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4364,9 +4364,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4389,9 +4389,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4413,9 +4413,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4438,9 +4438,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4463,9 +4463,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4486,9 +4486,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4510,9 +4510,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4536,9 +4536,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45AM-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4561,9 +4561,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4586,9 +4586,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4611,9 +4611,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4635,9 +4635,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4661,9 +4661,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4685,9 +4685,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4710,9 +4710,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4735,9 +4735,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4759,9 +4759,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4784,9 +4784,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4809,9 +4809,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4833,9 +4833,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4857,9 +4857,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4881,9 +4881,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4907,9 +4907,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Friday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4933,9 +4933,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Tuesday 5:00-6:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4957,9 +4957,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -4982,9 +4982,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5006,9 +5006,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5031,9 +5031,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5056,9 +5056,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5081,9 +5081,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5106,9 +5106,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5130,9 +5130,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5154,9 +5154,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5178,9 +5178,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5202,9 +5202,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5226,9 +5226,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5249,9 +5249,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5273,9 +5273,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5298,9 +5298,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5322,9 +5322,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5347,9 +5347,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5372,9 +5372,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5396,9 +5396,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5420,9 +5420,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5444,9 +5444,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5469,9 +5469,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5494,9 +5494,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5517,9 +5517,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5542,9 +5542,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5566,9 +5566,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5589,9 +5589,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5613,9 +5613,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5637,9 +5637,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5661,9 +5661,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5685,9 +5685,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5710,9 +5710,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5735,9 +5735,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5760,9 +5760,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5785,9 +5785,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5811,9 +5811,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Friday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5836,9 +5836,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5859,9 +5859,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5884,9 +5884,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5908,9 +5908,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5932,9 +5932,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5957,9 +5957,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 11:00-12:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -5981,9 +5981,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6005,9 +6005,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6029,9 +6029,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6054,9 +6054,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6080,9 +6080,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6105,9 +6105,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6129,9 +6129,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6155,9 +6155,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6180,9 +6180,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6204,9 +6204,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6228,9 +6228,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6252,9 +6252,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6276,9 +6276,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6301,9 +6301,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6327,9 +6327,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6352,9 +6352,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6376,9 +6376,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6400,9 +6400,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6424,9 +6424,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6447,9 +6447,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6471,9 +6471,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6497,9 +6497,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Thursday 8:00-9:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6521,9 +6521,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6545,9 +6545,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6584,9 +6584,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6609,9 +6609,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6632,9 +6632,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6657,9 +6657,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6683,9 +6683,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6708,9 +6708,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6732,9 +6732,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6757,9 +6757,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6781,9 +6781,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6806,9 +6806,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6831,9 +6831,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6856,9 +6856,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6882,9 +6882,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6907,9 +6907,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6931,9 +6931,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6955,9 +6955,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -6980,9 +6980,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7006,9 +7006,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Friday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7030,9 +7030,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7054,9 +7054,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7079,9 +7079,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7105,9 +7105,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7128,9 +7128,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7152,9 +7152,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7176,9 +7176,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7200,9 +7200,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7225,9 +7225,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7251,9 +7251,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7275,9 +7275,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7300,9 +7300,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7324,9 +7324,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7349,9 +7349,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7373,9 +7373,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7398,9 +7398,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7424,9 +7424,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7449,9 +7449,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7473,9 +7473,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7497,9 +7497,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7522,9 +7522,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7547,9 +7547,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7572,9 +7572,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7612,9 +7612,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7637,9 +7637,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7662,9 +7662,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7687,9 +7687,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7712,9 +7712,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7736,9 +7736,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7761,9 +7761,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7785,9 +7785,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7810,9 +7810,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7834,9 +7834,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7859,9 +7859,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7883,9 +7883,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7906,9 +7906,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7930,9 +7930,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7954,9 +7954,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -7979,9 +7979,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8003,9 +8003,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8027,9 +8027,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8049,9 +8049,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8073,9 +8073,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8097,9 +8097,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8121,9 +8121,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8145,9 +8145,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8170,9 +8170,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8194,9 +8194,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8234,9 +8234,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8258,9 +8258,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8283,9 +8283,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8307,9 +8307,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8330,9 +8330,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8354,9 +8354,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8380,9 +8380,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8405,9 +8405,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8429,9 +8429,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8454,9 +8454,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8478,9 +8478,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8502,9 +8502,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8527,9 +8527,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8550,9 +8550,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8575,9 +8575,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8599,9 +8599,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8623,9 +8623,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8647,9 +8647,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8673,9 +8673,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Tuesday 5:00-6:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8697,9 +8697,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8721,9 +8721,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8745,9 +8745,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8769,9 +8769,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8794,9 +8794,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8819,9 +8819,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8844,9 +8844,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8870,9 +8870,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8894,9 +8894,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8917,9 +8917,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8942,9 +8942,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8966,9 +8966,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -8991,9 +8991,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9015,9 +9015,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9039,9 +9039,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9065,9 +9065,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9090,9 +9090,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9115,9 +9115,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9140,9 +9140,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9164,9 +9164,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9189,9 +9189,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9214,9 +9214,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9238,9 +9238,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9263,9 +9263,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9287,9 +9287,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9310,9 +9310,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9334,9 +9334,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9358,9 +9358,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9383,9 +9383,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9407,9 +9407,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9431,9 +9431,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9456,9 +9456,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9482,9 +9482,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9506,9 +9506,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9530,9 +9530,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9555,9 +9555,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9580,9 +9580,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9604,9 +9604,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9628,9 +9628,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9654,9 +9654,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9679,9 +9679,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9703,9 +9703,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9728,9 +9728,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9752,9 +9752,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9776,9 +9776,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9802,9 +9802,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9827,9 +9827,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9852,9 +9852,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9877,9 +9877,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9900,9 +9900,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9925,9 +9925,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9949,9 +9949,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9973,9 +9973,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -9999,9 +9999,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Monday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10024,9 +10024,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10048,9 +10048,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10071,9 +10071,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10095,9 +10095,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10119,9 +10119,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10144,9 +10144,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10170,9 +10170,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10193,9 +10193,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10218,9 +10218,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10243,9 +10243,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10269,9 +10269,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10293,9 +10293,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10317,9 +10317,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10341,9 +10341,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10365,9 +10365,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10389,9 +10389,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10413,9 +10413,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10438,9 +10438,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10463,9 +10463,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10488,9 +10488,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10511,9 +10511,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10536,9 +10536,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10560,9 +10560,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10584,9 +10584,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10609,9 +10609,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10634,9 +10634,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10659,9 +10659,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10683,9 +10683,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10708,9 +10708,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10733,9 +10733,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10758,9 +10758,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10783,9 +10783,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10808,9 +10808,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10833,9 +10833,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10858,9 +10858,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 11:00-12:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10883,9 +10883,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10908,9 +10908,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10933,9 +10933,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10957,9 +10957,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -10981,9 +10981,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11005,9 +11005,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11029,9 +11029,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11053,9 +11053,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11078,9 +11078,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11103,9 +11103,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11128,9 +11128,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11153,9 +11153,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11177,9 +11177,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11201,9 +11201,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11225,9 +11225,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11249,9 +11249,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11273,9 +11273,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11297,9 +11297,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11322,9 +11322,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11348,9 +11348,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11373,9 +11373,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11398,9 +11398,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11422,9 +11422,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11446,9 +11446,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11471,9 +11471,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 11:00-12:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11497,9 +11497,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Wednesday 2:15-3:35 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11521,9 +11521,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 6:45-8:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11545,9 +11545,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11569,9 +11569,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11594,9 +11594,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11618,9 +11618,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11644,9 +11644,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11668,9 +11668,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11692,9 +11692,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11717,9 +11717,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11740,9 +11740,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11765,9 +11765,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11789,9 +11789,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11813,9 +11813,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11837,9 +11837,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11860,9 +11860,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11885,9 +11885,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11910,9 +11910,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11935,9 +11935,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11959,9 +11959,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -11983,9 +11983,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12008,9 +12008,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12033,9 +12033,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12058,9 +12058,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12082,9 +12082,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12106,9 +12106,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12132,9 +12132,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12156,9 +12156,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12181,9 +12181,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12205,9 +12205,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12230,9 +12230,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12254,9 +12254,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12278,9 +12278,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12303,9 +12303,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12328,9 +12328,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12353,9 +12353,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12377,9 +12377,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12402,9 +12402,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12427,9 +12427,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12451,9 +12451,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12476,9 +12476,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12499,9 +12499,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12525,9 +12525,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Thursday 8:00-9:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12551,9 +12551,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12575,9 +12575,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12599,9 +12599,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12624,9 +12624,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12649,9 +12649,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12673,9 +12673,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12697,9 +12697,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12721,9 +12721,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12746,9 +12746,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12771,9 +12771,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12796,9 +12796,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12820,9 +12820,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12845,9 +12845,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Friday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12869,9 +12869,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12894,9 +12894,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12918,9 +12918,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12943,9 +12943,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12966,9 +12966,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -12991,9 +12991,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13016,9 +13016,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13041,9 +13041,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13066,9 +13066,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13091,9 +13091,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13116,9 +13116,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13140,9 +13140,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13164,9 +13164,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13189,9 +13189,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13213,9 +13213,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13237,9 +13237,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13262,9 +13262,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13287,9 +13287,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13311,9 +13311,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13335,9 +13335,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13359,9 +13359,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13383,9 +13383,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13408,9 +13408,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13431,9 +13431,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13456,9 +13456,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13480,9 +13480,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13504,9 +13504,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13529,9 +13529,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13553,9 +13553,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13577,9 +13577,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13603,9 +13603,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13627,9 +13627,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13651,9 +13651,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13675,9 +13675,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13700,9 +13700,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13726,9 +13726,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13751,9 +13751,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13775,9 +13775,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13799,9 +13799,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13824,9 +13824,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13848,9 +13848,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13872,9 +13872,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13897,9 +13897,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13921,9 +13921,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13946,9 +13946,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13971,9 +13971,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -13996,9 +13996,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14020,9 +14020,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14045,9 +14045,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14068,9 +14068,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14093,9 +14093,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14118,9 +14118,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14142,9 +14142,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14166,9 +14166,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14191,9 +14191,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14215,9 +14215,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14241,9 +14241,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14265,9 +14265,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 6:45-8:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14290,9 +14290,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14315,9 +14315,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14340,9 +14340,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14364,9 +14364,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14388,9 +14388,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14412,9 +14412,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14436,9 +14436,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14461,9 +14461,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14487,9 +14487,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14510,9 +14510,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14536,9 +14536,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14561,9 +14561,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14586,9 +14586,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14611,9 +14611,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14636,9 +14636,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14659,9 +14659,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14683,9 +14683,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14707,9 +14707,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14732,9 +14732,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14756,9 +14756,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14780,9 +14780,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14805,9 +14805,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14830,9 +14830,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14856,9 +14856,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14880,9 +14880,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14904,9 +14904,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14928,9 +14928,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14952,9 +14952,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -14976,9 +14976,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15000,9 +15000,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15025,9 +15025,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15050,9 +15050,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15075,9 +15075,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Monday 11:00 AM-12:20 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15100,9 +15100,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15125,9 +15125,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15151,9 +15151,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15175,9 +15175,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15200,9 +15200,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15225,9 +15225,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15249,9 +15249,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15273,9 +15273,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15298,9 +15298,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15322,9 +15322,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15346,9 +15346,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15371,9 +15371,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15410,9 +15410,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15434,9 +15434,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15459,9 +15459,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15484,9 +15484,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15508,9 +15508,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15532,9 +15532,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15557,9 +15557,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15583,9 +15583,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Wednesday 2:15-3:35 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15608,9 +15608,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15632,9 +15632,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15656,9 +15656,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15680,9 +15680,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:15-9:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15706,9 +15706,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15730,9 +15730,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15755,9 +15755,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15780,9 +15780,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15805,9 +15805,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 11:00 AM-12:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15830,9 +15830,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15855,9 +15855,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15879,9 +15879,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15905,9 +15905,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15929,9 +15929,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15955,9 +15955,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 3:45-5:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -15979,9 +15979,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16003,9 +16003,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16028,9 +16028,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 5:00-6:20 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16052,9 +16052,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16078,9 +16078,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 12:45-2:05 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16103,9 +16103,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16127,9 +16127,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16152,9 +16152,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16177,9 +16177,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16201,9 +16201,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16227,9 +16227,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16252,9 +16252,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16277,9 +16277,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16302,9 +16302,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16327,9 +16327,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16352,9 +16352,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16377,9 +16377,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16401,9 +16401,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16424,9 +16424,9 @@ Your other group members are:
 Based on your responses, there wasn't a clear consensus on the format you want for your labs. Please talk to each other and figure out how you
 		want to do them (online, in person, etc.) In-person labs meet in front of Holden Observatory.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16450,9 +16450,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16474,9 +16474,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16499,9 +16499,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16523,9 +16523,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16549,9 +16549,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16574,9 +16574,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16599,9 +16599,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16622,9 +16622,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16647,9 +16647,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 3:35-4:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16672,9 +16672,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16697,9 +16697,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16722,9 +16722,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 9:30-10:50 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16747,9 +16747,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16772,9 +16772,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Thursday 6:30-7:50 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16796,9 +16796,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16821,9 +16821,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16846,9 +16846,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16871,9 +16871,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16896,9 +16896,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16920,9 +16920,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16944,9 +16944,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16969,9 +16969,9 @@ Based on your responses your group will likely be meeting on South Campus. This 
 		and cellphones; once you get there, join the Course Room on Blackboard Collaborate at Friday 12:45-2:05 PM. One of our coaches will meet you there in person if 
  	possible.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -16994,9 +16994,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17019,9 +17019,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 5:15-6:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17043,9 +17043,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17068,9 +17068,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17092,9 +17092,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17117,9 +17117,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Wednesday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17142,9 +17142,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Friday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17168,9 +17168,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 2:15-3:35 PM for your lab.
 
-Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>.
+Your group will be completing Project 1 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project1B.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17193,9 +17193,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Monday 8:00-9:20 AM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17218,9 +17218,9 @@ Based on your responses your group will likely be meeting online. This week, you
 		either the Course Room on Blackboard Collaborate or your own Zoom sessions. Next week, once labs start, you should join the Course Room on Blackboard 
 	       Collaborate at Tuesday 8:00-9:20 PM for your lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
@@ -17242,9 +17242,9 @@ Your other group members are:
 Based on your responses your group will likely be meeting on Main Campus. This week, you should contact each other by email, and arrange to meet
                up in person somewhere for Project 1. Next week, once labs start, you should meet up in front of Holden Observatory for lab.
 
-Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>.
+Your group will be completing Project 1 Version A. You may download it from <https://walterfreeman.github.io/ast101/projects/project1A.docx>. It is due by Friday at midnight.
 
-Since a few groups might change, I'll send out the list of evaluating groups over the weekend once we process the last remaining group-change requests.
+Since a few groups might change, I'll send out the list of evaluating groups once we process the last remaining group-change requests.
 
 
 <br>
