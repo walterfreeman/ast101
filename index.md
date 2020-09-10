@@ -14,7 +14,7 @@ Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2J
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [The seasons](slides/lecture5.pdf)
+Current slides: [The Moon](slides/lecture6.pdf)
 
 <br><br>
 
@@ -22,30 +22,16 @@ Current slides: [The seasons](slides/lecture5.pdf)
 
 <br><br>
 
-**Your group assignments and Project 1**, to get to know your groups and think about some basic things about the night sky, is available now. It is due Tuesday before class.
+**Your group assignments and Project 1**, to get to know your groups and think about some basic things about the night sky, is available now. It is due Friday by the end of the day.
 
 The <a href="groups1.html">Group Information page</a> has everything you need to know. Once you are there, people are listed alphabetically by email address.
 You can also just search for your name (although you might appear in other people's information too).
 
-Since we are still updating a few groups, *the list of evaluators will change*. (This only affects who you email your completed work to.) I'll send that out over the weekend and update the page.
-
 <br><br>
 
 ---
 
 <br><br>
-
-I am still behind on answering email. I'm very sorry and will catch up ASAP! I am caught up on Piazza questions, though -- that is a much better place to
-ask things that other folks might be interested in.
-
-If you still haven't filled out the lab time survey, then you should email <suastronomy101@gmail.com> with your preferences. Tell us:
-
-* your name
-* what time you want to attend lab
-* if there are any other people in that section you plan to work with
-* whether you will be doing the labs in person or online
-
-and we'll get you set up with a group.
 
 Remember that you can go to <https://piazza.com/syr/fall2020/ast101> to sign up for Piazza and ask questions there.
 
