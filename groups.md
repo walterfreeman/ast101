@@ -1,7 +1,7 @@
 ---
 layout: page 
 permalink: groups1.html
-title: Group Information
+title: Project 1 Groups 
 category: top
 ---
 
