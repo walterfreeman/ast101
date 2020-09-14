@@ -5,9 +5,12 @@ category: top
 permalink: labs.html 
 use_math: true
 ---
+Lab 2, working in person: <a href="labs/lab2-2020-inperson-final.docx">[Word]</a><br>
+Lab 2, working online: <a href="labs/lab2-2020-remote-final.docx">[Word]</a><br><br>
 
 Lab 1, working in person: <a href="labs/lab1-2020-inperson.odt">[OpenDocument]</a> <a href="labs/lab1-2020-inperson.docx">[Word]</a><br>
-Lab 1, working online: <a href="labs/lab1-2020-remote.odt">[OpenDocument]</a> <a href="labs/lab1-2020-remote.docx">[Word]</a><br>
+Lab 1, working online: <a href="labs/lab1-2020-remote.odt">[OpenDocument]</a> <a href="labs/lab1-2020-remote.docx">[Word]</a><br><br>
+
 
 <!---
 
