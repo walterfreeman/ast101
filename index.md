@@ -22,9 +22,9 @@ Current slides: [The Moon; keeping time](slides/lecture7.pdf)
 
 <br><br>
 
-**Your group assignments and Project 1**, to get to know your groups and think about some basic things about the night sky, is available now. It is due Friday by the end of the day.
+**Project 2**, involving thinking about how the seasons and the motion of things in the sky are caused by the motions of the Earth and Moon, is posted now. 
 
-The <a href="groups1.html">Group Information page</a> has everything you need to know. Once you are there, people are listed alphabetically by email address.
+The <a href="assignment2.html">Project 2 page</a> has everything you need to know. Once you are there, people are listed alphabetically by email address.
 You can also just search for your name (although you might appear in other people's information too).
 
 <br><br>
