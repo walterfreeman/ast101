@@ -2,7 +2,6 @@
 layout: page 
 permalink: groups1.html
 title: Project 1 Groups 
-category: top
 ---
 
 This page has group information listed for everyone in our class. Make sure you find your own listing. (Unless you are Andrew Dinnhaupt, the first listing isn't yours!)

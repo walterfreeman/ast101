@@ -2,7 +2,6 @@
 layout: page
 permalink: lab_schedule.html
 title: Lab schedule
-category: top
 ---
 
 ** Labs begin the second week of classes. Lab schedule coming soon, and will change based on demand for different times.**
