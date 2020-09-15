@@ -14,7 +14,7 @@ Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2J
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [The Moon](slides/lecture6.pdf)
+Current slides: [The Moon; keeping time](slides/lecture7.pdf)
 
 <br><br>
 
