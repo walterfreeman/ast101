@@ -14,7 +14,7 @@ Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2J
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [The Moon; keeping time](slides/lecture7.pdf)
+Current slides: [Timekeeping; calendars; oddities in the sky](slides/lecture8.pdf)
 
 <br><br>
 
@@ -26,6 +26,9 @@ Current slides: [The Moon; keeping time](slides/lecture7.pdf)
 
 The <a href="assignment2.html">Project 2 page</a> has everything you need to know. Once you are there, people are listed alphabetically by email address.
 You can also just search for your name (although you might appear in other people's information too).
+
+**Paper 1** is also posted. You can access it from the top of the page or with this <a href="paper1.html">direct link to Paper 1</a>.
+Your first draft is due Monday, Sept 28.
 
 <br><br>
 

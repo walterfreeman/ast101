@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Paper 1
+category: top
 permalink: paper1.html 
 use_math: true
 ---
 
 ## Writing Assignment 1: Calendars and the Sky
 
-**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. It's due October 2 at 5PM. But you should read all of this, since it has important information.**
+**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. Your first draft is due September 28. But you should read all of this, since it has important information.**
 
 ---
 
@@ -15,7 +16,7 @@ use_math: true
 
 Choose a historical or fictional culture which had a reasonably sophisticated way of reckoning time: a calendar. Some possible suggestions: the Julian calendar (of the Romans, named after Julius Caesar); the traditional Chinese calendar; any of the Hindu calendars of India; 
 any of the Buddhist calendars used in Southeast Asia; the Hijra calendar (used by many Muslims); the Hebrew calendar; the Korean calendar; any of the traditional Japanese calendars; the ancient Egyptian calendar; the traditional Ethiopian calendar;
-the pagan/neopagan Wheel of the Year; the Zoroastrian calendar. If you choose Mayan calendar, be aware that it is somewhat complicated, and there is only speculation as to what the tzolk'in might be used for. Give me that speculation and discuss its astronomical implications.
+the pagan/neopagan Wheel of the Year; any of the astrological calendars; the Zoroastrian calendar. If you choose the Mayan calendar, be aware that it is somewhat complicated, and there is only speculation as to what the tzolk'in might be used for. Give me that speculation and discuss its astronomical implications.
 
 If you have a background in a particular culture, you may write about your own culture's calendar (and teach me something I didn't know!)
 
@@ -26,10 +27,10 @@ You should **see the section on specific calendars**, at the bottom, for some mo
 For example, the **Gregorian calendar**, the calendar we use, has the following properties:
 
 * The smallest unit of time on the calendar is the *solar day*, judged by the motion of the Sun in the sky
-* We also have the *month* and the *week*, which are based on the Moon. The month is an approximation (but is not exact!) of how long it takes the Moon to cycle through its phases; the week is an approximation (better, but still not exact) of the amount of time it takes the moon to make a quarter-phase.
-* The week is partially based on the Judeo-Christian religious tradition, which indicates that we should work and rest in seven-day cycles.
-* The year is the solar year, based on the solstices and equinoxes. 
-* These things don't quite line up. There isn't an integer number of solar days in a solar year, so we need leap years. There isn't an integer number of lunar cycles in a solar cycle, so our months are not exact. Finally, a lunar month isn't exactly 28 solar days, so the week is not quite one-quarter of a 
+* We also have the *month* and the *week*, which are based on the Moon. The month is an approximation (but is not exact!) of how long it takes the Moon to cycle through its phases; the week is an approximation (not exact) of the amount of time it takes the moon to make a quarter-phase.
+* The week is partially based on the Judeo-Christian religious tradition, which asks people to work and rest in seven-day cycles.
+* The year is the seasonal (tropical) year, based on the solstices and equinoxes. 
+* These things don't quite line up. There isn't an integer number of solar days in a seasonal year, so we need leap years. There isn't an integer number of lunar cycles in a solar cycle, so our months are not exact. Finally, a lunar month isn't exactly 28 solar days, so the week is not quite one-quarter of a 
 lunar cycle.
 * We give a great deal of precedence to the cycles of the Sun, reckoning dates only by their distance from the solstices and equinoxes, and do not really care about the cycles of the Moon that much. That is, a holiday falling on December 25 will reliably occur 3-4 day after the Winter Solstice. There is no 
 attempt to make the lunar cycles line up with the solar ones.
@@ -40,8 +41,8 @@ attempt to make the lunar cycles line up with the solar ones.
 
 Write a short essay of at least a single-spaced page in 12-point font (or two double-spaced pages) about how your calendar relates to the sky. You should address:
 
-* how the calendar you have chosen is connected to the motion of the Sun, the stars, the Moon, and anything else of note. How and how well do they line up with the days, months, years, or whatever else the calendar has. 
-Which motions in the sky are treated as more important, and which are treated as less important?
+* how the calendar you have chosen is connected to the motion of the Sun, the stars, the Moon, and anything else of note. Describe how and how well do they line up with the days, months, years, or whatever else the calendar has. 
+* which motions in the sky are treated as more important, and which are treated as less important
 * how your calendar accounts for the fact that the Earth's rotation, the Earth's orbit, and the Moon's orbit don't synch up well. I described what effects this has in the Gregorian calendar above; tell me about the one you have chosen.
 * any "intercalary months" or leap-whatevers needed to keep your calendar in sync with the various celestial cycles, why they are needed, and how they work
 * what celestial events your calendar's reckoning predicts exactly, and which ones are only approximate (for instance, the winter solstice is sometimes 21 December and sometimes 22 December in the Gregorian calendar, because we consider the daily rotation of the Earth to be more important than the exact
@@ -84,7 +85,6 @@ often the case, then this makes us question your writing skill!
 But, ultimately, you must understand everything you write, and have composed the words yourself.
 
 ---
-
 
 ### When is this due?
 
