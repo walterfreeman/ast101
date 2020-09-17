@@ -86,13 +86,6 @@ But, ultimately, you must understand everything you write, and have composed the
 
 ---
 
-### When is this due?
-
-Please either give your papers to your lab TA's or place them in their mailboxes, before **5PM Wednesday, October 2**. Please print your name, lab section number, and TA's name on your paper. The mailboxes are located in front of the Main Office, Physics Building 201. You must also submit an electronic copy by email to suast101projects@gmail.com.
-Please put your TA's name and "Paper 1" in the subject line of your email. 
-
----
-
 ### A word on Wikipedia
 
 Wikipedia articles are often more scholarly, better-written, and more in-depth than anything else on the internet. It is an amazing resource, and the crowdsourcing of the editing has resulted in some very good stuff. However, there are some things on Wikipedia that are not so good, and it is up to **you** to 
