@@ -5,11 +5,14 @@ category: top
 permalink: labs.html 
 use_math: true
 ---
-Lab 2, working in person: <a href="labs/lab2-2020-inperson-final.docx">[Word]</a><br>
-Lab 2, working online: <a href="labs/lab2-2020-remote-final.docx">[Word]</a><br><br>
+Lab 3, either method: <a href="labs/lab2-2020/lab3-2020-parallax.docx">[Word]</a><br>
+You can also access a <a href="https://docs.google.com/document/d/1Y3k6RGgiK9wpUcwkgaxHdLyejfkImoD6iE89cKaqvig/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it.
 
-Lab 1, working in person: <a href="labs/lab1-2020-inperson.odt">[OpenDocument]</a> <a href="labs/lab1-2020-inperson.docx">[Word]</a><br>
-Lab 1, working online: <a href="labs/lab1-2020-remote.odt">[OpenDocument]</a> <a href="labs/lab1-2020-remote.docx">[Word]</a><br><br>
+Lab 2, working in person: <a href="labs/lab2-2020/lab2-2020-inperson-final.docx">[Word]</a><br>
+Lab 2, working online: <a href="labs/lab2-2020/lab2-2020-remote-final.docx">[Word]</a><br><br>
+
+Lab 1, working in person: <a href="labs/lab1-2020/lab1-2020-inperson.odt">[OpenDocument]</a> <a href="labs/lab1-2020-inperson.docx">[Word]</a><br>
+Lab 1, working online: <a href="labs/lab1-2020/lab1-2020-remote.odt">[OpenDocument]</a> <a href="labs/lab1-2020-remote.docx">[Word]</a><br><br>
 
 
 <!---
