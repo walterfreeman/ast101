@@ -11,6 +11,7 @@ Twitch stream at <https://twitch.tv/suphysics> (better audio and video)
 
 Zoom room: <https://syracuseuniversity.zoom.us/j/96165376315?pwd=T3BuN2Zud2I4K2JiMUxFQk8wR1UyZz09> (This link shouldn't change)
 
+Discord server: <https://discord.gg/qzszRjr>	
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
