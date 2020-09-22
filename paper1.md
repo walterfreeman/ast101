@@ -57,12 +57,17 @@ You might also write about:
 
 ---
 
+### How will this be submitted?
+
+You will send a first draft to a reviewer in our class. The first draft won't be graded by them, but they will give you some suggestions and feedback for improvement. Then you will have a few more days to incorporate their advice
+and submit your final draft.
+
 ### How will this be graded?
 
 We will grade you out of ten points. The grading will be done mostly by the TA's, and perhaps partly by me (Dr. Freeman).
 
 If you write an exemplary essay here, especially one that teaches us something we didn't know and couldn't have Googled quickly, you may earn up to **double credit**, for a 20/10, or in truly exemplary cases even more. (Dr. Freeman will read most of these.) Longer papers will get no higher of a grade
-unless they use their extra words to actually say something interesting. There are 600 of you and grading is going to take a while, so if you only have one page of stuff to say, say it, say it well and succinctly, and be proud.
+unless they use their extra words to actually say something interesting. There are 750 of you and grading is going to take a while, so if you only have one page of stuff to say, say it, say it well and succinctly, and be proud.
 
 We will grade you based on:
 
@@ -103,7 +108,7 @@ encyclopedia) and what it is not (the authoritative writing of experts.)
 both the season and the phase of the moon in their timekeeping. If you write about either of these, your paper should discuss questions like:
   * An "intercalary month" is an extra month that is added to the year sometimes. Why do they use intercalary months, when the Western (Gregorian) calendar does not? 
   * How do you determine whether to add an intercalary month to any given year?
-  * The Metonic cycle is nineteen years long, after which the pattern of intercalary months repeats. Why is this? Why nineteen?
+  * The Metonic cycle is nineteen years long, after which the pattern of intercalary months repeats. Why is this? Why nineteen? (Show me the mathematics -- this will earn you substantial credit if you explain it clearly.)
   * Is the Metonic cycle "perfect", or must a calendar based on it be modified over long periods of time to "keep in sync" with both the cycles of the Sun and the Moon?
   * What are the similarities between the intercalary months used in these calendars and the "leap day" added to every fourth year (or thereabouts) in the Western calendar? What are the differences?
 
