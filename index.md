@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [From Egypt to Arabia to Italy: the birth of science](slides/lecture9.pdf)
+Current slides: [Finding truth in precision: from heliocentrism to science](slides/lecture10.pdf)
 
 <br><br>
 
