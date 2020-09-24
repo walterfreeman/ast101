@@ -1,7 +1,8 @@
 ---
 layout: page 
-permalink: project1evaluation.html
-title: Project 1 Evaluation
+permalink: project2evaluation.html
+title: Project 2 Evaluation
+category: top
 ---
 
 This page has evaluation instructions listed for everyone in our class. Make sure you find your own listing. (It will have your name listed in large print.)
@@ -23,7 +24,7 @@ You are evaluating group 401, made up of:
 * Ann Drennan (aodrenna@syr.edu)
 * Sam Moore (smmoore@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0401-E0414" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0401-E0414" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -37,21 +38,19 @@ Once you have, please send it in an email, along with the group's original submi
 * lamadhok@syr.edu: Luka Madhok (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0401-E0414"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0401-E0414"**
 
 ---
 
 ---
 
-### Group 1302: Miranda Heard
-
-You are evaluating group 2003, made up of:
+### Group 1302: You are evaluating group 2003, made up of:
 
 * Alex Bisignani (abisigna@syr.edu)
 * Liam Creeden (ldcreede@syr.edu)
 * Noah Simpson (nrsimpso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2003-E1302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2003-E1302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -61,10 +60,9 @@ Once you have, please send it in an email, along with the group's original submi
 * abisigna@syr.edu: Alex Bisignani (member of submitting group)
 * ldcreede@syr.edu: Liam Creeden (member of submitting group)
 * nrsimpso@syr.edu: Noah Simpson (member of submitting group)
-* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2003-E1302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2003-E1302"**
 
 ---
 
@@ -78,7 +76,7 @@ You are evaluating group 1102, made up of:
 * Daniel Hassett (dphasset@syr.edu)
 * Jason Boyle (jrboyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1102-E0511" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1102-E0511" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -93,7 +91,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmathewm@syr.edu: Karthik Mathew-Malik (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1102-E0511"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1102-E0511"**
 
 ---
 
@@ -107,7 +105,7 @@ You are evaluating group 604, made up of:
 * Alexander Styrt (arstyrt@syr.edu)
 * Rachel Goldberg (rgoldb03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0604-E1705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0604-E1705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -122,7 +120,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ylee05@syr.edu: Young Bin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0604-E1705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0604-E1705"**
 
 ---
 
@@ -137,7 +135,7 @@ You are evaluating group 210, made up of:
 * Laurhen Marie Parvin (lmparvin@syr.edu)
 * Morgan Fahy (mofahy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0210-E1505" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0210-E1505" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -153,7 +151,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0210-E1505"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0210-E1505"**
 
 ---
 
@@ -167,7 +165,7 @@ You are evaluating group 2207, made up of:
 * Cecelia Westwater (cjwestwa@syr.edu)
 * Lauren Kang (jkang21@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2207-E2400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2207-E2400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -182,7 +180,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmitch15@syr.edu: Kimberly Mitchell (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2207-E2400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2207-E2400"**
 
 ---
 
@@ -197,7 +195,7 @@ You are evaluating group 1806, made up of:
 * Kyra Singh (klsingh@syr.edu)
 * Nya Bragg (nabragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1806-E1905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1806-E1905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -213,7 +211,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tjmarma@syr.edu: Tyler Marma (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1806-E1905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1806-E1905"**
 
 ---
 
@@ -228,7 +226,7 @@ You are evaluating group 1703, made up of:
 * Adam Schwartz (adschwar@syr.edu)
 * Sean Adams (sadams08@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1703-E2904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1703-E2904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -244,7 +242,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tnhartle@syr.edu: Tia Hartley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1703-E2904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1703-E2904"**
 
 ---
 
@@ -258,7 +256,7 @@ You are evaluating group 305, made up of:
 * Ethan Lake (ejlake@syr.edu)
 * Evan Reiner (ejreiner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0305-E1800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0305-E1800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -274,7 +272,7 @@ Once you have, please send it in an email, along with the group's original submi
 * srlusard@syr.edu: Sophia Lusardi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0305-E1800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0305-E1800"**
 
 ---
 
@@ -289,7 +287,7 @@ You are evaluating group 1801, made up of:
 * Daniel Mallea (dlmallea@syr.edu)
 * Douglas Camp (dtcamp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1801-E1906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1801-E1906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -305,7 +303,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oebabafe@syr.edu: Oluwaseminire Babafemi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1801-E1906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1801-E1906"**
 
 ---
 
@@ -319,7 +317,7 @@ You are evaluating group 708, made up of:
 * Max Cotroneo (mcotrone@syr.edu)
 * Rehan Ahmed (rdahmed@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0708-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0708-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -335,7 +333,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0708-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0708-E1007"**
 
 ---
 
@@ -349,7 +347,7 @@ You are evaluating group 517, made up of:
 * Peyton Persing (papersin@syr.edu)
 * Xiaopeng Cao (xcao01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0517-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0517-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -365,7 +363,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0517-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0517-E2602"**
 
 ---
 
@@ -376,10 +374,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0517-E2
 You are evaluating group 2908, made up of:
 
 * Shane O'Neil  (sroneil@syr.edu)
+* Jayden Cole (jcole01@syr.edu)
 * Phillip Bogan (pmbogan@syr.edu)
 * Andronikos Georgalas (ageorgal@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2908-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2908-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -387,6 +386,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * sroneil@syr.edu: Shane O'Neil  (member of submitting group)
+* jcole01@syr.edu: Jayden Cole (member of submitting group)
 * pmbogan@syr.edu: Phillip Bogan (member of submitting group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -394,7 +394,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2908-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2908-E2005"**
 
 ---
 
@@ -408,7 +408,7 @@ You are evaluating group 1803, made up of:
 * lexi flood (anflood@syr.edu)
 * Isabela Mcdonald (icmcdona@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1803-E0312" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1803-E0312" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -422,7 +422,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcrath@syr.edu: Louise Rath (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1803-E0312"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1803-E0312"**
 
 ---
 
@@ -435,8 +435,9 @@ You are evaluating group 504, made up of:
 * Angel Gonzalez (agonza20@syr.edu)
 * Catherine Maher (cjmaher@syr.edu)
 * Hamere Debebe (hedebebe@syr.edu)
+* Emma Arczynski (enarczyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0504-E1801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0504-E1801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -446,19 +447,20 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of submitting group)
 * cjmaher@syr.edu: Catherine Maher (member of submitting group)
 * hedebebe@syr.edu: Hamere Debebe (member of submitting group)
+* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * afloiaco@syr.edu: Anthony Loiacono (member of evaluating group)
 * calydon@syr.edu: Caitlin Lydon (member of evaluating group)
 * dlmallea@syr.edu: Daniel Mallea (member of evaluating group)
 * dtcamp@syr.edu: Douglas Camp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0504-E1801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0504-E1801"**
 
 ---
 
 ---
 
-### Group 603: John Abbott, Bendeguz Kevin Balogh, Jordan McKey
+### Group 603: John Abbott, Tao Tian, Bendeguz Kevin Balogh, Jordan McKey
 
 You are evaluating group 800, made up of:
 
@@ -466,7 +468,7 @@ You are evaluating group 800, made up of:
 * Aicha Sacko (asacko@syr.edu)
 * Kaerod Amare (kamare@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0800-E0603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0800-E0603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -477,11 +479,12 @@ Once you have, please send it in an email, along with the group's original submi
 * asacko@syr.edu: Aicha Sacko (member of submitting group)
 * kamare@syr.edu: Kaerod Amare (member of submitting group)
 * jwabbott@syr.edu: John Abbott (member of evaluating group)
+* tatian@syr.edu: Tao Tian (member of evaluating group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of evaluating group)
 * jmckey@syr.edu: Jordan McKey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0800-E0603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0800-E0603"**
 
 ---
 
@@ -495,7 +498,7 @@ You are evaluating group 1906, made up of:
 * Mia Rodriguez (mkrodrig@syr.edu)
 * Oluwaseminire Babafemi (oebabafe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1906-E0711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1906-E0711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -510,7 +513,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1906-E0711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1906-E0711"**
 
 ---
 
@@ -524,7 +527,7 @@ You are evaluating group 1502, made up of:
 * Blake Taub (bltaub@syr.edu)
 * Luke Ceccoli (lmceccol@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1502-E1507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1502-E1507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -539,7 +542,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cszeeve@syr.edu: Charles Zeeve (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1502-E1507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1502-E1507"**
 
 ---
 
@@ -553,7 +556,7 @@ You are evaluating group 1705, made up of:
 * Kevin Camelo Bonilla (kbcamelo@syr.edu)
 * Young Bin Lee (ylee05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1705-E0800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1705-E0800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -568,7 +571,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kamare@syr.edu: Kaerod Amare (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1705-E0800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1705-E0800"**
 
 ---
 
@@ -582,7 +585,7 @@ You are evaluating group 410, made up of:
 * Sharif Bey (sbey01@syr.edu)
 * Sierra Sulc (sisulc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0410-E0701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0410-E0701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -597,7 +600,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wrhentsc@syr.edu: William Hentschel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0410-E0701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0410-E0701"**
 
 ---
 
@@ -611,7 +614,7 @@ You are evaluating group 1902, made up of:
 * Christopher Trentham (cltrenth@syr.edu)
 * Jack Gordon (jhgordon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1902-E1101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1902-E1101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -626,7 +629,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smanni01@syr.edu: Shanice Manning (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1902-E1101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1902-E1101"**
 
 ---
 
@@ -636,18 +639,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1902-E1
 
 You are evaluating group 213, made up of:
 
-* Jacob Bernardine (jberna01@syr.edu)
 * Anthony Bellman (ajbellma@syr.edu)
 * Yu  Sun (ysun57@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0213-E1504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0213-E1504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * ajbellma@syr.edu: Anthony Bellman (member of submitting group)
 * ysun57@syr.edu: Yu  Sun (member of submitting group)
 * bwood04@syr.edu: Beyonce Wood (member of evaluating group)
@@ -656,7 +657,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgzahedi@syr.edu: Leila Zahedi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0213-E1504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0213-E1504"**
 
 ---
 
@@ -670,7 +671,7 @@ You are evaluating group 1804, made up of:
 * Charlie Moreno (camoreno@syr.edu)
 * Jenna Byers (jbyers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1804-E2207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1804-E2207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -685,13 +686,13 @@ Once you have, please send it in an email, along with the group's original submi
 * jkang21@syr.edu: Lauren Kang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1804-E2207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1804-E2207"**
 
 ---
 
 ---
 
-### Group 2100: Brittney Cunningham, Jing Ge, Madison Kettering
+### Group 2100: Jing Ge, Madison Kettering
 
 You are evaluating group 507, made up of:
 
@@ -699,7 +700,7 @@ You are evaluating group 507, made up of:
 * Joshua Golden (jgolde02@syr.edu)
 * Matthew Fairfax (mkfairfa@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0507-E2100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0507-E2100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -709,12 +710,11 @@ Once you have, please send it in an email, along with the group's original submi
 * ajcibuls@syr.edu: Anthony Cibulsky (member of submitting group)
 * jgolde02@syr.edu: Joshua Golden (member of submitting group)
 * mkfairfa@syr.edu: Matthew Fairfax (member of submitting group)
-* blcunnin@syr.edu: Brittney Cunningham (member of evaluating group)
 * jge107@syr.edu: Jing Ge (member of evaluating group)
 * mfketter@syr.edu: Madison Kettering (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0507-E2100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0507-E2100"**
 
 ---
 
@@ -728,7 +728,7 @@ You are evaluating group 2900, made up of:
 * Brianne Quinlan (bequinla@syr.edu)
 * Kadija Kaba (kkaba01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2900-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2900-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -743,7 +743,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2900-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2900-E1003"**
 
 ---
 
@@ -757,7 +757,7 @@ You are evaluating group 512, made up of:
 * Brady Sheehan (btsheeha@syr.edu)
 * Ryan Bradley (rybradle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0512-E1803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0512-E1803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -772,7 +772,7 @@ Once you have, please send it in an email, along with the group's original submi
 * icmcdona@syr.edu: Isabela Mcdonald (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0512-E1803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0512-E1803"**
 
 ---
 
@@ -786,7 +786,7 @@ You are evaluating group 1600, made up of:
 * Annastacia Kilgallon (amkilgal@syr.edu)
 * Molly Shoap (mpshoap@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1600-E1401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1600-E1401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -801,7 +801,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jxie102@syr.edu: Jieying Xing (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1600-E1401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1600-E1401"**
 
 ---
 
@@ -813,9 +813,10 @@ You are evaluating group 1004, made up of:
 
 * Ellen Kingman (eekingma@syr.edu)
 * Jackson Dubrull (jdubrull@syr.edu)
+* Sydney Lance (sjlance@syr.edu)
 * Jack Gonzalez (jgonza09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1004-E0207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1004-E0207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -824,12 +825,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * eekingma@syr.edu: Ellen Kingman (member of submitting group)
 * jdubrull@syr.edu: Jackson Dubrull (member of submitting group)
+* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jgonza09@syr.edu: Jack Gonzalez (member of submitting group)
 * bsulli06@syr.edu: Brendan Sullivan (member of evaluating group)
 * kcabuls@syr.edu: Katrina Abuls (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1004-E0207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1004-E0207"**
 
 ---
 
@@ -840,10 +842,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1004-E0
 You are evaluating group 1605, made up of:
 
 * Andrew Spana (ajspana@syr.edu)
-* Sydney Lance (sjlance@syr.edu)
 * Joshua Jezak (jjezak@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1605-E0210" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1605-E0210" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -851,7 +852,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * ajspana@syr.edu: Andrew Spana (member of submitting group)
-* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jjezak@syr.edu: Joshua Jezak (member of submitting group)
 * actodd@syr.edu: Andrew Todd (member of evaluating group)
 * emgold@syr.edu: Emily Gold (member of evaluating group)
@@ -859,13 +859,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mofahy@syr.edu: Morgan Fahy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1605-E0210"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1605-E0210"**
 
 ---
 
 ---
 
-### Group 1605: Andrew Spana, Sydney Lance, Joshua Jezak
+### Group 1605: Andrew Spana, Joshua Jezak
 
 You are evaluating group 1108, made up of:
 
@@ -873,7 +873,7 @@ You are evaluating group 1108, made up of:
 * Adam Kinsley Carter (akcarter@syr.edu)
 * Zachary Askarinam (zaaskari@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1108-E1605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1108-E1605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -884,11 +884,10 @@ Once you have, please send it in an email, along with the group's original submi
 * akcarter@syr.edu: Adam Kinsley Carter (member of submitting group)
 * zaaskari@syr.edu: Zachary Askarinam (member of submitting group)
 * ajspana@syr.edu: Andrew Spana (member of evaluating group)
-* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jjezak@syr.edu: Joshua Jezak (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1108-E1605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1108-E1605"**
 
 ---
 
@@ -902,7 +901,7 @@ You are evaluating group 2005, made up of:
 * Jason Levy (jlevy15@syr.edu)
 * James Korenman (jkorenma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2005-E0518" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2005-E0518" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -917,7 +916,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jklauren@syr.edu: Justin Laurent (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2005-E0518"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2005-E0518"**
 
 ---
 
@@ -931,7 +930,7 @@ You are evaluating group 306, made up of:
 * Dylan Goldberg (djgoldbe@syr.edu)
 * Lucas Portnoy (lportnoy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0306-E2705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0306-E2705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -945,21 +944,20 @@ Once you have, please send it in an email, along with the group's original submi
 * smgallig@syr.edu: Sarah Galligan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0306-E2705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0306-E2705"**
 
 ---
 
 ---
 
-### Group 2601: Linxin Wan, Sofya Golubovskaya, Sofya Treshcheva
+### Group 2601: Sofya Golubovskaya, Sofya Treshcheva
 
 You are evaluating group 804, made up of:
 
 * Jared Regenstein (jmregens@syr.edu)
 * Brian Paroff (bmparoff@syr.edu)
-* Alex Papalcure (alpapalc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0804-E2601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0804-E2601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -968,19 +966,17 @@ Once you have, please send it in an email, along with the group's original submi
 
 * jmregens@syr.edu: Jared Regenstein (member of submitting group)
 * bmparoff@syr.edu: Brian Paroff (member of submitting group)
-* alpapalc@syr.edu: Alex Papalcure (member of submitting group)
-* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of evaluating group)
 * streshch@syr.edu: Sofya Treshcheva (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0804-E2601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0804-E2601"**
 
 ---
 
 ---
 
-### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe
+### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe, Emma Arczynski
 
 You are evaluating group 705, made up of:
 
@@ -989,7 +985,7 @@ You are evaluating group 705, made up of:
 * Samuel Saunders (sasaunde@syr.edu)
 * Aminata Ceesay (amceesay@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0705-E0504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0705-E0504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1003,9 +999,10 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of evaluating group)
 * cjmaher@syr.edu: Catherine Maher (member of evaluating group)
 * hedebebe@syr.edu: Hamere Debebe (member of evaluating group)
+* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0705-E0504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0705-E0504"**
 
 ---
 
@@ -1018,7 +1015,7 @@ You are evaluating group 414, made up of:
 * Alana Coffman (amcoffma@syr.edu)
 * Luka Madhok (lamadhok@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0414-E0311" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0414-E0311" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1032,13 +1029,13 @@ Once you have, please send it in an email, along with the group's original submi
 * lvrbaski@syr.edu: Luka Vrbaski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0414-E0311"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0414-E0311"**
 
 ---
 
 ---
 
-### Group 2802: Brendan Parlee, Juliette Keller, Olivia Porter
+### Group 2802: Brendan Parlee, Juliette Keller
 
 You are evaluating group 311, made up of:
 
@@ -1046,7 +1043,7 @@ You are evaluating group 311, made up of:
 * Amanda Miller (amille19@syr.edu)
 * Luka Vrbaski (lvrbaski@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0311-E2802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0311-E2802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1058,10 +1055,9 @@ Once you have, please send it in an email, along with the group's original submi
 * lvrbaski@syr.edu: Luka Vrbaski (member of submitting group)
 * bhparlee@syr.edu: Brendan Parlee (member of evaluating group)
 * jukeller@syr.edu: Juliette Keller (member of evaluating group)
-* ogporter@syr.edu: Olivia Porter (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0311-E2802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0311-E2802"**
 
 ---
 
@@ -1076,7 +1072,7 @@ You are evaluating group 1713, made up of:
 * William Hauben (wshauben@syr.edu)
 * Amr Hines (amhines@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1713-E1602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1713-E1602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1092,13 +1088,13 @@ Once you have, please send it in an email, along with the group's original submi
 * pwang09@syr.edu: Pengwei Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1713-E1602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1713-E1602"**
 
 ---
 
 ---
 
-### Group 2802: Brendan Parlee, Juliette Keller, Olivia Porter
+### Group 2802: Brendan Parlee, Juliette Keller
 
 You are evaluating group 311, made up of:
 
@@ -1106,7 +1102,7 @@ You are evaluating group 311, made up of:
 * Amanda Miller (amille19@syr.edu)
 * Luka Vrbaski (lvrbaski@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0311-E2802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0311-E2802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1118,10 +1114,9 @@ Once you have, please send it in an email, along with the group's original submi
 * lvrbaski@syr.edu: Luka Vrbaski (member of submitting group)
 * bhparlee@syr.edu: Brendan Parlee (member of evaluating group)
 * jukeller@syr.edu: Juliette Keller (member of evaluating group)
-* ogporter@syr.edu: Olivia Porter (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0311-E2802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0311-E2802"**
 
 ---
 
@@ -1135,7 +1130,7 @@ You are evaluating group 1600, made up of:
 * Annastacia Kilgallon (amkilgal@syr.edu)
 * Molly Shoap (mpshoap@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1600-E1401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1600-E1401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1150,7 +1145,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jxie102@syr.edu: Jieying Xing (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1600-E1401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1600-E1401"**
 
 ---
 
@@ -1164,7 +1159,7 @@ You are evaluating group 402, made up of:
 * Caitlyn Brady (cbrady@syr.edu)
 * Laura Bueno (lbueno@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0402-E2603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0402-E2603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1180,7 +1175,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ksim02@syr.edu: Kyu  Ho Sim (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0402-E2603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0402-E2603"**
 
 ---
 
@@ -1192,8 +1187,9 @@ You are evaluating group 1500, made up of:
 
 * Alexandra Pinedo (ampinedo@syr.edu)
 * Eric Freudigman (enfreudi@syr.edu)
+* Romane Gutenbrunner (rpgutenb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1500-E0519" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1500-E0519" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1202,12 +1198,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * ampinedo@syr.edu: Alexandra Pinedo (member of submitting group)
 * enfreudi@syr.edu: Eric Freudigman (member of submitting group)
+* rpgutenb@syr.edu: Romane Gutenbrunner (member of submitting group)
 * ccgulbra@syr.edu: Campbell  C Gulbrandsen (member of evaluating group)
 * dlbuck@syr.edu: Dylan Buck (member of evaluating group)
 * despin02@syr.edu: Daniel Espinoza (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1500-E0519"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1500-E0519"**
 
 ---
 
@@ -1217,16 +1214,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1500-E0
 
 You are evaluating group 2101, made up of:
 
+* Brittney Cunningham (blcunnin@syr.edu)
 * Amara Wilson (amwilson@syr.edu)
 * Daniel Hamrahi (dhamrahi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2101-E0604" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2101-E0604" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* blcunnin@syr.edu: Brittney Cunningham (member of submitting group)
 * amwilson@syr.edu: Amara Wilson (member of submitting group)
 * dhamrahi@syr.edu: Daniel Hamrahi (member of submitting group)
 * acruz21@syr.edu: Antonio Cruz (member of evaluating group)
@@ -1234,7 +1233,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rgoldb03@syr.edu: Rachel Goldberg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2101-E0604"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2101-E0604"**
 
 ---
 
@@ -1248,7 +1247,7 @@ You are evaluating group 2400, made up of:
 * Chad de la Rosa (cedelaro@syr.edu)
 * Kimberly Mitchell (kmitch15@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2400-E0601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2400-E0601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1263,7 +1262,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mccrooke@syr.edu: Madeline Crooke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2400-E0601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2400-E0601"**
 
 ---
 
@@ -1277,7 +1276,7 @@ You are evaluating group 2703, made up of:
 * Caroline Hurlebaus (crhurleb@syr.edu)
 * Julia Short (jcshort@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2703-E0502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2703-E0502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1293,7 +1292,7 @@ Once you have, please send it in an email, along with the group's original submi
 * vkelly@syr.edu: Victoria Kelly (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2703-E0502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2703-E0502"**
 
 ---
 
@@ -1307,7 +1306,7 @@ You are evaluating group 1803, made up of:
 * lexi flood (anflood@syr.edu)
 * Isabela Mcdonald (icmcdona@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1803-E0312" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1803-E0312" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1321,7 +1320,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcrath@syr.edu: Louise Rath (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1803-E0312"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1803-E0312"**
 
 ---
 
@@ -1336,7 +1335,7 @@ You are evaluating group 1806, made up of:
 * Kyra Singh (klsingh@syr.edu)
 * Nya Bragg (nabragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1806-E1905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1806-E1905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1352,7 +1351,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tjmarma@syr.edu: Tyler Marma (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1806-E1905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1806-E1905"**
 
 ---
 
@@ -1366,7 +1365,7 @@ You are evaluating group 2803, made up of:
 * Camila Carbajal (ccarbaja@syr.edu)
 * Michael Leyne (mjleyne@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2803-E0702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2803-E0702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1381,7 +1380,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mehinz@syr.edu: Mia Hinz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2803-E0702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2803-E0702"**
 
 ---
 
@@ -1395,7 +1394,7 @@ You are evaluating group 307, made up of:
 * Kiersten Edwards (kedwar03@syr.edu)
 * Luis Lopez-Crespo (llopezcr@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0307-E0404" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0307-E0404" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1411,13 +1410,13 @@ Once you have, please send it in an email, along with the group's original submi
 * rycohen@syr.edu: Ryan Cohen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0307-E0404"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0307-E0404"**
 
 ---
 
 ---
 
-### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe
+### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe, Emma Arczynski
 
 You are evaluating group 705, made up of:
 
@@ -1426,7 +1425,7 @@ You are evaluating group 705, made up of:
 * Samuel Saunders (sasaunde@syr.edu)
 * Aminata Ceesay (amceesay@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0705-E0504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0705-E0504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1440,9 +1439,10 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of evaluating group)
 * cjmaher@syr.edu: Catherine Maher (member of evaluating group)
 * hedebebe@syr.edu: Hamere Debebe (member of evaluating group)
+* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0705-E0504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0705-E0504"**
 
 ---
 
@@ -1456,7 +1456,7 @@ You are evaluating group 401, made up of:
 * Ann Drennan (aodrenna@syr.edu)
 * Sam Moore (smmoore@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0401-E0414" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0401-E0414" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1470,21 +1470,22 @@ Once you have, please send it in an email, along with the group's original submi
 * lamadhok@syr.edu: Luka Madhok (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0401-E0414"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0401-E0414"**
 
 ---
 
 ---
 
-### Group 2103: Benjamin Schiller, Timothy Dean
+### Group 2103: Benjamin Schiller, Justin King, Timothy Dean
 
 You are evaluating group 212, made up of:
 
 * Derek Gutierrez (degutier@syr.edu)
 * Ashley P Santore (apsantor@syr.edu)
 * Jennifer Porter (jeporter@syr.edu)
+* Jacob Bernardine (jberna01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0212-E2103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0212-E2103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1494,17 +1495,19 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of submitting group)
 * apsantor@syr.edu: Ashley P Santore (member of submitting group)
 * jeporter@syr.edu: Jennifer Porter (member of submitting group)
+* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * bschille@syr.edu: Benjamin Schiller (member of evaluating group)
+* jking20@syr.edu: Justin King (member of evaluating group)
 * trdean@syr.edu: Timothy Dean (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0212-E2103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0212-E2103"**
 
 ---
 
 ---
 
-### Group 1002: Robert Spano, Thomas McMullen
+### Group 1002: Robert Spano, Thomas McMullen, Mateo Lariviere
 
 You are evaluating group 2102, made up of:
 
@@ -1512,7 +1515,7 @@ You are evaluating group 2102, made up of:
 * Cory Spangler (cnspangl@syr.edu)
 * Karhan Sistolu (ksistolu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2102-E1002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2102-E1002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1524,9 +1527,10 @@ Once you have, please send it in an email, along with the group's original submi
 * ksistolu@syr.edu: Karhan Sistolu (member of submitting group)
 * rnspano@syr.edu: Robert Spano (member of evaluating group)
 * tsmcmull@syr.edu: Thomas McMullen (member of evaluating group)
+* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2102-E1002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2102-E1002"**
 
 ---
 
@@ -1541,7 +1545,7 @@ You are evaluating group 1700, made up of:
 * Samantha Greco (slgreco@syr.edu)
 * Tyler Thibeau (tjthibea@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1700-E1901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1700-E1901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1558,7 +1562,7 @@ Once you have, please send it in an email, along with the group's original submi
 * whtran@syr.edu: Win Tran (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1700-E1901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1700-E1901"**
 
 ---
 
@@ -1572,7 +1576,7 @@ You are evaluating group 1810, made up of:
 * Aaron Rothschild (arothsch@syr.edu)
 * Anna Matjucha (atmatjuc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1810-E2303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1810-E2303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1587,7 +1591,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yyuan30@syr.edu: Yiyi Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1810-E2303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1810-E2303"**
 
 ---
 
@@ -1601,7 +1605,7 @@ You are evaluating group 201, made up of:
 * Jamie Chernett (jmcherne@syr.edu)
 * Sami Halperin (sahalper@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0201-E2004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0201-E2004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1615,7 +1619,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgriff02@syr.edu: Liam Griffin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0201-E2004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0201-E2004"**
 
 ---
 
@@ -1629,7 +1633,7 @@ You are evaluating group 1810, made up of:
 * Aaron Rothschild (arothsch@syr.edu)
 * Anna Matjucha (atmatjuc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1810-E2303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1810-E2303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1644,7 +1648,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yyuan30@syr.edu: Yiyi Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1810-E2303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1810-E2303"**
 
 ---
 
@@ -1659,7 +1663,7 @@ You are evaluating group 1106, made up of:
 * Olivia Zoeckler (orzoeckl@syr.edu)
 * Olivia Troilo (ottroilo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1106-E0407" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1106-E0407" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1675,7 +1679,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sabrowns@syr.edu: Samuel Brownstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1106-E0407"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1106-E0407"**
 
 ---
 
@@ -1689,7 +1693,7 @@ You are evaluating group 604, made up of:
 * Alexander Styrt (arstyrt@syr.edu)
 * Rachel Goldberg (rgoldb03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0604-E1705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0604-E1705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1704,13 +1708,13 @@ Once you have, please send it in an email, along with the group's original submi
 * ylee05@syr.edu: Young Bin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0604-E1705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0604-E1705"**
 
 ---
 
 ---
 
-### Group 603: John Abbott, Bendeguz Kevin Balogh, Jordan McKey
+### Group 603: John Abbott, Tao Tian, Bendeguz Kevin Balogh, Jordan McKey
 
 You are evaluating group 800, made up of:
 
@@ -1718,7 +1722,7 @@ You are evaluating group 800, made up of:
 * Aicha Sacko (asacko@syr.edu)
 * Kaerod Amare (kamare@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0800-E0603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0800-E0603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1729,11 +1733,12 @@ Once you have, please send it in an email, along with the group's original submi
 * asacko@syr.edu: Aicha Sacko (member of submitting group)
 * kamare@syr.edu: Kaerod Amare (member of submitting group)
 * jwabbott@syr.edu: John Abbott (member of evaluating group)
+* tatian@syr.edu: Tao Tian (member of evaluating group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of evaluating group)
 * jmckey@syr.edu: Jordan McKey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0800-E0603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0800-E0603"**
 
 ---
 
@@ -1747,7 +1752,7 @@ You are evaluating group 416, made up of:
 * Daryl Gonzalez (dgonza01@syr.edu)
 * Tatia Buziashvili (tbuziash@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0416-E0411" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0416-E0411" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1759,11 +1764,11 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of submitting group)
 * crdill@syr.edu: Cori Dill (member of evaluating group)
 * dcdegen@syr.edu: Devon Degen (member of evaluating group)
-* nlllepard@syr.edu: Neil Lepard (member of evaluating group)
+* nllepard@syr.edu: Neil Lepard (member of evaluating group)
 * fjhutson@syr.edu: Faith Hutson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0416-E0411"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0416-E0411"**
 
 ---
 
@@ -1773,16 +1778,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0416-E0
 
 You are evaluating group 303, made up of:
 
+* Camryn Johnson-Andrews (cjohns26@syr.edu)
 * Alex Deangelis (asdeange@syr.edu)
 * Rody Conway (rjconway@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0303-E0314" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0303-E0314" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of submitting group)
 * asdeange@syr.edu: Alex Deangelis (member of submitting group)
 * rjconway@syr.edu: Rody Conway (member of submitting group)
 * jltoder@syr.edu: Toder Jenna (member of evaluating group)
@@ -1790,7 +1797,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmancuso@syr.edu: Nicholas Mancuso (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0303-E0314"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0303-E0314"**
 
 ---
 
@@ -1804,7 +1811,7 @@ You are evaluating group 2804, made up of:
 * Joseph Ritchie (jrritchi@syr.edu)
 * Olivia Gladu (oegladu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2804-E1104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2804-E1104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1819,7 +1826,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mniwelt@syr.edu: Matthew Niwelt (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2804-E1104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2804-E1104"**
 
 ---
 
@@ -1834,7 +1841,7 @@ You are evaluating group 104, made up of:
 * Christina-Hannie Perrier (csperrie@syr.edu)
 * Joana Zuluaga (jzuluaga@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0104-E1807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0104-E1807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1850,7 +1857,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0104-E1807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0104-E1807"**
 
 ---
 
@@ -1864,7 +1871,7 @@ You are evaluating group 1403, made up of:
 * Diana Avila (davila@syr.edu)
 * Jordan Kakuyo (jdkakuyo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1403-E0308" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1403-E0308" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1879,7 +1886,7 @@ Once you have, please send it in an email, along with the group's original submi
 * crplemon@syr.edu: Caitlin Plemons (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1403-E0308"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1403-E0308"**
 
 ---
 
@@ -1891,9 +1898,8 @@ You are evaluating group 700, made up of:
 
 * Ashley Strauss (asstraus@syr.edu)
 * Hailey Joseph (hbjoseph@syr.edu)
-* Summer Stubbmann (sstubbma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0700-E0501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0700-E0501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1902,13 +1908,12 @@ Once you have, please send it in an email, along with the group's original submi
 
 * asstraus@syr.edu: Ashley Strauss (member of submitting group)
 * hbjoseph@syr.edu: Hailey Joseph (member of submitting group)
-* sstubbma@syr.edu: Summer Stubbmann (member of submitting group)
 * cji103@syr.edu: Chenxi Ji (member of evaluating group)
 * hmo100@syr.edu: Hanlin Mo (member of evaluating group)
 * jperez04@syr.edu: Jeronimo Perez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0700-E0501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0700-E0501"**
 
 ---
 
@@ -1922,7 +1927,7 @@ You are evaluating group 1009, made up of:
 * Samantha Mussman (snmussma@syr.edu)
 * Theodore Gelb (tcgelb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1009-E1502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1009-E1502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1937,7 +1942,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lmceccol@syr.edu: Luke Ceccoli (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1009-E1502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1009-E1502"**
 
 ---
 
@@ -1951,7 +1956,7 @@ You are evaluating group 1711, made up of:
 * Bonaccorso Rosselli Del Turco (berossel@syr.edu)
 * Forrest Gurl (fngurl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1711-E1802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1711-E1802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1966,7 +1971,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrosenba@syr.edu: Jeremy Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1711-E1802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1711-E1802"**
 
 ---
 
@@ -1980,7 +1985,7 @@ You are evaluating group 413, made up of:
 * Dorothy Sabo (drsabo@syr.edu)
 * Will Saferstein (wsaferst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0413-E1102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0413-E1102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -1995,7 +2000,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrboyle@syr.edu: Jason Boyle (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0413-E1102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0413-E1102"**
 
 ---
 
@@ -2008,9 +2013,8 @@ You are evaluating group 302, made up of:
 * Alan Harding (athardin@syr.edu)
 * Jack Desmarais-Harris (jdesmara@syr.edu)
 * Taylor Miller (tamiller@syr.edu)
-* Camryn Johnson-Andrews (cjohns26@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0302-E2003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0302-E2003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2020,13 +2024,12 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of submitting group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of submitting group)
 * tamiller@syr.edu: Taylor Miller (member of submitting group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of submitting group)
 * abisigna@syr.edu: Alex Bisignani (member of evaluating group)
 * ldcreede@syr.edu: Liam Creeden (member of evaluating group)
 * nrsimpso@syr.edu: Noah Simpson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0302-E2003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0302-E2003"**
 
 ---
 
@@ -2040,7 +2043,7 @@ You are evaluating group 1810, made up of:
 * Aaron Rothschild (arothsch@syr.edu)
 * Anna Matjucha (atmatjuc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1810-E2303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1810-E2303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2055,13 +2058,13 @@ Once you have, please send it in an email, along with the group's original submi
 * yyuan30@syr.edu: Yiyi Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1810-E2303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1810-E2303"**
 
 ---
 
 ---
 
-### Group 514: Courtney Bennett, Emma Arczynski, Melanie Salazar
+### Group 514: Courtney Bennett, Melanie Salazar
 
 You are evaluating group 2903, made up of:
 
@@ -2069,7 +2072,7 @@ You are evaluating group 2903, made up of:
 * Elizabeth Carlson (eacarlso@syr.edu)
 * Sierra Huff (snhuff@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2903-E0514" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2903-E0514" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2080,17 +2083,16 @@ Once you have, please send it in an email, along with the group's original submi
 * eacarlso@syr.edu: Elizabeth Carlson (member of submitting group)
 * snhuff@syr.edu: Sierra Huff (member of submitting group)
 * cbenne09@syr.edu: Courtney Bennett (member of evaluating group)
-* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * mesalaza@syr.edu: Melanie Salazar (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2903-E0514"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2903-E0514"**
 
 ---
 
 ---
 
-### Group 206: Noah Rosenthal, Logan Forbes
+### Group 206: Noah Rosenthal, Daniel Pease, Logan Forbes
 
 You are evaluating group 1707, made up of:
 
@@ -2098,7 +2100,7 @@ You are evaluating group 1707, made up of:
 * Michele Orleans (meorlean@syr.edu)
 * Samantha Denaro (skdenaro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1707-E0206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1707-E0206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2109,10 +2111,11 @@ Once you have, please send it in an email, along with the group's original submi
 * meorlean@syr.edu: Michele Orleans (member of submitting group)
 * skdenaro@syr.edu: Samantha Denaro (member of submitting group)
 * nsrosent@syr.edu: Noah Rosenthal (member of evaluating group)
+* dtpease@syr.edu: Daniel Pease (member of evaluating group)
 * lrforbes@syr.edu: Logan Forbes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1707-E0206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1707-E0206"**
 
 ---
 
@@ -2127,7 +2130,7 @@ You are evaluating group 1007, made up of:
 * Lauren Mix (lmix02@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1007-E0508" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1007-E0508" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2143,7 +2146,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rblowers@syr.edu: Ryan Blowers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1007-E0508"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1007-E0508"**
 
 ---
 
@@ -2158,7 +2161,7 @@ You are evaluating group 509, made up of:
 * Duncan Grant (dugrant@syr.edu)
 * Kathryn Voler (kvvoler@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0509-E0904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0509-E0904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2174,7 +2177,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcbisgar@syr.edu: Leia Bisgard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0509-E0904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0509-E0904"**
 
 ---
 
@@ -2188,7 +2191,7 @@ You are evaluating group 1404, made up of:
 * Michael Hernandez Jr (mahernan@syr.edu)
 * Matthew Martin (mamartin@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1404-E2703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1404-E2703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2203,7 +2206,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jcshort@syr.edu: Julia Short (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1404-E2703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1404-E2703"**
 
 ---
 
@@ -2217,7 +2220,7 @@ You are evaluating group 204, made up of:
 * Gerrit Vanvranken (gmvanvra@syr.edu)
 * Samual Ayers (sbayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0204-E0305" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0204-E0305" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2232,7 +2235,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ejreiner@syr.edu: Evan Reiner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0204-E0305"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0204-E0305"**
 
 ---
 
@@ -2246,7 +2249,7 @@ You are evaluating group 2002, made up of:
 * Ryan Daly (rsdaly@syr.edu)
 * William Steinberg (wksteinb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2002-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2002-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2262,7 +2265,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2002-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2002-E0203"**
 
 ---
 
@@ -2276,7 +2279,7 @@ You are evaluating group 1601, made up of:
 * Christian Campbell (ccampb15@syr.edu)
 * Jacob Waldron (jvwaldro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1601-E2800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1601-E2800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2291,7 +2294,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1601-E2800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1601-E2800"**
 
 ---
 
@@ -2306,7 +2309,7 @@ You are evaluating group 1703, made up of:
 * Adam Schwartz (adschwar@syr.edu)
 * Sean Adams (sadams08@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1703-E2904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1703-E2904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2322,7 +2325,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tnhartle@syr.edu: Tia Hartley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1703-E2904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1703-E2904"**
 
 ---
 
@@ -2336,7 +2339,7 @@ You are evaluating group 2900, made up of:
 * Brianne Quinlan (bequinla@syr.edu)
 * Kadija Kaba (kkaba01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2900-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2900-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2351,7 +2354,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2900-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2900-E1003"**
 
 ---
 
@@ -2365,7 +2368,7 @@ You are evaluating group 1711, made up of:
 * Bonaccorso Rosselli Del Turco (berossel@syr.edu)
 * Forrest Gurl (fngurl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1711-E1802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1711-E1802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2380,7 +2383,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrosenba@syr.edu: Jeremy Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1711-E1802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1711-E1802"**
 
 ---
 
@@ -2394,7 +2397,7 @@ You are evaluating group 607, made up of:
 * Rachel Iannarelli (raiannar@syr.edu)
 * Lagarthucin Legrand (lklegran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0607-E0606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0607-E0606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2409,7 +2412,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kjbarris@syr.edu: Kenneth Barrist (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0607-E0606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0607-E0606"**
 
 ---
 
@@ -2424,7 +2427,7 @@ You are evaluating group 1603, made up of:
 * Daniel Chaplick (djchapli@syr.edu)
 * Zachary Goldman (zhgoldma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1603-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1603-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2441,7 +2444,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1603-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1603-E2602"**
 
 ---
 
@@ -2452,11 +2455,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1603-E2
 You are evaluating group 1005, made up of:
 
 * Emerson Murphy (emurph13@syr.edu)
-* Mateo Lariviere (mrlarivi@syr.edu)
 * Tessa Lank (talank@syr.edu)
 * Brian   Hall (bhall05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1005-E1010" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1005-E1010" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2464,7 +2466,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * emurph13@syr.edu: Emerson Murphy (member of submitting group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * talank@syr.edu: Tessa Lank (member of submitting group)
 * bhall05@syr.edu: Brian   Hall (member of submitting group)
 * etsulliv@syr.edu: Eamonn Sullivan (member of evaluating group)
@@ -2472,7 +2473,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xsteele@syr.edu: Xavier Steele (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1005-E1010"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1005-E1010"**
 
 ---
 
@@ -2484,9 +2485,8 @@ You are evaluating group 2802, made up of:
 
 * Brendan Parlee (bhparlee@syr.edu)
 * Juliette Keller (jukeller@syr.edu)
-* Olivia Porter (ogporter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2802-E0406" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2802-E0406" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2495,14 +2495,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * bhparlee@syr.edu: Brendan Parlee (member of submitting group)
 * jukeller@syr.edu: Juliette Keller (member of submitting group)
-* ogporter@syr.edu: Olivia Porter (member of submitting group)
 * gldelgad@syr.edu: Gianna Delgado (member of evaluating group)
 * hray01@syr.edu: Harrison Ray (member of evaluating group)
 * lmkoller@syr.edu: Lily Koller (member of evaluating group)
 * rbrosen@syr.edu: Reed Rosen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2802-E0406"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2802-E0406"**
 
 ---
 
@@ -2517,7 +2516,7 @@ You are evaluating group 1704, made up of:
 * Sophie Lynch (slynch05@syr.edu)
 * Bibiana Snyder (bisnyder@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1704-E1805" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1704-E1805" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2533,7 +2532,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmorri27@syr.edu: Jacob Morris (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1704-E1805"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1704-E1805"**
 
 ---
 
@@ -2547,7 +2546,7 @@ You are evaluating group 2104, made up of:
 * Brenden McNamara (bjmcnama@syr.edu)
 * Courtney Lynch (clynch12@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2104-E1607" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2104-E1607" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2562,7 +2561,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smclaffe@syr.edu: Steven Claffey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2104-E1607"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2104-E1607"**
 
 ---
 
@@ -2573,10 +2572,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2104-E1
 You are evaluating group 603, made up of:
 
 * John Abbott (jwabbott@syr.edu)
+* Tao Tian (tatian@syr.edu)
 * Bendeguz Kevin Balogh (bkbalogh@syr.edu)
 * Jordan McKey (jmckey@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0603-E1710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0603-E1710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2584,6 +2584,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * jwabbott@syr.edu: John Abbott (member of submitting group)
+* tatian@syr.edu: Tao Tian (member of submitting group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of submitting group)
 * jmckey@syr.edu: Jordan McKey (member of submitting group)
 * brbrush@syr.edu: Bryan Brush (member of evaluating group)
@@ -2591,7 +2592,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rgconner@syr.edu: Ryan Conner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0603-E1710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0603-E1710"**
 
 ---
 
@@ -2605,7 +2606,7 @@ You are evaluating group 1604, made up of:
 * Dominic Samangy (dsamangy@syr.edu)
 * Lee Gerstman (lgerstma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1604-E0709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1604-E0709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2620,7 +2621,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhuang38@syr.edu: Zhen Huang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1604-E0709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1604-E0709"**
 
 ---
 
@@ -2630,18 +2631,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1604-E0
 
 You are evaluating group 2100, made up of:
 
-* Brittney Cunningham (blcunnin@syr.edu)
 * Jing Ge (jge107@syr.edu)
 * Madison Kettering (mfketter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2100-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2100-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* blcunnin@syr.edu: Brittney Cunningham (member of submitting group)
 * jge107@syr.edu: Jing Ge (member of submitting group)
 * mfketter@syr.edu: Madison Kettering (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -2649,7 +2648,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2100-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2100-E2005"**
 
 ---
 
@@ -2663,7 +2662,7 @@ You are evaluating group 703, made up of:
 * Conn Slattery (coslatte@syr.edu)
 * Ernest Joseph Ramos (erramos@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0703-E2204" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0703-E2204" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2678,7 +2677,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zismith@syr.edu: Zion Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0703-E2204"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0703-E2204"**
 
 ---
 
@@ -2692,7 +2691,7 @@ You are evaluating group 1502, made up of:
 * Blake Taub (bltaub@syr.edu)
 * Luke Ceccoli (lmceccol@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1502-E1507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1502-E1507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2707,7 +2706,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cszeeve@syr.edu: Charles Zeeve (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1502-E1507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1502-E1507"**
 
 ---
 
@@ -2721,7 +2720,7 @@ You are evaluating group 1805, made up of:
 * David Religa (dlreliga@syr.edu)
 * Jacob Morris (jmorri27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1805-E0304" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1805-E0304" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2736,21 +2735,20 @@ Once you have, please send it in an email, along with the group's original submi
 * kojosiah@syr.edu: Kato Josiah (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1805-E0304"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1805-E0304"**
 
 ---
 
 ---
 
-### Group 2601: Linxin Wan, Sofya Golubovskaya, Sofya Treshcheva
+### Group 2601: Sofya Golubovskaya, Sofya Treshcheva
 
 You are evaluating group 804, made up of:
 
 * Jared Regenstein (jmregens@syr.edu)
 * Brian Paroff (bmparoff@syr.edu)
-* Alex Papalcure (alpapalc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0804-E2601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0804-E2601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2759,13 +2757,11 @@ Once you have, please send it in an email, along with the group's original submi
 
 * jmregens@syr.edu: Jared Regenstein (member of submitting group)
 * bmparoff@syr.edu: Brian Paroff (member of submitting group)
-* alpapalc@syr.edu: Alex Papalcure (member of submitting group)
-* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of evaluating group)
 * streshch@syr.edu: Sofya Treshcheva (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0804-E2601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0804-E2601"**
 
 ---
 
@@ -2780,7 +2776,7 @@ You are evaluating group 1006, made up of:
 * Jaden Gerard (jagerard@syr.edu)
 * Matthew Reese (mcreese@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1006-E0507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1006-E0507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2796,13 +2792,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mkfairfa@syr.edu: Matthew Fairfax (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1006-E0507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1006-E0507"**
 
 ---
 
 ---
 
-### Group 2905: Owen Zides, Zoe Mccreary
+### Group 2905: Owen Zides, Zoe Mccreary, Eli Levine
 
 You are evaluating group 902, made up of:
 
@@ -2810,7 +2806,7 @@ You are evaluating group 902, made up of:
 * Dylan Goldberg (dygoldbe@syr.edu)
 * Matthieu Theard (matheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0902-E2905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0902-E2905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2822,9 +2818,10 @@ Once you have, please send it in an email, along with the group's original submi
 * matheard@syr.edu: Matthieu Theard (member of submitting group)
 * ozides@syr.edu: Owen Zides (member of evaluating group)
 * zemccrea@syr.edu: Zoe Mccreary (member of evaluating group)
+* elevin04@syr.edu: Eli Levine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0902-E2905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0902-E2905"**
 
 ---
 
@@ -2837,7 +2834,7 @@ You are evaluating group 901, made up of:
 * Benjamin Phillips (bphill03@syr.edu)
 * Grace Phillips (gphill03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0901-E1202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0901-E1202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2850,7 +2847,7 @@ Once you have, please send it in an email, along with the group's original submi
 * skmcquee@syr.edu: Skyy McQueen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0901-E1202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0901-E1202"**
 
 ---
 
@@ -2864,7 +2861,7 @@ You are evaluating group 304, made up of:
 * Benjamin Hornick (bphornic@syr.edu)
 * Kato Josiah (kojosiah@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0304-E2903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0304-E2903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2879,7 +2876,7 @@ Once you have, please send it in an email, along with the group's original submi
 * snhuff@syr.edu: Sierra Huff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0304-E2903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0304-E2903"**
 
 ---
 
@@ -2893,7 +2890,7 @@ You are evaluating group 1710, made up of:
 * Jacob Yousem (jwyousem@syr.edu)
 * Ryan Conner (rgconner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1710-E0517" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1710-E0517" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2908,36 +2905,35 @@ Once you have, please send it in an email, along with the group's original submi
 * xcao01@syr.edu: Xiaopeng Cao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1710-E0517"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1710-E0517"**
 
 ---
 
 ---
 
-### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon
+### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon, Miranda Heard
 
 You are evaluating group 1610, made up of:
 
-* Brandon Turney (bsturney@syr.edu)
 * Joseph Deblasio (jtdeblas@syr.edu)
 * Benjamin Chairnoff (brchairn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1610-E1301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1610-E1301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of submitting group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of submitting group)
 * creistro@syr.edu: Celia Reistrom (member of evaluating group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of evaluating group)
 * jsimon06@syr.edu: Joseph Simon (member of evaluating group)
+* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1610-E1301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1610-E1301"**
 
 ---
 
@@ -2951,7 +2947,7 @@ You are evaluating group 301, made up of:
 * Joshua Jones (jjones52@syr.edu)
 * Megan Bisson (mebisson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0301-E0706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0301-E0706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2966,7 +2962,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gjstaven@syr.edu: Gabriel Stavenhagen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0301-E0706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0301-E0706"**
 
 ---
 
@@ -2977,9 +2973,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0301-E0
 You are evaluating group 2103, made up of:
 
 * Benjamin Schiller (bschille@syr.edu)
+* Justin King (jking20@syr.edu)
 * Timothy Dean (trdean@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2103-E1806" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2103-E1806" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -2987,6 +2984,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bschille@syr.edu: Benjamin Schiller (member of submitting group)
+* jking20@syr.edu: Justin King (member of submitting group)
 * trdean@syr.edu: Timothy Dean (member of submitting group)
 * acvila@syr.edu: Anna Vila (member of evaluating group)
 * anhaak@syr.edu: Anthony Haak (member of evaluating group)
@@ -2994,7 +2992,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nabragg@syr.edu: Nya Bragg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2103-E1806"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2103-E1806"**
 
 ---
 
@@ -3009,7 +3007,7 @@ You are evaluating group 415, made up of:
 * Bisman Singh (bsingh@syr.edu)
 * David George (dgeorg02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0415-E2704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0415-E2704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3025,7 +3023,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbdinerm@syr.edu: Samantha Dinerman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0415-E2704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0415-E2704"**
 
 ---
 
@@ -3040,7 +3038,7 @@ You are evaluating group 1901, made up of:
 * Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1901-E1402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1901-E1402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3056,36 +3054,35 @@ Once you have, please send it in an email, along with the group's original submi
 * xwang256@syr.edu: Xuechun Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1901-E1402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1901-E1402"**
 
 ---
 
 ---
 
-### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon
+### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon, Miranda Heard
 
 You are evaluating group 1610, made up of:
 
-* Brandon Turney (bsturney@syr.edu)
 * Joseph Deblasio (jtdeblas@syr.edu)
 * Benjamin Chairnoff (brchairn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1610-E1301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1610-E1301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of submitting group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of submitting group)
 * creistro@syr.edu: Celia Reistrom (member of evaluating group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of evaluating group)
 * jsimon06@syr.edu: Joseph Simon (member of evaluating group)
+* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1610-E1301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1610-E1301"**
 
 ---
 
@@ -3098,7 +3095,7 @@ You are evaluating group 207, made up of:
 * Brendan Sullivan (bsulli06@syr.edu)
 * Katrina Abuls (kcabuls@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0207-E1000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0207-E1000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3112,7 +3109,7 @@ Once you have, please send it in an email, along with the group's original submi
 * thawthor@syr.edu: Tawny Hawthorne (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0207-E1000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0207-E1000"**
 
 ---
 
@@ -3127,7 +3124,7 @@ You are evaluating group 104, made up of:
 * Christina-Hannie Perrier (csperrie@syr.edu)
 * Joana Zuluaga (jzuluaga@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0104-E1807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0104-E1807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3143,7 +3140,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0104-E1807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0104-E1807"**
 
 ---
 
@@ -3157,7 +3154,7 @@ You are evaluating group 518, made up of:
 * Joshua Foley (jfoley04@syr.edu)
 * Justin Laurent (jklauren@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0518-E0103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0518-E0103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3172,7 +3169,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zchen172@syr.edu: Zhennan Chen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0518-E0103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0518-E0103"**
 
 ---
 
@@ -3186,7 +3183,7 @@ You are evaluating group 304, made up of:
 * Benjamin Hornick (bphornic@syr.edu)
 * Kato Josiah (kojosiah@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0304-E2903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0304-E2903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3201,7 +3198,7 @@ Once you have, please send it in an email, along with the group's original submi
 * snhuff@syr.edu: Sierra Huff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0304-E2903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0304-E2903"**
 
 ---
 
@@ -3215,7 +3212,7 @@ You are evaluating group 512, made up of:
 * Brady Sheehan (btsheeha@syr.edu)
 * Ryan Bradley (rybradle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0512-E1803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0512-E1803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3230,7 +3227,7 @@ Once you have, please send it in an email, along with the group's original submi
 * icmcdona@syr.edu: Isabela Mcdonald (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0512-E1803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0512-E1803"**
 
 ---
 
@@ -3245,7 +3242,7 @@ You are evaluating group 1504, made up of:
 * Thomas Cohen (thcohen@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1504-E1701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1504-E1701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3261,22 +3258,21 @@ Once you have, please send it in an email, along with the group's original submi
 * slyu11@syr.edu: Sitong Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1504-E1701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1504-E1701"**
 
 ---
 
 ---
 
-### Group 303: Alex Deangelis, Rody Conway
+### Group 303: Camryn Johnson-Andrews, Alex Deangelis, Rody Conway
 
 You are evaluating group 2702, made up of:
 
 * Bangshi Zeng (bzeng04@syr.edu)
-* Tao Tian (tatian@syr.edu)
 * Weiyi She (wshe01@syr.edu)
 * Yiheng Guan (yguan10@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2702-E0303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2702-E0303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3284,14 +3280,14 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bzeng04@syr.edu: Bangshi Zeng (member of submitting group)
-* tatian@syr.edu: Tao Tian (member of submitting group)
 * wshe01@syr.edu: Weiyi She (member of submitting group)
 * yguan10@syr.edu: Yiheng Guan (member of submitting group)
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * asdeange@syr.edu: Alex Deangelis (member of evaluating group)
 * rjconway@syr.edu: Rody Conway (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2702-E0303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2702-E0303"**
 
 ---
 
@@ -3306,7 +3302,7 @@ You are evaluating group 1801, made up of:
 * Daniel Mallea (dlmallea@syr.edu)
 * Douglas Camp (dtcamp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1801-E1906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1801-E1906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3322,7 +3318,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oebabafe@syr.edu: Oluwaseminire Babafemi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1801-E1906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1801-E1906"**
 
 ---
 
@@ -3336,7 +3332,7 @@ You are evaluating group 1804, made up of:
 * Charlie Moreno (camoreno@syr.edu)
 * Jenna Byers (jbyers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1804-E2207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1804-E2207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3351,7 +3347,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkang21@syr.edu: Lauren Kang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1804-E2207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1804-E2207"**
 
 ---
 
@@ -3365,7 +3361,7 @@ You are evaluating group 405, made up of:
 * Ella Farrell (elfarrel@syr.edu)
 * Georgia Shanker (gshanker@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0405-E2804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0405-E2804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3380,7 +3376,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oegladu@syr.edu: Olivia Gladu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0405-E2804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0405-E2804"**
 
 ---
 
@@ -3391,10 +3387,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0405-E2
 You are evaluating group 514, made up of:
 
 * Courtney Bennett (cbenne09@syr.edu)
-* Emma Arczynski (enarczyn@syr.edu)
 * Melanie Salazar (mesalaza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0514-E2201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0514-E2201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3402,14 +3397,13 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * cbenne09@syr.edu: Courtney Bennett (member of submitting group)
-* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * mesalaza@syr.edu: Melanie Salazar (member of submitting group)
 * jnbondy@syr.edu: Jenna Bondy (member of evaluating group)
 * jshevlin@syr.edu: Jane Shevlin (member of evaluating group)
 * tmdisera@syr.edu: Tessa Diserafino (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0514-E2201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0514-E2201"**
 
 ---
 
@@ -3423,7 +3417,7 @@ You are evaluating group 402, made up of:
 * Caitlyn Brady (cbrady@syr.edu)
 * Laura Bueno (lbueno@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0402-E2603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0402-E2603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3439,7 +3433,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ksim02@syr.edu: Kyu  Ho Sim (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0402-E2603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0402-E2603"**
 
 ---
 
@@ -3453,7 +3447,7 @@ You are evaluating group 1601, made up of:
 * Christian Campbell (ccampb15@syr.edu)
 * Jacob Waldron (jvwaldro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1601-E2800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1601-E2800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3468,7 +3462,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1601-E2800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1601-E2800"**
 
 ---
 
@@ -3482,7 +3476,7 @@ You are evaluating group 2803, made up of:
 * Camila Carbajal (ccarbaja@syr.edu)
 * Michael Leyne (mjleyne@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2803-E0702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2803-E0702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3497,7 +3491,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mehinz@syr.edu: Mia Hinz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2803-E0702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2803-E0702"**
 
 ---
 
@@ -3510,7 +3504,7 @@ You are evaluating group 2004, made up of:
 * Caroline Francoeur (ccfranco@syr.edu)
 * Liam Griffin (lgriff02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2004-E0607" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2004-E0607" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3524,7 +3518,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lklegran@syr.edu: Lagarthucin Legrand (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2004-E0607"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2004-E0607"**
 
 ---
 
@@ -3537,7 +3531,7 @@ You are evaluating group 2705, made up of:
 * Caroline Grabowski (ccgrabow@syr.edu)
 * Sarah Galligan (smgallig@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2705-E2006" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2705-E2006" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3551,7 +3545,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tbskeval@syr.edu: Timothy Skeval (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2705-E2006"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2705-E2006"**
 
 ---
 
@@ -3565,7 +3559,7 @@ You are evaluating group 519, made up of:
 * Dylan Buck (dlbuck@syr.edu)
 * Daniel Espinoza (despin02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0519-E0208" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0519-E0208" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3580,7 +3574,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tgcervan@syr.edu: Tanya Cervantes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0519-E0208"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0519-E0208"**
 
 ---
 
@@ -3594,7 +3588,7 @@ You are evaluating group 1402, made up of:
 * Jiajun Xu (jxu199@syr.edu)
 * Xuechun Wang (xwang256@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1402-E1009" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1402-E1009" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3609,7 +3603,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tcgelb@syr.edu: Theodore Gelb (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1402-E1009"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1402-E1009"**
 
 ---
 
@@ -3623,7 +3617,7 @@ You are evaluating group 1904, made up of:
 * Martin Brennan (mbrenn05@syr.edu)
 * Ross McKee (rmckee@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1904-E2301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1904-E2301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3638,7 +3632,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tmvunipo@syr.edu: Telusila Vunipola (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1904-E2301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1904-E2301"**
 
 ---
 
@@ -3651,7 +3645,7 @@ You are evaluating group 214, made up of:
 * Sarah Chadwick (smchadwi@syr.edu)
 * Caitlin Lorenz (cclorenz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0214-E2403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0214-E2403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3665,7 +3659,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nnizza@syr.edu: Nicholas Nizza (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0214-E2403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0214-E2403"**
 
 ---
 
@@ -3680,7 +3674,7 @@ You are evaluating group 710, made up of:
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0710-E1501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0710-E1501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3696,7 +3690,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0710-E1501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0710-E1501"**
 
 ---
 
@@ -3710,7 +3704,7 @@ You are evaluating group 2403, made up of:
 * Hamelin Batista Camilo (hbatista@syr.edu)
 * Nicholas Nizza (nnizza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2403-E0202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2403-E0202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3725,7 +3719,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hpopowit@syr.edu: Haley Popowitz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2403-E0202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2403-E0202"**
 
 ---
 
@@ -3739,7 +3733,7 @@ You are evaluating group 2206, made up of:
 * Jacob Fowler (jbfowler@syr.edu)
 * Ryan Jermyn (rpjermyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2206-E1403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2206-E1403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3754,7 +3748,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jdkakuyo@syr.edu: Jordan Kakuyo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2206-E1403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2206-E1403"**
 
 ---
 
@@ -3768,7 +3762,7 @@ You are evaluating group 2400, made up of:
 * Chad de la Rosa (cedelaro@syr.edu)
 * Kimberly Mitchell (kmitch15@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2400-E0601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2400-E0601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3783,7 +3777,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mccrooke@syr.edu: Madeline Crooke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2400-E0601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2400-E0601"**
 
 ---
 
@@ -3797,7 +3791,7 @@ You are evaluating group 1507, made up of:
 * Mackenzie Shane (mrshane@syr.edu)
 * Charles Zeeve (cszeeve@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1507-E1810" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1507-E1810" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3812,7 +3806,7 @@ Once you have, please send it in an email, along with the group's original submi
 * atmatjuc@syr.edu: Anna Matjucha (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1507-E1810"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1507-E1810"**
 
 ---
 
@@ -3825,7 +3819,7 @@ You are evaluating group 409, made up of:
 * Chase Fitzpatrick (cfitzp03@syr.edu)
 * Connor Joy (cjoy01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0409-E1608" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0409-E1608" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3840,7 +3834,7 @@ Once you have, please send it in an email, along with the group's original submi
 * vadecost@syr.edu: Victoria Decoster (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0409-E1608"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0409-E1608"**
 
 ---
 
@@ -3854,7 +3848,7 @@ You are evaluating group 900, made up of:
 * Cheuk Kiu Justin Leung (cleung05@syr.edu)
 * Jun Long (julong@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0900-E2803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0900-E2803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3869,20 +3863,20 @@ Once you have, please send it in an email, along with the group's original submi
 * mjleyne@syr.edu: Michael Leyne (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0900-E2803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0900-E2803"**
 
 ---
 
 ---
 
-### Group 2101: Amara Wilson, Daniel Hamrahi
+### Group 2101: Brittney Cunningham, Amara Wilson, Daniel Hamrahi
 
 You are evaluating group 310, made up of:
 
 * Christopher Freeman (chfreema@syr.edu)
 * Taylia Hinds (tahinds@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0310-E2101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0310-E2101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3891,11 +3885,12 @@ Once you have, please send it in an email, along with the group's original submi
 
 * chfreema@syr.edu: Christopher Freeman (member of submitting group)
 * tahinds@syr.edu: Taylia Hinds (member of submitting group)
+* blcunnin@syr.edu: Brittney Cunningham (member of evaluating group)
 * amwilson@syr.edu: Amara Wilson (member of evaluating group)
 * dhamrahi@syr.edu: Daniel Hamrahi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0310-E2101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0310-E2101"**
 
 ---
 
@@ -3910,7 +3905,7 @@ You are evaluating group 2603, made up of:
 * Yuqi Chen (ychen396@syr.edu)
 * Kyu  Ho Sim (ksim02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2603-E1900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2603-E1900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3926,13 +3921,13 @@ Once you have, please send it in an email, along with the group's original submi
 * twburke@syr.edu: Thomas Burke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2603-E1900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2603-E1900"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 2800, made up of:
 
@@ -3940,7 +3935,7 @@ You are evaluating group 2800, made up of:
 * Isabel Eisen (imeisen@syr.edu)
 * Ziwei Zhao (zzhao07@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2800-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2800-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3952,16 +3947,17 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2800-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2800-E1004"**
 
 ---
 
 ---
 
-### Group 2908: Shane O'Neil , Phillip Bogan, Andronikos Georgalas
+### Group 2908: Shane O'Neil , Jayden Cole, Phillip Bogan, Andronikos Georgalas
 
 You are evaluating group 501, made up of:
 
@@ -3969,7 +3965,7 @@ You are evaluating group 501, made up of:
 * Hanlin Mo (hmo100@syr.edu)
 * Jeronimo Perez (jperez04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0501-E2908" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0501-E2908" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -3980,11 +3976,12 @@ Once you have, please send it in an email, along with the group's original submi
 * hmo100@syr.edu: Hanlin Mo (member of submitting group)
 * jperez04@syr.edu: Jeronimo Perez (member of submitting group)
 * sroneil@syr.edu: Shane O'Neil  (member of evaluating group)
+* jcole01@syr.edu: Jayden Cole (member of evaluating group)
 * pmbogan@syr.edu: Phillip Bogan (member of evaluating group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0501-E2908"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0501-E2908"**
 
 ---
 
@@ -3997,8 +3994,9 @@ You are evaluating group 504, made up of:
 * Angel Gonzalez (agonza20@syr.edu)
 * Catherine Maher (cjmaher@syr.edu)
 * Hamere Debebe (hedebebe@syr.edu)
+* Emma Arczynski (enarczyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0504-E1801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0504-E1801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4008,13 +4006,14 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of submitting group)
 * cjmaher@syr.edu: Catherine Maher (member of submitting group)
 * hedebebe@syr.edu: Hamere Debebe (member of submitting group)
+* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * afloiaco@syr.edu: Anthony Loiacono (member of evaluating group)
 * calydon@syr.edu: Caitlin Lydon (member of evaluating group)
 * dlmallea@syr.edu: Daniel Mallea (member of evaluating group)
 * dtcamp@syr.edu: Douglas Camp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0504-E1801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0504-E1801"**
 
 ---
 
@@ -4025,7 +4024,7 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0504-E1
 You are evaluating group 000, made up of:
 
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0000-E0505" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0000-E0505" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4037,7 +4036,7 @@ Once you have, please send it in an email, along with the group's original submi
 * skirpala@syr.edu: Sahil Kirpalani (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0000-E0505"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0000-E0505"**
 
 ---
 
@@ -4051,7 +4050,7 @@ You are evaluating group 1802, made up of:
 * Christopher Sifre (cjsifre@syr.edu)
 * Jeremy Rosenbaum (jrosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1802-E2807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1802-E2807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4065,7 +4064,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gstauben@syr.edu: Gordon Taubenfeld (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1802-E2807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1802-E2807"**
 
 ---
 
@@ -4078,7 +4077,7 @@ You are evaluating group 409, made up of:
 * Chase Fitzpatrick (cfitzp03@syr.edu)
 * Connor Joy (cjoy01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0409-E1608" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0409-E1608" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4093,7 +4092,7 @@ Once you have, please send it in an email, along with the group's original submi
 * vadecost@syr.edu: Victoria Decoster (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0409-E1608"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0409-E1608"**
 
 ---
 
@@ -4107,7 +4106,7 @@ You are evaluating group 1802, made up of:
 * Christopher Sifre (cjsifre@syr.edu)
 * Jeremy Rosenbaum (jrosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1802-E2807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1802-E2807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4121,7 +4120,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gstauben@syr.edu: Gordon Taubenfeld (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1802-E2807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1802-E2807"**
 
 ---
 
@@ -4135,7 +4134,7 @@ You are evaluating group 2207, made up of:
 * Cecelia Westwater (cjwestwa@syr.edu)
 * Lauren Kang (jkang21@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2207-E2400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2207-E2400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4150,7 +4149,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmitch15@syr.edu: Kimberly Mitchell (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2207-E2400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2207-E2400"**
 
 ---
 
@@ -4165,7 +4164,7 @@ You are evaluating group 1903, made up of:
 * Paulini Ferguson (pjfergus@syr.edu)
 * Kaeleigh B Broyles (kbbroyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1903-E1804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1903-E1804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4181,7 +4180,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jbyers@syr.edu: Jenna Byers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1903-E1804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1903-E1804"**
 
 ---
 
@@ -4195,7 +4194,7 @@ You are evaluating group 600, made up of:
 * Lily Warren (lcwarren@syr.edu)
 * Olivia Potter (owpotter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0600-E0401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0600-E0401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4210,13 +4209,13 @@ Once you have, please send it in an email, along with the group's original submi
 * smmoore@syr.edu: Sam Moore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0600-E0401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0600-E0401"**
 
 ---
 
 ---
 
-### Group 804: Jared Regenstein, Brian Paroff, Alex Papalcure
+### Group 804: Jared Regenstein, Brian Paroff
 
 You are evaluating group 1505, made up of:
 
@@ -4224,7 +4223,7 @@ You are evaluating group 1505, made up of:
 * Jordan Bullock (jrbulloc@syr.edu)
 * William Birks (wcbirks@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1505-E0804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1505-E0804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4236,10 +4235,9 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of submitting group)
 * jmregens@syr.edu: Jared Regenstein (member of evaluating group)
 * bmparoff@syr.edu: Brian Paroff (member of evaluating group)
-* alpapalc@syr.edu: Alex Papalcure (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1505-E0804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1505-E0804"**
 
 ---
 
@@ -4253,7 +4251,7 @@ You are evaluating group 900, made up of:
 * Cheuk Kiu Justin Leung (cleung05@syr.edu)
 * Jun Long (julong@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0900-E2803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0900-E2803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4268,13 +4266,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mjleyne@syr.edu: Michael Leyne (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0900-E2803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0900-E2803"**
 
 ---
 
 ---
 
-### Group 102: Hongkai He, Yifei Liu, Zachary Stern
+### Group 102: Hongkai He, Yifei Liu, Zachary Stern, Martin Berishaj
 
 You are evaluating group 203, made up of:
 
@@ -4283,7 +4281,7 @@ You are evaluating group 203, made up of:
 * Stephen Sklar (sasklar@syr.edu)
 * Teresa Greenwood (tegreenw@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0203-E0102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0203-E0102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4297,9 +4295,10 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of evaluating group)
 * yliu17@syr.edu: Yifei Liu (member of evaluating group)
 * zwstern@syr.edu: Zachary Stern (member of evaluating group)
+* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0203-E0102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0203-E0102"**
 
 ---
 
@@ -4313,7 +4312,7 @@ You are evaluating group 1902, made up of:
 * Christopher Trentham (cltrenth@syr.edu)
 * Jack Gordon (jhgordon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1902-E1101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1902-E1101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4328,7 +4327,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smanni01@syr.edu: Shanice Manning (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1902-E1101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1902-E1101"**
 
 ---
 
@@ -4342,7 +4341,7 @@ You are evaluating group 2104, made up of:
 * Brenden McNamara (bjmcnama@syr.edu)
 * Courtney Lynch (clynch12@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2104-E1607" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2104-E1607" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4357,7 +4356,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smclaffe@syr.edu: Steven Claffey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2104-E1607"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2104-E1607"**
 
 ---
 
@@ -4371,7 +4370,7 @@ You are evaluating group 2000, made up of:
 * Samantha Fuss (safuss@syr.edu)
 * Samuel Schneider (sbschnei@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2000-E0513" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2000-E0513" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4386,7 +4385,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rakalata@syr.edu: Ryan Kalata (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2000-E0513"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2000-E0513"**
 
 ---
 
@@ -4401,7 +4400,7 @@ You are evaluating group 509, made up of:
 * Duncan Grant (dugrant@syr.edu)
 * Kathryn Voler (kvvoler@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0509-E0904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0509-E0904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4417,7 +4416,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcbisgar@syr.edu: Leia Bisgard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0509-E0904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0509-E0904"**
 
 ---
 
@@ -4431,7 +4430,7 @@ You are evaluating group 706, made up of:
 * Grace Guido (ggguido@syr.edu)
 * Gabriel Stavenhagen (gjstaven@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0706-E0403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0706-E0403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4446,13 +4445,13 @@ Once you have, please send it in an email, along with the group's original submi
 * sjsoderl@syr.edu: Sophia Soderlund (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0706-E0403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0706-E0403"**
 
 ---
 
 ---
 
-### Group 1002: Robert Spano, Thomas McMullen
+### Group 1002: Robert Spano, Thomas McMullen, Mateo Lariviere
 
 You are evaluating group 2102, made up of:
 
@@ -4460,7 +4459,7 @@ You are evaluating group 2102, made up of:
 * Cory Spangler (cnspangl@syr.edu)
 * Karhan Sistolu (ksistolu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2102-E1002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2102-E1002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4472,9 +4471,10 @@ Once you have, please send it in an email, along with the group's original submi
 * ksistolu@syr.edu: Karhan Sistolu (member of submitting group)
 * rnspano@syr.edu: Robert Spano (member of evaluating group)
 * tsmcmull@syr.edu: Thomas McMullen (member of evaluating group)
+* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2102-E1002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2102-E1002"**
 
 ---
 
@@ -4487,7 +4487,7 @@ You are evaluating group 2807, made up of:
 * Corey Blum (coblum@syr.edu)
 * Gordon Taubenfeld (gstauben@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2807-E0204" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2807-E0204" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4501,7 +4501,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbayers@syr.edu: Samual Ayers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2807-E0204"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2807-E0204"**
 
 ---
 
@@ -4515,7 +4515,7 @@ You are evaluating group 1101, made up of:
 * Maeve Sheehan (masheeha@syr.edu)
 * Shanice Manning (smanni01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1101-E2902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1101-E2902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4530,7 +4530,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rdlamas@syr.edu: Roberto Lamas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1101-E2902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1101-E2902"**
 
 ---
 
@@ -4544,7 +4544,7 @@ You are evaluating group 1104, made up of:
 * Jake Fienberg (jfienber@syr.edu)
 * Matthew Niwelt (mniwelt@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1104-E1711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1104-E1711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4559,7 +4559,7 @@ Once you have, please send it in an email, along with the group's original submi
 * fngurl@syr.edu: Forrest Gurl (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1104-E1711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1104-E1711"**
 
 ---
 
@@ -4573,7 +4573,7 @@ You are evaluating group 703, made up of:
 * Conn Slattery (coslatte@syr.edu)
 * Ernest Joseph Ramos (erramos@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0703-E2204" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0703-E2204" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4588,7 +4588,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zismith@syr.edu: Zion Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0703-E2204"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0703-E2204"**
 
 ---
 
@@ -4602,7 +4602,7 @@ You are evaluating group 802, made up of:
 * Daniel Cavalier (dacavali@syr.edu)
 * Tucker Gralewski (tlgralew@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0802-E1709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0802-E1709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4617,7 +4617,7 @@ Once you have, please send it in an email, along with the group's original submi
 * msgogate@syr.edu: Mihika Gogate (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0802-E1709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0802-E1709"**
 
 ---
 
@@ -4629,10 +4629,10 @@ You are evaluating group 411, made up of:
 
 * Cori Dill (crdill@syr.edu)
 * Devon Degen (dcdegen@syr.edu)
-* Neil Lepard (nlllepard@syr.edu)
+* Neil Lepard (nllepard@syr.edu)
 * Faith Hutson (fjhutson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0411-E0900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0411-E0900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4641,14 +4641,14 @@ Once you have, please send it in an email, along with the group's original submi
 
 * crdill@syr.edu: Cori Dill (member of submitting group)
 * dcdegen@syr.edu: Devon Degen (member of submitting group)
-* nlllepard@syr.edu: Neil Lepard (member of submitting group)
+* nllepard@syr.edu: Neil Lepard (member of submitting group)
 * fjhutson@syr.edu: Faith Hutson (member of submitting group)
 * chchae@syr.edu: Christin Chae (member of evaluating group)
 * cleung05@syr.edu: Cheuk Kiu Justin Leung (member of evaluating group)
 * julong@syr.edu: Jun Long (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0411-E0900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0411-E0900"**
 
 ---
 
@@ -4661,8 +4661,9 @@ You are evaluating group 1301, made up of:
 * Celia Reistrom (creistro@syr.edu)
 * Nicholas Kalaw (nmkalaw@syr.edu)
 * Joseph Simon (jsimon06@syr.edu)
+* Miranda Heard (mrheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1301-E0602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1301-E0602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4672,12 +4673,13 @@ Once you have, please send it in an email, along with the group's original submi
 * creistro@syr.edu: Celia Reistrom (member of submitting group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of submitting group)
 * jsimon06@syr.edu: Joseph Simon (member of submitting group)
+* mrheard@syr.edu: Miranda Heard (member of submitting group)
 * ggtette@syr.edu: Gina Tette (member of evaluating group)
 * napereir@syr.edu: Natalie Pereira (member of evaluating group)
 * seayers@syr.edu: Sara Ayers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1301-E0602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1301-E0602"**
 
 ---
 
@@ -4691,7 +4693,7 @@ You are evaluating group 2703, made up of:
 * Caroline Hurlebaus (crhurleb@syr.edu)
 * Julia Short (jcshort@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2703-E0502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2703-E0502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4707,7 +4709,7 @@ Once you have, please send it in an email, along with the group's original submi
 * vkelly@syr.edu: Victoria Kelly (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2703-E0502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2703-E0502"**
 
 ---
 
@@ -4722,7 +4724,7 @@ You are evaluating group 313, made up of:
 * Jaden Constant (jtconsta@syr.edu)
 * Catherine Connor Rice (crice03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0313-E0306" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0313-E0306" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4738,7 +4740,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lportnoy@syr.edu: Lucas Portnoy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0313-E0306"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0313-E0306"**
 
 ---
 
@@ -4752,7 +4754,7 @@ You are evaluating group 308, made up of:
 * Greta Hartwyk (ghartwyk@syr.edu)
 * Caitlin Plemons (crplemon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0308-E0307" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0308-E0307" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4767,7 +4769,7 @@ Once you have, please send it in an email, along with the group's original submi
 * llopezcr@syr.edu: Luis Lopez-Crespo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0308-E0307"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0308-E0307"**
 
 ---
 
@@ -4781,7 +4783,7 @@ You are evaluating group 1709, made up of:
 * David Heiman (dmheiman@syr.edu)
 * Mihika Gogate (msgogate@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1709-E1200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1709-E1200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4796,7 +4798,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xdu110@syr.edu: Xiaoyang Du (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1709-E1200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1709-E1200"**
 
 ---
 
@@ -4809,7 +4811,7 @@ You are evaluating group 605, made up of:
 * Chloe Schneiderman (cschne06@syr.edu)
 * Isabella Al-Hachem (ijalhach@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0605-E2102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0605-E2102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4823,7 +4825,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ksistolu@syr.edu: Karhan Sistolu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0605-E2102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0605-E2102"**
 
 ---
 
@@ -4837,7 +4839,7 @@ You are evaluating group 709, made up of:
 * Ruiyun  Zhang (rzhang63@syr.edu)
 * Zhen Huang (zhuang38@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0709-E1006" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0709-E1006" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4853,7 +4855,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mcreese@syr.edu: Matthew Reese (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0709-E1006"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0709-E1006"**
 
 ---
 
@@ -4868,7 +4870,7 @@ You are evaluating group 1300, made up of:
 * Dingkai Yao (dyao02@syr.edu)
 * Renata Lee (rlee17@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1300-E0207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1300-E0207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4883,7 +4885,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kcabuls@syr.edu: Katrina Abuls (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1300-E0207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1300-E0207"**
 
 ---
 
@@ -4898,7 +4900,7 @@ You are evaluating group 104, made up of:
 * Christina-Hannie Perrier (csperrie@syr.edu)
 * Joana Zuluaga (jzuluaga@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0104-E1807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0104-E1807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4914,7 +4916,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0104-E1807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0104-E1807"**
 
 ---
 
@@ -4928,7 +4930,7 @@ You are evaluating group 1507, made up of:
 * Mackenzie Shane (mrshane@syr.edu)
 * Charles Zeeve (cszeeve@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1507-E1810" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1507-E1810" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4943,7 +4945,7 @@ Once you have, please send it in an email, along with the group's original submi
 * atmatjuc@syr.edu: Anna Matjucha (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1507-E1810"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1507-E1810"**
 
 ---
 
@@ -4957,7 +4959,7 @@ You are evaluating group 1809, made up of:
 * Maxum O'Halloran (mjohallo@syr.edu)
 * Tyler O'Neill (tmoneill@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1809-E2906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1809-E2906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4972,7 +4974,7 @@ Once you have, please send it in an email, along with the group's original submi
 * iadawson@syr.edu: Isaac Dawson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1809-E2906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1809-E2906"**
 
 ---
 
@@ -4985,8 +4987,9 @@ You are evaluating group 1606, made up of:
 * Charles Burns (cwburns@syr.edu)
 * Andrew Hoyt (jahoyt@syr.edu)
 * Timothy Kalinowski (tjkalino@syr.edu)
+* Brandon Turney (bsturney@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1606-E0205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1606-E0205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -4996,17 +4999,18 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of submitting group)
 * jahoyt@syr.edu: Andrew Hoyt (member of submitting group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of submitting group)
+* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * sgnusdeo@syr.edu: Sean Nusdeo (member of evaluating group)
 * yyang106@syr.edu: Yang Yang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1606-E0205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1606-E0205"**
 
 ---
 
 ---
 
-### Group 1610: Brandon Turney, Joseph Deblasio, Benjamin Chairnoff
+### Group 1610: Joseph Deblasio, Benjamin Chairnoff
 
 You are evaluating group 1807, made up of:
 
@@ -5014,7 +5018,7 @@ You are evaluating group 1807, made up of:
 * Matthew Zumbolo (mmzumbol@syr.edu)
 * Marco Sebastian Tinetto (mtinetto@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1807-E1610" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1807-E1610" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5024,12 +5028,11 @@ Once you have, please send it in an email, along with the group's original submi
 * cwchrist@syr.edu: Calvin Christoforo (member of submitting group)
 * mmzumbol@syr.edu: Matthew Zumbolo (member of submitting group)
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of submitting group)
-* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of evaluating group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1807-E1610"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1807-E1610"**
 
 ---
 
@@ -5044,7 +5047,7 @@ You are evaluating group 1901, made up of:
 * Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1901-E1402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1901-E1402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5060,7 +5063,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xwang256@syr.edu: Xuechun Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1901-E1402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1901-E1402"**
 
 ---
 
@@ -5070,17 +5073,19 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1901-E1
 
 You are evaluating group 2604, made up of:
 
+* Linxin Wan (lwan03@syr.edu)
 * Chengting Wu (cwu141@syr.edu)
 * Suyun Chen (schen188@syr.edu)
 * Ziqian Shan (zshan01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2604-E0512" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2604-E0512" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * cwu141@syr.edu: Chengting Wu (member of submitting group)
 * schen188@syr.edu: Suyun Chen (member of submitting group)
 * zshan01@syr.edu: Ziqian Shan (member of submitting group)
@@ -5089,7 +5094,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rybradle@syr.edu: Ryan Bradley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2604-E0512"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2604-E0512"**
 
 ---
 
@@ -5103,7 +5108,7 @@ You are evaluating group 802, made up of:
 * Daniel Cavalier (dacavali@syr.edu)
 * Tucker Gralewski (tlgralew@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0802-E1709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0802-E1709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5118,7 +5123,7 @@ Once you have, please send it in an email, along with the group's original submi
 * msgogate@syr.edu: Mihika Gogate (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0802-E1709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0802-E1709"**
 
 ---
 
@@ -5132,7 +5137,7 @@ You are evaluating group 1403, made up of:
 * Diana Avila (davila@syr.edu)
 * Jordan Kakuyo (jdkakuyo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1403-E0308" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1403-E0308" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5147,13 +5152,13 @@ Once you have, please send it in an email, along with the group's original submi
 * crplemon@syr.edu: Caitlin Plemons (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1403-E0308"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1403-E0308"**
 
 ---
 
 ---
 
-### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter
+### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter, Jacob Bernardine
 
 You are evaluating group 2001, made up of:
 
@@ -5161,7 +5166,7 @@ You are evaluating group 2001, made up of:
 * Ethan Letwat (eletwat@syr.edu)
 * Sydney Rosenbaum (srosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2001-E0212" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2001-E0212" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5174,9 +5179,10 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of evaluating group)
 * apsantor@syr.edu: Ashley P Santore (member of evaluating group)
 * jeporter@syr.edu: Jennifer Porter (member of evaluating group)
+* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2001-E0212"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2001-E0212"**
 
 ---
 
@@ -5188,10 +5194,10 @@ You are evaluating group 411, made up of:
 
 * Cori Dill (crdill@syr.edu)
 * Devon Degen (dcdegen@syr.edu)
-* Neil Lepard (nlllepard@syr.edu)
+* Neil Lepard (nllepard@syr.edu)
 * Faith Hutson (fjhutson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0411-E0900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0411-E0900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5200,14 +5206,14 @@ Once you have, please send it in an email, along with the group's original submi
 
 * crdill@syr.edu: Cori Dill (member of submitting group)
 * dcdegen@syr.edu: Devon Degen (member of submitting group)
-* nlllepard@syr.edu: Neil Lepard (member of submitting group)
+* nllepard@syr.edu: Neil Lepard (member of submitting group)
 * fjhutson@syr.edu: Faith Hutson (member of submitting group)
 * chchae@syr.edu: Christin Chae (member of evaluating group)
 * cleung05@syr.edu: Cheuk Kiu Justin Leung (member of evaluating group)
 * julong@syr.edu: Jun Long (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0411-E0900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0411-E0900"**
 
 ---
 
@@ -5221,7 +5227,7 @@ You are evaluating group 2006, made up of:
 * Luke Kaleeba (lkaleeba@syr.edu)
 * Timothy Skeval (tbskeval@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2006-E0201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2006-E0201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5236,7 +5242,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sahalper@syr.edu: Sami Halperin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2006-E0201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2006-E0201"**
 
 ---
 
@@ -5251,7 +5257,7 @@ You are evaluating group 1006, made up of:
 * Jaden Gerard (jagerard@syr.edu)
 * Matthew Reese (mcreese@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1006-E0507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1006-E0507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5267,7 +5273,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mkfairfa@syr.edu: Matthew Fairfax (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1006-E0507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1006-E0507"**
 
 ---
 
@@ -5281,7 +5287,7 @@ You are evaluating group 1905, made up of:
 * Erin O'Brien (eobrie06@syr.edu)
 * Tyler Marma (tjmarma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1905-E1100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1905-E1100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5295,7 +5301,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mikwan@syr.edu: Michael Kwan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1905-E1100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1905-E1100"**
 
 ---
 
@@ -5310,7 +5316,7 @@ You are evaluating group 404, made up of:
 * Zachary Cohen (zcohen03@syr.edu)
 * Ryan Cohen (rycohen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0404-E1713" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0404-E1713" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5327,21 +5333,22 @@ Once you have, please send it in an email, along with the group's original submi
 * amhines@syr.edu: Amr Hines (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0404-E1713"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0404-E1713"**
 
 ---
 
 ---
 
-### Group 2103: Benjamin Schiller, Timothy Dean
+### Group 2103: Benjamin Schiller, Justin King, Timothy Dean
 
 You are evaluating group 212, made up of:
 
 * Derek Gutierrez (degutier@syr.edu)
 * Ashley P Santore (apsantor@syr.edu)
 * Jennifer Porter (jeporter@syr.edu)
+* Jacob Bernardine (jberna01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0212-E2103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0212-E2103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5351,11 +5358,13 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of submitting group)
 * apsantor@syr.edu: Ashley P Santore (member of submitting group)
 * jeporter@syr.edu: Jennifer Porter (member of submitting group)
+* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * bschille@syr.edu: Benjamin Schiller (member of evaluating group)
+* jking20@syr.edu: Justin King (member of evaluating group)
 * trdean@syr.edu: Timothy Dean (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0212-E2103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0212-E2103"**
 
 ---
 
@@ -5368,7 +5377,7 @@ You are evaluating group 309, made up of:
 * Devanand Persaud (depersau@syr.edu)
 * Madison Grebler (mpgreble@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0309-E0902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0309-E0902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5382,7 +5391,7 @@ Once you have, please send it in an email, along with the group's original submi
 * matheard@syr.edu: Matthieu Theard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0309-E0902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0309-E0902"**
 
 ---
 
@@ -5396,7 +5405,7 @@ You are evaluating group 519, made up of:
 * Dylan Buck (dlbuck@syr.edu)
 * Daniel Espinoza (despin02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0519-E0208" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0519-E0208" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5411,7 +5420,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tgcervan@syr.edu: Tanya Cervantes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0519-E0208"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0519-E0208"**
 
 ---
 
@@ -5426,7 +5435,7 @@ You are evaluating group 415, made up of:
 * Bisman Singh (bsingh@syr.edu)
 * David George (dgeorg02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0415-E2704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0415-E2704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5442,7 +5451,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbdinerm@syr.edu: Samantha Dinerman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0415-E2704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0415-E2704"**
 
 ---
 
@@ -5457,7 +5466,7 @@ You are evaluating group 1703, made up of:
 * Adam Schwartz (adschwar@syr.edu)
 * Sean Adams (sadams08@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1703-E2904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1703-E2904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5473,7 +5482,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tnhartle@syr.edu: Tia Hartley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1703-E2904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1703-E2904"**
 
 ---
 
@@ -5487,7 +5496,7 @@ You are evaluating group 416, made up of:
 * Daryl Gonzalez (dgonza01@syr.edu)
 * Tatia Buziashvili (tbuziash@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0416-E0411" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0416-E0411" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5499,17 +5508,17 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of submitting group)
 * crdill@syr.edu: Cori Dill (member of evaluating group)
 * dcdegen@syr.edu: Devon Degen (member of evaluating group)
-* nlllepard@syr.edu: Neil Lepard (member of evaluating group)
+* nllepard@syr.edu: Neil Lepard (member of evaluating group)
 * fjhutson@syr.edu: Faith Hutson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0416-E0411"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0416-E0411"**
 
 ---
 
 ---
 
-### Group 1708: Luke Talago, Harrison Falconio Thompson
+### Group 1708: Luke Talago, Harrison Falconio Thompson, Sungjin Lee
 
 You are evaluating group 2205, made up of:
 
@@ -5517,7 +5526,7 @@ You are evaluating group 2205, made up of:
 * William Slaski (wrslaski@syr.edu)
 * D'Angelo Valdez (dgvaldez@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2205-E1708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2205-E1708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5529,9 +5538,10 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of submitting group)
 * latalago@syr.edu: Luke Talago (member of evaluating group)
 * hfthomps@syr.edu: Harrison Falconio Thompson (member of evaluating group)
+* slee171@syr.edu: Sungjin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2205-E1708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2205-E1708"**
 
 ---
 
@@ -5541,16 +5551,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2205-E1
 
 You are evaluating group 2101, made up of:
 
+* Brittney Cunningham (blcunnin@syr.edu)
 * Amara Wilson (amwilson@syr.edu)
 * Daniel Hamrahi (dhamrahi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2101-E0604" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2101-E0604" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* blcunnin@syr.edu: Brittney Cunningham (member of submitting group)
 * amwilson@syr.edu: Amara Wilson (member of submitting group)
 * dhamrahi@syr.edu: Daniel Hamrahi (member of submitting group)
 * acruz21@syr.edu: Antonio Cruz (member of evaluating group)
@@ -5558,7 +5570,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rgoldb03@syr.edu: Rachel Goldberg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2101-E0604"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2101-E0604"**
 
 ---
 
@@ -5573,7 +5585,7 @@ You are evaluating group 1800, made up of:
 * Madeline Gorewitz (mggorewi@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1800-E1907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1800-E1907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5590,7 +5602,7 @@ Once you have, please send it in an email, along with the group's original submi
 * etefera@syr.edu: Eden Tefera (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1800-E1907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1800-E1907"**
 
 ---
 
@@ -5604,7 +5616,7 @@ You are evaluating group 601, made up of:
 * Leilani Phommaniraj (lcphomma@syr.edu)
 * Madeline Crooke (mccrooke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0601-E0410" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0601-E0410" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5619,7 +5631,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sisulc@syr.edu: Sierra Sulc (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0601-E0410"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0601-E0410"**
 
 ---
 
@@ -5634,7 +5646,7 @@ You are evaluating group 1603, made up of:
 * Daniel Chaplick (djchapli@syr.edu)
 * Zachary Goldman (zhgoldma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1603-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1603-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5651,7 +5663,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1603-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1603-E2602"**
 
 ---
 
@@ -5665,7 +5677,7 @@ You are evaluating group 306, made up of:
 * Dylan Goldberg (djgoldbe@syr.edu)
 * Lucas Portnoy (lportnoy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0306-E2705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0306-E2705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5679,7 +5691,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smgallig@syr.edu: Sarah Galligan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0306-E2705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0306-E2705"**
 
 ---
 
@@ -5693,7 +5705,7 @@ You are evaluating group 519, made up of:
 * Dylan Buck (dlbuck@syr.edu)
 * Daniel Espinoza (despin02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0519-E0208" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0519-E0208" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5708,7 +5720,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tgcervan@syr.edu: Tanya Cervantes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0519-E0208"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0519-E0208"**
 
 ---
 
@@ -5723,7 +5735,7 @@ You are evaluating group 1801, made up of:
 * Daniel Mallea (dlmallea@syr.edu)
 * Douglas Camp (dtcamp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1801-E1906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1801-E1906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5739,7 +5751,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oebabafe@syr.edu: Oluwaseminire Babafemi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1801-E1906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1801-E1906"**
 
 ---
 
@@ -5753,7 +5765,7 @@ You are evaluating group 1805, made up of:
 * David Religa (dlreliga@syr.edu)
 * Jacob Morris (jmorri27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1805-E0304" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1805-E0304" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5768,7 +5780,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kojosiah@syr.edu: Kato Josiah (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1805-E0304"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1805-E0304"**
 
 ---
 
@@ -5782,7 +5794,7 @@ You are evaluating group 1709, made up of:
 * David Heiman (dmheiman@syr.edu)
 * Mihika Gogate (msgogate@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1709-E1200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1709-E1200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5797,13 +5809,13 @@ Once you have, please send it in an email, along with the group's original submi
 * xdu110@syr.edu: Xiaoyang Du (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1709-E1200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1709-E1200"**
 
 ---
 
 ---
 
-### Group 700: Ashley Strauss, Hailey Joseph, Summer Stubbmann
+### Group 700: Ashley Strauss, Hailey Joseph
 
 You are evaluating group 1501, made up of:
 
@@ -5811,7 +5823,7 @@ You are evaluating group 1501, made up of:
 * Holly Westbrook (hawestbr@syr.edu)
 * Kathryn Kramp (kmkramp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1501-E0700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1501-E0700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5823,10 +5835,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of submitting group)
 * asstraus@syr.edu: Ashley Strauss (member of evaluating group)
 * hbjoseph@syr.edu: Hailey Joseph (member of evaluating group)
-* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1501-E0700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1501-E0700"**
 
 ---
 
@@ -5840,7 +5851,7 @@ You are evaluating group 2901, made up of:
 * Emma Lambiaso (eflambia@syr.edu)
 * Jonah Landow (jrlandow@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2901-E0214" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2901-E0214" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5854,7 +5865,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cclorenz@syr.edu: Caitlin Lorenz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2901-E0214"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2901-E0214"**
 
 ---
 
@@ -5868,7 +5879,7 @@ You are evaluating group 2906, made up of:
 * El Urgola (eurgola@syr.edu)
 * Isaac Dawson (iadawson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2906-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2906-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5884,7 +5895,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2906-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2906-E1007"**
 
 ---
 
@@ -5898,7 +5909,7 @@ You are evaluating group 1102, made up of:
 * Daniel Hassett (dphasset@syr.edu)
 * Jason Boyle (jrboyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1102-E0511" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1102-E0511" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5913,7 +5924,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmathewm@syr.edu: Karthik Mathew-Malik (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1102-E0511"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1102-E0511"**
 
 ---
 
@@ -5927,7 +5938,7 @@ You are evaluating group 413, made up of:
 * Dorothy Sabo (drsabo@syr.edu)
 * Will Saferstein (wsaferst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0413-E1102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0413-E1102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5942,7 +5953,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrboyle@syr.edu: Jason Boyle (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0413-E1102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0413-E1102"**
 
 ---
 
@@ -5956,7 +5967,7 @@ You are evaluating group 1604, made up of:
 * Dominic Samangy (dsamangy@syr.edu)
 * Lee Gerstman (lgerstma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1604-E0709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1604-E0709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -5971,7 +5982,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhuang38@syr.edu: Zhen Huang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1604-E0709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1604-E0709"**
 
 ---
 
@@ -5985,7 +5996,7 @@ You are evaluating group 606, made up of:
 * Jonah Quinn (jquinn06@syr.edu)
 * Kenneth Barrist (kjbarris@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0606-E1001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0606-E1001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6000,7 +6011,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jszitome@syr.edu: Joshua Zitomer (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0606-E1001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0606-E1001"**
 
 ---
 
@@ -6015,7 +6026,7 @@ You are evaluating group 1801, made up of:
 * Daniel Mallea (dlmallea@syr.edu)
 * Douglas Camp (dtcamp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1801-E1906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1801-E1906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6031,7 +6042,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oebabafe@syr.edu: Oluwaseminire Babafemi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1801-E1906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1801-E1906"**
 
 ---
 
@@ -6046,7 +6057,7 @@ You are evaluating group 509, made up of:
 * Duncan Grant (dugrant@syr.edu)
 * Kathryn Voler (kvvoler@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0509-E0904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0509-E0904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6062,7 +6073,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcbisgar@syr.edu: Leia Bisgard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0509-E0904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0509-E0904"**
 
 ---
 
@@ -6077,7 +6088,7 @@ You are evaluating group 1300, made up of:
 * Dingkai Yao (dyao02@syr.edu)
 * Renata Lee (rlee17@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1300-E0207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1300-E0207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6092,13 +6103,13 @@ Once you have, please send it in an email, along with the group's original submi
 * kcabuls@syr.edu: Katrina Abuls (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1300-E0207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1300-E0207"**
 
 ---
 
 ---
 
-### Group 2905: Owen Zides, Zoe Mccreary
+### Group 2905: Owen Zides, Zoe Mccreary, Eli Levine
 
 You are evaluating group 902, made up of:
 
@@ -6106,7 +6117,7 @@ You are evaluating group 902, made up of:
 * Dylan Goldberg (dygoldbe@syr.edu)
 * Matthieu Theard (matheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0902-E2905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0902-E2905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6118,9 +6129,10 @@ Once you have, please send it in an email, along with the group's original submi
 * matheard@syr.edu: Matthieu Theard (member of submitting group)
 * ozides@syr.edu: Owen Zides (member of evaluating group)
 * zemccrea@syr.edu: Zoe Mccreary (member of evaluating group)
+* elevin04@syr.edu: Eli Levine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0902-E2905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0902-E2905"**
 
 ---
 
@@ -6134,7 +6146,7 @@ You are evaluating group 2104, made up of:
 * Brenden McNamara (bjmcnama@syr.edu)
 * Courtney Lynch (clynch12@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2104-E1607" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2104-E1607" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6149,13 +6161,13 @@ Once you have, please send it in an email, along with the group's original submi
 * smclaffe@syr.edu: Steven Claffey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2104-E1607"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2104-E1607"**
 
 ---
 
 ---
 
-### Group 514: Courtney Bennett, Emma Arczynski, Melanie Salazar
+### Group 514: Courtney Bennett, Melanie Salazar
 
 You are evaluating group 2903, made up of:
 
@@ -6163,7 +6175,7 @@ You are evaluating group 2903, made up of:
 * Elizabeth Carlson (eacarlso@syr.edu)
 * Sierra Huff (snhuff@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2903-E0514" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2903-E0514" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6174,11 +6186,10 @@ Once you have, please send it in an email, along with the group's original submi
 * eacarlso@syr.edu: Elizabeth Carlson (member of submitting group)
 * snhuff@syr.edu: Sierra Huff (member of submitting group)
 * cbenne09@syr.edu: Courtney Bennett (member of evaluating group)
-* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * mesalaza@syr.edu: Melanie Salazar (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2903-E0514"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2903-E0514"**
 
 ---
 
@@ -6192,7 +6203,7 @@ You are evaluating group 1808, made up of:
 * Margaret Grinnell (megrinne@syr.edu)
 * Zev Kalechofsky (zekalech@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1808-E0801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1808-E0801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6208,7 +6219,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tmoss02@syr.edu: Taylor Moss (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1808-E0801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1808-E0801"**
 
 ---
 
@@ -6222,7 +6233,7 @@ You are evaluating group 1607, made up of:
 * Elizabeth Wolf (eawolf@syr.edu)
 * Steven Claffey (smclaffe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1607-E1712" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1607-E1712" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6237,7 +6248,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmomalle@syr.edu: Nora O'Malley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1607-E1712"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1607-E1712"**
 
 ---
 
@@ -6251,7 +6262,7 @@ You are evaluating group 1607, made up of:
 * Elizabeth Wolf (eawolf@syr.edu)
 * Steven Claffey (smclaffe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1607-E1712" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1607-E1712" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6266,7 +6277,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmomalle@syr.edu: Nora O'Malley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1607-E1712"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1607-E1712"**
 
 ---
 
@@ -6278,9 +6289,10 @@ You are evaluating group 1004, made up of:
 
 * Ellen Kingman (eekingma@syr.edu)
 * Jackson Dubrull (jdubrull@syr.edu)
+* Sydney Lance (sjlance@syr.edu)
 * Jack Gonzalez (jgonza09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1004-E1809" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1004-E1809" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6289,13 +6301,14 @@ Once you have, please send it in an email, along with the group's original submi
 
 * eekingma@syr.edu: Ellen Kingman (member of submitting group)
 * jdubrull@syr.edu: Jackson Dubrull (member of submitting group)
+* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jgonza09@syr.edu: Jack Gonzalez (member of submitting group)
 * cwalsh10@syr.edu: Charlotte Walsh (member of evaluating group)
 * mjohallo@syr.edu: Maxum O'Halloran (member of evaluating group)
 * tmoneill@syr.edu: Tyler O'Neill (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1004-E1809"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1004-E1809"**
 
 ---
 
@@ -6309,7 +6322,7 @@ You are evaluating group 2901, made up of:
 * Emma Lambiaso (eflambia@syr.edu)
 * Jonah Landow (jrlandow@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2901-E0214" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2901-E0214" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6323,7 +6336,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cclorenz@syr.edu: Caitlin Lorenz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2901-E0214"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2901-E0214"**
 
 ---
 
@@ -6338,7 +6351,7 @@ You are evaluating group 1106, made up of:
 * Olivia Zoeckler (orzoeckl@syr.edu)
 * Olivia Troilo (ottroilo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1106-E0407" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1106-E0407" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6354,13 +6367,13 @@ Once you have, please send it in an email, along with the group's original submi
 * sabrowns@syr.edu: Samuel Brownstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1106-E0407"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1106-E0407"**
 
 ---
 
 ---
 
-### Group 1609: Martin Berishaj, Jacob Cohen Kronberg, Blessing Emole
+### Group 1609: Jacob Cohen Kronberg, Blessing Emole
 
 You are evaluating group 202, made up of:
 
@@ -6368,7 +6381,7 @@ You are evaluating group 202, made up of:
 * Emily Friedman (efriedma@syr.edu)
 * Haley Popowitz (hpopowit@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0202-E1609" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0202-E1609" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6378,12 +6391,11 @@ Once you have, please send it in an email, along with the group's original submi
 * sakaiser@syr.edu: Sophie Kaiser (member of submitting group)
 * efriedma@syr.edu: Emily Friedman (member of submitting group)
 * hpopowit@syr.edu: Haley Popowitz (member of submitting group)
-* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of evaluating group)
 * ubemole@syr.edu: Blessing Emole (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0202-E1609"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0202-E1609"**
 
 ---
 
@@ -6397,7 +6409,7 @@ You are evaluating group 305, made up of:
 * Ethan Lake (ejlake@syr.edu)
 * Evan Reiner (ejreiner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0305-E1800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0305-E1800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6413,7 +6425,7 @@ Once you have, please send it in an email, along with the group's original submi
 * srlusard@syr.edu: Sophia Lusardi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0305-E1800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0305-E1800"**
 
 ---
 
@@ -6427,7 +6439,7 @@ You are evaluating group 305, made up of:
 * Ethan Lake (ejlake@syr.edu)
 * Evan Reiner (ejreiner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0305-E1800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0305-E1800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6443,13 +6455,13 @@ Once you have, please send it in an email, along with the group's original submi
 * srlusard@syr.edu: Sophia Lusardi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0305-E1800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0305-E1800"**
 
 ---
 
 ---
 
-### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter
+### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter, Jacob Bernardine
 
 You are evaluating group 2001, made up of:
 
@@ -6457,7 +6469,7 @@ You are evaluating group 2001, made up of:
 * Ethan Letwat (eletwat@syr.edu)
 * Sydney Rosenbaum (srosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2001-E0212" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2001-E0212" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6470,9 +6482,10 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of evaluating group)
 * apsantor@syr.edu: Ashley P Santore (member of evaluating group)
 * jeporter@syr.edu: Jennifer Porter (member of evaluating group)
+* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2001-E0212"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2001-E0212"**
 
 ---
 
@@ -6482,24 +6495,20 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2001-E0
 
 You are evaluating group 2907, made up of:
 
-* Eli Levine (elevin04@syr.edu)
-* Victor Richarson (vrichars@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2907-E0506" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2907-E0506" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* elevin04@syr.edu: Eli Levine (member of submitting group)
-* vrichars@syr.edu: Victor Richarson (member of submitting group)
 * hwobrien@syr.edu: Henry O'Brien (member of evaluating group)
 * izia01@syr.edu: Iman Zia (member of evaluating group)
 * ksaugy@syr.edu: Kyle Saugy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2907-E0506"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2907-E0506"**
 
 ---
 
@@ -6513,7 +6522,7 @@ You are evaluating group 405, made up of:
 * Ella Farrell (elfarrel@syr.edu)
 * Georgia Shanker (gshanker@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0405-E2804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0405-E2804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6528,7 +6537,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oegladu@syr.edu: Olivia Gladu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0405-E2804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0405-E2804"**
 
 ---
 
@@ -6543,7 +6552,7 @@ You are evaluating group 710, made up of:
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0710-E1501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0710-E1501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6559,7 +6568,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0710-E1501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0710-E1501"**
 
 ---
 
@@ -6574,7 +6583,7 @@ You are evaluating group 210, made up of:
 * Laurhen Marie Parvin (lmparvin@syr.edu)
 * Morgan Fahy (mofahy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0210-E1505" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0210-E1505" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6590,7 +6599,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0210-E1505"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0210-E1505"**
 
 ---
 
@@ -6603,7 +6612,7 @@ You are evaluating group 1105, made up of:
 * Ethan Mitchell (emitch05@syr.edu)
 * Jacob Thomassen (jthoma42@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1105-E2806" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1105-E2806" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6617,7 +6626,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mjmellen@syr.edu: Miranda Mellen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1105-E2806"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1105-E2806"**
 
 ---
 
@@ -6628,11 +6637,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1105-E2
 You are evaluating group 1005, made up of:
 
 * Emerson Murphy (emurph13@syr.edu)
-* Mateo Lariviere (mrlarivi@syr.edu)
 * Tessa Lank (talank@syr.edu)
 * Brian   Hall (bhall05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1005-E1010" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1005-E1010" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6640,7 +6648,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * emurph13@syr.edu: Emerson Murphy (member of submitting group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * talank@syr.edu: Tessa Lank (member of submitting group)
 * bhall05@syr.edu: Brian   Hall (member of submitting group)
 * etsulliv@syr.edu: Eamonn Sullivan (member of evaluating group)
@@ -6648,7 +6655,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xsteele@syr.edu: Xavier Steele (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1005-E1010"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1005-E1010"**
 
 ---
 
@@ -6659,10 +6666,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1005-E1
 You are evaluating group 514, made up of:
 
 * Courtney Bennett (cbenne09@syr.edu)
-* Emma Arczynski (enarczyn@syr.edu)
 * Melanie Salazar (mesalaza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0514-E2201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0514-E2201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6670,14 +6676,13 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * cbenne09@syr.edu: Courtney Bennett (member of submitting group)
-* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * mesalaza@syr.edu: Melanie Salazar (member of submitting group)
 * jnbondy@syr.edu: Jenna Bondy (member of evaluating group)
 * jshevlin@syr.edu: Jane Shevlin (member of evaluating group)
 * tmdisera@syr.edu: Tessa Diserafino (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0514-E2201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0514-E2201"**
 
 ---
 
@@ -6689,8 +6694,9 @@ You are evaluating group 1500, made up of:
 
 * Alexandra Pinedo (ampinedo@syr.edu)
 * Eric Freudigman (enfreudi@syr.edu)
+* Romane Gutenbrunner (rpgutenb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1500-E0519" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1500-E0519" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6699,12 +6705,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * ampinedo@syr.edu: Alexandra Pinedo (member of submitting group)
 * enfreudi@syr.edu: Eric Freudigman (member of submitting group)
+* rpgutenb@syr.edu: Romane Gutenbrunner (member of submitting group)
 * ccgulbra@syr.edu: Campbell  C Gulbrandsen (member of evaluating group)
 * dlbuck@syr.edu: Dylan Buck (member of evaluating group)
 * despin02@syr.edu: Daniel Espinoza (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1500-E0519"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1500-E0519"**
 
 ---
 
@@ -6718,7 +6725,7 @@ You are evaluating group 1905, made up of:
 * Erin O'Brien (eobrie06@syr.edu)
 * Tyler Marma (tjmarma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1905-E1100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1905-E1100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6732,7 +6739,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mikwan@syr.edu: Michael Kwan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1905-E1100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1905-E1100"**
 
 ---
 
@@ -6742,18 +6749,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1905-E1
 
 You are evaluating group 2007, made up of:
 
-* Justin King (jking20@syr.edu)
 * Emma Repice (erepice@syr.edu)
 * Gabriela Corso (gecorso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2007-E2202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2007-E2202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jking20@syr.edu: Justin King (member of submitting group)
 * erepice@syr.edu: Emma Repice (member of submitting group)
 * gecorso@syr.edu: Gabriela Corso (member of submitting group)
 * gafoltz@syr.edu: Gabriel Foltz (member of evaluating group)
@@ -6761,7 +6766,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jhurst@syr.edu: Jeremiah Hurst (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2007-E2202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2007-E2202"**
 
 ---
 
@@ -6775,7 +6780,7 @@ You are evaluating group 703, made up of:
 * Conn Slattery (coslatte@syr.edu)
 * Ernest Joseph Ramos (erramos@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0703-E2204" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0703-E2204" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6790,7 +6795,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zismith@syr.edu: Zion Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0703-E2204"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0703-E2204"**
 
 ---
 
@@ -6804,7 +6809,7 @@ You are evaluating group 308, made up of:
 * Greta Hartwyk (ghartwyk@syr.edu)
 * Caitlin Plemons (crplemon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0308-E0307" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0308-E0307" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6819,7 +6824,7 @@ Once you have, please send it in an email, along with the group's original submi
 * llopezcr@syr.edu: Luis Lopez-Crespo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0308-E0307"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0308-E0307"**
 
 ---
 
@@ -6834,7 +6839,7 @@ You are evaluating group 404, made up of:
 * Zachary Cohen (zcohen03@syr.edu)
 * Ryan Cohen (rycohen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0404-E1713" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0404-E1713" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6851,7 +6856,7 @@ Once you have, please send it in an email, along with the group's original submi
 * amhines@syr.edu: Amr Hines (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0404-E1713"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0404-E1713"**
 
 ---
 
@@ -6866,7 +6871,7 @@ You are evaluating group 1907, made up of:
 * Zoe Carlson (zecarlso@syr.edu)
 * Eden Tefera (etefera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1907-E2700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1907-E2700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6882,7 +6887,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xyuan16@syr.edu: Xiaoping Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1907-E2700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1907-E2700"**
 
 ---
 
@@ -6897,7 +6902,7 @@ You are evaluating group 1007, made up of:
 * Lauren Mix (lmix02@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1007-E0508" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1007-E0508" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6913,7 +6918,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rblowers@syr.edu: Ryan Blowers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1007-E0508"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1007-E0508"**
 
 ---
 
@@ -6927,7 +6932,7 @@ You are evaluating group 2701, made up of:
 * Tao Wang (twang99@syr.edu)
 * Xiaoxin Shu (xshu03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2701-E2206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2701-E2206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6942,7 +6947,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rpjermyn@syr.edu: Ryan Jermyn (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2701-E2206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2701-E2206"**
 
 ---
 
@@ -6956,7 +6961,7 @@ You are evaluating group 1010, made up of:
 * Imani Diggs (idiggs@syr.edu)
 * Xavier Steele (xsteele@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1010-E0901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1010-E0901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -6970,7 +6975,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gphill03@syr.edu: Grace Phillips (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1010-E0901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1010-E0901"**
 
 ---
 
@@ -6984,7 +6989,7 @@ You are evaluating group 2906, made up of:
 * El Urgola (eurgola@syr.edu)
 * Isaac Dawson (iadawson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2906-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2906-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7000,7 +7005,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2906-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2906-E1007"**
 
 ---
 
@@ -7014,7 +7019,7 @@ You are evaluating group 1400, made up of:
 * Yuyang Yao (yyao32@syr.edu)
 * Zongli Fang (zofang@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1400-E0803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1400-E0803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7028,7 +7033,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sfturek@syr.edu: Shoshana Turek (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1400-E0803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1400-E0803"**
 
 ---
 
@@ -7041,7 +7046,7 @@ You are evaluating group 1201, made up of:
 * Fidel Rivera (firivera@syr.edu)
 * Natalie Fournell (nnfourne@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1201-E1300" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1201-E1300" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7056,7 +7061,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rlee17@syr.edu: Renata Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1201-E1300"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1201-E1300"**
 
 ---
 
@@ -7068,10 +7073,10 @@ You are evaluating group 411, made up of:
 
 * Cori Dill (crdill@syr.edu)
 * Devon Degen (dcdegen@syr.edu)
-* Neil Lepard (nlllepard@syr.edu)
+* Neil Lepard (nllepard@syr.edu)
 * Faith Hutson (fjhutson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0411-E0900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0411-E0900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7080,14 +7085,14 @@ Once you have, please send it in an email, along with the group's original submi
 
 * crdill@syr.edu: Cori Dill (member of submitting group)
 * dcdegen@syr.edu: Devon Degen (member of submitting group)
-* nlllepard@syr.edu: Neil Lepard (member of submitting group)
+* nllepard@syr.edu: Neil Lepard (member of submitting group)
 * fjhutson@syr.edu: Faith Hutson (member of submitting group)
 * chchae@syr.edu: Christin Chae (member of evaluating group)
 * cleung05@syr.edu: Cheuk Kiu Justin Leung (member of evaluating group)
 * julong@syr.edu: Jun Long (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0411-E0900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0411-E0900"**
 
 ---
 
@@ -7101,7 +7106,7 @@ You are evaluating group 1711, made up of:
 * Bonaccorso Rosselli Del Turco (berossel@syr.edu)
 * Forrest Gurl (fngurl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1711-E1802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1711-E1802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7116,7 +7121,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrosenba@syr.edu: Jeremy Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1711-E1802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1711-E1802"**
 
 ---
 
@@ -7130,7 +7135,7 @@ You are evaluating group 403, made up of:
 * Maeva Collatos (macollat@syr.edu)
 * Sophia Soderlund (sjsoderl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0403-E1902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0403-E1902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7145,7 +7150,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jhgordon@syr.edu: Jack Gordon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0403-E1902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0403-E1902"**
 
 ---
 
@@ -7159,7 +7164,7 @@ You are evaluating group 2806, made up of:
 * Maxwell Reed (mareed@syr.edu)
 * Miranda Mellen (mjmellen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2806-E0708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2806-E0708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7174,7 +7179,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rdahmed@syr.edu: Rehan Ahmed (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2806-E0708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2806-E0708"**
 
 ---
 
@@ -7188,7 +7193,7 @@ You are evaluating group 1712, made up of:
 * Stanley Richard Smudin (srsmudin@syr.edu)
 * Nora O'Malley (nmomalle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1712-E0301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1712-E0301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7203,7 +7208,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mebisson@syr.edu: Megan Bisson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1712-E0301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1712-E0301"**
 
 ---
 
@@ -7217,7 +7222,7 @@ You are evaluating group 2202, made up of:
 * Pierre Didisheim (padidish@syr.edu)
 * Jeremiah Hurst (jhurst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2202-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2202-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7232,7 +7237,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2202-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2202-E1003"**
 
 ---
 
@@ -7246,7 +7251,7 @@ You are evaluating group 1506, made up of:
 * Shoshanna Tokar (stokar@syr.edu)
 * Gregory Altamore (galtamor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1506-E1703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1506-E1703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7262,7 +7267,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sadams08@syr.edu: Sean Adams (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1506-E1703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1506-E1703"**
 
 ---
 
@@ -7276,7 +7281,7 @@ You are evaluating group 505, made up of:
 * Jackson Carrel (jlcarrel@syr.edu)
 * Sahil Kirpalani (skirpala@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0505-E1704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0505-E1704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7292,7 +7297,7 @@ Once you have, please send it in an email, along with the group's original submi
 * bisnyder@syr.edu: Bibiana Snyder (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0505-E1704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0505-E1704"**
 
 ---
 
@@ -7307,7 +7312,7 @@ You are evaluating group 2302, made up of:
 * Liwen Duan (liduan@syr.edu)
 * Maxwell Bockmann (mwbockma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2302-E2402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2302-E2402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7323,7 +7328,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yluo27@syr.edu: Youhao Luo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2302-E2402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2302-E2402"**
 
 ---
 
@@ -7337,7 +7342,7 @@ You are evaluating group 904, made up of:
 * Jacob Wolf (jwolf04@syr.edu)
 * Leia Bisgard (lcbisgar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0904-E0605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0904-E0605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7351,7 +7356,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ijalhach@syr.edu: Isabella Al-Hachem (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0904-E0605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0904-E0605"**
 
 ---
 
@@ -7361,18 +7366,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0904-E0
 
 You are evaluating group 2007, made up of:
 
-* Justin King (jking20@syr.edu)
 * Emma Repice (erepice@syr.edu)
 * Gabriela Corso (gecorso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2007-E2202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2007-E2202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jking20@syr.edu: Justin King (member of submitting group)
 * erepice@syr.edu: Emma Repice (member of submitting group)
 * gecorso@syr.edu: Gabriela Corso (member of submitting group)
 * gafoltz@syr.edu: Gabriel Foltz (member of evaluating group)
@@ -7380,7 +7383,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jhurst@syr.edu: Jeremiah Hurst (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2007-E2202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2007-E2202"**
 
 ---
 
@@ -7395,7 +7398,7 @@ You are evaluating group 313, made up of:
 * Jaden Constant (jtconsta@syr.edu)
 * Catherine Connor Rice (crice03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0313-E0306" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0313-E0306" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7411,7 +7414,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lportnoy@syr.edu: Lucas Portnoy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0313-E0306"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0313-E0306"**
 
 ---
 
@@ -7426,7 +7429,7 @@ You are evaluating group 1704, made up of:
 * Sophie Lynch (slynch05@syr.edu)
 * Bibiana Snyder (bisnyder@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1704-E1805" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1704-E1805" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7442,7 +7445,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmorri27@syr.edu: Jacob Morris (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1704-E1805"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1704-E1805"**
 
 ---
 
@@ -7456,7 +7459,7 @@ You are evaluating group 706, made up of:
 * Grace Guido (ggguido@syr.edu)
 * Gabriel Stavenhagen (gjstaven@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0706-E0403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0706-E0403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7471,7 +7474,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sjsoderl@syr.edu: Sophia Soderlund (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0706-E0403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0706-E0403"**
 
 ---
 
@@ -7485,7 +7488,7 @@ You are evaluating group 602, made up of:
 * Natalie Pereira (napereir@syr.edu)
 * Sara Ayers (seayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0602-E0503" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0602-E0503" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7501,7 +7504,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0602-E0503"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0602-E0503"**
 
 ---
 
@@ -7515,7 +7518,7 @@ You are evaluating group 308, made up of:
 * Greta Hartwyk (ghartwyk@syr.edu)
 * Caitlin Plemons (crplemon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0308-E0307" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0308-E0307" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7530,7 +7533,7 @@ Once you have, please send it in an email, along with the group's original submi
 * llopezcr@syr.edu: Luis Lopez-Crespo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0308-E0307"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0308-E0307"**
 
 ---
 
@@ -7544,7 +7547,7 @@ You are evaluating group 706, made up of:
 * Grace Guido (ggguido@syr.edu)
 * Gabriel Stavenhagen (gjstaven@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0706-E0403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0706-E0403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7559,7 +7562,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sjsoderl@syr.edu: Sophia Soderlund (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0706-E0403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0706-E0403"**
 
 ---
 
@@ -7574,7 +7577,7 @@ You are evaluating group 406, made up of:
 * Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0406-E2901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0406-E2901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7590,7 +7593,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrlandow@syr.edu: Jonah Landow (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0406-E2901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0406-E2901"**
 
 ---
 
@@ -7605,7 +7608,7 @@ You are evaluating group 2602, made up of:
 * Grant Murphy (gmmurphy@syr.edu)
 * Elvis Lee (yli170@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2602-E1904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2602-E1904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7621,7 +7624,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rmckee@syr.edu: Ross McKee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2602-E1904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2602-E1904"**
 
 ---
 
@@ -7635,7 +7638,7 @@ You are evaluating group 204, made up of:
 * Gerrit Vanvranken (gmvanvra@syr.edu)
 * Samual Ayers (sbayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0204-E0305" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0204-E0305" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7650,7 +7653,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ejreiner@syr.edu: Evan Reiner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0204-E0305"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0204-E0305"**
 
 ---
 
@@ -7663,7 +7666,7 @@ You are evaluating group 901, made up of:
 * Benjamin Phillips (bphill03@syr.edu)
 * Grace Phillips (gphill03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0901-E1202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0901-E1202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7676,7 +7679,7 @@ Once you have, please send it in an email, along with the group's original submi
 * skmcquee@syr.edu: Skyy McQueen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0901-E1202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0901-E1202"**
 
 ---
 
@@ -7690,7 +7693,7 @@ You are evaluating group 1200, made up of:
 * Huihao Xing (huxing@syr.edu)
 * Xiaoyang Du (xdu110@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1200-E0209" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1200-E0209" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7705,7 +7708,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sjbragg@syr.edu: Sarah Bragg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1200-E0209"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1200-E0209"**
 
 ---
 
@@ -7719,7 +7722,7 @@ You are evaluating group 405, made up of:
 * Ella Farrell (elfarrel@syr.edu)
 * Georgia Shanker (gshanker@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0405-E2804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0405-E2804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7734,7 +7737,7 @@ Once you have, please send it in an email, along with the group's original submi
 * oegladu@syr.edu: Olivia Gladu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0405-E2804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0405-E2804"**
 
 ---
 
@@ -7747,7 +7750,7 @@ You are evaluating group 2807, made up of:
 * Corey Blum (coblum@syr.edu)
 * Gordon Taubenfeld (gstauben@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2807-E0204" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2807-E0204" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7761,13 +7764,13 @@ Once you have, please send it in an email, along with the group's original submi
 * sbayers@syr.edu: Samual Ayers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2807-E0204"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2807-E0204"**
 
 ---
 
 ---
 
-### Group 700: Ashley Strauss, Hailey Joseph, Summer Stubbmann
+### Group 700: Ashley Strauss, Hailey Joseph
 
 You are evaluating group 1501, made up of:
 
@@ -7775,7 +7778,7 @@ You are evaluating group 1501, made up of:
 * Holly Westbrook (hawestbr@syr.edu)
 * Kathryn Kramp (kmkramp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1501-E0700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1501-E0700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7787,10 +7790,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of submitting group)
 * asstraus@syr.edu: Ashley Strauss (member of evaluating group)
 * hbjoseph@syr.edu: Hailey Joseph (member of evaluating group)
-* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1501-E0700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1501-E0700"**
 
 ---
 
@@ -7804,7 +7806,7 @@ You are evaluating group 2403, made up of:
 * Hamelin Batista Camilo (hbatista@syr.edu)
 * Nicholas Nizza (nnizza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2403-E0202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2403-E0202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7819,7 +7821,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hpopowit@syr.edu: Haley Popowitz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2403-E0202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2403-E0202"**
 
 ---
 
@@ -7831,9 +7833,8 @@ You are evaluating group 700, made up of:
 
 * Ashley Strauss (asstraus@syr.edu)
 * Hailey Joseph (hbjoseph@syr.edu)
-* Summer Stubbmann (sstubbma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0700-E0501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0700-E0501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7842,13 +7843,12 @@ Once you have, please send it in an email, along with the group's original submi
 
 * asstraus@syr.edu: Ashley Strauss (member of submitting group)
 * hbjoseph@syr.edu: Hailey Joseph (member of submitting group)
-* sstubbma@syr.edu: Summer Stubbmann (member of submitting group)
 * cji103@syr.edu: Chenxi Ji (member of evaluating group)
 * hmo100@syr.edu: Hanlin Mo (member of evaluating group)
 * jperez04@syr.edu: Jeronimo Perez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0700-E0501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0700-E0501"**
 
 ---
 
@@ -7862,7 +7862,7 @@ You are evaluating group 2904, made up of:
 * Remi Tsunoda (rtsunoda@syr.edu)
 * Tia Hartley (tnhartle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2904-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2904-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7878,7 +7878,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2904-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2904-E0203"**
 
 ---
 
@@ -7891,8 +7891,9 @@ You are evaluating group 504, made up of:
 * Angel Gonzalez (agonza20@syr.edu)
 * Catherine Maher (cjmaher@syr.edu)
 * Hamere Debebe (hedebebe@syr.edu)
+* Emma Arczynski (enarczyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0504-E1801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0504-E1801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7902,13 +7903,14 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of submitting group)
 * cjmaher@syr.edu: Catherine Maher (member of submitting group)
 * hedebebe@syr.edu: Hamere Debebe (member of submitting group)
+* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * afloiaco@syr.edu: Anthony Loiacono (member of evaluating group)
 * calydon@syr.edu: Caitlin Lydon (member of evaluating group)
 * dlmallea@syr.edu: Daniel Mallea (member of evaluating group)
 * dtcamp@syr.edu: Douglas Camp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0504-E1801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0504-E1801"**
 
 ---
 
@@ -7920,8 +7922,9 @@ You are evaluating group 1708, made up of:
 
 * Luke Talago (latalago@syr.edu)
 * Harrison Falconio Thompson (hfthomps@syr.edu)
+* Sungjin Lee (slee171@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1708-E2701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1708-E2701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7930,12 +7933,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * latalago@syr.edu: Luke Talago (member of submitting group)
 * hfthomps@syr.edu: Harrison Falconio Thompson (member of submitting group)
+* slee171@syr.edu: Sungjin Lee (member of submitting group)
 * etmurcko@syr.edu: Emily Murcko (member of evaluating group)
 * twang99@syr.edu: Tao Wang (member of evaluating group)
 * xshu03@syr.edu: Xiaoxin Shu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1708-E2701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1708-E2701"**
 
 ---
 
@@ -7948,7 +7952,7 @@ You are evaluating group 312, made up of:
 * Hanne Haynes (hhaynes@syr.edu)
 * Louise Rath (lcrath@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0312-E2801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0312-E2801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7962,7 +7966,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmstives@syr.edu: Jacob Stives (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0312-E2801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0312-E2801"**
 
 ---
 
@@ -7975,8 +7979,9 @@ You are evaluating group 102, made up of:
 * Hongkai He (hhe122@syr.edu)
 * Yifei Liu (yliu17@syr.edu)
 * Zachary Stern (zwstern@syr.edu)
+* Martin Berishaj (maberish@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0102-E0705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0102-E0705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -7986,19 +7991,20 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of submitting group)
 * yliu17@syr.edu: Yifei Liu (member of submitting group)
 * zwstern@syr.edu: Zachary Stern (member of submitting group)
+* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * anpaek@syr.edu: Andrew Paek (member of evaluating group)
 * ivmainet@syr.edu: Isabel Maine-Torres (member of evaluating group)
 * sasaunde@syr.edu: Samuel Saunders (member of evaluating group)
 * amceesay@syr.edu: Aminata Ceesay (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0102-E0705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0102-E0705"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 503, made up of:
 
@@ -8007,7 +8013,7 @@ You are evaluating group 503, made up of:
 * Zachary Rohrer (ztrohrer@syr.edu)
 * Kim Heewoon (hkim99@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0503-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0503-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8020,10 +8026,11 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0503-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0503-E1004"**
 
 ---
 
@@ -8037,7 +8044,7 @@ You are evaluating group 1401, made up of:
 * Zhishan Ni (zni106@syr.edu)
 * Jieying Xing (jxie102@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1401-E0710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1401-E0710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8053,7 +8060,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmreyesj@syr.edu: Naftali Reyes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1401-E0710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1401-E0710"**
 
 ---
 
@@ -8066,8 +8073,9 @@ You are evaluating group 2300, made up of:
 * Hope Millner (hmillner@syr.edu)
 * Luka Lazarevic (llazarev@syr.edu)
 * Thomas Bauer (tebauer@syr.edu)
+* Max Kennedy (makenned@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2300-E1707" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2300-E1707" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8077,18 +8085,19 @@ Once you have, please send it in an email, along with the group's original submi
 * hmillner@syr.edu: Hope Millner (member of submitting group)
 * llazarev@syr.edu: Luka Lazarevic (member of submitting group)
 * tebauer@syr.edu: Thomas Bauer (member of submitting group)
+* makenned@syr.edu: Max Kennedy (member of submitting group)
 * avsalaza@syr.edu: Ava Salazar (member of evaluating group)
 * meorlean@syr.edu: Michele Orleans (member of evaluating group)
 * skdenaro@syr.edu: Samantha Denaro (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2300-E1707"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2300-E1707"**
 
 ---
 
 ---
 
-### Group 2908: Shane O'Neil , Phillip Bogan, Andronikos Georgalas
+### Group 2908: Shane O'Neil , Jayden Cole, Phillip Bogan, Andronikos Georgalas
 
 You are evaluating group 501, made up of:
 
@@ -8096,7 +8105,7 @@ You are evaluating group 501, made up of:
 * Hanlin Mo (hmo100@syr.edu)
 * Jeronimo Perez (jperez04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0501-E2908" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0501-E2908" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8107,17 +8116,18 @@ Once you have, please send it in an email, along with the group's original submi
 * hmo100@syr.edu: Hanlin Mo (member of submitting group)
 * jperez04@syr.edu: Jeronimo Perez (member of submitting group)
 * sroneil@syr.edu: Shane O'Neil  (member of evaluating group)
+* jcole01@syr.edu: Jayden Cole (member of evaluating group)
 * pmbogan@syr.edu: Phillip Bogan (member of evaluating group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0501-E2908"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0501-E2908"**
 
 ---
 
 ---
 
-### Group 1609: Martin Berishaj, Jacob Cohen Kronberg, Blessing Emole
+### Group 1609: Jacob Cohen Kronberg, Blessing Emole
 
 You are evaluating group 202, made up of:
 
@@ -8125,7 +8135,7 @@ You are evaluating group 202, made up of:
 * Emily Friedman (efriedma@syr.edu)
 * Haley Popowitz (hpopowit@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0202-E1609" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0202-E1609" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8135,12 +8145,11 @@ Once you have, please send it in an email, along with the group's original submi
 * sakaiser@syr.edu: Sophie Kaiser (member of submitting group)
 * efriedma@syr.edu: Emily Friedman (member of submitting group)
 * hpopowit@syr.edu: Haley Popowitz (member of submitting group)
-* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of evaluating group)
 * ubemole@syr.edu: Blessing Emole (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0202-E1609"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0202-E1609"**
 
 ---
 
@@ -8154,7 +8163,7 @@ You are evaluating group 1900, made up of:
 * Nicholas Piro (napiro@syr.edu)
 * Thomas Burke (twburke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1900-E1105" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1900-E1105" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8168,7 +8177,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jthoma42@syr.edu: Jacob Thomassen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1900-E1105"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1900-E1105"**
 
 ---
 
@@ -8183,7 +8192,7 @@ You are evaluating group 406, made up of:
 * Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0406-E2901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0406-E2901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8199,7 +8208,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrlandow@syr.edu: Jonah Landow (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0406-E2901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0406-E2901"**
 
 ---
 
@@ -8213,7 +8222,7 @@ You are evaluating group 903, made up of:
 * Michael Diblasi (madiblas@syr.edu)
 * Phyoe Thandar (pthandar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0903-E1400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0903-E1400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8228,7 +8237,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zofang@syr.edu: Zongli Fang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0903-E1400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0903-E1400"**
 
 ---
 
@@ -8243,7 +8252,7 @@ You are evaluating group 2302, made up of:
 * Liwen Duan (liduan@syr.edu)
 * Maxwell Bockmann (mwbockma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2302-E2402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2302-E2402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8259,7 +8268,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yluo27@syr.edu: Youhao Luo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2302-E2402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2302-E2402"**
 
 ---
 
@@ -8273,7 +8282,7 @@ You are evaluating group 101, made up of:
 * Sultan Alhameli (salhamel@syr.edu)
 * Zeren Chen (zchen200@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0101-E0510" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0101-E0510" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8288,7 +8297,7 @@ Once you have, please send it in an email, along with the group's original submi
 * znkirkla@syr.edu: Zaria Kirkland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0101-E0510"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0101-E0510"**
 
 ---
 
@@ -8302,7 +8311,7 @@ You are evaluating group 1200, made up of:
 * Huihao Xing (huxing@syr.edu)
 * Xiaoyang Du (xdu110@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1200-E0209" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1200-E0209" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8317,7 +8326,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sjbragg@syr.edu: Sarah Bragg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1200-E0209"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1200-E0209"**
 
 ---
 
@@ -8331,7 +8340,7 @@ You are evaluating group 506, made up of:
 * Iman Zia (izia01@syr.edu)
 * Kyle Saugy (ksaugy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0506-E0405" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0506-E0405" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8346,7 +8355,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gshanker@syr.edu: Georgia Shanker (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0506-E0405"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0506-E0405"**
 
 ---
 
@@ -8360,7 +8369,7 @@ You are evaluating group 1701, made up of:
 * Jiaqi Liu (jliu119@syr.edu)
 * Sitong Lyu (slyu11@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1701-E0104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1701-E0104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8376,7 +8385,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jzuluaga@syr.edu: Joana Zuluaga (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1701-E0104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1701-E0104"**
 
 ---
 
@@ -8390,7 +8399,7 @@ You are evaluating group 2906, made up of:
 * El Urgola (eurgola@syr.edu)
 * Isaac Dawson (iadawson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2906-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2906-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8406,7 +8415,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2906-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2906-E1007"**
 
 ---
 
@@ -8421,7 +8430,7 @@ You are evaluating group 1907, made up of:
 * Zoe Carlson (zecarlso@syr.edu)
 * Eden Tefera (etefera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1907-E2700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1907-E2700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8437,7 +8446,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xyuan16@syr.edu: Xiaoping Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1907-E2700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1907-E2700"**
 
 ---
 
@@ -8451,7 +8460,7 @@ You are evaluating group 1803, made up of:
 * lexi flood (anflood@syr.edu)
 * Isabela Mcdonald (icmcdona@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1803-E0312" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1803-E0312" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8465,7 +8474,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcrath@syr.edu: Louise Rath (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1803-E0312"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1803-E0312"**
 
 ---
 
@@ -8479,7 +8488,7 @@ You are evaluating group 1010, made up of:
 * Imani Diggs (idiggs@syr.edu)
 * Xavier Steele (xsteele@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1010-E0901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1010-E0901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8493,13 +8502,13 @@ Once you have, please send it in an email, along with the group's original submi
 * gphill03@syr.edu: Grace Phillips (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1010-E0901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1010-E0901"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 503, made up of:
 
@@ -8508,7 +8517,7 @@ You are evaluating group 503, made up of:
 * Zachary Rohrer (ztrohrer@syr.edu)
 * Kim Heewoon (hkim99@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0503-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0503-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8521,10 +8530,11 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0503-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0503-E1004"**
 
 ---
 
@@ -8537,7 +8547,7 @@ You are evaluating group 605, made up of:
 * Chloe Schneiderman (cschne06@syr.edu)
 * Isabella Al-Hachem (ijalhach@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0605-E2102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0605-E2102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8551,7 +8561,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ksistolu@syr.edu: Karhan Sistolu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0605-E2102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0605-E2102"**
 
 ---
 
@@ -8565,7 +8575,7 @@ You are evaluating group 511, made up of:
 * Jay Grant (jbgrant@syr.edu)
 * Karthik Mathew-Malik (kmathewm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0511-E2002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0511-E2002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8580,13 +8590,13 @@ Once you have, please send it in an email, along with the group's original submi
 * wksteinb@syr.edu: William Steinberg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0511-E2002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0511-E2002"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 2800, made up of:
 
@@ -8594,7 +8604,7 @@ You are evaluating group 2800, made up of:
 * Isabel Eisen (imeisen@syr.edu)
 * Ziwei Zhao (zzhao07@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2800-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2800-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8606,10 +8616,11 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2800-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2800-E1004"**
 
 ---
 
@@ -8623,7 +8634,7 @@ You are evaluating group 1103, made up of:
 * Jackson Beers (jgbeers@syr.edu)
 * Sam Auerbach (sauerbac@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1103-E1706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1103-E1706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8638,13 +8649,13 @@ Once you have, please send it in an email, along with the group's original submi
 * ydiawara@syr.edu: Yaya Diawara (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1103-E1706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1103-E1706"**
 
 ---
 
 ---
 
-### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe
+### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe, Emma Arczynski
 
 You are evaluating group 705, made up of:
 
@@ -8653,7 +8664,7 @@ You are evaluating group 705, made up of:
 * Samuel Saunders (sasaunde@syr.edu)
 * Aminata Ceesay (amceesay@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0705-E0504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0705-E0504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8667,9 +8678,10 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of evaluating group)
 * cjmaher@syr.edu: Catherine Maher (member of evaluating group)
 * hedebebe@syr.edu: Hamere Debebe (member of evaluating group)
+* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0705-E0504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0705-E0504"**
 
 ---
 
@@ -8684,7 +8696,7 @@ You are evaluating group 415, made up of:
 * Bisman Singh (bsingh@syr.edu)
 * David George (dgeorg02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0415-E2704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0415-E2704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8700,7 +8712,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbdinerm@syr.edu: Samantha Dinerman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0415-E2704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0415-E2704"**
 
 ---
 
@@ -8714,7 +8726,7 @@ You are evaluating group 506, made up of:
 * Iman Zia (izia01@syr.edu)
 * Kyle Saugy (ksaugy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0506-E0405" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0506-E0405" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8729,7 +8741,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gshanker@syr.edu: Georgia Shanker (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0506-E0405"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0506-E0405"**
 
 ---
 
@@ -8744,7 +8756,7 @@ You are evaluating group 1006, made up of:
 * Jaden Gerard (jagerard@syr.edu)
 * Matthew Reese (mcreese@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1006-E0507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1006-E0507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8760,7 +8772,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mkfairfa@syr.edu: Matthew Fairfax (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1006-E0507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1006-E0507"**
 
 ---
 
@@ -8773,8 +8785,9 @@ You are evaluating group 1606, made up of:
 * Charles Burns (cwburns@syr.edu)
 * Andrew Hoyt (jahoyt@syr.edu)
 * Timothy Kalinowski (tjkalino@syr.edu)
+* Brandon Turney (bsturney@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1606-E0205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1606-E0205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8784,11 +8797,12 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of submitting group)
 * jahoyt@syr.edu: Andrew Hoyt (member of submitting group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of submitting group)
+* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * sgnusdeo@syr.edu: Sean Nusdeo (member of evaluating group)
 * yyang106@syr.edu: Yang Yang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1606-E0205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1606-E0205"**
 
 ---
 
@@ -8802,7 +8816,7 @@ You are evaluating group 1001, made up of:
 * Joshua Friedman (jfried09@syr.edu)
 * Joshua Zitomer (jszitome@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1001-E2900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1001-E2900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8817,13 +8831,13 @@ Once you have, please send it in an email, along with the group's original submi
 * kkaba01@syr.edu: Kadija Kaba (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1001-E2900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1001-E2900"**
 
 ---
 
 ---
 
-### Group 1605: Andrew Spana, Sydney Lance, Joshua Jezak
+### Group 1605: Andrew Spana, Joshua Jezak
 
 You are evaluating group 1108, made up of:
 
@@ -8831,7 +8845,7 @@ You are evaluating group 1108, made up of:
 * Adam Kinsley Carter (akcarter@syr.edu)
 * Zachary Askarinam (zaaskari@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1108-E1605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1108-E1605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8842,11 +8856,10 @@ Once you have, please send it in an email, along with the group's original submi
 * akcarter@syr.edu: Adam Kinsley Carter (member of submitting group)
 * zaaskari@syr.edu: Zachary Askarinam (member of submitting group)
 * ajspana@syr.edu: Andrew Spana (member of evaluating group)
-* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jjezak@syr.edu: Joshua Jezak (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1108-E1605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1108-E1605"**
 
 ---
 
@@ -8856,18 +8869,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1108-E1
 
 You are evaluating group 213, made up of:
 
-* Jacob Bernardine (jberna01@syr.edu)
 * Anthony Bellman (ajbellma@syr.edu)
 * Yu  Sun (ysun57@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0213-E1504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0213-E1504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * ajbellma@syr.edu: Anthony Bellman (member of submitting group)
 * ysun57@syr.edu: Yu  Sun (member of submitting group)
 * bwood04@syr.edu: Beyonce Wood (member of evaluating group)
@@ -8876,7 +8887,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgzahedi@syr.edu: Leila Zahedi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0213-E1504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0213-E1504"**
 
 ---
 
@@ -8891,7 +8902,7 @@ You are evaluating group 2401, made up of:
 * Wura Martins-Kuye (kmartins@syr.edu)
 * Ryan Smith (rsmith18@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2401-E1702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2401-E1702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8907,7 +8918,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nfgetzug@syr.edu: Noa Getzug (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2401-E1702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2401-E1702"**
 
 ---
 
@@ -8921,7 +8932,7 @@ You are evaluating group 2206, made up of:
 * Jacob Fowler (jbfowler@syr.edu)
 * Ryan Jermyn (rpjermyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2206-E1403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2206-E1403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8936,7 +8947,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jdkakuyo@syr.edu: Jordan Kakuyo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2206-E1403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2206-E1403"**
 
 ---
 
@@ -8950,7 +8961,7 @@ You are evaluating group 511, made up of:
 * Jay Grant (jbgrant@syr.edu)
 * Karthik Mathew-Malik (kmathewm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0511-E2002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0511-E2002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8965,7 +8976,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wksteinb@syr.edu: William Steinberg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0511-E2002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0511-E2002"**
 
 ---
 
@@ -8979,7 +8990,7 @@ You are evaluating group 1804, made up of:
 * Charlie Moreno (camoreno@syr.edu)
 * Jenna Byers (jbyers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1804-E2207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1804-E2207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -8994,7 +9005,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkang21@syr.edu: Lauren Kang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1804-E2207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1804-E2207"**
 
 ---
 
@@ -9008,7 +9019,7 @@ You are evaluating group 1008, made up of:
 * Madison Bequer (mabequer@syr.edu)
 * Petey Peterson (popeters@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1008-E1603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1008-E1603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9024,7 +9035,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhgoldma@syr.edu: Zachary Goldman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1008-E1603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1008-E1603"**
 
 ---
 
@@ -9039,7 +9050,7 @@ You are evaluating group 801, made up of:
 * Nikki Rafferty (ngraffer@syr.edu)
 * Taylor Moss (tmoss02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0801-E2104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0801-E2104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9055,7 +9066,7 @@ Once you have, please send it in an email, along with the group's original submi
 * clynch12@syr.edu: Courtney Lynch (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0801-E2104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0801-E2104"**
 
 ---
 
@@ -9065,18 +9076,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0801-E2
 
 You are evaluating group 1609, made up of:
 
-* Martin Berishaj (maberish@syr.edu)
 * Jacob Cohen Kronberg (jckronbe@syr.edu)
 * Blessing Emole (ubemole@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1609-E2000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1609-E2000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of submitting group)
 * ubemole@syr.edu: Blessing Emole (member of submitting group)
 * cmee01@syr.edu: Creagan Mee (member of evaluating group)
@@ -9084,7 +9093,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbschnei@syr.edu: Samuel Schneider (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1609-E2000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1609-E2000"**
 
 ---
 
@@ -9098,7 +9107,7 @@ You are evaluating group 2703, made up of:
 * Caroline Hurlebaus (crhurleb@syr.edu)
 * Julia Short (jcshort@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2703-E0502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2703-E0502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9114,7 +9123,7 @@ Once you have, please send it in an email, along with the group's original submi
 * vkelly@syr.edu: Victoria Kelly (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2703-E0502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2703-E0502"**
 
 ---
 
@@ -9128,7 +9137,7 @@ You are evaluating group 2303, made up of:
 * Jing Wang (jwang79@syr.edu)
 * Yiyi Yuan (yyuan30@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2303-E2302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2303-E2302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9144,7 +9153,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mwbockma@syr.edu: Maxwell Bockmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2303-E2302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2303-E2302"**
 
 ---
 
@@ -9157,9 +9166,8 @@ You are evaluating group 302, made up of:
 * Alan Harding (athardin@syr.edu)
 * Jack Desmarais-Harris (jdesmara@syr.edu)
 * Taylor Miller (tamiller@syr.edu)
-* Camryn Johnson-Andrews (cjohns26@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0302-E2003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0302-E2003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9169,13 +9177,12 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of submitting group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of submitting group)
 * tamiller@syr.edu: Taylor Miller (member of submitting group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of submitting group)
 * abisigna@syr.edu: Alex Bisignani (member of evaluating group)
 * ldcreede@syr.edu: Liam Creeden (member of evaluating group)
 * nrsimpso@syr.edu: Noah Simpson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0302-E2003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0302-E2003"**
 
 ---
 
@@ -9189,7 +9196,7 @@ You are evaluating group 1403, made up of:
 * Diana Avila (davila@syr.edu)
 * Jordan Kakuyo (jdkakuyo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1403-E0308" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1403-E0308" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9204,7 +9211,7 @@ Once you have, please send it in an email, along with the group's original submi
 * crplemon@syr.edu: Caitlin Plemons (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1403-E0308"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1403-E0308"**
 
 ---
 
@@ -9216,9 +9223,10 @@ You are evaluating group 1004, made up of:
 
 * Ellen Kingman (eekingma@syr.edu)
 * Jackson Dubrull (jdubrull@syr.edu)
+* Sydney Lance (sjlance@syr.edu)
 * Jack Gonzalez (jgonza09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1004-E1809" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1004-E1809" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9227,27 +9235,29 @@ Once you have, please send it in an email, along with the group's original submi
 
 * eekingma@syr.edu: Ellen Kingman (member of submitting group)
 * jdubrull@syr.edu: Jackson Dubrull (member of submitting group)
+* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jgonza09@syr.edu: Jack Gonzalez (member of submitting group)
 * cwalsh10@syr.edu: Charlotte Walsh (member of evaluating group)
 * mjohallo@syr.edu: Maxum O'Halloran (member of evaluating group)
 * tmoneill@syr.edu: Tyler O'Neill (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1004-E1809"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1004-E1809"**
 
 ---
 
 ---
 
-### Group 2103: Benjamin Schiller, Timothy Dean
+### Group 2103: Benjamin Schiller, Justin King, Timothy Dean
 
 You are evaluating group 212, made up of:
 
 * Derek Gutierrez (degutier@syr.edu)
 * Ashley P Santore (apsantor@syr.edu)
 * Jennifer Porter (jeporter@syr.edu)
+* Jacob Bernardine (jberna01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0212-E2103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0212-E2103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9257,11 +9267,13 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of submitting group)
 * apsantor@syr.edu: Ashley P Santore (member of submitting group)
 * jeporter@syr.edu: Jennifer Porter (member of submitting group)
+* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * bschille@syr.edu: Benjamin Schiller (member of evaluating group)
+* jking20@syr.edu: Justin King (member of evaluating group)
 * trdean@syr.edu: Timothy Dean (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0212-E2103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0212-E2103"**
 
 ---
 
@@ -9275,7 +9287,7 @@ You are evaluating group 1104, made up of:
 * Jake Fienberg (jfienber@syr.edu)
 * Matthew Niwelt (mniwelt@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1104-E1711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1104-E1711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9290,7 +9302,7 @@ Once you have, please send it in an email, along with the group's original submi
 * fngurl@syr.edu: Forrest Gurl (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1104-E1711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1104-E1711"**
 
 ---
 
@@ -9304,7 +9316,7 @@ You are evaluating group 518, made up of:
 * Joshua Foley (jfoley04@syr.edu)
 * Justin Laurent (jklauren@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0518-E0103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0518-E0103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9319,7 +9331,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zchen172@syr.edu: Zhennan Chen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0518-E0103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0518-E0103"**
 
 ---
 
@@ -9333,7 +9345,7 @@ You are evaluating group 702, made up of:
 * Kayleigh Sattler (ksattl01@syr.edu)
 * Mia Hinz (mehinz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0702-E0703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0702-E0703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9348,7 +9360,7 @@ Once you have, please send it in an email, along with the group's original submi
 * erramos@syr.edu: Ernest Joseph Ramos (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0702-E0703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0702-E0703"**
 
 ---
 
@@ -9362,7 +9374,7 @@ You are evaluating group 1001, made up of:
 * Joshua Friedman (jfried09@syr.edu)
 * Joshua Zitomer (jszitome@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1001-E2900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1001-E2900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9377,7 +9389,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kkaba01@syr.edu: Kadija Kaba (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1001-E2900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1001-E2900"**
 
 ---
 
@@ -9391,7 +9403,7 @@ You are evaluating group 1103, made up of:
 * Jackson Beers (jgbeers@syr.edu)
 * Sam Auerbach (sauerbac@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1103-E1706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1103-E1706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9406,7 +9418,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ydiawara@syr.edu: Yaya Diawara (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1103-E1706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1103-E1706"**
 
 ---
 
@@ -9416,18 +9428,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1103-E1
 
 You are evaluating group 2100, made up of:
 
-* Brittney Cunningham (blcunnin@syr.edu)
 * Jing Ge (jge107@syr.edu)
 * Madison Kettering (mfketter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2100-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2100-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* blcunnin@syr.edu: Brittney Cunningham (member of submitting group)
 * jge107@syr.edu: Jing Ge (member of submitting group)
 * mfketter@syr.edu: Madison Kettering (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -9435,13 +9445,13 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2100-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2100-E2005"**
 
 ---
 
 ---
 
-### Group 2100: Brittney Cunningham, Jing Ge, Madison Kettering
+### Group 2100: Jing Ge, Madison Kettering
 
 You are evaluating group 507, made up of:
 
@@ -9449,7 +9459,7 @@ You are evaluating group 507, made up of:
 * Joshua Golden (jgolde02@syr.edu)
 * Matthew Fairfax (mkfairfa@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0507-E2100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0507-E2100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9459,12 +9469,11 @@ Once you have, please send it in an email, along with the group's original submi
 * ajcibuls@syr.edu: Anthony Cibulsky (member of submitting group)
 * jgolde02@syr.edu: Joshua Golden (member of submitting group)
 * mkfairfa@syr.edu: Matthew Fairfax (member of submitting group)
-* blcunnin@syr.edu: Brittney Cunningham (member of evaluating group)
 * jge107@syr.edu: Jing Ge (member of evaluating group)
 * mfketter@syr.edu: Madison Kettering (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0507-E2100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0507-E2100"**
 
 ---
 
@@ -9476,9 +9485,10 @@ You are evaluating group 1004, made up of:
 
 * Ellen Kingman (eekingma@syr.edu)
 * Jackson Dubrull (jdubrull@syr.edu)
+* Sydney Lance (sjlance@syr.edu)
 * Jack Gonzalez (jgonza09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1004-E1809" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1004-E1809" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9487,19 +9497,20 @@ Once you have, please send it in an email, along with the group's original submi
 
 * eekingma@syr.edu: Ellen Kingman (member of submitting group)
 * jdubrull@syr.edu: Jackson Dubrull (member of submitting group)
+* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jgonza09@syr.edu: Jack Gonzalez (member of submitting group)
 * cwalsh10@syr.edu: Charlotte Walsh (member of evaluating group)
 * mjohallo@syr.edu: Maxum O'Halloran (member of evaluating group)
 * tmoneill@syr.edu: Tyler O'Neill (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1004-E1809"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1004-E1809"**
 
 ---
 
 ---
 
-### Group 2007: Justin King, Emma Repice, Gabriela Corso
+### Group 2007: Emma Repice, Gabriela Corso
 
 You are evaluating group 508, made up of:
 
@@ -9507,7 +9518,7 @@ You are evaluating group 508, made up of:
 * Sydney Bergan (sabergan@syr.edu)
 * Ryan Blowers (rblowers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0508-E2007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0508-E2007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9517,12 +9528,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jgreen31@syr.edu: Jordan Greene (member of submitting group)
 * sabergan@syr.edu: Sydney Bergan (member of submitting group)
 * rblowers@syr.edu: Ryan Blowers (member of submitting group)
-* jking20@syr.edu: Justin King (member of evaluating group)
 * erepice@syr.edu: Emma Repice (member of evaluating group)
 * gecorso@syr.edu: Gabriela Corso (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0508-E2007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0508-E2007"**
 
 ---
 
@@ -9536,7 +9546,7 @@ You are evaluating group 412, made up of:
 * Leonardo Bonilla (lbonilla@syr.edu)
 * Sydney Nadel (stnadel@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0412-E0417" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0412-E0417" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9550,7 +9560,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jlyu04@syr.edu: Junyi Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0412-E0417"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0412-E0417"**
 
 ---
 
@@ -9564,7 +9574,7 @@ You are evaluating group 1811, made up of:
 * Preston Schoenberg (prschoen@syr.edu)
 * Otitodirichukwu Oto Darl Uzu (oodarluz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1811-E1600" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1811-E1600" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9579,7 +9589,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mpshoap@syr.edu: Molly Shoap (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1811-E1600"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1811-E1600"**
 
 ---
 
@@ -9593,7 +9603,7 @@ You are evaluating group 1902, made up of:
 * Christopher Trentham (cltrenth@syr.edu)
 * Jack Gordon (jhgordon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1902-E1101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1902-E1101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9608,7 +9618,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smanni01@syr.edu: Shanice Manning (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1902-E1101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1902-E1101"**
 
 ---
 
@@ -9622,7 +9632,7 @@ You are evaluating group 2202, made up of:
 * Pierre Didisheim (padidish@syr.edu)
 * Jeremiah Hurst (jhurst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2202-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2202-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9637,20 +9647,20 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2202-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2202-E1003"**
 
 ---
 
 ---
 
-### Group 2300: Hope Millner, Luka Lazarevic, Thomas Bauer
+### Group 2300: Hope Millner, Luka Lazarevic, Thomas Bauer, Max Kennedy
 
 You are evaluating group 207, made up of:
 
 * Brendan Sullivan (bsulli06@syr.edu)
 * Katrina Abuls (kcabuls@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0207-E2300" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0207-E2300" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9662,9 +9672,10 @@ Once you have, please send it in an email, along with the group's original submi
 * hmillner@syr.edu: Hope Millner (member of evaluating group)
 * llazarev@syr.edu: Luka Lazarevic (member of evaluating group)
 * tebauer@syr.edu: Thomas Bauer (member of evaluating group)
+* makenned@syr.edu: Max Kennedy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0207-E2300"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0207-E2300"**
 
 ---
 
@@ -9675,10 +9686,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0207-E2
 You are evaluating group 1605, made up of:
 
 * Andrew Spana (ajspana@syr.edu)
-* Sydney Lance (sjlance@syr.edu)
 * Joshua Jezak (jjezak@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1605-E0210" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1605-E0210" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9686,7 +9696,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * ajspana@syr.edu: Andrew Spana (member of submitting group)
-* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jjezak@syr.edu: Joshua Jezak (member of submitting group)
 * actodd@syr.edu: Andrew Todd (member of evaluating group)
 * emgold@syr.edu: Emily Gold (member of evaluating group)
@@ -9694,7 +9703,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mofahy@syr.edu: Morgan Fahy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1605-E0210"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1605-E0210"**
 
 ---
 
@@ -9708,7 +9717,7 @@ You are evaluating group 301, made up of:
 * Joshua Jones (jjones52@syr.edu)
 * Megan Bisson (mebisson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0301-E0706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0301-E0706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9723,7 +9732,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gjstaven@syr.edu: Gabriel Stavenhagen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0301-E0706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0301-E0706"**
 
 ---
 
@@ -9737,7 +9746,7 @@ You are evaluating group 2207, made up of:
 * Cecelia Westwater (cjwestwa@syr.edu)
 * Lauren Kang (jkang21@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2207-E2400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2207-E2400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9752,7 +9761,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmitch15@syr.edu: Kimberly Mitchell (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2207-E2400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2207-E2400"**
 
 ---
 
@@ -9762,18 +9771,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2207-E2
 
 You are evaluating group 2007, made up of:
 
-* Justin King (jking20@syr.edu)
 * Emma Repice (erepice@syr.edu)
 * Gabriela Corso (gecorso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2007-E2202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2007-E2202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jking20@syr.edu: Justin King (member of submitting group)
 * erepice@syr.edu: Emma Repice (member of submitting group)
 * gecorso@syr.edu: Gabriela Corso (member of submitting group)
 * gafoltz@syr.edu: Gabriel Foltz (member of evaluating group)
@@ -9781,7 +9788,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jhurst@syr.edu: Jeremiah Hurst (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2007-E2202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2007-E2202"**
 
 ---
 
@@ -9795,7 +9802,7 @@ You are evaluating group 518, made up of:
 * Joshua Foley (jfoley04@syr.edu)
 * Justin Laurent (jklauren@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0518-E0103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0518-E0103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9810,7 +9817,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zchen172@syr.edu: Zhennan Chen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0518-E0103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0518-E0103"**
 
 ---
 
@@ -9824,7 +9831,7 @@ You are evaluating group 2005, made up of:
 * Jason Levy (jlevy15@syr.edu)
 * James Korenman (jkorenma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2005-E0518" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2005-E0518" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9839,7 +9846,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jklauren@syr.edu: Justin Laurent (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2005-E0518"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2005-E0518"**
 
 ---
 
@@ -9853,7 +9860,7 @@ You are evaluating group 513, made up of:
 * Jake Kurtz (jkurtz01@syr.edu)
 * Ryan Kalata (rakalata@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0513-E1106" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0513-E1106" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9869,7 +9876,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ottroilo@syr.edu: Olivia Troilo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0513-E1106"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0513-E1106"**
 
 ---
 
@@ -9883,7 +9890,7 @@ You are evaluating group 505, made up of:
 * Jackson Carrel (jlcarrel@syr.edu)
 * Sahil Kirpalani (skirpala@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0505-E1704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0505-E1704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9899,7 +9906,7 @@ Once you have, please send it in an email, along with the group's original submi
 * bisnyder@syr.edu: Bibiana Snyder (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0505-E1704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0505-E1704"**
 
 ---
 
@@ -9913,7 +9920,7 @@ You are evaluating group 2005, made up of:
 * Jason Levy (jlevy15@syr.edu)
 * James Korenman (jkorenma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2005-E0518" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2005-E0518" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9928,7 +9935,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jklauren@syr.edu: Justin Laurent (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2005-E0518"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2005-E0518"**
 
 ---
 
@@ -9942,7 +9949,7 @@ You are evaluating group 1701, made up of:
 * Jiaqi Liu (jliu119@syr.edu)
 * Sitong Lyu (slyu11@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1701-E0104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1701-E0104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9958,13 +9965,13 @@ Once you have, please send it in an email, along with the group's original submi
 * jzuluaga@syr.edu: Joana Zuluaga (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1701-E0104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1701-E0104"**
 
 ---
 
 ---
 
-### Group 213: Jacob Bernardine, Anthony Bellman, Yu  Sun
+### Group 213: Anthony Bellman, Yu  Sun
 
 You are evaluating group 314, made up of:
 
@@ -9972,7 +9979,7 @@ You are evaluating group 314, made up of:
 * Maxwell Boise (mboise@syr.edu)
 * Nicholas Mancuso (nmancuso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0314-E0213" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0314-E0213" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -9982,12 +9989,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jltoder@syr.edu: Toder Jenna (member of submitting group)
 * mboise@syr.edu: Maxwell Boise (member of submitting group)
 * nmancuso@syr.edu: Nicholas Mancuso (member of submitting group)
-* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * ajbellma@syr.edu: Anthony Bellman (member of evaluating group)
 * ysun57@syr.edu: Yu  Sun (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0314-E0213"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0314-E0213"**
 
 ---
 
@@ -10000,7 +10006,7 @@ You are evaluating group 417, made up of:
 * Yuchen Ai (yai100@syr.edu)
 * Junyi Lyu (jlyu04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0417-E1008" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0417-E1008" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10014,7 +10020,7 @@ Once you have, please send it in an email, along with the group's original submi
 * popeters@syr.edu: Petey Peterson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0417-E1008"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0417-E1008"**
 
 ---
 
@@ -10028,7 +10034,7 @@ You are evaluating group 201, made up of:
 * Jamie Chernett (jmcherne@syr.edu)
 * Sami Halperin (sahalper@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0201-E2004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0201-E2004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10042,7 +10048,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgriff02@syr.edu: Liam Griffin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0201-E2004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0201-E2004"**
 
 ---
 
@@ -10053,10 +10059,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0201-E2
 You are evaluating group 603, made up of:
 
 * John Abbott (jwabbott@syr.edu)
+* Tao Tian (tatian@syr.edu)
 * Bendeguz Kevin Balogh (bkbalogh@syr.edu)
 * Jordan McKey (jmckey@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0603-E1710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0603-E1710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10064,6 +10071,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * jwabbott@syr.edu: John Abbott (member of submitting group)
+* tatian@syr.edu: Tao Tian (member of submitting group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of submitting group)
 * jmckey@syr.edu: Jordan McKey (member of submitting group)
 * brbrush@syr.edu: Bryan Brush (member of evaluating group)
@@ -10071,13 +10079,13 @@ Once you have, please send it in an email, along with the group's original submi
 * rgconner@syr.edu: Ryan Conner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0603-E1710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0603-E1710"**
 
 ---
 
 ---
 
-### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller, Camryn Johnson-Andrews
+### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller
 
 You are evaluating group 1003, made up of:
 
@@ -10085,7 +10093,7 @@ You are evaluating group 1003, made up of:
 * Ramon Phenix (riphenix@syr.edu)
 * Yuri Suh (ysuh02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1003-E0302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1003-E0302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10098,10 +10106,9 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of evaluating group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of evaluating group)
 * tamiller@syr.edu: Taylor Miller (member of evaluating group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1003-E0302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1003-E0302"**
 
 ---
 
@@ -10115,7 +10122,7 @@ You are evaluating group 701, made up of:
 * Matthew Powers (mpower02@syr.edu)
 * William Hentschel (wrhentsc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0701-E1506" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0701-E1506" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10130,7 +10137,7 @@ Once you have, please send it in an email, along with the group's original submi
 * galtamor@syr.edu: Gregory Altamore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0701-E1506"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0701-E1506"**
 
 ---
 
@@ -10144,7 +10151,7 @@ You are evaluating group 1805, made up of:
 * David Religa (dlreliga@syr.edu)
 * Jacob Morris (jmorri27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1805-E0304" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1805-E0304" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10159,21 +10166,20 @@ Once you have, please send it in an email, along with the group's original submi
 * kojosiah@syr.edu: Kato Josiah (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1805-E0304"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1805-E0304"**
 
 ---
 
 ---
 
-### Group 2601: Linxin Wan, Sofya Golubovskaya, Sofya Treshcheva
+### Group 2601: Sofya Golubovskaya, Sofya Treshcheva
 
 You are evaluating group 804, made up of:
 
 * Jared Regenstein (jmregens@syr.edu)
 * Brian Paroff (bmparoff@syr.edu)
-* Alex Papalcure (alpapalc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0804-E2601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0804-E2601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10182,13 +10188,11 @@ Once you have, please send it in an email, along with the group's original submi
 
 * jmregens@syr.edu: Jared Regenstein (member of submitting group)
 * bmparoff@syr.edu: Brian Paroff (member of submitting group)
-* alpapalc@syr.edu: Alex Papalcure (member of submitting group)
-* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of evaluating group)
 * streshch@syr.edu: Sofya Treshcheva (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0804-E2601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0804-E2601"**
 
 ---
 
@@ -10202,7 +10206,7 @@ You are evaluating group 2801, made up of:
 * Siron Thomas (sthoma10@syr.edu)
 * Jacob Stives (jmstives@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2801-E0412" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2801-E0412" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10217,13 +10221,13 @@ Once you have, please send it in an email, along with the group's original submi
 * stnadel@syr.edu: Sydney Nadel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2801-E0412"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2801-E0412"**
 
 ---
 
 ---
 
-### Group 704: Karina Freeland, Sophie Schlosser
+### Group 704: Summer Stubbmann, Karina Freeland, Sophie Schlosser
 
 You are evaluating group 2201, made up of:
 
@@ -10231,7 +10235,7 @@ You are evaluating group 2201, made up of:
 * Jane Shevlin (jshevlin@syr.edu)
 * Tessa Diserafino (tmdisera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2201-E0704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2201-E0704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10241,11 +10245,12 @@ Once you have, please send it in an email, along with the group's original submi
 * jnbondy@syr.edu: Jenna Bondy (member of submitting group)
 * jshevlin@syr.edu: Jane Shevlin (member of submitting group)
 * tmdisera@syr.edu: Tessa Diserafino (member of submitting group)
+* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * kmfreela@syr.edu: Karina Freeland (member of evaluating group)
 * syschlos@syr.edu: Sophie Schlosser (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2201-E0704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2201-E0704"**
 
 ---
 
@@ -10258,7 +10263,7 @@ You are evaluating group 1107, made up of:
 * Jake Newman (jnewma09@syr.edu)
 * Logan Mccabe (lpmccabe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1107-E0600" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1107-E0600" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10272,13 +10277,13 @@ Once you have, please send it in an email, along with the group's original submi
 * owpotter@syr.edu: Olivia Potter (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1107-E0600"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1107-E0600"**
 
 ---
 
 ---
 
-### Group 2908: Shane O'Neil , Phillip Bogan, Andronikos Georgalas
+### Group 2908: Shane O'Neil , Jayden Cole, Phillip Bogan, Andronikos Georgalas
 
 You are evaluating group 501, made up of:
 
@@ -10286,7 +10291,7 @@ You are evaluating group 501, made up of:
 * Hanlin Mo (hmo100@syr.edu)
 * Jeronimo Perez (jperez04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0501-E2908" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0501-E2908" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10297,11 +10302,12 @@ Once you have, please send it in an email, along with the group's original submi
 * hmo100@syr.edu: Hanlin Mo (member of submitting group)
 * jperez04@syr.edu: Jeronimo Perez (member of submitting group)
 * sroneil@syr.edu: Shane O'Neil  (member of evaluating group)
+* jcole01@syr.edu: Jayden Cole (member of evaluating group)
 * pmbogan@syr.edu: Phillip Bogan (member of evaluating group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0501-E2908"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0501-E2908"**
 
 ---
 
@@ -10311,24 +10317,28 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0501-E2
 
 You are evaluating group 408, made up of:
 
+* Haoran Dong (hdong02@syr.edu)
 * John Finnerty Jr (jpfinner@syr.edu)
 * Jose Vilchez (jvilchez@syr.edu)
+* Sophia R Askari (sraskari@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0408-E1811" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0408-E1811" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* hdong02@syr.edu: Haoran Dong (member of submitting group)
 * jpfinner@syr.edu: John Finnerty Jr (member of submitting group)
 * jvilchez@syr.edu: Jose Vilchez (member of submitting group)
+* sraskari@syr.edu: Sophia R Askari (member of submitting group)
 * jhcoles@syr.edu: Jermaine Coles (member of evaluating group)
 * prschoen@syr.edu: Preston Schoenberg (member of evaluating group)
 * oodarluz@syr.edu: Otitodirichukwu Oto Darl Uzu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0408-E1811"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0408-E1811"**
 
 ---
 
@@ -10342,7 +10352,7 @@ You are evaluating group 2301, made up of:
 * Reid Thompson (rthomp10@syr.edu)
 * Telusila Vunipola (tmvunipo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2301-E1108" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2301-E1108" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10357,7 +10367,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zaaskari@syr.edu: Zachary Askarinam (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2301-E1108"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2301-E1108"**
 
 ---
 
@@ -10371,7 +10381,7 @@ You are evaluating group 606, made up of:
 * Jonah Quinn (jquinn06@syr.edu)
 * Kenneth Barrist (kjbarris@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0606-E1001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0606-E1001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10386,7 +10396,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jszitome@syr.edu: Joshua Zitomer (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0606-E1001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0606-E1001"**
 
 ---
 
@@ -10400,7 +10410,7 @@ You are evaluating group 1102, made up of:
 * Daniel Hassett (dphasset@syr.edu)
 * Jason Boyle (jrboyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1102-E0511" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1102-E0511" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10415,13 +10425,13 @@ Once you have, please send it in an email, along with the group's original submi
 * kmathewm@syr.edu: Karthik Mathew-Malik (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1102-E0511"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1102-E0511"**
 
 ---
 
 ---
 
-### Group 804: Jared Regenstein, Brian Paroff, Alex Papalcure
+### Group 804: Jared Regenstein, Brian Paroff
 
 You are evaluating group 1505, made up of:
 
@@ -10429,7 +10439,7 @@ You are evaluating group 1505, made up of:
 * Jordan Bullock (jrbulloc@syr.edu)
 * William Birks (wcbirks@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1505-E0804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1505-E0804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10441,10 +10451,9 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of submitting group)
 * jmregens@syr.edu: Jared Regenstein (member of evaluating group)
 * bmparoff@syr.edu: Brian Paroff (member of evaluating group)
-* alpapalc@syr.edu: Alex Papalcure (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1505-E0804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1505-E0804"**
 
 ---
 
@@ -10458,7 +10467,7 @@ You are evaluating group 2901, made up of:
 * Emma Lambiaso (eflambia@syr.edu)
 * Jonah Landow (jrlandow@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2901-E0214" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2901-E0214" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10472,7 +10481,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cclorenz@syr.edu: Caitlin Lorenz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2901-E0214"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2901-E0214"**
 
 ---
 
@@ -10486,7 +10495,7 @@ You are evaluating group 1802, made up of:
 * Christopher Sifre (cjsifre@syr.edu)
 * Jeremy Rosenbaum (jrosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1802-E2807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1802-E2807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10500,7 +10509,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gstauben@syr.edu: Gordon Taubenfeld (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1802-E2807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1802-E2807"**
 
 ---
 
@@ -10514,7 +10523,7 @@ You are evaluating group 2804, made up of:
 * Joseph Ritchie (jrritchi@syr.edu)
 * Olivia Gladu (oegladu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2804-E1104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2804-E1104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10529,13 +10538,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mniwelt@syr.edu: Matthew Niwelt (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2804-E1104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2804-E1104"**
 
 ---
 
 ---
 
-### Group 704: Karina Freeland, Sophie Schlosser
+### Group 704: Summer Stubbmann, Karina Freeland, Sophie Schlosser
 
 You are evaluating group 2201, made up of:
 
@@ -10543,7 +10552,7 @@ You are evaluating group 2201, made up of:
 * Jane Shevlin (jshevlin@syr.edu)
 * Tessa Diserafino (tmdisera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2201-E0704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2201-E0704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10553,11 +10562,12 @@ Once you have, please send it in an email, along with the group's original submi
 * jnbondy@syr.edu: Jenna Bondy (member of submitting group)
 * jshevlin@syr.edu: Jane Shevlin (member of submitting group)
 * tmdisera@syr.edu: Tessa Diserafino (member of submitting group)
+* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * kmfreela@syr.edu: Karina Freeland (member of evaluating group)
 * syschlos@syr.edu: Sophie Schlosser (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2201-E0704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2201-E0704"**
 
 ---
 
@@ -10570,8 +10580,9 @@ You are evaluating group 1301, made up of:
 * Celia Reistrom (creistro@syr.edu)
 * Nicholas Kalaw (nmkalaw@syr.edu)
 * Joseph Simon (jsimon06@syr.edu)
+* Miranda Heard (mrheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1301-E0602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1301-E0602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10581,12 +10592,13 @@ Once you have, please send it in an email, along with the group's original submi
 * creistro@syr.edu: Celia Reistrom (member of submitting group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of submitting group)
 * jsimon06@syr.edu: Joseph Simon (member of submitting group)
+* mrheard@syr.edu: Miranda Heard (member of submitting group)
 * ggtette@syr.edu: Gina Tette (member of evaluating group)
 * napereir@syr.edu: Natalie Pereira (member of evaluating group)
 * seayers@syr.edu: Sara Ayers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1301-E0602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1301-E0602"**
 
 ---
 
@@ -10600,7 +10612,7 @@ You are evaluating group 1001, made up of:
 * Joshua Friedman (jfried09@syr.edu)
 * Joshua Zitomer (jszitome@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1001-E2900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1001-E2900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10615,7 +10627,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kkaba01@syr.edu: Kadija Kaba (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1001-E2900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1001-E2900"**
 
 ---
 
@@ -10630,7 +10642,7 @@ You are evaluating group 313, made up of:
 * Jaden Constant (jtconsta@syr.edu)
 * Catherine Connor Rice (crice03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0313-E0306" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0313-E0306" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10646,36 +10658,35 @@ Once you have, please send it in an email, along with the group's original submi
 * lportnoy@syr.edu: Lucas Portnoy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0313-E0306"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0313-E0306"**
 
 ---
 
 ---
 
-### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon
+### Group 1301: Celia Reistrom, Nicholas Kalaw, Joseph Simon, Miranda Heard
 
 You are evaluating group 1610, made up of:
 
-* Brandon Turney (bsturney@syr.edu)
 * Joseph Deblasio (jtdeblas@syr.edu)
 * Benjamin Chairnoff (brchairn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1610-E1301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1610-E1301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of submitting group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of submitting group)
 * creistro@syr.edu: Celia Reistrom (member of evaluating group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of evaluating group)
 * jsimon06@syr.edu: Joseph Simon (member of evaluating group)
+* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1610-E1301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1610-E1301"**
 
 ---
 
@@ -10688,7 +10699,7 @@ You are evaluating group 1105, made up of:
 * Ethan Mitchell (emitch05@syr.edu)
 * Jacob Thomassen (jthoma42@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1105-E2806" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1105-E2806" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10702,13 +10713,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mjmellen@syr.edu: Miranda Mellen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1105-E2806"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1105-E2806"**
 
 ---
 
 ---
 
-### Group 1708: Luke Talago, Harrison Falconio Thompson
+### Group 1708: Luke Talago, Harrison Falconio Thompson, Sungjin Lee
 
 You are evaluating group 2205, made up of:
 
@@ -10716,7 +10727,7 @@ You are evaluating group 2205, made up of:
 * William Slaski (wrslaski@syr.edu)
 * D'Angelo Valdez (dgvaldez@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2205-E1708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2205-E1708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10728,9 +10739,10 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of submitting group)
 * latalago@syr.edu: Luke Talago (member of evaluating group)
 * hfthomps@syr.edu: Harrison Falconio Thompson (member of evaluating group)
+* slee171@syr.edu: Sungjin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2205-E1708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2205-E1708"**
 
 ---
 
@@ -10742,9 +10754,8 @@ You are evaluating group 2802, made up of:
 
 * Brendan Parlee (bhparlee@syr.edu)
 * Juliette Keller (jukeller@syr.edu)
-* Olivia Porter (ogporter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2802-E0406" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2802-E0406" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10753,14 +10764,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * bhparlee@syr.edu: Brendan Parlee (member of submitting group)
 * jukeller@syr.edu: Juliette Keller (member of submitting group)
-* ogporter@syr.edu: Olivia Porter (member of submitting group)
 * gldelgad@syr.edu: Gianna Delgado (member of evaluating group)
 * hray01@syr.edu: Harrison Ray (member of evaluating group)
 * lmkoller@syr.edu: Lily Koller (member of evaluating group)
 * rbrosen@syr.edu: Reed Rosen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2802-E0406"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2802-E0406"**
 
 ---
 
@@ -10774,7 +10784,7 @@ You are evaluating group 900, made up of:
 * Cheuk Kiu Justin Leung (cleung05@syr.edu)
 * Jun Long (julong@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0900-E2803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0900-E2803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10789,7 +10799,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mjleyne@syr.edu: Michael Leyne (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0900-E2803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0900-E2803"**
 
 ---
 
@@ -10799,24 +10809,28 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0900-E2
 
 You are evaluating group 408, made up of:
 
+* Haoran Dong (hdong02@syr.edu)
 * John Finnerty Jr (jpfinner@syr.edu)
 * Jose Vilchez (jvilchez@syr.edu)
+* Sophia R Askari (sraskari@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0408-E1811" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0408-E1811" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* hdong02@syr.edu: Haoran Dong (member of submitting group)
 * jpfinner@syr.edu: John Finnerty Jr (member of submitting group)
 * jvilchez@syr.edu: Jose Vilchez (member of submitting group)
+* sraskari@syr.edu: Sophia R Askari (member of submitting group)
 * jhcoles@syr.edu: Jermaine Coles (member of evaluating group)
 * prschoen@syr.edu: Preston Schoenberg (member of evaluating group)
 * oodarluz@syr.edu: Otitodirichukwu Oto Darl Uzu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0408-E1811"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0408-E1811"**
 
 ---
 
@@ -10830,7 +10844,7 @@ You are evaluating group 1601, made up of:
 * Christian Campbell (ccampb15@syr.edu)
 * Jacob Waldron (jvwaldro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1601-E2800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1601-E2800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10845,7 +10859,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1601-E2800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1601-E2800"**
 
 ---
 
@@ -10856,10 +10870,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1601-E2
 You are evaluating group 603, made up of:
 
 * John Abbott (jwabbott@syr.edu)
+* Tao Tian (tatian@syr.edu)
 * Bendeguz Kevin Balogh (bkbalogh@syr.edu)
 * Jordan McKey (jmckey@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0603-E1710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0603-E1710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10867,6 +10882,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * jwabbott@syr.edu: John Abbott (member of submitting group)
+* tatian@syr.edu: Tao Tian (member of submitting group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of submitting group)
 * jmckey@syr.edu: Jordan McKey (member of submitting group)
 * brbrush@syr.edu: Bryan Brush (member of evaluating group)
@@ -10874,7 +10890,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rgconner@syr.edu: Ryan Conner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0603-E1710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0603-E1710"**
 
 ---
 
@@ -10888,7 +10904,7 @@ You are evaluating group 2303, made up of:
 * Jing Wang (jwang79@syr.edu)
 * Yiyi Yuan (yyuan30@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2303-E2302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2303-E2302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10904,7 +10920,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mwbockma@syr.edu: Maxwell Bockmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2303-E2302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2303-E2302"**
 
 ---
 
@@ -10916,7 +10932,7 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2303-E2
 * Kevin Robertson (kroberts@syr.edu)
 * Matthew Dragon (mtdragon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0711-E0000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0711-E0000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10928,7 +10944,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of submitting group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0711-E0000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0711-E0000"**
 
 ---
 
@@ -10942,7 +10958,7 @@ You are evaluating group 904, made up of:
 * Jacob Wolf (jwolf04@syr.edu)
 * Leia Bisgard (lcbisgar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0904-E0605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0904-E0605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10956,7 +10972,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ijalhach@syr.edu: Isabella Al-Hachem (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0904-E0605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0904-E0605"**
 
 ---
 
@@ -10970,7 +10986,7 @@ You are evaluating group 1710, made up of:
 * Jacob Yousem (jwyousem@syr.edu)
 * Ryan Conner (rgconner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1710-E0517" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1710-E0517" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -10985,7 +11001,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xcao01@syr.edu: Xiaopeng Cao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1710-E0517"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1710-E0517"**
 
 ---
 
@@ -10999,7 +11015,7 @@ You are evaluating group 1401, made up of:
 * Zhishan Ni (zni106@syr.edu)
 * Jieying Xing (jxie102@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1401-E0710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1401-E0710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11015,7 +11031,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmreyesj@syr.edu: Naftali Reyes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1401-E0710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1401-E0710"**
 
 ---
 
@@ -11029,7 +11045,7 @@ You are evaluating group 1402, made up of:
 * Jiajun Xu (jxu199@syr.edu)
 * Xuechun Wang (xwang256@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1402-E1009" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1402-E1009" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11044,7 +11060,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tcgelb@syr.edu: Theodore Gelb (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1402-E1009"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1402-E1009"**
 
 ---
 
@@ -11059,7 +11075,7 @@ You are evaluating group 104, made up of:
 * Christina-Hannie Perrier (csperrie@syr.edu)
 * Joana Zuluaga (jzuluaga@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0104-E1807" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0104-E1807" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11075,13 +11091,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0104-E1807"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0104-E1807"**
 
 ---
 
 ---
 
-### Group 603: John Abbott, Bendeguz Kevin Balogh, Jordan McKey
+### Group 603: John Abbott, Tao Tian, Bendeguz Kevin Balogh, Jordan McKey
 
 You are evaluating group 800, made up of:
 
@@ -11089,7 +11105,7 @@ You are evaluating group 800, made up of:
 * Aicha Sacko (asacko@syr.edu)
 * Kaerod Amare (kamare@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0800-E0603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0800-E0603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11100,11 +11116,12 @@ Once you have, please send it in an email, along with the group's original submi
 * asacko@syr.edu: Aicha Sacko (member of submitting group)
 * kamare@syr.edu: Kaerod Amare (member of submitting group)
 * jwabbott@syr.edu: John Abbott (member of evaluating group)
+* tatian@syr.edu: Tao Tian (member of evaluating group)
 * bkbalogh@syr.edu: Bendeguz Kevin Balogh (member of evaluating group)
 * jmckey@syr.edu: Jordan McKey (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0800-E0603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0800-E0603"**
 
 ---
 
@@ -11119,7 +11136,7 @@ You are evaluating group 1903, made up of:
 * Paulini Ferguson (pjfergus@syr.edu)
 * Kaeleigh B Broyles (kbbroyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1903-E1804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1903-E1804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11135,7 +11152,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jbyers@syr.edu: Jenna Byers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1903-E1804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1903-E1804"**
 
 ---
 
@@ -11149,7 +11166,7 @@ You are evaluating group 1705, made up of:
 * Kevin Camelo Bonilla (kbcamelo@syr.edu)
 * Young Bin Lee (ylee05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1705-E0800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1705-E0800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11164,7 +11181,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kamare@syr.edu: Kaerod Amare (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1705-E0800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1705-E0800"**
 
 ---
 
@@ -11177,7 +11194,7 @@ You are evaluating group 207, made up of:
 * Brendan Sullivan (bsulli06@syr.edu)
 * Katrina Abuls (kcabuls@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0207-E1000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0207-E1000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11191,7 +11208,7 @@ Once you have, please send it in an email, along with the group's original submi
 * thawthor@syr.edu: Tawny Hawthorne (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0207-E1000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0207-E1000"**
 
 ---
 
@@ -11205,7 +11222,7 @@ You are evaluating group 307, made up of:
 * Kiersten Edwards (kedwar03@syr.edu)
 * Luis Lopez-Crespo (llopezcr@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0307-E0404" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0307-E0404" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11221,7 +11238,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rycohen@syr.edu: Ryan Cohen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0307-E0404"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0307-E0404"**
 
 ---
 
@@ -11235,7 +11252,7 @@ You are evaluating group 208, made up of:
 * Myra Wong (mywong@syr.edu)
 * Tanya Cervantes (tgcervan@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0208-E1903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0208-E1903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11251,7 +11268,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kbbroyle@syr.edu: Kaeleigh B Broyles (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0208-E1903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0208-E1903"**
 
 ---
 
@@ -11265,7 +11282,7 @@ You are evaluating group 103, made up of:
 * Yueru Wang (ywang584@syr.edu)
 * Zhennan Chen (zchen172@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0103-E0402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0103-E0402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11280,7 +11297,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lbueno@syr.edu: Laura Bueno (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0103-E0402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0103-E0402"**
 
 ---
 
@@ -11294,7 +11311,7 @@ You are evaluating group 606, made up of:
 * Jonah Quinn (jquinn06@syr.edu)
 * Kenneth Barrist (kjbarris@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0606-E1001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0606-E1001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11309,7 +11326,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jszitome@syr.edu: Joshua Zitomer (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0606-E1001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0606-E1001"**
 
 ---
 
@@ -11323,7 +11340,7 @@ You are evaluating group 2900, made up of:
 * Brianne Quinlan (bequinla@syr.edu)
 * Kadija Kaba (kkaba01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2900-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2900-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11338,7 +11355,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2900-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2900-E1003"**
 
 ---
 
@@ -11353,7 +11370,7 @@ You are evaluating group 1806, made up of:
 * Kyra Singh (klsingh@syr.edu)
 * Nya Bragg (nabragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1806-E1905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1806-E1905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11369,7 +11386,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tjmarma@syr.edu: Tyler Marma (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1806-E1905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1806-E1905"**
 
 ---
 
@@ -11384,7 +11401,7 @@ You are evaluating group 2401, made up of:
 * Wura Martins-Kuye (kmartins@syr.edu)
 * Ryan Smith (rsmith18@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2401-E1702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2401-E1702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11400,7 +11417,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nfgetzug@syr.edu: Noa Getzug (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2401-E1702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2401-E1702"**
 
 ---
 
@@ -11414,7 +11431,7 @@ You are evaluating group 511, made up of:
 * Jay Grant (jbgrant@syr.edu)
 * Karthik Mathew-Malik (kmathewm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0511-E2002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0511-E2002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11429,21 +11446,19 @@ Once you have, please send it in an email, along with the group's original submi
 * wksteinb@syr.edu: William Steinberg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0511-E2002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0511-E2002"**
 
 ---
 
 ---
 
-### Group 2907: Eli Levine, Victor Richarson
-
-You are evaluating group 2204, made up of:
+### Group 2907: You are evaluating group 2204, made up of:
 
 * Kevin Mendez (kmende04@syr.edu)
 * William Boalt (wtboalt@syr.edu)
 * Zion Smith (zismith@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2204-E2907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2204-E2907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11453,11 +11468,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmende04@syr.edu: Kevin Mendez (member of submitting group)
 * wtboalt@syr.edu: William Boalt (member of submitting group)
 * zismith@syr.edu: Zion Smith (member of submitting group)
-* elevin04@syr.edu: Eli Levine (member of evaluating group)
-* vrichars@syr.edu: Victor Richarson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2204-E2907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2204-E2907"**
 
 ---
 
@@ -11467,16 +11480,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2204-E2
 
 You are evaluating group 704, made up of:
 
+* Summer Stubbmann (sstubbma@syr.edu)
 * Karina Freeland (kmfreela@syr.edu)
 * Sophie Schlosser (syschlos@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0704-E0101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0704-E0101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* sstubbma@syr.edu: Summer Stubbmann (member of submitting group)
 * kmfreela@syr.edu: Karina Freeland (member of submitting group)
 * syschlos@syr.edu: Sophie Schlosser (member of submitting group)
 * hujing@syr.edu: Joyce Jing (member of evaluating group)
@@ -11484,7 +11499,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zchen200@syr.edu: Zeren Chen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0704-E0101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0704-E0101"**
 
 ---
 
@@ -11498,7 +11513,7 @@ You are evaluating group 2400, made up of:
 * Chad de la Rosa (cedelaro@syr.edu)
 * Kimberly Mitchell (kmitch15@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2400-E0601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2400-E0601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11513,13 +11528,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mccrooke@syr.edu: Madeline Crooke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2400-E0601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2400-E0601"**
 
 ---
 
 ---
 
-### Group 700: Ashley Strauss, Hailey Joseph, Summer Stubbmann
+### Group 700: Ashley Strauss, Hailey Joseph
 
 You are evaluating group 1501, made up of:
 
@@ -11527,7 +11542,7 @@ You are evaluating group 1501, made up of:
 * Holly Westbrook (hawestbr@syr.edu)
 * Kathryn Kramp (kmkramp@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1501-E0700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1501-E0700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11539,10 +11554,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of submitting group)
 * asstraus@syr.edu: Ashley Strauss (member of evaluating group)
 * hbjoseph@syr.edu: Hailey Joseph (member of evaluating group)
-* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1501-E0700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1501-E0700"**
 
 ---
 
@@ -11555,7 +11569,7 @@ You are evaluating group 1100, made up of:
 * Kayla Lohman (kmlohman@syr.edu)
 * Michael Kwan (mikwan@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1100-E1601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1100-E1601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11569,7 +11583,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jvwaldro@syr.edu: Jacob Waldron (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1100-E1601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1100-E1601"**
 
 ---
 
@@ -11584,7 +11598,7 @@ You are evaluating group 2602, made up of:
 * Grant Murphy (gmmurphy@syr.edu)
 * Elvis Lee (yli170@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2602-E1904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2602-E1904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11600,7 +11614,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rmckee@syr.edu: Ross McKee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2602-E1904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2602-E1904"**
 
 ---
 
@@ -11614,7 +11628,7 @@ You are evaluating group 304, made up of:
 * Benjamin Hornick (bphornic@syr.edu)
 * Kato Josiah (kojosiah@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0304-E2903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0304-E2903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11629,7 +11643,7 @@ Once you have, please send it in an email, along with the group's original submi
 * snhuff@syr.edu: Sierra Huff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0304-E2903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0304-E2903"**
 
 ---
 
@@ -11643,7 +11657,7 @@ You are evaluating group 1000, made up of:
 * Stephanie Gratzel (scgratze@syr.edu)
 * Tawny Hawthorne (thawthor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1000-E0409" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1000-E0409" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11657,7 +11671,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cjoy01@syr.edu: Connor Joy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1000-E0409"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1000-E0409"**
 
 ---
 
@@ -11669,7 +11683,7 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1000-E0
 * Kevin Robertson (kroberts@syr.edu)
 * Matthew Dragon (mtdragon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0711-E0000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0711-E0000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11681,7 +11695,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of submitting group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0711-E0000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0711-E0000"**
 
 ---
 
@@ -11695,7 +11709,7 @@ You are evaluating group 702, made up of:
 * Kayleigh Sattler (ksattl01@syr.edu)
 * Mia Hinz (mehinz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0702-E0703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0702-E0703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11710,7 +11724,7 @@ Once you have, please send it in an email, along with the group's original submi
 * erramos@syr.edu: Ernest Joseph Ramos (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0702-E0703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0702-E0703"**
 
 ---
 
@@ -11724,7 +11738,7 @@ You are evaluating group 506, made up of:
 * Iman Zia (izia01@syr.edu)
 * Kyle Saugy (ksaugy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0506-E0405" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0506-E0405" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11739,7 +11753,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gshanker@syr.edu: Georgia Shanker (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0506-E0405"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0506-E0405"**
 
 ---
 
@@ -11754,7 +11768,7 @@ You are evaluating group 2603, made up of:
 * Yuqi Chen (ychen396@syr.edu)
 * Kyu  Ho Sim (ksim02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2603-E1900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2603-E1900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11770,13 +11784,13 @@ Once you have, please send it in an email, along with the group's original submi
 * twburke@syr.edu: Thomas Burke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2603-E1900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2603-E1900"**
 
 ---
 
 ---
 
-### Group 1002: Robert Spano, Thomas McMullen
+### Group 1002: Robert Spano, Thomas McMullen, Mateo Lariviere
 
 You are evaluating group 2102, made up of:
 
@@ -11784,7 +11798,7 @@ You are evaluating group 2102, made up of:
 * Cory Spangler (cnspangl@syr.edu)
 * Karhan Sistolu (ksistolu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2102-E1002" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2102-E1002" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11796,15 +11810,16 @@ Once you have, please send it in an email, along with the group's original submi
 * ksistolu@syr.edu: Karhan Sistolu (member of submitting group)
 * rnspano@syr.edu: Robert Spano (member of evaluating group)
 * tsmcmull@syr.edu: Thomas McMullen (member of evaluating group)
+* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2102-E1002"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2102-E1002"**
 
 ---
 
 ---
 
-### Group 2604: Chengting Wu, Suyun Chen, Ziqian Shan
+### Group 2604: Linxin Wan, Chengting Wu, Suyun Chen, Ziqian Shan
 
 You are evaluating group 2704, made up of:
 
@@ -11812,7 +11827,7 @@ You are evaluating group 2704, made up of:
 * Kun Tu (ktu100@syr.edu)
 * Samantha Dinerman (sbdinerm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2704-E2604" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2704-E2604" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11822,12 +11837,13 @@ Once you have, please send it in an email, along with the group's original submi
 * msolom02@syr.edu: Max Solomon (member of submitting group)
 * ktu100@syr.edu: Kun Tu (member of submitting group)
 * sbdinerm@syr.edu: Samantha Dinerman (member of submitting group)
+* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * cwu141@syr.edu: Chengting Wu (member of evaluating group)
 * schen188@syr.edu: Suyun Chen (member of evaluating group)
 * zshan01@syr.edu: Ziqian Shan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2704-E2604"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2704-E2604"**
 
 ---
 
@@ -11842,7 +11858,7 @@ You are evaluating group 509, made up of:
 * Duncan Grant (dugrant@syr.edu)
 * Kathryn Voler (kvvoler@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0509-E0904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0509-E0904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11858,7 +11874,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lcbisgar@syr.edu: Leia Bisgard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0509-E0904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0509-E0904"**
 
 ---
 
@@ -11871,7 +11887,7 @@ You are evaluating group 414, made up of:
 * Alana Coffman (amcoffma@syr.edu)
 * Luka Madhok (lamadhok@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0414-E0311" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0414-E0311" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11885,7 +11901,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lvrbaski@syr.edu: Luka Vrbaski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0414-E0311"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0414-E0311"**
 
 ---
 
@@ -11897,8 +11913,9 @@ You are evaluating group 1708, made up of:
 
 * Luke Talago (latalago@syr.edu)
 * Harrison Falconio Thompson (hfthomps@syr.edu)
+* Sungjin Lee (slee171@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1708-E2701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1708-E2701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11907,12 +11924,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * latalago@syr.edu: Luke Talago (member of submitting group)
 * hfthomps@syr.edu: Harrison Falconio Thompson (member of submitting group)
+* slee171@syr.edu: Sungjin Lee (member of submitting group)
 * etmurcko@syr.edu: Emily Murcko (member of evaluating group)
 * twang99@syr.edu: Tao Wang (member of evaluating group)
 * xshu03@syr.edu: Xiaoxin Shu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1708-E2701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1708-E2701"**
 
 ---
 
@@ -11926,7 +11944,7 @@ You are evaluating group 209, made up of:
 * Pamela Flores (pflore01@syr.edu)
 * Sarah Bragg (sjbragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0209-E2200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0209-E2200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11941,7 +11959,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rejansen@syr.edu: Rhys Jansen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0209-E2200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0209-E2200"**
 
 ---
 
@@ -11955,7 +11973,7 @@ You are evaluating group 412, made up of:
 * Leonardo Bonilla (lbonilla@syr.edu)
 * Sydney Nadel (stnadel@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0412-E0417" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0412-E0417" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11969,7 +11987,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jlyu04@syr.edu: Junyi Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0412-E0417"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0412-E0417"**
 
 ---
 
@@ -11983,7 +12001,7 @@ You are evaluating group 402, made up of:
 * Caitlyn Brady (cbrady@syr.edu)
 * Laura Bueno (lbueno@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0402-E2603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0402-E2603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -11999,7 +12017,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ksim02@syr.edu: Kyu  Ho Sim (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0402-E2603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0402-E2603"**
 
 ---
 
@@ -12013,7 +12031,7 @@ You are evaluating group 904, made up of:
 * Jacob Wolf (jwolf04@syr.edu)
 * Leia Bisgard (lcbisgar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0904-E0605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0904-E0605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12027,7 +12045,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ijalhach@syr.edu: Isabella Al-Hachem (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0904-E0605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0904-E0605"**
 
 ---
 
@@ -12041,7 +12059,7 @@ You are evaluating group 601, made up of:
 * Leilani Phommaniraj (lcphomma@syr.edu)
 * Madeline Crooke (mccrooke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0601-E0410" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0601-E0410" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12056,7 +12074,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sisulc@syr.edu: Sierra Sulc (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0601-E0410"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0601-E0410"**
 
 ---
 
@@ -12069,7 +12087,7 @@ You are evaluating group 312, made up of:
 * Hanne Haynes (hhaynes@syr.edu)
 * Louise Rath (lcrath@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0312-E2801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0312-E2801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12083,7 +12101,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmstives@syr.edu: Jacob Stives (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0312-E2801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0312-E2801"**
 
 ---
 
@@ -12097,7 +12115,7 @@ You are evaluating group 600, made up of:
 * Lily Warren (lcwarren@syr.edu)
 * Olivia Potter (owpotter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0600-E0401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0600-E0401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12112,21 +12130,19 @@ Once you have, please send it in an email, along with the group's original submi
 * smmoore@syr.edu: Sam Moore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0600-E0401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0600-E0401"**
 
 ---
 
 ---
 
-### Group 1302: Miranda Heard
-
-You are evaluating group 2003, made up of:
+### Group 1302: You are evaluating group 2003, made up of:
 
 * Alex Bisignani (abisigna@syr.edu)
 * Liam Creeden (ldcreede@syr.edu)
 * Noah Simpson (nrsimpso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2003-E1302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2003-E1302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12136,10 +12152,9 @@ Once you have, please send it in an email, along with the group's original submi
 * abisigna@syr.edu: Alex Bisignani (member of submitting group)
 * ldcreede@syr.edu: Liam Creeden (member of submitting group)
 * nrsimpso@syr.edu: Noah Simpson (member of submitting group)
-* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2003-E1302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2003-E1302"**
 
 ---
 
@@ -12153,7 +12168,7 @@ You are evaluating group 1604, made up of:
 * Dominic Samangy (dsamangy@syr.edu)
 * Lee Gerstman (lgerstma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1604-E0709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1604-E0709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12168,7 +12183,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhuang38@syr.edu: Zhen Huang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1604-E0709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1604-E0709"**
 
 ---
 
@@ -12183,7 +12198,7 @@ You are evaluating group 1800, made up of:
 * Madeline Gorewitz (mggorewi@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1800-E1907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1800-E1907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12200,7 +12215,7 @@ Once you have, please send it in an email, along with the group's original submi
 * etefera@syr.edu: Eden Tefera (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1800-E1907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1800-E1907"**
 
 ---
 
@@ -12213,7 +12228,7 @@ You are evaluating group 2004, made up of:
 * Caroline Francoeur (ccfranco@syr.edu)
 * Liam Griffin (lgriff02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2004-E0607" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2004-E0607" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12227,7 +12242,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lklegran@syr.edu: Lagarthucin Legrand (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2004-E0607"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2004-E0607"**
 
 ---
 
@@ -12242,7 +12257,7 @@ You are evaluating group 1504, made up of:
 * Thomas Cohen (thcohen@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1504-E1701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1504-E1701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12258,13 +12273,13 @@ Once you have, please send it in an email, along with the group's original submi
 * slyu11@syr.edu: Sitong Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1504-E1701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1504-E1701"**
 
 ---
 
 ---
 
-### Group 102: Hongkai He, Yifei Liu, Zachary Stern
+### Group 102: Hongkai He, Yifei Liu, Zachary Stern, Martin Berishaj
 
 You are evaluating group 203, made up of:
 
@@ -12273,7 +12288,7 @@ You are evaluating group 203, made up of:
 * Stephen Sklar (sasklar@syr.edu)
 * Teresa Greenwood (tegreenw@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0203-E0102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0203-E0102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12287,9 +12302,10 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of evaluating group)
 * yliu17@syr.edu: Yifei Liu (member of evaluating group)
 * zwstern@syr.edu: Zachary Stern (member of evaluating group)
+* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0203-E0102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0203-E0102"**
 
 ---
 
@@ -12304,7 +12320,7 @@ You are evaluating group 2302, made up of:
 * Liwen Duan (liduan@syr.edu)
 * Maxwell Bockmann (mwbockma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2302-E2402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2302-E2402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12320,7 +12336,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yluo27@syr.edu: Youhao Luo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2302-E2402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2302-E2402"**
 
 ---
 
@@ -12334,7 +12350,7 @@ You are evaluating group 2006, made up of:
 * Luke Kaleeba (lkaleeba@syr.edu)
 * Timothy Skeval (tbskeval@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2006-E0201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2006-E0201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12349,7 +12365,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sahalper@syr.edu: Sami Halperin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2006-E0201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2006-E0201"**
 
 ---
 
@@ -12363,7 +12379,7 @@ You are evaluating group 607, made up of:
 * Rachel Iannarelli (raiannar@syr.edu)
 * Lagarthucin Legrand (lklegran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0607-E0606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0607-E0606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12378,7 +12394,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kjbarris@syr.edu: Kenneth Barrist (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0607-E0606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0607-E0606"**
 
 ---
 
@@ -12391,8 +12407,9 @@ You are evaluating group 2300, made up of:
 * Hope Millner (hmillner@syr.edu)
 * Luka Lazarevic (llazarev@syr.edu)
 * Thomas Bauer (tebauer@syr.edu)
+* Max Kennedy (makenned@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2300-E1707" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2300-E1707" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12402,12 +12419,13 @@ Once you have, please send it in an email, along with the group's original submi
 * hmillner@syr.edu: Hope Millner (member of submitting group)
 * llazarev@syr.edu: Luka Lazarevic (member of submitting group)
 * tebauer@syr.edu: Thomas Bauer (member of submitting group)
+* makenned@syr.edu: Max Kennedy (member of submitting group)
 * avsalaza@syr.edu: Ava Salazar (member of evaluating group)
 * meorlean@syr.edu: Michele Orleans (member of evaluating group)
 * skdenaro@syr.edu: Samantha Denaro (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2300-E1707"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2300-E1707"**
 
 ---
 
@@ -12421,7 +12439,7 @@ You are evaluating group 307, made up of:
 * Kiersten Edwards (kedwar03@syr.edu)
 * Luis Lopez-Crespo (llopezcr@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0307-E0404" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0307-E0404" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12437,7 +12455,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rycohen@syr.edu: Ryan Cohen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0307-E0404"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0307-E0404"**
 
 ---
 
@@ -12451,7 +12469,7 @@ You are evaluating group 510, made up of:
 * Tyler Dawson (tldawson@syr.edu)
 * Zaria Kirkland (znkirkla@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0510-E0415" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0510-E0415" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12467,7 +12485,7 @@ Once you have, please send it in an email, along with the group's original submi
 * dgeorg02@syr.edu: David George (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0510-E0415"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0510-E0415"**
 
 ---
 
@@ -12481,7 +12499,7 @@ You are evaluating group 1502, made up of:
 * Blake Taub (bltaub@syr.edu)
 * Luke Ceccoli (lmceccol@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1502-E1507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1502-E1507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12496,7 +12514,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cszeeve@syr.edu: Charles Zeeve (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1502-E1507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1502-E1507"**
 
 ---
 
@@ -12511,7 +12529,7 @@ You are evaluating group 1007, made up of:
 * Lauren Mix (lmix02@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1007-E0508" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1007-E0508" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12527,7 +12545,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rblowers@syr.edu: Ryan Blowers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1007-E0508"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1007-E0508"**
 
 ---
 
@@ -12542,7 +12560,7 @@ You are evaluating group 406, made up of:
 * Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0406-E2901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0406-E2901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12558,7 +12576,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrlandow@syr.edu: Jonah Landow (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0406-E2901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0406-E2901"**
 
 ---
 
@@ -12573,7 +12591,7 @@ You are evaluating group 210, made up of:
 * Laurhen Marie Parvin (lmparvin@syr.edu)
 * Morgan Fahy (mofahy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0210-E1505" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0210-E1505" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12589,7 +12607,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0210-E1505"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0210-E1505"**
 
 ---
 
@@ -12602,7 +12620,7 @@ You are evaluating group 1107, made up of:
 * Jake Newman (jnewma09@syr.edu)
 * Logan Mccabe (lpmccabe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1107-E0600" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1107-E0600" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12616,7 +12634,7 @@ Once you have, please send it in an email, along with the group's original submi
 * owpotter@syr.edu: Olivia Potter (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1107-E0600"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1107-E0600"**
 
 ---
 
@@ -12630,7 +12648,7 @@ You are evaluating group 306, made up of:
 * Dylan Goldberg (djgoldbe@syr.edu)
 * Lucas Portnoy (lportnoy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0306-E2705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0306-E2705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12644,7 +12662,7 @@ Once you have, please send it in an email, along with the group's original submi
 * smgallig@syr.edu: Sarah Galligan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0306-E2705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0306-E2705"**
 
 ---
 
@@ -12655,9 +12673,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0306-E2
 You are evaluating group 206, made up of:
 
 * Noah Rosenthal (nsrosent@syr.edu)
+* Daniel Pease (dtpease@syr.edu)
 * Logan Forbes (lrforbes@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0206-E0903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0206-E0903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12665,19 +12684,20 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * nsrosent@syr.edu: Noah Rosenthal (member of submitting group)
+* dtpease@syr.edu: Daniel Pease (member of submitting group)
 * lrforbes@syr.edu: Logan Forbes (member of submitting group)
 * hredzepa@syr.edu: Hana Redzepagic (member of evaluating group)
 * madiblas@syr.edu: Michael Diblasi (member of evaluating group)
 * pthandar@syr.edu: Phyoe Thandar (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0206-E0903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0206-E0903"**
 
 ---
 
 ---
 
-### Group 2802: Brendan Parlee, Juliette Keller, Olivia Porter
+### Group 2802: Brendan Parlee, Juliette Keller
 
 You are evaluating group 311, made up of:
 
@@ -12685,7 +12705,7 @@ You are evaluating group 311, made up of:
 * Amanda Miller (amille19@syr.edu)
 * Luka Vrbaski (lvrbaski@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0311-E2802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0311-E2802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12697,10 +12717,9 @@ Once you have, please send it in an email, along with the group's original submi
 * lvrbaski@syr.edu: Luka Vrbaski (member of submitting group)
 * bhparlee@syr.edu: Brendan Parlee (member of evaluating group)
 * jukeller@syr.edu: Juliette Keller (member of evaluating group)
-* ogporter@syr.edu: Olivia Porter (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0311-E2802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0311-E2802"**
 
 ---
 
@@ -12710,25 +12729,23 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0311-E2
 
 You are evaluating group 2601, made up of:
 
-* Linxin Wan (lwan03@syr.edu)
 * Sofya Golubovskaya (sgolubov@syr.edu)
 * Sofya Treshcheva (streshch@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2601-E0310" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2601-E0310" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of submitting group)
 * streshch@syr.edu: Sofya Treshcheva (member of submitting group)
 * chfreema@syr.edu: Christopher Freeman (member of evaluating group)
 * tahinds@syr.edu: Taylia Hinds (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2601-E0310"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2601-E0310"**
 
 ---
 
@@ -12742,7 +12759,7 @@ You are evaluating group 1008, made up of:
 * Madison Bequer (mabequer@syr.edu)
 * Petey Peterson (popeters@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1008-E1603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1008-E1603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12758,7 +12775,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhgoldma@syr.edu: Zachary Goldman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1008-E1603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1008-E1603"**
 
 ---
 
@@ -12768,18 +12785,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1008-E1
 
 You are evaluating group 1609, made up of:
 
-* Martin Berishaj (maberish@syr.edu)
 * Jacob Cohen Kronberg (jckronbe@syr.edu)
 * Blessing Emole (ubemole@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1609-E2000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1609-E2000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of submitting group)
 * ubemole@syr.edu: Blessing Emole (member of submitting group)
 * cmee01@syr.edu: Creagan Mee (member of evaluating group)
@@ -12787,7 +12802,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbschnei@syr.edu: Samuel Schneider (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1609-E2000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1609-E2000"**
 
 ---
 
@@ -12801,7 +12816,7 @@ You are evaluating group 403, made up of:
 * Maeva Collatos (macollat@syr.edu)
 * Sophia Soderlund (sjsoderl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0403-E1902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0403-E1902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12816,7 +12831,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jhgordon@syr.edu: Jack Gordon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0403-E1902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0403-E1902"**
 
 ---
 
@@ -12830,7 +12845,7 @@ You are evaluating group 903, made up of:
 * Michael Diblasi (madiblas@syr.edu)
 * Phyoe Thandar (pthandar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0903-E1400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0903-E1400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12845,7 +12860,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zofang@syr.edu: Zongli Fang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0903-E1400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0903-E1400"**
 
 ---
 
@@ -12859,7 +12874,7 @@ You are evaluating group 1404, made up of:
 * Michael Hernandez Jr (mahernan@syr.edu)
 * Matthew Martin (mamartin@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1404-E2703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1404-E2703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12874,7 +12889,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jcshort@syr.edu: Julia Short (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1404-E2703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1404-E2703"**
 
 ---
 
@@ -12889,7 +12904,7 @@ You are evaluating group 801, made up of:
 * Nikki Rafferty (ngraffer@syr.edu)
 * Taylor Moss (tmoss02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0801-E2104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0801-E2104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12905,7 +12920,7 @@ Once you have, please send it in an email, along with the group's original submi
 * clynch12@syr.edu: Courtney Lynch (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0801-E2104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0801-E2104"**
 
 ---
 
@@ -12919,7 +12934,7 @@ You are evaluating group 1702, made up of:
 * Madison Hennig (mthennig@syr.edu)
 * Noa Getzug (nfgetzug@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1702-E2205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1702-E2205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12934,7 +12949,7 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1702-E2205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1702-E2205"**
 
 ---
 
@@ -12948,7 +12963,7 @@ You are evaluating group 1404, made up of:
 * Michael Hernandez Jr (mahernan@syr.edu)
 * Matthew Martin (mamartin@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1404-E2703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1404-E2703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12963,7 +12978,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jcshort@syr.edu: Julia Short (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1404-E2703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1404-E2703"**
 
 ---
 
@@ -12977,7 +12992,7 @@ You are evaluating group 1602, made up of:
 * Marissia Potamianos (mpotamia@syr.edu)
 * Pengwei Wang (pwang09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1602-E2401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1602-E2401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -12993,7 +13008,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rsmith18@syr.edu: Ryan Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1602-E2401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1602-E2401"**
 
 ---
 
@@ -13007,7 +13022,7 @@ You are evaluating group 2806, made up of:
 * Maxwell Reed (mareed@syr.edu)
 * Miranda Mellen (mjmellen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2806-E0708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2806-E0708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13022,7 +13037,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rdahmed@syr.edu: Rehan Ahmed (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2806-E0708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2806-E0708"**
 
 ---
 
@@ -13036,7 +13051,7 @@ You are evaluating group 1101, made up of:
 * Maeve Sheehan (masheeha@syr.edu)
 * Shanice Manning (smanni01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1101-E2902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1101-E2902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13051,13 +13066,13 @@ Once you have, please send it in an email, along with the group's original submi
 * rdlamas@syr.edu: Roberto Lamas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1101-E2902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1101-E2902"**
 
 ---
 
 ---
 
-### Group 2905: Owen Zides, Zoe Mccreary
+### Group 2905: Owen Zides, Zoe Mccreary, Eli Levine
 
 You are evaluating group 902, made up of:
 
@@ -13065,7 +13080,7 @@ You are evaluating group 902, made up of:
 * Dylan Goldberg (dygoldbe@syr.edu)
 * Matthieu Theard (matheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0902-E2905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0902-E2905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13077,9 +13092,10 @@ Once you have, please send it in an email, along with the group's original submi
 * matheard@syr.edu: Matthieu Theard (member of submitting group)
 * ozides@syr.edu: Owen Zides (member of evaluating group)
 * zemccrea@syr.edu: Zoe Mccreary (member of evaluating group)
+* elevin04@syr.edu: Eli Levine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0902-E2905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0902-E2905"**
 
 ---
 
@@ -13094,7 +13110,7 @@ You are evaluating group 1603, made up of:
 * Daniel Chaplick (djchapli@syr.edu)
 * Zachary Goldman (zhgoldma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1603-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1603-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13111,13 +13127,13 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1603-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1603-E2602"**
 
 ---
 
 ---
 
-### Group 213: Jacob Bernardine, Anthony Bellman, Yu  Sun
+### Group 213: Anthony Bellman, Yu  Sun
 
 You are evaluating group 314, made up of:
 
@@ -13125,7 +13141,7 @@ You are evaluating group 314, made up of:
 * Maxwell Boise (mboise@syr.edu)
 * Nicholas Mancuso (nmancuso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0314-E0213" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0314-E0213" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13135,12 +13151,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jltoder@syr.edu: Toder Jenna (member of submitting group)
 * mboise@syr.edu: Maxwell Boise (member of submitting group)
 * nmancuso@syr.edu: Nicholas Mancuso (member of submitting group)
-* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * ajbellma@syr.edu: Anthony Bellman (member of evaluating group)
 * ysun57@syr.edu: Yu  Sun (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0314-E0213"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0314-E0213"**
 
 ---
 
@@ -13154,7 +13169,7 @@ You are evaluating group 1904, made up of:
 * Martin Brennan (mbrenn05@syr.edu)
 * Ross McKee (rmckee@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1904-E2301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1904-E2301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13169,7 +13184,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tmvunipo@syr.edu: Telusila Vunipola (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1904-E2301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1904-E2301"**
 
 ---
 
@@ -13184,7 +13199,7 @@ You are evaluating group 1907, made up of:
 * Zoe Carlson (zecarlso@syr.edu)
 * Eden Tefera (etefera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1907-E2700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1907-E2700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13200,7 +13215,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xyuan16@syr.edu: Xiaoping Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1907-E2700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1907-E2700"**
 
 ---
 
@@ -13214,7 +13229,7 @@ You are evaluating group 601, made up of:
 * Leilani Phommaniraj (lcphomma@syr.edu)
 * Madeline Crooke (mccrooke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0601-E0410" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0601-E0410" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13229,7 +13244,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sisulc@syr.edu: Sierra Sulc (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0601-E0410"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0601-E0410"**
 
 ---
 
@@ -13243,7 +13258,7 @@ You are evaluating group 2801, made up of:
 * Siron Thomas (sthoma10@syr.edu)
 * Jacob Stives (jmstives@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2801-E0412" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2801-E0412" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13258,7 +13273,7 @@ Once you have, please send it in an email, along with the group's original submi
 * stnadel@syr.edu: Sydney Nadel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2801-E0412"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2801-E0412"**
 
 ---
 
@@ -13272,7 +13287,7 @@ You are evaluating group 708, made up of:
 * Max Cotroneo (mcotrone@syr.edu)
 * Rehan Ahmed (rdahmed@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0708-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0708-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13288,7 +13303,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0708-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0708-E1007"**
 
 ---
 
@@ -13303,7 +13318,7 @@ You are evaluating group 1006, made up of:
 * Jaden Gerard (jagerard@syr.edu)
 * Matthew Reese (mcreese@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1006-E0507" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1006-E0507" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13319,13 +13334,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mkfairfa@syr.edu: Matthew Fairfax (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1006-E0507"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1006-E0507"**
 
 ---
 
 ---
 
-### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski
+### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski, Brandon Turney
 
 You are evaluating group 515, made up of:
 
@@ -13333,7 +13348,7 @@ You are evaluating group 515, made up of:
 * Tessa Pulgar (tkpulgar@syr.edu)
 * Zoe Copeland (zccopela@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0515-E1606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0515-E1606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13346,9 +13361,10 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of evaluating group)
 * jahoyt@syr.edu: Andrew Hoyt (member of evaluating group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of evaluating group)
+* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0515-E1606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0515-E1606"**
 
 ---
 
@@ -13363,7 +13379,7 @@ You are evaluating group 1903, made up of:
 * Paulini Ferguson (pjfergus@syr.edu)
 * Kaeleigh B Broyles (kbbroyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1903-E1804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1903-E1804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13379,7 +13395,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jbyers@syr.edu: Jenna Byers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1903-E1804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1903-E1804"**
 
 ---
 
@@ -13393,7 +13409,7 @@ You are evaluating group 301, made up of:
 * Joshua Jones (jjones52@syr.edu)
 * Megan Bisson (mebisson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0301-E0706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0301-E0706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13408,7 +13424,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gjstaven@syr.edu: Gabriel Stavenhagen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0301-E0706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0301-E0706"**
 
 ---
 
@@ -13422,7 +13438,7 @@ You are evaluating group 1808, made up of:
 * Margaret Grinnell (megrinne@syr.edu)
 * Zev Kalechofsky (zekalech@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1808-E0801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1808-E0801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13438,7 +13454,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tmoss02@syr.edu: Taylor Moss (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1808-E0801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1808-E0801"**
 
 ---
 
@@ -13452,7 +13468,7 @@ You are evaluating group 702, made up of:
 * Kayleigh Sattler (ksattl01@syr.edu)
 * Mia Hinz (mehinz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0702-E0703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0702-E0703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13467,13 +13483,13 @@ Once you have, please send it in an email, along with the group's original submi
 * erramos@syr.edu: Ernest Joseph Ramos (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0702-E0703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0702-E0703"**
 
 ---
 
 ---
 
-### Group 206: Noah Rosenthal, Logan Forbes
+### Group 206: Noah Rosenthal, Daniel Pease, Logan Forbes
 
 You are evaluating group 1707, made up of:
 
@@ -13481,7 +13497,7 @@ You are evaluating group 1707, made up of:
 * Michele Orleans (meorlean@syr.edu)
 * Samantha Denaro (skdenaro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1707-E0206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1707-E0206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13492,10 +13508,11 @@ Once you have, please send it in an email, along with the group's original submi
 * meorlean@syr.edu: Michele Orleans (member of submitting group)
 * skdenaro@syr.edu: Samantha Denaro (member of submitting group)
 * nsrosent@syr.edu: Noah Rosenthal (member of evaluating group)
+* dtpease@syr.edu: Daniel Pease (member of evaluating group)
 * lrforbes@syr.edu: Logan Forbes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1707-E0206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1707-E0206"**
 
 ---
 
@@ -13506,10 +13523,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1707-E0
 You are evaluating group 514, made up of:
 
 * Courtney Bennett (cbenne09@syr.edu)
-* Emma Arczynski (enarczyn@syr.edu)
 * Melanie Salazar (mesalaza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0514-E2201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0514-E2201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13517,14 +13533,13 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * cbenne09@syr.edu: Courtney Bennett (member of submitting group)
-* enarczyn@syr.edu: Emma Arczynski (member of submitting group)
 * mesalaza@syr.edu: Melanie Salazar (member of submitting group)
 * jnbondy@syr.edu: Jenna Bondy (member of evaluating group)
 * jshevlin@syr.edu: Jane Shevlin (member of evaluating group)
 * tmdisera@syr.edu: Tessa Diserafino (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0514-E2201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0514-E2201"**
 
 ---
 
@@ -13538,7 +13553,7 @@ You are evaluating group 407, made up of:
 * Ryan Polaha (rppolaha@syr.edu)
 * Samuel Brownstein (sabrowns@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0407-E0416" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0407-E0416" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13553,7 +13568,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0407-E0416"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0407-E0416"**
 
 ---
 
@@ -13563,18 +13578,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0407-E0
 
 You are evaluating group 2100, made up of:
 
-* Brittney Cunningham (blcunnin@syr.edu)
 * Jing Ge (jge107@syr.edu)
 * Madison Kettering (mfketter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2100-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2100-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* blcunnin@syr.edu: Brittney Cunningham (member of submitting group)
 * jge107@syr.edu: Jing Ge (member of submitting group)
 * mfketter@syr.edu: Madison Kettering (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -13582,7 +13595,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2100-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2100-E2005"**
 
 ---
 
@@ -13597,7 +13610,7 @@ You are evaluating group 1800, made up of:
 * Madeline Gorewitz (mggorewi@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1800-E1907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1800-E1907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13614,7 +13627,7 @@ Once you have, please send it in an email, along with the group's original submi
 * etefera@syr.edu: Eden Tefera (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1800-E1907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1800-E1907"**
 
 ---
 
@@ -13629,7 +13642,7 @@ You are evaluating group 1504, made up of:
 * Thomas Cohen (thcohen@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1504-E1701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1504-E1701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13645,7 +13658,7 @@ Once you have, please send it in an email, along with the group's original submi
 * slyu11@syr.edu: Sitong Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1504-E1701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1504-E1701"**
 
 ---
 
@@ -13660,7 +13673,7 @@ You are evaluating group 710, made up of:
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0710-E1501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0710-E1501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13676,7 +13689,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0710-E1501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0710-E1501"**
 
 ---
 
@@ -13689,7 +13702,7 @@ You are evaluating group 1100, made up of:
 * Kayla Lohman (kmlohman@syr.edu)
 * Michael Kwan (mikwan@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1100-E1601" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1100-E1601" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13703,7 +13716,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jvwaldro@syr.edu: Jacob Waldron (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1100-E1601"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1100-E1601"**
 
 ---
 
@@ -13717,7 +13730,7 @@ You are evaluating group 2803, made up of:
 * Camila Carbajal (ccarbaja@syr.edu)
 * Michael Leyne (mjleyne@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2803-E0702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2803-E0702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13732,13 +13745,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mehinz@syr.edu: Mia Hinz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2803-E0702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2803-E0702"**
 
 ---
 
 ---
 
-### Group 1005: Emerson Murphy, Mateo Lariviere, Tessa Lank, Brian   Hall
+### Group 1005: Emerson Murphy, Tessa Lank, Brian   Hall
 
 You are evaluating group 502, made up of:
 
@@ -13747,7 +13760,7 @@ You are evaluating group 502, made up of:
 * Michael Egidio (msegidio@syr.edu)
 * Victoria Kelly (vkelly@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0502-E1005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0502-E1005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13759,12 +13772,11 @@ Once you have, please send it in an email, along with the group's original submi
 * msegidio@syr.edu: Michael Egidio (member of submitting group)
 * vkelly@syr.edu: Victoria Kelly (member of submitting group)
 * emurph13@syr.edu: Emerson Murphy (member of evaluating group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * talank@syr.edu: Tessa Lank (member of evaluating group)
 * bhall05@syr.edu: Brian   Hall (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0502-E1005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0502-E1005"**
 
 ---
 
@@ -13778,7 +13790,7 @@ You are evaluating group 2806, made up of:
 * Maxwell Reed (mareed@syr.edu)
 * Miranda Mellen (mjmellen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2806-E0708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2806-E0708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13793,7 +13805,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rdahmed@syr.edu: Rehan Ahmed (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2806-E0708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2806-E0708"**
 
 ---
 
@@ -13807,7 +13819,7 @@ You are evaluating group 1809, made up of:
 * Maxum O'Halloran (mjohallo@syr.edu)
 * Tyler O'Neill (tmoneill@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1809-E2906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1809-E2906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13822,7 +13834,7 @@ Once you have, please send it in an email, along with the group's original submi
 * iadawson@syr.edu: Isaac Dawson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1809-E2906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1809-E2906"**
 
 ---
 
@@ -13835,7 +13847,7 @@ You are evaluating group 803, made up of:
 * Maximus Jones (mjones09@syr.edu)
 * Shoshana Turek (sfturek@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0803-E0802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0803-E0802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13849,13 +13861,13 @@ Once you have, please send it in an email, along with the group's original submi
 * tlgralew@syr.edu: Tucker Gralewski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0803-E0802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0803-E0802"**
 
 ---
 
 ---
 
-### Group 2100: Brittney Cunningham, Jing Ge, Madison Kettering
+### Group 2100: Jing Ge, Madison Kettering
 
 You are evaluating group 507, made up of:
 
@@ -13863,7 +13875,7 @@ You are evaluating group 507, made up of:
 * Joshua Golden (jgolde02@syr.edu)
 * Matthew Fairfax (mkfairfa@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0507-E2100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0507-E2100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13873,12 +13885,11 @@ Once you have, please send it in an email, along with the group's original submi
 * ajcibuls@syr.edu: Anthony Cibulsky (member of submitting group)
 * jgolde02@syr.edu: Joshua Golden (member of submitting group)
 * mkfairfa@syr.edu: Matthew Fairfax (member of submitting group)
-* blcunnin@syr.edu: Brittney Cunningham (member of evaluating group)
 * jge107@syr.edu: Jing Ge (member of evaluating group)
 * mfketter@syr.edu: Madison Kettering (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0507-E2100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0507-E2100"**
 
 ---
 
@@ -13892,7 +13903,7 @@ You are evaluating group 1906, made up of:
 * Mia Rodriguez (mkrodrig@syr.edu)
 * Oluwaseminire Babafemi (oebabafe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1906-E0711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1906-E0711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13907,13 +13918,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1906-E0711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1906-E0711"**
 
 ---
 
 ---
 
-### Group 1005: Emerson Murphy, Mateo Lariviere, Tessa Lank, Brian   Hall
+### Group 1005: Emerson Murphy, Tessa Lank, Brian   Hall
 
 You are evaluating group 502, made up of:
 
@@ -13922,7 +13933,7 @@ You are evaluating group 502, made up of:
 * Michael Egidio (msegidio@syr.edu)
 * Victoria Kelly (vkelly@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0502-E1005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0502-E1005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13934,12 +13945,11 @@ Once you have, please send it in an email, along with the group's original submi
 * msegidio@syr.edu: Michael Egidio (member of submitting group)
 * vkelly@syr.edu: Victoria Kelly (member of submitting group)
 * emurph13@syr.edu: Emerson Murphy (member of evaluating group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * talank@syr.edu: Tessa Lank (member of evaluating group)
 * bhall05@syr.edu: Brian   Hall (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0502-E1005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0502-E1005"**
 
 ---
 
@@ -13953,7 +13963,7 @@ You are evaluating group 2200, made up of:
 * Nicole Pullano (ndpullan@syr.edu)
 * Rhys Jansen (rejansen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2200-E0313" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2200-E0313" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -13969,7 +13979,7 @@ Once you have, please send it in an email, along with the group's original submi
 * crice03@syr.edu: Catherine Connor Rice (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2200-E0313"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2200-E0313"**
 
 ---
 
@@ -13984,7 +13994,7 @@ You are evaluating group 415, made up of:
 * Bisman Singh (bsingh@syr.edu)
 * David George (dgeorg02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0415-E2704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0415-E2704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14000,13 +14010,13 @@ Once you have, please send it in an email, along with the group's original submi
 * sbdinerm@syr.edu: Samantha Dinerman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0415-E2704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0415-E2704"**
 
 ---
 
 ---
 
-### Group 1610: Brandon Turney, Joseph Deblasio, Benjamin Chairnoff
+### Group 1610: Joseph Deblasio, Benjamin Chairnoff
 
 You are evaluating group 1807, made up of:
 
@@ -14014,7 +14024,7 @@ You are evaluating group 1807, made up of:
 * Matthew Zumbolo (mmzumbol@syr.edu)
 * Marco Sebastian Tinetto (mtinetto@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1807-E1610" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1807-E1610" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14024,12 +14034,11 @@ Once you have, please send it in an email, along with the group's original submi
 * cwchrist@syr.edu: Calvin Christoforo (member of submitting group)
 * mmzumbol@syr.edu: Matthew Zumbolo (member of submitting group)
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of submitting group)
-* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of evaluating group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1807-E1610"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1807-E1610"**
 
 ---
 
@@ -14043,7 +14052,7 @@ You are evaluating group 1104, made up of:
 * Jake Fienberg (jfienber@syr.edu)
 * Matthew Niwelt (mniwelt@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1104-E1711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1104-E1711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14058,7 +14067,7 @@ Once you have, please send it in an email, along with the group's original submi
 * fngurl@syr.edu: Forrest Gurl (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1104-E1711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1104-E1711"**
 
 ---
 
@@ -14073,7 +14082,7 @@ You are evaluating group 210, made up of:
 * Laurhen Marie Parvin (lmparvin@syr.edu)
 * Morgan Fahy (mofahy@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0210-E1505" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0210-E1505" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14089,7 +14098,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0210-E1505"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0210-E1505"**
 
 ---
 
@@ -14102,7 +14111,7 @@ You are evaluating group 309, made up of:
 * Devanand Persaud (depersau@syr.edu)
 * Madison Grebler (mpgreble@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0309-E0902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0309-E0902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14116,7 +14125,7 @@ Once you have, please send it in an email, along with the group's original submi
 * matheard@syr.edu: Matthieu Theard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0309-E0902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0309-E0902"**
 
 ---
 
@@ -14130,7 +14139,7 @@ You are evaluating group 1602, made up of:
 * Marissia Potamianos (mpotamia@syr.edu)
 * Pengwei Wang (pwang09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1602-E2401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1602-E2401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14146,13 +14155,13 @@ Once you have, please send it in an email, along with the group's original submi
 * rsmith18@syr.edu: Ryan Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1602-E2401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1602-E2401"**
 
 ---
 
 ---
 
-### Group 408: John Finnerty Jr, Jose Vilchez
+### Group 408: Haoran Dong, John Finnerty Jr, Jose Vilchez, Sophia R Askari
 
 You are evaluating group 2203, made up of:
 
@@ -14160,7 +14169,7 @@ You are evaluating group 2203, made up of:
 * Michael Silverman (msilve09@syr.edu)
 * Timothy Rose (tdrose@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2203-E0408" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2203-E0408" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14170,11 +14179,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mpow01@syr.edu: Maya Pow (member of submitting group)
 * msilve09@syr.edu: Michael Silverman (member of submitting group)
 * tdrose@syr.edu: Timothy Rose (member of submitting group)
+* hdong02@syr.edu: Haoran Dong (member of evaluating group)
 * jpfinner@syr.edu: John Finnerty Jr (member of evaluating group)
 * jvilchez@syr.edu: Jose Vilchez (member of evaluating group)
+* sraskari@syr.edu: Sophia R Askari (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2203-E0408"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2203-E0408"**
 
 ---
 
@@ -14188,7 +14199,7 @@ You are evaluating group 701, made up of:
 * Matthew Powers (mpower02@syr.edu)
 * William Hentschel (wrhentsc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0701-E1506" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0701-E1506" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14203,7 +14214,7 @@ Once you have, please send it in an email, along with the group's original submi
 * galtamor@syr.edu: Gregory Altamore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0701-E1506"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0701-E1506"**
 
 ---
 
@@ -14217,7 +14228,7 @@ You are evaluating group 1600, made up of:
 * Annastacia Kilgallon (amkilgal@syr.edu)
 * Molly Shoap (mpshoap@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1600-E1401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1600-E1401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14232,7 +14243,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jxie102@syr.edu: Jieying Xing (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1600-E1401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1600-E1401"**
 
 ---
 
@@ -14242,23 +14253,21 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1600-E1
 
 You are evaluating group 1302, made up of:
 
-* Miranda Heard (mrheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1302-E0509" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1302-E0509" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* mrheard@syr.edu: Miranda Heard (member of submitting group)
 * bagorman@syr.edu: Bailey Gorman (member of evaluating group)
 * cmmckeon@syr.edu: Michael McKeon (member of evaluating group)
 * dugrant@syr.edu: Duncan Grant (member of evaluating group)
 * kvvoler@syr.edu: Kathryn Voler (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1302-E0509"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1302-E0509"**
 
 ---
 
@@ -14269,11 +14278,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1302-E0
 You are evaluating group 1005, made up of:
 
 * Emerson Murphy (emurph13@syr.edu)
-* Mateo Lariviere (mrlarivi@syr.edu)
 * Tessa Lank (talank@syr.edu)
 * Brian   Hall (bhall05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1005-E1010" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1005-E1010" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14281,7 +14289,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * emurph13@syr.edu: Emerson Murphy (member of submitting group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * talank@syr.edu: Tessa Lank (member of submitting group)
 * bhall05@syr.edu: Brian   Hall (member of submitting group)
 * etsulliv@syr.edu: Eamonn Sullivan (member of evaluating group)
@@ -14289,7 +14296,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xsteele@syr.edu: Xavier Steele (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1005-E1010"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1005-E1010"**
 
 ---
 
@@ -14303,7 +14310,7 @@ You are evaluating group 1507, made up of:
 * Mackenzie Shane (mrshane@syr.edu)
 * Charles Zeeve (cszeeve@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1507-E1810" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1507-E1810" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14318,13 +14325,13 @@ Once you have, please send it in an email, along with the group's original submi
 * atmatjuc@syr.edu: Anna Matjucha (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1507-E1810"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1507-E1810"**
 
 ---
 
 ---
 
-### Group 1005: Emerson Murphy, Mateo Lariviere, Tessa Lank, Brian   Hall
+### Group 1005: Emerson Murphy, Tessa Lank, Brian   Hall
 
 You are evaluating group 502, made up of:
 
@@ -14333,7 +14340,7 @@ You are evaluating group 502, made up of:
 * Michael Egidio (msegidio@syr.edu)
 * Victoria Kelly (vkelly@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0502-E1005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0502-E1005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14345,12 +14352,11 @@ Once you have, please send it in an email, along with the group's original submi
 * msegidio@syr.edu: Michael Egidio (member of submitting group)
 * vkelly@syr.edu: Victoria Kelly (member of submitting group)
 * emurph13@syr.edu: Emerson Murphy (member of evaluating group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * talank@syr.edu: Tessa Lank (member of evaluating group)
 * bhall05@syr.edu: Brian   Hall (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0502-E1005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0502-E1005"**
 
 ---
 
@@ -14364,7 +14370,7 @@ You are evaluating group 1709, made up of:
 * David Heiman (dmheiman@syr.edu)
 * Mihika Gogate (msgogate@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1709-E1200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1709-E1200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14379,13 +14385,13 @@ Once you have, please send it in an email, along with the group's original submi
 * xdu110@syr.edu: Xiaoyang Du (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1709-E1200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1709-E1200"**
 
 ---
 
 ---
 
-### Group 408: John Finnerty Jr, Jose Vilchez
+### Group 408: Haoran Dong, John Finnerty Jr, Jose Vilchez, Sophia R Askari
 
 You are evaluating group 2203, made up of:
 
@@ -14393,7 +14399,7 @@ You are evaluating group 2203, made up of:
 * Michael Silverman (msilve09@syr.edu)
 * Timothy Rose (tdrose@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2203-E0408" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2203-E0408" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14403,17 +14409,19 @@ Once you have, please send it in an email, along with the group's original submi
 * mpow01@syr.edu: Maya Pow (member of submitting group)
 * msilve09@syr.edu: Michael Silverman (member of submitting group)
 * tdrose@syr.edu: Timothy Rose (member of submitting group)
+* hdong02@syr.edu: Haoran Dong (member of evaluating group)
 * jpfinner@syr.edu: John Finnerty Jr (member of evaluating group)
 * jvilchez@syr.edu: Jose Vilchez (member of evaluating group)
+* sraskari@syr.edu: Sophia R Askari (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2203-E0408"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2203-E0408"**
 
 ---
 
 ---
 
-### Group 2604: Chengting Wu, Suyun Chen, Ziqian Shan
+### Group 2604: Linxin Wan, Chengting Wu, Suyun Chen, Ziqian Shan
 
 You are evaluating group 2704, made up of:
 
@@ -14421,7 +14429,7 @@ You are evaluating group 2704, made up of:
 * Kun Tu (ktu100@syr.edu)
 * Samantha Dinerman (sbdinerm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2704-E2604" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2704-E2604" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14431,12 +14439,13 @@ Once you have, please send it in an email, along with the group's original submi
 * msolom02@syr.edu: Max Solomon (member of submitting group)
 * ktu100@syr.edu: Kun Tu (member of submitting group)
 * sbdinerm@syr.edu: Samantha Dinerman (member of submitting group)
+* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * cwu141@syr.edu: Chengting Wu (member of evaluating group)
 * schen188@syr.edu: Suyun Chen (member of evaluating group)
 * zshan01@syr.edu: Ziqian Shan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2704-E2604"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2704-E2604"**
 
 ---
 
@@ -14448,7 +14457,7 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2704-E2
 * Kevin Robertson (kroberts@syr.edu)
 * Matthew Dragon (mtdragon@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0711-E0000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0711-E0000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14460,7 +14469,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of submitting group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0711-E0000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0711-E0000"**
 
 ---
 
@@ -14474,7 +14483,7 @@ You are evaluating group 1702, made up of:
 * Madison Hennig (mthennig@syr.edu)
 * Noa Getzug (nfgetzug@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1702-E2205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1702-E2205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14489,13 +14498,13 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1702-E2205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1702-E2205"**
 
 ---
 
 ---
 
-### Group 1610: Brandon Turney, Joseph Deblasio, Benjamin Chairnoff
+### Group 1610: Joseph Deblasio, Benjamin Chairnoff
 
 You are evaluating group 1807, made up of:
 
@@ -14503,7 +14512,7 @@ You are evaluating group 1807, made up of:
 * Matthew Zumbolo (mmzumbol@syr.edu)
 * Marco Sebastian Tinetto (mtinetto@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1807-E1610" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1807-E1610" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14513,12 +14522,11 @@ Once you have, please send it in an email, along with the group's original submi
 * cwchrist@syr.edu: Calvin Christoforo (member of submitting group)
 * mmzumbol@syr.edu: Matthew Zumbolo (member of submitting group)
 * mtinetto@syr.edu: Marco Sebastian Tinetto (member of submitting group)
-* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * jtdeblas@syr.edu: Joseph Deblasio (member of evaluating group)
 * brchairn@syr.edu: Benjamin Chairnoff (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1807-E1610"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1807-E1610"**
 
 ---
 
@@ -14532,7 +14540,7 @@ You are evaluating group 1506, made up of:
 * Shoshanna Tokar (stokar@syr.edu)
 * Gregory Altamore (galtamor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1506-E1703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1506-E1703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14548,7 +14556,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sadams08@syr.edu: Sean Adams (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1506-E1703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1506-E1703"**
 
 ---
 
@@ -14563,7 +14571,7 @@ You are evaluating group 2302, made up of:
 * Liwen Duan (liduan@syr.edu)
 * Maxwell Bockmann (mwbockma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2302-E2402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2302-E2402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14579,7 +14587,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yluo27@syr.edu: Youhao Luo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2302-E2402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2302-E2402"**
 
 ---
 
@@ -14593,7 +14601,7 @@ You are evaluating group 208, made up of:
 * Myra Wong (mywong@syr.edu)
 * Tanya Cervantes (tgcervan@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0208-E1903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0208-E1903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14609,7 +14617,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kbbroyle@syr.edu: Kaeleigh B Broyles (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0208-E1903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0208-E1903"**
 
 ---
 
@@ -14624,7 +14632,7 @@ You are evaluating group 1806, made up of:
 * Kyra Singh (klsingh@syr.edu)
 * Nya Bragg (nabragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1806-E1905" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1806-E1905" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14640,7 +14648,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tjmarma@syr.edu: Tyler Marma (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1806-E1905"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1806-E1905"**
 
 ---
 
@@ -14654,7 +14662,7 @@ You are evaluating group 602, made up of:
 * Natalie Pereira (napereir@syr.edu)
 * Sara Ayers (seayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0602-E0503" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0602-E0503" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14670,7 +14678,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0602-E0503"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0602-E0503"**
 
 ---
 
@@ -14684,7 +14692,7 @@ You are evaluating group 1900, made up of:
 * Nicholas Piro (napiro@syr.edu)
 * Thomas Burke (twburke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1900-E1105" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1900-E1105" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14698,7 +14706,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jthoma42@syr.edu: Jacob Thomassen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1900-E1105"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1900-E1105"**
 
 ---
 
@@ -14712,7 +14720,7 @@ You are evaluating group 1706, made up of:
 * Yadi Flores (yaflores@syr.edu)
 * Yaya Diawara (ydiawara@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1706-E2001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1706-E2001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14727,7 +14735,7 @@ Once you have, please send it in an email, along with the group's original submi
 * srosenba@syr.edu: Sydney Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1706-E2001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1706-E2001"**
 
 ---
 
@@ -14741,7 +14749,7 @@ You are evaluating group 2200, made up of:
 * Nicole Pullano (ndpullan@syr.edu)
 * Rhys Jansen (rejansen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2200-E0313" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2200-E0313" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14757,7 +14765,7 @@ Once you have, please send it in an email, along with the group's original submi
 * crice03@syr.edu: Catherine Connor Rice (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2200-E0313"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2200-E0313"**
 
 ---
 
@@ -14771,7 +14779,7 @@ You are evaluating group 1702, made up of:
 * Madison Hennig (mthennig@syr.edu)
 * Noa Getzug (nfgetzug@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1702-E2205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1702-E2205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14786,7 +14794,7 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1702-E2205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1702-E2205"**
 
 ---
 
@@ -14801,7 +14809,7 @@ You are evaluating group 801, made up of:
 * Nikki Rafferty (ngraffer@syr.edu)
 * Taylor Moss (tmoss02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0801-E2104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0801-E2104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14817,7 +14825,7 @@ Once you have, please send it in an email, along with the group's original submi
 * clynch12@syr.edu: Courtney Lynch (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0801-E2104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0801-E2104"**
 
 ---
 
@@ -14829,10 +14837,10 @@ You are evaluating group 411, made up of:
 
 * Cori Dill (crdill@syr.edu)
 * Devon Degen (dcdegen@syr.edu)
-* Neil Lepard (nlllepard@syr.edu)
+* Neil Lepard (nllepard@syr.edu)
 * Faith Hutson (fjhutson@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0411-E0900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0411-E0900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14841,20 +14849,20 @@ Once you have, please send it in an email, along with the group's original submi
 
 * crdill@syr.edu: Cori Dill (member of submitting group)
 * dcdegen@syr.edu: Devon Degen (member of submitting group)
-* nlllepard@syr.edu: Neil Lepard (member of submitting group)
+* nllepard@syr.edu: Neil Lepard (member of submitting group)
 * fjhutson@syr.edu: Faith Hutson (member of submitting group)
 * chchae@syr.edu: Christin Chae (member of evaluating group)
 * cleung05@syr.edu: Cheuk Kiu Justin Leung (member of evaluating group)
 * julong@syr.edu: Jun Long (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0411-E0900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0411-E0900"**
 
 ---
 
 ---
 
-### Group 213: Jacob Bernardine, Anthony Bellman, Yu  Sun
+### Group 213: Anthony Bellman, Yu  Sun
 
 You are evaluating group 314, made up of:
 
@@ -14862,7 +14870,7 @@ You are evaluating group 314, made up of:
 * Maxwell Boise (mboise@syr.edu)
 * Nicholas Mancuso (nmancuso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0314-E0213" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0314-E0213" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14872,12 +14880,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jltoder@syr.edu: Toder Jenna (member of submitting group)
 * mboise@syr.edu: Maxwell Boise (member of submitting group)
 * nmancuso@syr.edu: Nicholas Mancuso (member of submitting group)
-* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * ajbellma@syr.edu: Anthony Bellman (member of evaluating group)
 * ysun57@syr.edu: Yu  Sun (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0314-E0213"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0314-E0213"**
 
 ---
 
@@ -14892,7 +14899,7 @@ You are evaluating group 1007, made up of:
 * Lauren Mix (lmix02@syr.edu)
 * Nina Bilotti (nmbilott@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1007-E0508" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1007-E0508" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14908,7 +14915,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rblowers@syr.edu: Ryan Blowers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1007-E0508"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1007-E0508"**
 
 ---
 
@@ -14921,8 +14928,9 @@ You are evaluating group 1301, made up of:
 * Celia Reistrom (creistro@syr.edu)
 * Nicholas Kalaw (nmkalaw@syr.edu)
 * Joseph Simon (jsimon06@syr.edu)
+* Miranda Heard (mrheard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1301-E0602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1301-E0602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14932,12 +14940,13 @@ Once you have, please send it in an email, along with the group's original submi
 * creistro@syr.edu: Celia Reistrom (member of submitting group)
 * nmkalaw@syr.edu: Nicholas Kalaw (member of submitting group)
 * jsimon06@syr.edu: Joseph Simon (member of submitting group)
+* mrheard@syr.edu: Miranda Heard (member of submitting group)
 * ggtette@syr.edu: Gina Tette (member of evaluating group)
 * napereir@syr.edu: Natalie Pereira (member of evaluating group)
 * seayers@syr.edu: Sara Ayers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1301-E0602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1301-E0602"**
 
 ---
 
@@ -14951,7 +14960,7 @@ You are evaluating group 1712, made up of:
 * Stanley Richard Smudin (srsmudin@syr.edu)
 * Nora O'Malley (nmomalle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1712-E0301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1712-E0301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14966,7 +14975,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mebisson@syr.edu: Megan Bisson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1712-E0301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1712-E0301"**
 
 ---
 
@@ -14981,7 +14990,7 @@ You are evaluating group 710, made up of:
 * Matteo Ficarella (mificare@syr.edu)
 * Naftali Reyes (nmreyesj@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0710-E1501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0710-E1501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -14997,7 +15006,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kmkramp@syr.edu: Kathryn Kramp (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0710-E1501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0710-E1501"**
 
 ---
 
@@ -15010,7 +15019,7 @@ You are evaluating group 1201, made up of:
 * Fidel Rivera (firivera@syr.edu)
 * Natalie Fournell (nnfourne@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1201-E1300" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1201-E1300" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15025,7 +15034,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rlee17@syr.edu: Renata Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1201-E1300"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1201-E1300"**
 
 ---
 
@@ -15039,7 +15048,7 @@ You are evaluating group 2403, made up of:
 * Hamelin Batista Camilo (hbatista@syr.edu)
 * Nicholas Nizza (nnizza@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2403-E0202" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2403-E0202" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15054,7 +15063,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hpopowit@syr.edu: Haley Popowitz (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2403-E0202"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2403-E0202"**
 
 ---
 
@@ -15069,7 +15078,7 @@ You are evaluating group 2602, made up of:
 * Grant Murphy (gmmurphy@syr.edu)
 * Elvis Lee (yli170@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2602-E1904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2602-E1904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15085,21 +15094,19 @@ Once you have, please send it in an email, along with the group's original submi
 * rmckee@syr.edu: Ross McKee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2602-E1904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2602-E1904"**
 
 ---
 
 ---
 
-### Group 1302: Miranda Heard
-
-You are evaluating group 2003, made up of:
+### Group 1302: You are evaluating group 2003, made up of:
 
 * Alex Bisignani (abisigna@syr.edu)
 * Liam Creeden (ldcreede@syr.edu)
 * Noah Simpson (nrsimpso@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2003-E1302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2003-E1302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15109,10 +15116,9 @@ Once you have, please send it in an email, along with the group's original submi
 * abisigna@syr.edu: Alex Bisignani (member of submitting group)
 * ldcreede@syr.edu: Liam Creeden (member of submitting group)
 * nrsimpso@syr.edu: Noah Simpson (member of submitting group)
-* mrheard@syr.edu: Miranda Heard (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2003-E1302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2003-E1302"**
 
 ---
 
@@ -15123,9 +15129,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2003-E1
 You are evaluating group 206, made up of:
 
 * Noah Rosenthal (nsrosent@syr.edu)
+* Daniel Pease (dtpease@syr.edu)
 * Logan Forbes (lrforbes@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0206-E0903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0206-E0903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15133,13 +15140,14 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * nsrosent@syr.edu: Noah Rosenthal (member of submitting group)
+* dtpease@syr.edu: Daniel Pease (member of submitting group)
 * lrforbes@syr.edu: Logan Forbes (member of submitting group)
 * hredzepa@syr.edu: Hana Redzepagic (member of evaluating group)
 * madiblas@syr.edu: Michael Diblasi (member of evaluating group)
 * pthandar@syr.edu: Phyoe Thandar (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0206-E0903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0206-E0903"**
 
 ---
 
@@ -15154,7 +15162,7 @@ You are evaluating group 1700, made up of:
 * Samantha Greco (slgreco@syr.edu)
 * Tyler Thibeau (tjthibea@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1700-E1901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1700-E1901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15171,7 +15179,7 @@ Once you have, please send it in an email, along with the group's original submi
 * whtran@syr.edu: Win Tran (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1700-E1901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1700-E1901"**
 
 ---
 
@@ -15185,7 +15193,7 @@ You are evaluating group 513, made up of:
 * Jake Kurtz (jkurtz01@syr.edu)
 * Ryan Kalata (rakalata@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0513-E1106" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0513-E1106" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15201,7 +15209,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ottroilo@syr.edu: Olivia Troilo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0513-E1106"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0513-E1106"**
 
 ---
 
@@ -15215,7 +15223,7 @@ You are evaluating group 1906, made up of:
 * Mia Rodriguez (mkrodrig@syr.edu)
 * Oluwaseminire Babafemi (oebabafe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1906-E0711" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1906-E0711" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15230,7 +15238,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mtdragon@syr.edu: Matthew Dragon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1906-E0711"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1906-E0711"**
 
 ---
 
@@ -15244,7 +15252,7 @@ You are evaluating group 2804, made up of:
 * Joseph Ritchie (jrritchi@syr.edu)
 * Olivia Gladu (oegladu@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2804-E1104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2804-E1104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15259,7 +15267,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mniwelt@syr.edu: Matthew Niwelt (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2804-E1104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2804-E1104"**
 
 ---
 
@@ -15271,9 +15279,8 @@ You are evaluating group 2802, made up of:
 
 * Brendan Parlee (bhparlee@syr.edu)
 * Juliette Keller (jukeller@syr.edu)
-* Olivia Porter (ogporter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2802-E0406" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2802-E0406" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15282,14 +15289,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * bhparlee@syr.edu: Brendan Parlee (member of submitting group)
 * jukeller@syr.edu: Juliette Keller (member of submitting group)
-* ogporter@syr.edu: Olivia Porter (member of submitting group)
 * gldelgad@syr.edu: Gianna Delgado (member of evaluating group)
 * hray01@syr.edu: Harrison Ray (member of evaluating group)
 * lmkoller@syr.edu: Lily Koller (member of evaluating group)
 * rbrosen@syr.edu: Reed Rosen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2802-E0406"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2802-E0406"**
 
 ---
 
@@ -15303,7 +15309,7 @@ You are evaluating group 1811, made up of:
 * Preston Schoenberg (prschoen@syr.edu)
 * Otitodirichukwu Oto Darl Uzu (oodarluz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1811-E1600" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1811-E1600" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15318,7 +15324,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mpshoap@syr.edu: Molly Shoap (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1811-E1600"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1811-E1600"**
 
 ---
 
@@ -15333,7 +15339,7 @@ You are evaluating group 1106, made up of:
 * Olivia Zoeckler (orzoeckl@syr.edu)
 * Olivia Troilo (ottroilo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1106-E0407" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1106-E0407" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15349,7 +15355,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sabrowns@syr.edu: Samuel Brownstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1106-E0407"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1106-E0407"**
 
 ---
 
@@ -15364,7 +15370,7 @@ You are evaluating group 1106, made up of:
 * Olivia Zoeckler (orzoeckl@syr.edu)
 * Olivia Troilo (ottroilo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1106-E0407" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1106-E0407" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15380,7 +15386,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sabrowns@syr.edu: Samuel Brownstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1106-E0407"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1106-E0407"**
 
 ---
 
@@ -15394,7 +15400,7 @@ You are evaluating group 600, made up of:
 * Lily Warren (lcwarren@syr.edu)
 * Olivia Potter (owpotter@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0600-E0401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0600-E0401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15409,20 +15415,21 @@ Once you have, please send it in an email, along with the group's original submi
 * smmoore@syr.edu: Sam Moore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0600-E0401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0600-E0401"**
 
 ---
 
 ---
 
-### Group 2702: Bangshi Zeng, Tao Tian, Weiyi She, Yiheng Guan
+### Group 2702: Bangshi Zeng, Weiyi She, Yiheng Guan
 
 You are evaluating group 2905, made up of:
 
 * Owen Zides (ozides@syr.edu)
 * Zoe Mccreary (zemccrea@syr.edu)
+* Eli Levine (elevin04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2905-E2702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2905-E2702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15431,13 +15438,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * ozides@syr.edu: Owen Zides (member of submitting group)
 * zemccrea@syr.edu: Zoe Mccreary (member of submitting group)
+* elevin04@syr.edu: Eli Levine (member of submitting group)
 * bzeng04@syr.edu: Bangshi Zeng (member of evaluating group)
-* tatian@syr.edu: Tao Tian (member of evaluating group)
 * wshe01@syr.edu: Weiyi She (member of evaluating group)
 * yguan10@syr.edu: Yiheng Guan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2905-E2702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2905-E2702"**
 
 ---
 
@@ -15451,7 +15458,7 @@ You are evaluating group 2202, made up of:
 * Pierre Didisheim (padidish@syr.edu)
 * Jeremiah Hurst (jhurst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2202-E1003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2202-E1003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15466,7 +15473,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ysuh02@syr.edu: Yuri Suh (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2202-E1003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2202-E1003"**
 
 ---
 
@@ -15480,7 +15487,7 @@ You are evaluating group 517, made up of:
 * Peyton Persing (papersin@syr.edu)
 * Xiaopeng Cao (xcao01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0517-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0517-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15496,7 +15503,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0517-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0517-E2602"**
 
 ---
 
@@ -15510,7 +15517,7 @@ You are evaluating group 209, made up of:
 * Pamela Flores (pflore01@syr.edu)
 * Sarah Bragg (sjbragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0209-E2200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0209-E2200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15525,7 +15532,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rejansen@syr.edu: Rhys Jansen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0209-E2200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0209-E2200"**
 
 ---
 
@@ -15540,7 +15547,7 @@ You are evaluating group 1903, made up of:
 * Paulini Ferguson (pjfergus@syr.edu)
 * Kaeleigh B Broyles (kbbroyle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1903-E1804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1903-E1804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15556,7 +15563,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jbyers@syr.edu: Jenna Byers (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1903-E1804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1903-E1804"**
 
 ---
 
@@ -15567,10 +15574,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1903-E1
 You are evaluating group 2908, made up of:
 
 * Shane O'Neil  (sroneil@syr.edu)
+* Jayden Cole (jcole01@syr.edu)
 * Phillip Bogan (pmbogan@syr.edu)
 * Andronikos Georgalas (ageorgal@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2908-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2908-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15578,6 +15586,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * sroneil@syr.edu: Shane O'Neil  (member of submitting group)
+* jcole01@syr.edu: Jayden Cole (member of submitting group)
 * pmbogan@syr.edu: Phillip Bogan (member of submitting group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -15585,7 +15594,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2908-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2908-E2005"**
 
 ---
 
@@ -15599,7 +15608,7 @@ You are evaluating group 1008, made up of:
 * Madison Bequer (mabequer@syr.edu)
 * Petey Peterson (popeters@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1008-E1603" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1008-E1603" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15615,7 +15624,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zhgoldma@syr.edu: Zachary Goldman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1008-E1603"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1008-E1603"**
 
 ---
 
@@ -15629,7 +15638,7 @@ You are evaluating group 1811, made up of:
 * Preston Schoenberg (prschoen@syr.edu)
 * Otitodirichukwu Oto Darl Uzu (oodarluz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1811-E1600" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1811-E1600" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15644,7 +15653,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mpshoap@syr.edu: Molly Shoap (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1811-E1600"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1811-E1600"**
 
 ---
 
@@ -15658,7 +15667,7 @@ You are evaluating group 903, made up of:
 * Michael Diblasi (madiblas@syr.edu)
 * Phyoe Thandar (pthandar@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0903-E1400" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0903-E1400" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15673,7 +15682,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zofang@syr.edu: Zongli Fang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0903-E1400"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0903-E1400"**
 
 ---
 
@@ -15687,7 +15696,7 @@ You are evaluating group 1602, made up of:
 * Marissia Potamianos (mpotamia@syr.edu)
 * Pengwei Wang (pwang09@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1602-E2401" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1602-E2401" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15703,7 +15712,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rsmith18@syr.edu: Ryan Smith (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1602-E2401"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1602-E2401"**
 
 ---
 
@@ -15718,7 +15727,7 @@ You are evaluating group 1704, made up of:
 * Sophie Lynch (slynch05@syr.edu)
 * Bibiana Snyder (bisnyder@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1704-E1805" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1704-E1805" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15734,7 +15743,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmorri27@syr.edu: Jacob Morris (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1704-E1805"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1704-E1805"**
 
 ---
 
@@ -15748,7 +15757,7 @@ You are evaluating group 2700, made up of:
 * Xinyu Xing (xxing05@syr.edu)
 * Xiaoping Yuan (xyuan16@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2700-E0515" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2700-E0515" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15763,7 +15772,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zccopela@syr.edu: Zoe Copeland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2700-E0515"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2700-E0515"**
 
 ---
 
@@ -15777,7 +15786,7 @@ You are evaluating group 2902, made up of:
 * Ryan Bell (rbell05@syr.edu)
 * Roberto Lamas (rdlamas@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2902-E2203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2902-E2203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15792,7 +15801,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tdrose@syr.edu: Timothy Rose (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2902-E2203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2902-E2203"**
 
 ---
 
@@ -15806,7 +15815,7 @@ You are evaluating group 607, made up of:
 * Rachel Iannarelli (raiannar@syr.edu)
 * Lagarthucin Legrand (lklegran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0607-E0606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0607-E0606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15821,7 +15830,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kjbarris@syr.edu: Kenneth Barrist (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0607-E0606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0607-E0606"**
 
 ---
 
@@ -15835,7 +15844,7 @@ You are evaluating group 513, made up of:
 * Jake Kurtz (jkurtz01@syr.edu)
 * Ryan Kalata (rakalata@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0513-E1106" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0513-E1106" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15851,7 +15860,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ottroilo@syr.edu: Olivia Troilo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0513-E1106"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0513-E1106"**
 
 ---
 
@@ -15865,7 +15874,7 @@ You are evaluating group 2902, made up of:
 * Ryan Bell (rbell05@syr.edu)
 * Roberto Lamas (rdlamas@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2902-E2203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2902-E2203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15880,13 +15889,13 @@ Once you have, please send it in an email, along with the group's original submi
 * tdrose@syr.edu: Timothy Rose (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2902-E2203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2902-E2203"**
 
 ---
 
 ---
 
-### Group 2007: Justin King, Emma Repice, Gabriela Corso
+### Group 2007: Emma Repice, Gabriela Corso
 
 You are evaluating group 508, made up of:
 
@@ -15894,7 +15903,7 @@ You are evaluating group 508, made up of:
 * Sydney Bergan (sabergan@syr.edu)
 * Ryan Blowers (rblowers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0508-E2007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0508-E2007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15904,12 +15913,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jgreen31@syr.edu: Jordan Greene (member of submitting group)
 * sabergan@syr.edu: Sydney Bergan (member of submitting group)
 * rblowers@syr.edu: Ryan Blowers (member of submitting group)
-* jking20@syr.edu: Justin King (member of evaluating group)
 * erepice@syr.edu: Emma Repice (member of evaluating group)
 * gecorso@syr.edu: Gabriela Corso (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0508-E2007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0508-E2007"**
 
 ---
 
@@ -15924,7 +15932,7 @@ You are evaluating group 406, made up of:
 * Lily Koller (lmkoller@syr.edu)
 * Reed Rosen (rbrosen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0406-E2901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0406-E2901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15940,7 +15948,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrlandow@syr.edu: Jonah Landow (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0406-E2901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0406-E2901"**
 
 ---
 
@@ -15954,7 +15962,7 @@ You are evaluating group 708, made up of:
 * Max Cotroneo (mcotrone@syr.edu)
 * Rehan Ahmed (rdahmed@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0708-E1007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0708-E1007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15970,7 +15978,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmbilott@syr.edu: Nina Bilotti (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0708-E1007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0708-E1007"**
 
 ---
 
@@ -15984,7 +15992,7 @@ You are evaluating group 2902, made up of:
 * Ryan Bell (rbell05@syr.edu)
 * Roberto Lamas (rdlamas@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2902-E2203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2902-E2203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -15999,7 +16007,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tdrose@syr.edu: Timothy Rose (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2902-E2203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2902-E2203"**
 
 ---
 
@@ -16013,7 +16021,7 @@ You are evaluating group 2200, made up of:
 * Nicole Pullano (ndpullan@syr.edu)
 * Rhys Jansen (rejansen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2200-E0313" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2200-E0313" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16029,7 +16037,7 @@ Once you have, please send it in an email, along with the group's original submi
 * crice03@syr.edu: Catherine Connor Rice (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2200-E0313"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2200-E0313"**
 
 ---
 
@@ -16043,7 +16051,7 @@ You are evaluating group 1710, made up of:
 * Jacob Yousem (jwyousem@syr.edu)
 * Ryan Conner (rgconner@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1710-E0517" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1710-E0517" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16058,7 +16066,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xcao01@syr.edu: Xiaopeng Cao (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1710-E0517"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1710-E0517"**
 
 ---
 
@@ -16072,7 +16080,7 @@ You are evaluating group 604, made up of:
 * Alexander Styrt (arstyrt@syr.edu)
 * Rachel Goldberg (rgoldb03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0604-E1705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0604-E1705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16087,13 +16095,13 @@ Once you have, please send it in an email, along with the group's original submi
 * ylee05@syr.edu: Young Bin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0604-E1705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0604-E1705"**
 
 ---
 
 ---
 
-### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller, Camryn Johnson-Andrews
+### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller
 
 You are evaluating group 1003, made up of:
 
@@ -16101,7 +16109,7 @@ You are evaluating group 1003, made up of:
 * Ramon Phenix (riphenix@syr.edu)
 * Yuri Suh (ysuh02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1003-E0302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1003-E0302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16114,10 +16122,9 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of evaluating group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of evaluating group)
 * tamiller@syr.edu: Taylor Miller (member of evaluating group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1003-E0302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1003-E0302"**
 
 ---
 
@@ -16127,16 +16134,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1003-E0
 
 You are evaluating group 303, made up of:
 
+* Camryn Johnson-Andrews (cjohns26@syr.edu)
 * Alex Deangelis (asdeange@syr.edu)
 * Rody Conway (rjconway@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0303-E0314" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0303-E0314" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of submitting group)
 * asdeange@syr.edu: Alex Deangelis (member of submitting group)
 * rjconway@syr.edu: Rody Conway (member of submitting group)
 * jltoder@syr.edu: Toder Jenna (member of evaluating group)
@@ -16144,7 +16153,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmancuso@syr.edu: Nicholas Mancuso (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0303-E0314"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0303-E0314"**
 
 ---
 
@@ -16159,7 +16168,7 @@ You are evaluating group 1300, made up of:
 * Dingkai Yao (dyao02@syr.edu)
 * Renata Lee (rlee17@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1300-E0207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1300-E0207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16174,7 +16183,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kcabuls@syr.edu: Katrina Abuls (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1300-E0207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1300-E0207"**
 
 ---
 
@@ -16188,7 +16197,7 @@ You are evaluating group 1904, made up of:
 * Martin Brennan (mbrenn05@syr.edu)
 * Ross McKee (rmckee@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1904-E2301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1904-E2301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16203,7 +16212,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tmvunipo@syr.edu: Telusila Vunipola (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1904-E2301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1904-E2301"**
 
 ---
 
@@ -16215,8 +16224,9 @@ You are evaluating group 1002, made up of:
 
 * Robert Spano (rnspano@syr.edu)
 * Thomas McMullen (tsmcmull@syr.edu)
+* Mateo Lariviere (mrlarivi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1002-E1103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1002-E1103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16225,12 +16235,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * rnspano@syr.edu: Robert Spano (member of submitting group)
 * tsmcmull@syr.edu: Thomas McMullen (member of submitting group)
+* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * iskobaya@syr.edu: Ikuo Kobayashi (member of evaluating group)
 * jgbeers@syr.edu: Jackson Beers (member of evaluating group)
 * sauerbac@syr.edu: Sam Auerbach (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1002-E1103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1002-E1103"**
 
 ---
 
@@ -16244,7 +16255,7 @@ You are evaluating group 2206, made up of:
 * Jacob Fowler (jbfowler@syr.edu)
 * Ryan Jermyn (rpjermyn@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2206-E1403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2206-E1403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16259,7 +16270,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jdkakuyo@syr.edu: Jordan Kakuyo (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2206-E1403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2206-E1403"**
 
 ---
 
@@ -16273,7 +16284,7 @@ You are evaluating group 407, made up of:
 * Ryan Polaha (rppolaha@syr.edu)
 * Samuel Brownstein (sabrowns@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0407-E0416" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0407-E0416" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16288,7 +16299,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0407-E0416"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0407-E0416"**
 
 ---
 
@@ -16302,7 +16313,7 @@ You are evaluating group 2002, made up of:
 * Ryan Daly (rsdaly@syr.edu)
 * William Steinberg (wksteinb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2002-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2002-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16318,7 +16329,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2002-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2002-E0203"**
 
 ---
 
@@ -16333,7 +16344,7 @@ You are evaluating group 2401, made up of:
 * Wura Martins-Kuye (kmartins@syr.edu)
 * Ryan Smith (rsmith18@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2401-E1702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2401-E1702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16349,7 +16360,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nfgetzug@syr.edu: Noa Getzug (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2401-E1702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2401-E1702"**
 
 ---
 
@@ -16363,7 +16374,7 @@ You are evaluating group 2301, made up of:
 * Reid Thompson (rthomp10@syr.edu)
 * Telusila Vunipola (tmvunipo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2301-E1108" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2301-E1108" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16378,7 +16389,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zaaskari@syr.edu: Zachary Askarinam (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2301-E1108"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2301-E1108"**
 
 ---
 
@@ -16392,7 +16403,7 @@ You are evaluating group 2904, made up of:
 * Remi Tsunoda (rtsunoda@syr.edu)
 * Tia Hartley (tnhartle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2904-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2904-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16408,7 +16419,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2904-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2904-E0203"**
 
 ---
 
@@ -16422,7 +16433,7 @@ You are evaluating group 512, made up of:
 * Brady Sheehan (btsheeha@syr.edu)
 * Ryan Bradley (rybradle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0512-E1803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0512-E1803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16437,7 +16448,7 @@ Once you have, please send it in an email, along with the group's original submi
 * icmcdona@syr.edu: Isabela Mcdonald (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0512-E1803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0512-E1803"**
 
 ---
 
@@ -16452,7 +16463,7 @@ You are evaluating group 404, made up of:
 * Zachary Cohen (zcohen03@syr.edu)
 * Ryan Cohen (rycohen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0404-E1713" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0404-E1713" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16469,7 +16480,7 @@ Once you have, please send it in an email, along with the group's original submi
 * amhines@syr.edu: Amr Hines (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0404-E1713"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0404-E1713"**
 
 ---
 
@@ -16484,7 +16495,7 @@ You are evaluating group 1713, made up of:
 * William Hauben (wshauben@syr.edu)
 * Amr Hines (amhines@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1713-E1602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1713-E1602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16500,7 +16511,7 @@ Once you have, please send it in an email, along with the group's original submi
 * pwang09@syr.edu: Pengwei Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1713-E1602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1713-E1602"**
 
 ---
 
@@ -16514,7 +16525,7 @@ You are evaluating group 709, made up of:
 * Ruiyun  Zhang (rzhang63@syr.edu)
 * Zhen Huang (zhuang38@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0709-E1006" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0709-E1006" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16530,13 +16541,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mcreese@syr.edu: Matthew Reese (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0709-E1006"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0709-E1006"**
 
 ---
 
 ---
 
-### Group 2007: Justin King, Emma Repice, Gabriela Corso
+### Group 2007: Emma Repice, Gabriela Corso
 
 You are evaluating group 508, made up of:
 
@@ -16544,7 +16555,7 @@ You are evaluating group 508, made up of:
 * Sydney Bergan (sabergan@syr.edu)
 * Ryan Blowers (rblowers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0508-E2007" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0508-E2007" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16554,12 +16565,11 @@ Once you have, please send it in an email, along with the group's original submi
 * jgreen31@syr.edu: Jordan Greene (member of submitting group)
 * sabergan@syr.edu: Sydney Bergan (member of submitting group)
 * rblowers@syr.edu: Ryan Blowers (member of submitting group)
-* jking20@syr.edu: Justin King (member of evaluating group)
 * erepice@syr.edu: Emma Repice (member of evaluating group)
 * gecorso@syr.edu: Gabriela Corso (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0508-E2007"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0508-E2007"**
 
 ---
 
@@ -16573,7 +16583,7 @@ You are evaluating group 407, made up of:
 * Ryan Polaha (rppolaha@syr.edu)
 * Samuel Brownstein (sabrowns@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0407-E0416" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0407-E0416" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16588,7 +16598,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0407-E0416"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0407-E0416"**
 
 ---
 
@@ -16603,7 +16613,7 @@ You are evaluating group 1703, made up of:
 * Adam Schwartz (adschwar@syr.edu)
 * Sean Adams (sadams08@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1703-E2904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1703-E2904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16619,7 +16629,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tnhartle@syr.edu: Tia Hartley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1703-E2904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1703-E2904"**
 
 ---
 
@@ -16633,7 +16643,7 @@ You are evaluating group 2000, made up of:
 * Samantha Fuss (safuss@syr.edu)
 * Samuel Schneider (sbschnei@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2000-E0513" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2000-E0513" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16648,7 +16658,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rakalata@syr.edu: Ryan Kalata (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2000-E0513"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2000-E0513"**
 
 ---
 
@@ -16662,7 +16672,7 @@ You are evaluating group 201, made up of:
 * Jamie Chernett (jmcherne@syr.edu)
 * Sami Halperin (sahalper@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0201-E2004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0201-E2004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16676,7 +16686,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgriff02@syr.edu: Liam Griffin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0201-E2004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0201-E2004"**
 
 ---
 
@@ -16691,7 +16701,7 @@ You are evaluating group 1608, made up of:
 * Samira Mahshie (smmahshi@syr.edu)
 * Victoria Decoster (vadecost@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1608-E0309" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1608-E0309" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16706,13 +16716,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mpgreble@syr.edu: Madison Grebler (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1608-E0309"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1608-E0309"**
 
 ---
 
 ---
 
-### Group 1609: Martin Berishaj, Jacob Cohen Kronberg, Blessing Emole
+### Group 1609: Jacob Cohen Kronberg, Blessing Emole
 
 You are evaluating group 202, made up of:
 
@@ -16720,7 +16730,7 @@ You are evaluating group 202, made up of:
 * Emily Friedman (efriedma@syr.edu)
 * Haley Popowitz (hpopowit@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0202-E1609" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0202-E1609" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16730,12 +16740,11 @@ Once you have, please send it in an email, along with the group's original submi
 * sakaiser@syr.edu: Sophie Kaiser (member of submitting group)
 * efriedma@syr.edu: Emily Friedman (member of submitting group)
 * hpopowit@syr.edu: Haley Popowitz (member of submitting group)
-* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of evaluating group)
 * ubemole@syr.edu: Blessing Emole (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0202-E1609"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0202-E1609"**
 
 ---
 
@@ -16749,7 +16758,7 @@ You are evaluating group 101, made up of:
 * Sultan Alhameli (salhamel@syr.edu)
 * Zeren Chen (zchen200@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0101-E0510" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0101-E0510" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16764,13 +16773,13 @@ Once you have, please send it in an email, along with the group's original submi
 * znkirkla@syr.edu: Zaria Kirkland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0101-E0510"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0101-E0510"**
 
 ---
 
 ---
 
-### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe
+### Group 504: Angel Gonzalez, Catherine Maher, Hamere Debebe, Emma Arczynski
 
 You are evaluating group 705, made up of:
 
@@ -16779,7 +16788,7 @@ You are evaluating group 705, made up of:
 * Samuel Saunders (sasaunde@syr.edu)
 * Aminata Ceesay (amceesay@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0705-E0504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0705-E0504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16793,15 +16802,16 @@ Once you have, please send it in an email, along with the group's original submi
 * agonza20@syr.edu: Angel Gonzalez (member of evaluating group)
 * cjmaher@syr.edu: Catherine Maher (member of evaluating group)
 * hedebebe@syr.edu: Hamere Debebe (member of evaluating group)
+* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0705-E0504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0705-E0504"**
 
 ---
 
 ---
 
-### Group 102: Hongkai He, Yifei Liu, Zachary Stern
+### Group 102: Hongkai He, Yifei Liu, Zachary Stern, Martin Berishaj
 
 You are evaluating group 203, made up of:
 
@@ -16810,7 +16820,7 @@ You are evaluating group 203, made up of:
 * Stephen Sklar (sasklar@syr.edu)
 * Teresa Greenwood (tegreenw@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0203-E0102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0203-E0102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16824,9 +16834,10 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of evaluating group)
 * yliu17@syr.edu: Yifei Liu (member of evaluating group)
 * zwstern@syr.edu: Zachary Stern (member of evaluating group)
+* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0203-E0102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0203-E0102"**
 
 ---
 
@@ -16840,7 +16851,7 @@ You are evaluating group 1103, made up of:
 * Jackson Beers (jgbeers@syr.edu)
 * Sam Auerbach (sauerbac@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1103-E1706" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1103-E1706" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16855,7 +16866,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ydiawara@syr.edu: Yaya Diawara (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1103-E1706"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1103-E1706"**
 
 ---
 
@@ -16869,7 +16880,7 @@ You are evaluating group 204, made up of:
 * Gerrit Vanvranken (gmvanvra@syr.edu)
 * Samual Ayers (sbayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0204-E0305" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0204-E0305" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16884,7 +16895,7 @@ Once you have, please send it in an email, along with the group's original submi
 * ejreiner@syr.edu: Evan Reiner (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0204-E0305"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0204-E0305"**
 
 ---
 
@@ -16897,7 +16908,7 @@ You are evaluating group 1202, made up of:
 * Stella Crowther (sbcrowth@syr.edu)
 * Skyy McQueen (skmcquee@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1202-E1107" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1202-E1107" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16910,13 +16921,13 @@ Once you have, please send it in an email, along with the group's original submi
 * lpmccabe@syr.edu: Logan Mccabe (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1202-E1107"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1202-E1107"**
 
 ---
 
 ---
 
-### Group 2604: Chengting Wu, Suyun Chen, Ziqian Shan
+### Group 2604: Linxin Wan, Chengting Wu, Suyun Chen, Ziqian Shan
 
 You are evaluating group 2704, made up of:
 
@@ -16924,7 +16935,7 @@ You are evaluating group 2704, made up of:
 * Kun Tu (ktu100@syr.edu)
 * Samantha Dinerman (sbdinerm@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2704-E2604" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2704-E2604" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16934,12 +16945,13 @@ Once you have, please send it in an email, along with the group's original submi
 * msolom02@syr.edu: Max Solomon (member of submitting group)
 * ktu100@syr.edu: Kun Tu (member of submitting group)
 * sbdinerm@syr.edu: Samantha Dinerman (member of submitting group)
+* lwan03@syr.edu: Linxin Wan (member of evaluating group)
 * cwu141@syr.edu: Chengting Wu (member of evaluating group)
 * schen188@syr.edu: Suyun Chen (member of evaluating group)
 * zshan01@syr.edu: Ziqian Shan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2704-E2604"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2704-E2604"**
 
 ---
 
@@ -16953,7 +16965,7 @@ You are evaluating group 410, made up of:
 * Sharif Bey (sbey01@syr.edu)
 * Sierra Sulc (sisulc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0410-E0701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0410-E0701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16968,7 +16980,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wrhentsc@syr.edu: William Hentschel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0410-E0701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0410-E0701"**
 
 ---
 
@@ -16982,7 +16994,7 @@ You are evaluating group 2000, made up of:
 * Samantha Fuss (safuss@syr.edu)
 * Samuel Schneider (sbschnei@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2000-E0513" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2000-E0513" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -16997,7 +17009,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rakalata@syr.edu: Ryan Kalata (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2000-E0513"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2000-E0513"**
 
 ---
 
@@ -17011,7 +17023,7 @@ You are evaluating group 1000, made up of:
 * Stephanie Gratzel (scgratze@syr.edu)
 * Tawny Hawthorne (thawthor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1000-E0409" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1000-E0409" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17025,7 +17037,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cjoy01@syr.edu: Connor Joy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1000-E0409"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1000-E0409"**
 
 ---
 
@@ -17035,17 +17047,19 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1000-E0
 
 You are evaluating group 2604, made up of:
 
+* Linxin Wan (lwan03@syr.edu)
 * Chengting Wu (cwu141@syr.edu)
 * Suyun Chen (schen188@syr.edu)
 * Ziqian Shan (zshan01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2604-E0512" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2604-E0512" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * cwu141@syr.edu: Chengting Wu (member of submitting group)
 * schen188@syr.edu: Suyun Chen (member of submitting group)
 * zshan01@syr.edu: Ziqian Shan (member of submitting group)
@@ -17054,7 +17068,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rybradle@syr.edu: Ryan Bradley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2604-E0512"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2604-E0512"**
 
 ---
 
@@ -17068,7 +17082,7 @@ You are evaluating group 602, made up of:
 * Natalie Pereira (napereir@syr.edu)
 * Sara Ayers (seayers@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0602-E0503" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0602-E0503" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17084,7 +17098,7 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0602-E0503"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0602-E0503"**
 
 ---
 
@@ -17099,7 +17113,7 @@ You are evaluating group 2401, made up of:
 * Wura Martins-Kuye (kmartins@syr.edu)
 * Ryan Smith (rsmith18@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2401-E1702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2401-E1702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17115,7 +17129,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nfgetzug@syr.edu: Noa Getzug (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2401-E1702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2401-E1702"**
 
 ---
 
@@ -17128,7 +17142,7 @@ You are evaluating group 803, made up of:
 * Maximus Jones (mjones09@syr.edu)
 * Shoshana Turek (sfturek@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0803-E0802" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0803-E0802" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17142,7 +17156,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tlgralew@syr.edu: Tucker Gralewski (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0803-E0802"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0803-E0802"**
 
 ---
 
@@ -17155,7 +17169,7 @@ You are evaluating group 205, made up of:
 * Sean Nusdeo (sgnusdeo@syr.edu)
 * Yang Yang (yyang106@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0205-E1404" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0205-E1404" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17169,7 +17183,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mamartin@syr.edu: Matthew Martin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0205-E1404"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0205-E1404"**
 
 ---
 
@@ -17179,25 +17193,23 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0205-E1
 
 You are evaluating group 2601, made up of:
 
-* Linxin Wan (lwan03@syr.edu)
 * Sofya Golubovskaya (sgolubov@syr.edu)
 * Sofya Treshcheva (streshch@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2601-E0310" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2601-E0310" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of submitting group)
 * streshch@syr.edu: Sofya Treshcheva (member of submitting group)
 * chfreema@syr.edu: Christopher Freeman (member of evaluating group)
 * tahinds@syr.edu: Taylia Hinds (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2601-E0310"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2601-E0310"**
 
 ---
 
@@ -17211,7 +17223,7 @@ You are evaluating group 410, made up of:
 * Sharif Bey (sbey01@syr.edu)
 * Sierra Sulc (sisulc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0410-E0701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0410-E0701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17226,7 +17238,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wrhentsc@syr.edu: William Hentschel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0410-E0701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0410-E0701"**
 
 ---
 
@@ -17240,7 +17252,7 @@ You are evaluating group 209, made up of:
 * Pamela Flores (pflore01@syr.edu)
 * Sarah Bragg (sjbragg@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0209-E2200" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0209-E2200" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17255,7 +17267,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rejansen@syr.edu: Rhys Jansen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0209-E2200"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0209-E2200"**
 
 ---
 
@@ -17266,10 +17278,9 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0209-E2
 You are evaluating group 1605, made up of:
 
 * Andrew Spana (ajspana@syr.edu)
-* Sydney Lance (sjlance@syr.edu)
 * Joshua Jezak (jjezak@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1605-E0210" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1605-E0210" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17277,7 +17288,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * ajspana@syr.edu: Andrew Spana (member of submitting group)
-* sjlance@syr.edu: Sydney Lance (member of submitting group)
 * jjezak@syr.edu: Joshua Jezak (member of submitting group)
 * actodd@syr.edu: Andrew Todd (member of evaluating group)
 * emgold@syr.edu: Emily Gold (member of evaluating group)
@@ -17285,7 +17295,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mofahy@syr.edu: Morgan Fahy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1605-E0210"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1605-E0210"**
 
 ---
 
@@ -17299,7 +17309,7 @@ You are evaluating group 403, made up of:
 * Maeva Collatos (macollat@syr.edu)
 * Sophia Soderlund (sjsoderl@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0403-E1902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0403-E1902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17314,13 +17324,13 @@ Once you have, please send it in an email, along with the group's original submi
 * jhgordon@syr.edu: Jack Gordon (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0403-E1902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0403-E1902"**
 
 ---
 
 ---
 
-### Group 206: Noah Rosenthal, Logan Forbes
+### Group 206: Noah Rosenthal, Daniel Pease, Logan Forbes
 
 You are evaluating group 1707, made up of:
 
@@ -17328,7 +17338,7 @@ You are evaluating group 1707, made up of:
 * Michele Orleans (meorlean@syr.edu)
 * Samantha Denaro (skdenaro@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1707-E0206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1707-E0206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17339,10 +17349,11 @@ Once you have, please send it in an email, along with the group's original submi
 * meorlean@syr.edu: Michele Orleans (member of submitting group)
 * skdenaro@syr.edu: Samantha Denaro (member of submitting group)
 * nsrosent@syr.edu: Noah Rosenthal (member of evaluating group)
+* dtpease@syr.edu: Daniel Pease (member of evaluating group)
 * lrforbes@syr.edu: Logan Forbes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1707-E0206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1707-E0206"**
 
 ---
 
@@ -17356,7 +17367,7 @@ You are evaluating group 505, made up of:
 * Jackson Carrel (jlcarrel@syr.edu)
 * Sahil Kirpalani (skirpala@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0505-E1704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0505-E1704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17372,7 +17383,7 @@ Once you have, please send it in an email, along with the group's original submi
 * bisnyder@syr.edu: Bibiana Snyder (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0505-E1704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0505-E1704"**
 
 ---
 
@@ -17387,7 +17398,7 @@ You are evaluating group 313, made up of:
 * Jaden Constant (jtconsta@syr.edu)
 * Catherine Connor Rice (crice03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0313-E0306" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0313-E0306" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17403,7 +17414,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lportnoy@syr.edu: Lucas Portnoy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0313-E0306"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0313-E0306"**
 
 ---
 
@@ -17416,7 +17427,7 @@ You are evaluating group 1202, made up of:
 * Stella Crowther (sbcrowth@syr.edu)
 * Skyy McQueen (skmcquee@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1202-E1107" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1202-E1107" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17429,13 +17440,13 @@ Once you have, please send it in an email, along with the group's original submi
 * lpmccabe@syr.edu: Logan Mccabe (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1202-E1107"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1202-E1107"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 503, made up of:
 
@@ -17444,7 +17455,7 @@ You are evaluating group 503, made up of:
 * Zachary Rohrer (ztrohrer@syr.edu)
 * Kim Heewoon (hkim99@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0503-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0503-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17457,10 +17468,11 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0503-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0503-E1004"**
 
 ---
 
@@ -17475,7 +17487,7 @@ You are evaluating group 1700, made up of:
 * Samantha Greco (slgreco@syr.edu)
 * Tyler Thibeau (tjthibea@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1700-E1901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1700-E1901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17492,7 +17504,7 @@ Once you have, please send it in an email, along with the group's original submi
 * whtran@syr.edu: Win Tran (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1700-E1901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1700-E1901"**
 
 ---
 
@@ -17507,7 +17519,7 @@ You are evaluating group 1704, made up of:
 * Sophie Lynch (slynch05@syr.edu)
 * Bibiana Snyder (bisnyder@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1704-E1805" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1704-E1805" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17523,7 +17535,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jmorri27@syr.edu: Jacob Morris (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1704-E1805"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1704-E1805"**
 
 ---
 
@@ -17537,7 +17549,7 @@ You are evaluating group 1701, made up of:
 * Jiaqi Liu (jliu119@syr.edu)
 * Sitong Lyu (slyu11@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1701-E0104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1701-E0104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17553,7 +17565,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jzuluaga@syr.edu: Joana Zuluaga (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1701-E0104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1701-E0104"**
 
 ---
 
@@ -17567,7 +17579,7 @@ You are evaluating group 1101, made up of:
 * Maeve Sheehan (masheeha@syr.edu)
 * Shanice Manning (smanni01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1101-E2902" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1101-E2902" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17582,7 +17594,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rdlamas@syr.edu: Roberto Lamas (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1101-E2902"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1101-E2902"**
 
 ---
 
@@ -17595,7 +17607,7 @@ You are evaluating group 214, made up of:
 * Sarah Chadwick (smchadwi@syr.edu)
 * Caitlin Lorenz (cclorenz@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0214-E2403" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0214-E2403" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17609,7 +17621,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nnizza@syr.edu: Nicholas Nizza (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0214-E2403"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0214-E2403"**
 
 ---
 
@@ -17623,7 +17635,7 @@ You are evaluating group 1607, made up of:
 * Elizabeth Wolf (eawolf@syr.edu)
 * Steven Claffey (smclaffe@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1607-E1712" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1607-E1712" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17638,7 +17650,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmomalle@syr.edu: Nora O'Malley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1607-E1712"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1607-E1712"**
 
 ---
 
@@ -17651,7 +17663,7 @@ You are evaluating group 2705, made up of:
 * Caroline Grabowski (ccgrabow@syr.edu)
 * Sarah Galligan (smgallig@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2705-E2006" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2705-E2006" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17665,7 +17677,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tbskeval@syr.edu: Timothy Skeval (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2705-E2006"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2705-E2006"**
 
 ---
 
@@ -17680,7 +17692,7 @@ You are evaluating group 1608, made up of:
 * Samira Mahshie (smmahshi@syr.edu)
 * Victoria Decoster (vadecost@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1608-E0309" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1608-E0309" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17695,7 +17707,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mpgreble@syr.edu: Madison Grebler (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1608-E0309"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1608-E0309"**
 
 ---
 
@@ -17709,7 +17721,7 @@ You are evaluating group 401, made up of:
 * Ann Drennan (aodrenna@syr.edu)
 * Sam Moore (smmoore@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0401-E0414" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0401-E0414" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17723,13 +17735,13 @@ Once you have, please send it in an email, along with the group's original submi
 * lamadhok@syr.edu: Luka Madhok (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0401-E0414"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0401-E0414"**
 
 ---
 
 ---
 
-### Group 514: Courtney Bennett, Emma Arczynski, Melanie Salazar
+### Group 514: Courtney Bennett, Melanie Salazar
 
 You are evaluating group 2903, made up of:
 
@@ -17737,7 +17749,7 @@ You are evaluating group 2903, made up of:
 * Elizabeth Carlson (eacarlso@syr.edu)
 * Sierra Huff (snhuff@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2903-E0514" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2903-E0514" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17748,11 +17760,10 @@ Once you have, please send it in an email, along with the group's original submi
 * eacarlso@syr.edu: Elizabeth Carlson (member of submitting group)
 * snhuff@syr.edu: Sierra Huff (member of submitting group)
 * cbenne09@syr.edu: Courtney Bennett (member of evaluating group)
-* enarczyn@syr.edu: Emma Arczynski (member of evaluating group)
 * mesalaza@syr.edu: Melanie Salazar (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2903-E0514"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2903-E0514"**
 
 ---
 
@@ -17766,7 +17777,7 @@ You are evaluating group 1009, made up of:
 * Samantha Mussman (snmussma@syr.edu)
 * Theodore Gelb (tcgelb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1009-E1502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1009-E1502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17781,7 +17792,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lmceccol@syr.edu: Luke Ceccoli (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1009-E1502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1009-E1502"**
 
 ---
 
@@ -17795,7 +17806,7 @@ You are evaluating group 2402, made up of:
 * Xiaojie Wu (xwu100@syr.edu)
 * Youhao Luo (yluo27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2402-E0413" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2402-E0413" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17810,7 +17821,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wsaferst@syr.edu: Will Saferstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2402-E0413"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2402-E0413"**
 
 ---
 
@@ -17825,7 +17836,7 @@ You are evaluating group 1800, made up of:
 * Madeline Gorewitz (mggorewi@syr.edu)
 * Sophia Lusardi (srlusard@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1800-E1907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1800-E1907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17842,7 +17853,7 @@ Once you have, please send it in an email, along with the group's original submi
 * etefera@syr.edu: Eden Tefera (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1800-E1907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1800-E1907"**
 
 ---
 
@@ -17853,10 +17864,11 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1800-E1
 You are evaluating group 2908, made up of:
 
 * Shane O'Neil  (sroneil@syr.edu)
+* Jayden Cole (jcole01@syr.edu)
 * Phillip Bogan (pmbogan@syr.edu)
 * Andronikos Georgalas (ageorgal@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2908-E2005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2908-E2005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17864,6 +17876,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * sroneil@syr.edu: Shane O'Neil  (member of submitting group)
+* jcole01@syr.edu: Jayden Cole (member of submitting group)
 * pmbogan@syr.edu: Phillip Bogan (member of submitting group)
 * ageorgal@syr.edu: Andronikos Georgalas (member of submitting group)
 * alhuynh@syr.edu: Alexander Huynh (member of evaluating group)
@@ -17871,13 +17884,13 @@ Once you have, please send it in an email, along with the group's original submi
 * jkorenma@syr.edu: James Korenman (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2908-E2005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2908-E2005"**
 
 ---
 
 ---
 
-### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter
+### Group 212: Derek Gutierrez, Ashley P Santore, Jennifer Porter, Jacob Bernardine
 
 You are evaluating group 2001, made up of:
 
@@ -17885,7 +17898,7 @@ You are evaluating group 2001, made up of:
 * Ethan Letwat (eletwat@syr.edu)
 * Sydney Rosenbaum (srosenba@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2001-E0212" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2001-E0212" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17898,9 +17911,10 @@ Once you have, please send it in an email, along with the group's original submi
 * degutier@syr.edu: Derek Gutierrez (member of evaluating group)
 * apsantor@syr.edu: Ashley P Santore (member of evaluating group)
 * jeporter@syr.edu: Jennifer Porter (member of evaluating group)
+* jberna01@syr.edu: Jacob Bernardine (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2001-E0212"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2001-E0212"**
 
 ---
 
@@ -17914,7 +17928,7 @@ You are evaluating group 1712, made up of:
 * Stanley Richard Smudin (srsmudin@syr.edu)
 * Nora O'Malley (nmomalle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1712-E0301" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1712-E0301" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17929,7 +17943,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mebisson@syr.edu: Megan Bisson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1712-E0301"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1712-E0301"**
 
 ---
 
@@ -17941,9 +17955,8 @@ You are evaluating group 700, made up of:
 
 * Ashley Strauss (asstraus@syr.edu)
 * Hailey Joseph (hbjoseph@syr.edu)
-* Summer Stubbmann (sstubbma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0700-E0501" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0700-E0501" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17952,13 +17965,12 @@ Once you have, please send it in an email, along with the group's original submi
 
 * asstraus@syr.edu: Ashley Strauss (member of submitting group)
 * hbjoseph@syr.edu: Hailey Joseph (member of submitting group)
-* sstubbma@syr.edu: Summer Stubbmann (member of submitting group)
 * cji103@syr.edu: Chenxi Ji (member of evaluating group)
 * hmo100@syr.edu: Hanlin Mo (member of evaluating group)
 * jperez04@syr.edu: Jeronimo Perez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0700-E0501"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0700-E0501"**
 
 ---
 
@@ -17972,7 +17984,7 @@ You are evaluating group 2801, made up of:
 * Siron Thomas (sthoma10@syr.edu)
 * Jacob Stives (jmstives@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2801-E0412" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2801-E0412" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -17987,7 +17999,7 @@ Once you have, please send it in an email, along with the group's original submi
 * stnadel@syr.edu: Sydney Nadel (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2801-E0412"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2801-E0412"**
 
 ---
 
@@ -18001,7 +18013,7 @@ You are evaluating group 412, made up of:
 * Leonardo Bonilla (lbonilla@syr.edu)
 * Sydney Nadel (stnadel@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0412-E0417" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0412-E0417" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18015,7 +18027,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jlyu04@syr.edu: Junyi Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0412-E0417"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0412-E0417"**
 
 ---
 
@@ -18029,7 +18041,7 @@ You are evaluating group 1506, made up of:
 * Shoshanna Tokar (stokar@syr.edu)
 * Gregory Altamore (galtamor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1506-E1703" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1506-E1703" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18045,7 +18057,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sadams08@syr.edu: Sean Adams (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1506-E1703"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1506-E1703"**
 
 ---
 
@@ -18055,25 +18067,23 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1506-E1
 
 You are evaluating group 2601, made up of:
 
-* Linxin Wan (lwan03@syr.edu)
 * Sofya Golubovskaya (sgolubov@syr.edu)
 * Sofya Treshcheva (streshch@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2601-E0310" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2601-E0310" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * sgolubov@syr.edu: Sofya Golubovskaya (member of submitting group)
 * streshch@syr.edu: Sofya Treshcheva (member of submitting group)
 * chfreema@syr.edu: Christopher Freeman (member of evaluating group)
 * tahinds@syr.edu: Taylia Hinds (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2601-E0310"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2601-E0310"**
 
 ---
 
@@ -18083,16 +18093,18 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2601-E0
 
 You are evaluating group 704, made up of:
 
+* Summer Stubbmann (sstubbma@syr.edu)
 * Karina Freeland (kmfreela@syr.edu)
 * Sophie Schlosser (syschlos@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0704-E0101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0704-E0101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* sstubbma@syr.edu: Summer Stubbmann (member of submitting group)
 * kmfreela@syr.edu: Karina Freeland (member of submitting group)
 * syschlos@syr.edu: Sophie Schlosser (member of submitting group)
 * hujing@syr.edu: Joyce Jing (member of evaluating group)
@@ -18100,20 +18112,20 @@ Once you have, please send it in an email, along with the group's original submi
 * zchen200@syr.edu: Zeren Chen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0704-E0101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0704-E0101"**
 
 ---
 
 ---
 
-### Group 2101: Amara Wilson, Daniel Hamrahi
+### Group 2101: Brittney Cunningham, Amara Wilson, Daniel Hamrahi
 
 You are evaluating group 310, made up of:
 
 * Christopher Freeman (chfreema@syr.edu)
 * Taylia Hinds (tahinds@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0310-E2101" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0310-E2101" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18122,11 +18134,12 @@ Once you have, please send it in an email, along with the group's original submi
 
 * chfreema@syr.edu: Christopher Freeman (member of submitting group)
 * tahinds@syr.edu: Taylia Hinds (member of submitting group)
+* blcunnin@syr.edu: Brittney Cunningham (member of evaluating group)
 * amwilson@syr.edu: Amara Wilson (member of evaluating group)
 * dhamrahi@syr.edu: Daniel Hamrahi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0310-E2101"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0310-E2101"**
 
 ---
 
@@ -18137,11 +18150,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0310-E2
 You are evaluating group 1005, made up of:
 
 * Emerson Murphy (emurph13@syr.edu)
-* Mateo Lariviere (mrlarivi@syr.edu)
 * Tessa Lank (talank@syr.edu)
 * Brian   Hall (bhall05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1005-E1010" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1005-E1010" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18149,7 +18161,6 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * emurph13@syr.edu: Emerson Murphy (member of submitting group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * talank@syr.edu: Tessa Lank (member of submitting group)
 * bhall05@syr.edu: Brian   Hall (member of submitting group)
 * etsulliv@syr.edu: Eamonn Sullivan (member of evaluating group)
@@ -18157,7 +18168,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xsteele@syr.edu: Xavier Steele (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1005-E1010"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1005-E1010"**
 
 ---
 
@@ -18170,9 +18181,8 @@ You are evaluating group 302, made up of:
 * Alan Harding (athardin@syr.edu)
 * Jack Desmarais-Harris (jdesmara@syr.edu)
 * Taylor Miller (tamiller@syr.edu)
-* Camryn Johnson-Andrews (cjohns26@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0302-E2003" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0302-E2003" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18182,28 +18192,26 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of submitting group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of submitting group)
 * tamiller@syr.edu: Taylor Miller (member of submitting group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of submitting group)
 * abisigna@syr.edu: Alex Bisignani (member of evaluating group)
 * ldcreede@syr.edu: Liam Creeden (member of evaluating group)
 * nrsimpso@syr.edu: Noah Simpson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0302-E2003"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0302-E2003"**
 
 ---
 
 ---
 
-### Group 303: Alex Deangelis, Rody Conway
+### Group 303: Camryn Johnson-Andrews, Alex Deangelis, Rody Conway
 
 You are evaluating group 2702, made up of:
 
 * Bangshi Zeng (bzeng04@syr.edu)
-* Tao Tian (tatian@syr.edu)
 * Weiyi She (wshe01@syr.edu)
 * Yiheng Guan (yguan10@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2702-E0303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2702-E0303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18211,14 +18219,14 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bzeng04@syr.edu: Bangshi Zeng (member of submitting group)
-* tatian@syr.edu: Tao Tian (member of submitting group)
 * wshe01@syr.edu: Weiyi She (member of submitting group)
 * yguan10@syr.edu: Yiheng Guan (member of submitting group)
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * asdeange@syr.edu: Alex Deangelis (member of evaluating group)
 * rjconway@syr.edu: Rody Conway (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2702-E0303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2702-E0303"**
 
 ---
 
@@ -18232,7 +18240,7 @@ You are evaluating group 2006, made up of:
 * Luke Kaleeba (lkaleeba@syr.edu)
 * Timothy Skeval (tbskeval@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2006-E0201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2006-E0201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18247,7 +18255,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sahalper@syr.edu: Sami Halperin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2006-E0201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2006-E0201"**
 
 ---
 
@@ -18261,7 +18269,7 @@ You are evaluating group 416, made up of:
 * Daryl Gonzalez (dgonza01@syr.edu)
 * Tatia Buziashvili (tbuziash@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0416-E0411" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0416-E0411" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18273,11 +18281,11 @@ Once you have, please send it in an email, along with the group's original submi
 * tbuziash@syr.edu: Tatia Buziashvili (member of submitting group)
 * crdill@syr.edu: Cori Dill (member of evaluating group)
 * dcdegen@syr.edu: Devon Degen (member of evaluating group)
-* nlllepard@syr.edu: Neil Lepard (member of evaluating group)
+* nllepard@syr.edu: Neil Lepard (member of evaluating group)
 * fjhutson@syr.edu: Faith Hutson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0416-E0411"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0416-E0411"**
 
 ---
 
@@ -18291,7 +18299,7 @@ You are evaluating group 1009, made up of:
 * Samantha Mussman (snmussma@syr.edu)
 * Theodore Gelb (tcgelb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1009-E1502" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1009-E1502" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18306,13 +18314,13 @@ Once you have, please send it in an email, along with the group's original submi
 * lmceccol@syr.edu: Luke Ceccoli (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1009-E1502"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1009-E1502"**
 
 ---
 
 ---
 
-### Group 408: John Finnerty Jr, Jose Vilchez
+### Group 408: Haoran Dong, John Finnerty Jr, Jose Vilchez, Sophia R Askari
 
 You are evaluating group 2203, made up of:
 
@@ -18320,7 +18328,7 @@ You are evaluating group 2203, made up of:
 * Michael Silverman (msilve09@syr.edu)
 * Timothy Rose (tdrose@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2203-E0408" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2203-E0408" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18330,11 +18338,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mpow01@syr.edu: Maya Pow (member of submitting group)
 * msilve09@syr.edu: Michael Silverman (member of submitting group)
 * tdrose@syr.edu: Timothy Rose (member of submitting group)
+* hdong02@syr.edu: Haoran Dong (member of evaluating group)
 * jpfinner@syr.edu: John Finnerty Jr (member of evaluating group)
 * jvilchez@syr.edu: Jose Vilchez (member of evaluating group)
+* sraskari@syr.edu: Sophia R Askari (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2203-E0408"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2203-E0408"**
 
 ---
 
@@ -18347,8 +18357,9 @@ You are evaluating group 2300, made up of:
 * Hope Millner (hmillner@syr.edu)
 * Luka Lazarevic (llazarev@syr.edu)
 * Thomas Bauer (tebauer@syr.edu)
+* Max Kennedy (makenned@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2300-E1707" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2300-E1707" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18358,18 +18369,19 @@ Once you have, please send it in an email, along with the group's original submi
 * hmillner@syr.edu: Hope Millner (member of submitting group)
 * llazarev@syr.edu: Luka Lazarevic (member of submitting group)
 * tebauer@syr.edu: Thomas Bauer (member of submitting group)
+* makenned@syr.edu: Max Kennedy (member of submitting group)
 * avsalaza@syr.edu: Ava Salazar (member of evaluating group)
 * meorlean@syr.edu: Michele Orleans (member of evaluating group)
 * skdenaro@syr.edu: Samantha Denaro (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2300-E1707"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2300-E1707"**
 
 ---
 
 ---
 
-### Group 102: Hongkai He, Yifei Liu, Zachary Stern
+### Group 102: Hongkai He, Yifei Liu, Zachary Stern, Martin Berishaj
 
 You are evaluating group 203, made up of:
 
@@ -18378,7 +18390,7 @@ You are evaluating group 203, made up of:
 * Stephen Sklar (sasklar@syr.edu)
 * Teresa Greenwood (tegreenw@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0203-E0102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0203-E0102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18392,9 +18404,10 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of evaluating group)
 * yliu17@syr.edu: Yifei Liu (member of evaluating group)
 * zwstern@syr.edu: Zachary Stern (member of evaluating group)
+* maberish@syr.edu: Martin Berishaj (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0203-E0102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0203-E0102"**
 
 ---
 
@@ -18408,7 +18421,7 @@ You are evaluating group 208, made up of:
 * Myra Wong (mywong@syr.edu)
 * Tanya Cervantes (tgcervan@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0208-E1903" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0208-E1903" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18424,7 +18437,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kbbroyle@syr.edu: Kaeleigh B Broyles (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0208-E1903"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0208-E1903"**
 
 ---
 
@@ -18438,7 +18451,7 @@ You are evaluating group 1000, made up of:
 * Stephanie Gratzel (scgratze@syr.edu)
 * Tawny Hawthorne (thawthor@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1000-E0409" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1000-E0409" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18452,7 +18465,7 @@ Once you have, please send it in an email, along with the group's original submi
 * cjoy01@syr.edu: Connor Joy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1000-E0409"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1000-E0409"**
 
 ---
 
@@ -18467,7 +18480,7 @@ You are evaluating group 1504, made up of:
 * Thomas Cohen (thcohen@syr.edu)
 * Leila Zahedi (lgzahedi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1504-E1701" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1504-E1701" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18483,7 +18496,7 @@ Once you have, please send it in an email, along with the group's original submi
 * slyu11@syr.edu: Sitong Lyu (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1504-E1701"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1504-E1701"**
 
 ---
 
@@ -18496,8 +18509,9 @@ You are evaluating group 1606, made up of:
 * Charles Burns (cwburns@syr.edu)
 * Andrew Hoyt (jahoyt@syr.edu)
 * Timothy Kalinowski (tjkalino@syr.edu)
+* Brandon Turney (bsturney@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1606-E0205" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1606-E0205" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18507,11 +18521,12 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of submitting group)
 * jahoyt@syr.edu: Andrew Hoyt (member of submitting group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of submitting group)
+* bsturney@syr.edu: Brandon Turney (member of submitting group)
 * sgnusdeo@syr.edu: Sean Nusdeo (member of evaluating group)
 * yyang106@syr.edu: Yang Yang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1606-E0205"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1606-E0205"**
 
 ---
 
@@ -18525,7 +18540,7 @@ You are evaluating group 1905, made up of:
 * Erin O'Brien (eobrie06@syr.edu)
 * Tyler Marma (tjmarma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1905-E1100" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1905-E1100" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18539,7 +18554,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mikwan@syr.edu: Michael Kwan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1905-E1100"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1905-E1100"**
 
 ---
 
@@ -18554,7 +18569,7 @@ You are evaluating group 1700, made up of:
 * Samantha Greco (slgreco@syr.edu)
 * Tyler Thibeau (tjthibea@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1700-E1901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1700-E1901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18571,13 +18586,13 @@ Once you have, please send it in an email, along with the group's original submi
 * whtran@syr.edu: Win Tran (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1700-E1901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1700-E1901"**
 
 ---
 
 ---
 
-### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski
+### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski, Brandon Turney
 
 You are evaluating group 515, made up of:
 
@@ -18585,7 +18600,7 @@ You are evaluating group 515, made up of:
 * Tessa Pulgar (tkpulgar@syr.edu)
 * Zoe Copeland (zccopela@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0515-E1606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0515-E1606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18598,9 +18613,10 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of evaluating group)
 * jahoyt@syr.edu: Andrew Hoyt (member of evaluating group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of evaluating group)
+* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0515-E1606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0515-E1606"**
 
 ---
 
@@ -18614,7 +18630,7 @@ You are evaluating group 510, made up of:
 * Tyler Dawson (tldawson@syr.edu)
 * Zaria Kirkland (znkirkla@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0510-E0415" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0510-E0415" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18630,7 +18646,7 @@ Once you have, please send it in an email, along with the group's original submi
 * dgeorg02@syr.edu: David George (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0510-E0415"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0510-E0415"**
 
 ---
 
@@ -18644,7 +18660,7 @@ You are evaluating group 802, made up of:
 * Daniel Cavalier (dacavali@syr.edu)
 * Tucker Gralewski (tlgralew@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0802-E1709" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0802-E1709" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18659,13 +18675,13 @@ Once you have, please send it in an email, along with the group's original submi
 * msgogate@syr.edu: Mihika Gogate (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0802-E1709"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0802-E1709"**
 
 ---
 
 ---
 
-### Group 704: Karina Freeland, Sophie Schlosser
+### Group 704: Summer Stubbmann, Karina Freeland, Sophie Schlosser
 
 You are evaluating group 2201, made up of:
 
@@ -18673,7 +18689,7 @@ You are evaluating group 2201, made up of:
 * Jane Shevlin (jshevlin@syr.edu)
 * Tessa Diserafino (tmdisera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2201-E0704" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2201-E0704" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18683,11 +18699,12 @@ Once you have, please send it in an email, along with the group's original submi
 * jnbondy@syr.edu: Jenna Bondy (member of submitting group)
 * jshevlin@syr.edu: Jane Shevlin (member of submitting group)
 * tmdisera@syr.edu: Tessa Diserafino (member of submitting group)
+* sstubbma@syr.edu: Summer Stubbmann (member of evaluating group)
 * kmfreela@syr.edu: Karina Freeland (member of evaluating group)
 * syschlos@syr.edu: Sophie Schlosser (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2201-E0704"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2201-E0704"**
 
 ---
 
@@ -18701,7 +18718,7 @@ You are evaluating group 1809, made up of:
 * Maxum O'Halloran (mjohallo@syr.edu)
 * Tyler O'Neill (tmoneill@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1809-E2906" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1809-E2906" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18716,7 +18733,7 @@ Once you have, please send it in an email, along with the group's original submi
 * iadawson@syr.edu: Isaac Dawson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1809-E2906"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1809-E2906"**
 
 ---
 
@@ -18731,7 +18748,7 @@ You are evaluating group 801, made up of:
 * Nikki Rafferty (ngraffer@syr.edu)
 * Taylor Moss (tmoss02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0801-E2104" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0801-E2104" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18747,7 +18764,7 @@ Once you have, please send it in an email, along with the group's original submi
 * clynch12@syr.edu: Courtney Lynch (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0801-E2104"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0801-E2104"**
 
 ---
 
@@ -18761,7 +18778,7 @@ You are evaluating group 2301, made up of:
 * Reid Thompson (rthomp10@syr.edu)
 * Telusila Vunipola (tmvunipo@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2301-E1108" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2301-E1108" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18776,7 +18793,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zaaskari@syr.edu: Zachary Askarinam (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2301-E1108"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2301-E1108"**
 
 ---
 
@@ -18790,7 +18807,7 @@ You are evaluating group 2904, made up of:
 * Remi Tsunoda (rtsunoda@syr.edu)
 * Tia Hartley (tnhartle@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2904-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2904-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18806,7 +18823,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2904-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2904-E0203"**
 
 ---
 
@@ -18817,9 +18834,10 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S2904-E0
 You are evaluating group 2103, made up of:
 
 * Benjamin Schiller (bschille@syr.edu)
+* Justin King (jking20@syr.edu)
 * Timothy Dean (trdean@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2103-E1806" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2103-E1806" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18827,6 +18845,7 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bschille@syr.edu: Benjamin Schiller (member of submitting group)
+* jking20@syr.edu: Justin King (member of submitting group)
 * trdean@syr.edu: Timothy Dean (member of submitting group)
 * acvila@syr.edu: Anna Vila (member of evaluating group)
 * anhaak@syr.edu: Anthony Haak (member of evaluating group)
@@ -18834,7 +18853,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nabragg@syr.edu: Nya Bragg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2103-E1806"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2103-E1806"**
 
 ---
 
@@ -18849,7 +18868,7 @@ You are evaluating group 1713, made up of:
 * William Hauben (wshauben@syr.edu)
 * Amr Hines (amhines@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1713-E1602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1713-E1602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18865,7 +18884,7 @@ Once you have, please send it in an email, along with the group's original submi
 * pwang09@syr.edu: Pengwei Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1713-E1602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1713-E1602"**
 
 ---
 
@@ -18877,8 +18896,9 @@ You are evaluating group 1002, made up of:
 
 * Robert Spano (rnspano@syr.edu)
 * Thomas McMullen (tsmcmull@syr.edu)
+* Mateo Lariviere (mrlarivi@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1002-E1103" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1002-E1103" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18887,12 +18907,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * rnspano@syr.edu: Robert Spano (member of submitting group)
 * tsmcmull@syr.edu: Thomas McMullen (member of submitting group)
+* mrlarivi@syr.edu: Mateo Lariviere (member of submitting group)
 * iskobaya@syr.edu: Ikuo Kobayashi (member of evaluating group)
 * jgbeers@syr.edu: Jackson Beers (member of evaluating group)
 * sauerbac@syr.edu: Sam Auerbach (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1002-E1103"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1002-E1103"**
 
 ---
 
@@ -18906,7 +18927,7 @@ You are evaluating group 2701, made up of:
 * Tao Wang (twang99@syr.edu)
 * Xiaoxin Shu (xshu03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2701-E2206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2701-E2206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18921,7 +18942,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rpjermyn@syr.edu: Ryan Jermyn (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2701-E2206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2701-E2206"**
 
 ---
 
@@ -18935,7 +18956,7 @@ You are evaluating group 1900, made up of:
 * Nicholas Piro (napiro@syr.edu)
 * Thomas Burke (twburke@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1900-E1105" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1900-E1105" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -18949,7 +18970,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jthoma42@syr.edu: Jacob Thomassen (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1900-E1105"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1900-E1105"**
 
 ---
 
@@ -18959,18 +18980,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1900-E1
 
 You are evaluating group 1609, made up of:
 
-* Martin Berishaj (maberish@syr.edu)
 * Jacob Cohen Kronberg (jckronbe@syr.edu)
 * Blessing Emole (ubemole@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1609-E2000" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1609-E2000" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * jckronbe@syr.edu: Jacob Cohen Kronberg (member of submitting group)
 * ubemole@syr.edu: Blessing Emole (member of submitting group)
 * cmee01@syr.edu: Creagan Mee (member of evaluating group)
@@ -18978,7 +18997,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sbschnei@syr.edu: Samuel Schneider (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1609-E2000"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1609-E2000"**
 
 ---
 
@@ -18993,7 +19012,7 @@ You are evaluating group 1608, made up of:
 * Samira Mahshie (smmahshi@syr.edu)
 * Victoria Decoster (vadecost@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1608-E0309" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1608-E0309" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19008,13 +19027,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mpgreble@syr.edu: Madison Grebler (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1608-E0309"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1608-E0309"**
 
 ---
 
 ---
 
-### Group 1005: Emerson Murphy, Mateo Lariviere, Tessa Lank, Brian   Hall
+### Group 1005: Emerson Murphy, Tessa Lank, Brian   Hall
 
 You are evaluating group 502, made up of:
 
@@ -19023,7 +19042,7 @@ You are evaluating group 502, made up of:
 * Michael Egidio (msegidio@syr.edu)
 * Victoria Kelly (vkelly@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0502-E1005" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0502-E1005" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19035,12 +19054,11 @@ Once you have, please send it in an email, along with the group's original submi
 * msegidio@syr.edu: Michael Egidio (member of submitting group)
 * vkelly@syr.edu: Victoria Kelly (member of submitting group)
 * emurph13@syr.edu: Emerson Murphy (member of evaluating group)
-* mrlarivi@syr.edu: Mateo Lariviere (member of evaluating group)
 * talank@syr.edu: Tessa Lank (member of evaluating group)
 * bhall05@syr.edu: Brian   Hall (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0502-E1005"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0502-E1005"**
 
 ---
 
@@ -19050,24 +19068,20 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S0502-E1
 
 You are evaluating group 2907, made up of:
 
-* Eli Levine (elevin04@syr.edu)
-* Victor Richarson (vrichars@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2907-E0506" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2907-E0506" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* elevin04@syr.edu: Eli Levine (member of submitting group)
-* vrichars@syr.edu: Victor Richarson (member of submitting group)
 * hwobrien@syr.edu: Henry O'Brien (member of evaluating group)
 * izia01@syr.edu: Iman Zia (member of evaluating group)
 * ksaugy@syr.edu: Kyle Saugy (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2907-E0506"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2907-E0506"**
 
 ---
 
@@ -19082,7 +19096,7 @@ You are evaluating group 1901, made up of:
 * Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1901-E1402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1901-E1402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19098,13 +19112,13 @@ Once you have, please send it in an email, along with the group's original submi
 * xwang256@syr.edu: Xuechun Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1901-E1402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1901-E1402"**
 
 ---
 
 ---
 
-### Group 804: Jared Regenstein, Brian Paroff, Alex Papalcure
+### Group 804: Jared Regenstein, Brian Paroff
 
 You are evaluating group 1505, made up of:
 
@@ -19112,7 +19126,7 @@ You are evaluating group 1505, made up of:
 * Jordan Bullock (jrbulloc@syr.edu)
 * William Birks (wcbirks@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1505-E0804" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1505-E0804" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19124,10 +19138,9 @@ Once you have, please send it in an email, along with the group's original submi
 * wcbirks@syr.edu: William Birks (member of submitting group)
 * jmregens@syr.edu: Jared Regenstein (member of evaluating group)
 * bmparoff@syr.edu: Brian Paroff (member of evaluating group)
-* alpapalc@syr.edu: Alex Papalcure (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1505-E0804"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1505-E0804"**
 
 ---
 
@@ -19142,7 +19155,7 @@ You are evaluating group 1901, made up of:
 * Wayne Kaminski (wakamins@syr.edu)
 * Win Tran (whtran@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1901-E1402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1901-E1402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19158,7 +19171,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xwang256@syr.edu: Xuechun Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1901-E1402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1901-E1402"**
 
 ---
 
@@ -19172,7 +19185,7 @@ You are evaluating group 2002, made up of:
 * Ryan Daly (rsdaly@syr.edu)
 * William Steinberg (wksteinb@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2002-E0203" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2002-E0203" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19188,7 +19201,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tegreenw@syr.edu: Teresa Greenwood (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2002-E0203"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2002-E0203"**
 
 ---
 
@@ -19202,7 +19215,7 @@ You are evaluating group 701, made up of:
 * Matthew Powers (mpower02@syr.edu)
 * William Hentschel (wrhentsc@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0701-E1506" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0701-E1506" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19217,13 +19230,13 @@ Once you have, please send it in an email, along with the group's original submi
 * galtamor@syr.edu: Gregory Altamore (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0701-E1506"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0701-E1506"**
 
 ---
 
 ---
 
-### Group 1708: Luke Talago, Harrison Falconio Thompson
+### Group 1708: Luke Talago, Harrison Falconio Thompson, Sungjin Lee
 
 You are evaluating group 2205, made up of:
 
@@ -19231,7 +19244,7 @@ You are evaluating group 2205, made up of:
 * William Slaski (wrslaski@syr.edu)
 * D'Angelo Valdez (dgvaldez@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2205-E1708" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2205-E1708" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19243,9 +19256,10 @@ Once you have, please send it in an email, along with the group's original submi
 * dgvaldez@syr.edu: D'Angelo Valdez (member of submitting group)
 * latalago@syr.edu: Luke Talago (member of evaluating group)
 * hfthomps@syr.edu: Harrison Falconio Thompson (member of evaluating group)
+* slee171@syr.edu: Sungjin Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2205-E1708"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2205-E1708"**
 
 ---
 
@@ -19259,7 +19273,7 @@ You are evaluating group 413, made up of:
 * Dorothy Sabo (drsabo@syr.edu)
 * Will Saferstein (wsaferst@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0413-E1102" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0413-E1102" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19274,7 +19288,7 @@ Once you have, please send it in an email, along with the group's original submi
 * jrboyle@syr.edu: Jason Boyle (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0413-E1102"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0413-E1102"**
 
 ---
 
@@ -19289,7 +19303,7 @@ You are evaluating group 1713, made up of:
 * William Hauben (wshauben@syr.edu)
 * Amr Hines (amhines@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1713-E1602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1713-E1602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19305,22 +19319,21 @@ Once you have, please send it in an email, along with the group's original submi
 * pwang09@syr.edu: Pengwei Wang (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1713-E1602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1713-E1602"**
 
 ---
 
 ---
 
-### Group 303: Alex Deangelis, Rody Conway
+### Group 303: Camryn Johnson-Andrews, Alex Deangelis, Rody Conway
 
 You are evaluating group 2702, made up of:
 
 * Bangshi Zeng (bzeng04@syr.edu)
-* Tao Tian (tatian@syr.edu)
 * Weiyi She (wshe01@syr.edu)
 * Yiheng Guan (yguan10@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2702-E0303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2702-E0303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19328,28 +19341,26 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bzeng04@syr.edu: Bangshi Zeng (member of submitting group)
-* tatian@syr.edu: Tao Tian (member of submitting group)
 * wshe01@syr.edu: Weiyi She (member of submitting group)
 * yguan10@syr.edu: Yiheng Guan (member of submitting group)
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * asdeange@syr.edu: Alex Deangelis (member of evaluating group)
 * rjconway@syr.edu: Rody Conway (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2702-E0303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2702-E0303"**
 
 ---
 
 ---
 
-### Group 2907: Eli Levine, Victor Richarson
-
-You are evaluating group 2204, made up of:
+### Group 2907: You are evaluating group 2204, made up of:
 
 * Kevin Mendez (kmende04@syr.edu)
 * William Boalt (wtboalt@syr.edu)
 * Zion Smith (zismith@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2204-E2907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2204-E2907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19359,11 +19370,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmende04@syr.edu: Kevin Mendez (member of submitting group)
 * wtboalt@syr.edu: William Boalt (member of submitting group)
 * zismith@syr.edu: Zion Smith (member of submitting group)
-* elevin04@syr.edu: Eli Levine (member of evaluating group)
-* vrichars@syr.edu: Victor Richarson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2204-E2907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2204-E2907"**
 
 ---
 
@@ -19378,7 +19387,7 @@ You are evaluating group 1608, made up of:
 * Samira Mahshie (smmahshi@syr.edu)
 * Victoria Decoster (vadecost@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1608-E0309" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1608-E0309" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19393,7 +19402,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mpgreble@syr.edu: Madison Grebler (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1608-E0309"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1608-E0309"**
 
 ---
 
@@ -19407,7 +19416,7 @@ You are evaluating group 517, made up of:
 * Peyton Persing (papersin@syr.edu)
 * Xiaopeng Cao (xcao01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0517-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0517-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19423,7 +19432,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0517-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0517-E2602"**
 
 ---
 
@@ -19437,7 +19446,7 @@ You are evaluating group 1200, made up of:
 * Huihao Xing (huxing@syr.edu)
 * Xiaoyang Du (xdu110@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1200-E0209" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1200-E0209" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19452,7 +19461,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sjbragg@syr.edu: Sarah Bragg (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1200-E0209"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1200-E0209"**
 
 ---
 
@@ -19467,7 +19476,7 @@ You are evaluating group 2603, made up of:
 * Yuqi Chen (ychen396@syr.edu)
 * Kyu  Ho Sim (ksim02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2603-E1900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2603-E1900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19483,7 +19492,7 @@ Once you have, please send it in an email, along with the group's original submi
 * twburke@syr.edu: Thomas Burke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2603-E1900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2603-E1900"**
 
 ---
 
@@ -19497,7 +19506,7 @@ You are evaluating group 2701, made up of:
 * Tao Wang (twang99@syr.edu)
 * Xiaoxin Shu (xshu03@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2701-E2206" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2701-E2206" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19512,7 +19521,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rpjermyn@syr.edu: Ryan Jermyn (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2701-E2206"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2701-E2206"**
 
 ---
 
@@ -19526,7 +19535,7 @@ You are evaluating group 1010, made up of:
 * Imani Diggs (idiggs@syr.edu)
 * Xavier Steele (xsteele@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1010-E0901" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1010-E0901" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19540,7 +19549,7 @@ Once you have, please send it in an email, along with the group's original submi
 * gphill03@syr.edu: Grace Phillips (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1010-E0901"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1010-E0901"**
 
 ---
 
@@ -19554,7 +19563,7 @@ You are evaluating group 1402, made up of:
 * Jiajun Xu (jxu199@syr.edu)
 * Xuechun Wang (xwang256@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1402-E1009" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1402-E1009" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19569,7 +19578,7 @@ Once you have, please send it in an email, along with the group's original submi
 * tcgelb@syr.edu: Theodore Gelb (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1402-E1009"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1402-E1009"**
 
 ---
 
@@ -19583,7 +19592,7 @@ You are evaluating group 2402, made up of:
 * Xiaojie Wu (xwu100@syr.edu)
 * Youhao Luo (yluo27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2402-E0413" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2402-E0413" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19598,7 +19607,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wsaferst@syr.edu: Will Saferstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2402-E0413"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2402-E0413"**
 
 ---
 
@@ -19612,7 +19621,7 @@ You are evaluating group 2700, made up of:
 * Xinyu Xing (xxing05@syr.edu)
 * Xiaoping Yuan (xyuan16@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2700-E0515" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2700-E0515" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19627,7 +19636,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zccopela@syr.edu: Zoe Copeland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2700-E0515"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2700-E0515"**
 
 ---
 
@@ -19641,7 +19650,7 @@ You are evaluating group 2700, made up of:
 * Xinyu Xing (xxing05@syr.edu)
 * Xiaoping Yuan (xyuan16@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2700-E0515" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2700-E0515" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19656,7 +19665,7 @@ Once you have, please send it in an email, along with the group's original submi
 * zccopela@syr.edu: Zoe Copeland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2700-E0515"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2700-E0515"**
 
 ---
 
@@ -19670,7 +19679,7 @@ You are evaluating group 1706, made up of:
 * Yadi Flores (yaflores@syr.edu)
 * Yaya Diawara (ydiawara@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1706-E2001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1706-E2001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19685,7 +19694,7 @@ Once you have, please send it in an email, along with the group's original submi
 * srosenba@syr.edu: Sydney Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1706-E2001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1706-E2001"**
 
 ---
 
@@ -19698,7 +19707,7 @@ You are evaluating group 417, made up of:
 * Yuchen Ai (yai100@syr.edu)
 * Junyi Lyu (jlyu04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0417-E1008" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0417-E1008" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19712,7 +19721,7 @@ Once you have, please send it in an email, along with the group's original submi
 * popeters@syr.edu: Petey Peterson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0417-E1008"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0417-E1008"**
 
 ---
 
@@ -19727,7 +19736,7 @@ You are evaluating group 2603, made up of:
 * Yuqi Chen (ychen396@syr.edu)
 * Kyu  Ho Sim (ksim02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2603-E1900" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2603-E1900" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19743,7 +19752,7 @@ Once you have, please send it in an email, along with the group's original submi
 * twburke@syr.edu: Thomas Burke (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2603-E1900"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2603-E1900"**
 
 ---
 
@@ -19757,7 +19766,7 @@ You are evaluating group 1706, made up of:
 * Yadi Flores (yaflores@syr.edu)
 * Yaya Diawara (ydiawara@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1706-E2001" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1706-E2001" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19772,22 +19781,21 @@ Once you have, please send it in an email, along with the group's original submi
 * srosenba@syr.edu: Sydney Rosenbaum (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1706-E2001"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1706-E2001"**
 
 ---
 
 ---
 
-### Group 303: Alex Deangelis, Rody Conway
+### Group 303: Camryn Johnson-Andrews, Alex Deangelis, Rody Conway
 
 You are evaluating group 2702, made up of:
 
 * Bangshi Zeng (bzeng04@syr.edu)
-* Tao Tian (tatian@syr.edu)
 * Weiyi She (wshe01@syr.edu)
 * Yiheng Guan (yguan10@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2702-E0303" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2702-E0303" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19795,14 +19803,14 @@ You should download the <a href="project1evaluation.docx">evaluation form</a>, i
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
 * bzeng04@syr.edu: Bangshi Zeng (member of submitting group)
-* tatian@syr.edu: Tao Tian (member of submitting group)
 * wshe01@syr.edu: Weiyi She (member of submitting group)
 * yguan10@syr.edu: Yiheng Guan (member of submitting group)
+* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * asdeange@syr.edu: Alex Deangelis (member of evaluating group)
 * rjconway@syr.edu: Rody Conway (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2702-E0303"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2702-E0303"**
 
 ---
 
@@ -19816,7 +19824,7 @@ You are evaluating group 1705, made up of:
 * Kevin Camelo Bonilla (kbcamelo@syr.edu)
 * Young Bin Lee (ylee05@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1705-E0800" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1705-E0800" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19831,7 +19839,7 @@ Once you have, please send it in an email, along with the group's original submi
 * kamare@syr.edu: Kaerod Amare (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1705-E0800"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1705-E0800"**
 
 ---
 
@@ -19846,7 +19854,7 @@ You are evaluating group 2602, made up of:
 * Grant Murphy (gmmurphy@syr.edu)
 * Elvis Lee (yli170@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2602-E1904" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2602-E1904" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19862,7 +19870,7 @@ Once you have, please send it in an email, along with the group's original submi
 * rmckee@syr.edu: Ross McKee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2602-E1904"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2602-E1904"**
 
 ---
 
@@ -19875,8 +19883,9 @@ You are evaluating group 102, made up of:
 * Hongkai He (hhe122@syr.edu)
 * Yifei Liu (yliu17@syr.edu)
 * Zachary Stern (zwstern@syr.edu)
+* Martin Berishaj (maberish@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0102-E0705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0102-E0705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19886,13 +19895,14 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of submitting group)
 * yliu17@syr.edu: Yifei Liu (member of submitting group)
 * zwstern@syr.edu: Zachary Stern (member of submitting group)
+* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * anpaek@syr.edu: Andrew Paek (member of evaluating group)
 * ivmainet@syr.edu: Isabel Maine-Torres (member of evaluating group)
 * sasaunde@syr.edu: Samuel Saunders (member of evaluating group)
 * amceesay@syr.edu: Aminata Ceesay (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0102-E0705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0102-E0705"**
 
 ---
 
@@ -19906,7 +19916,7 @@ You are evaluating group 2402, made up of:
 * Xiaojie Wu (xwu100@syr.edu)
 * Youhao Luo (yluo27@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2402-E0413" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2402-E0413" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19921,7 +19931,7 @@ Once you have, please send it in an email, along with the group's original submi
 * wsaferst@syr.edu: Will Saferstein (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2402-E0413"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2402-E0413"**
 
 ---
 
@@ -19936,7 +19946,7 @@ You are evaluating group 2602, made up of:
 * Grant Murphy (gmmurphy@syr.edu)
 * Elvis Lee (yli170@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2602-E1201" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2602-E1201" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19951,13 +19961,13 @@ Once you have, please send it in an email, along with the group's original submi
 * nnfourne@syr.edu: Natalie Fournell (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2602-E1201"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2602-E1201"**
 
 ---
 
 ---
 
-### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller, Camryn Johnson-Andrews
+### Group 302: Alan Harding, Jack Desmarais-Harris, Taylor Miller
 
 You are evaluating group 1003, made up of:
 
@@ -19965,7 +19975,7 @@ You are evaluating group 1003, made up of:
 * Ramon Phenix (riphenix@syr.edu)
 * Yuri Suh (ysuh02@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1003-E0302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1003-E0302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -19978,10 +19988,9 @@ Once you have, please send it in an email, along with the group's original submi
 * athardin@syr.edu: Alan Harding (member of evaluating group)
 * jdesmara@syr.edu: Jack Desmarais-Harris (member of evaluating group)
 * tamiller@syr.edu: Taylor Miller (member of evaluating group)
-* cjohns26@syr.edu: Camryn Johnson-Andrews (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1003-E0302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1003-E0302"**
 
 ---
 
@@ -19991,18 +20000,16 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1003-E0
 
 You are evaluating group 213, made up of:
 
-* Jacob Bernardine (jberna01@syr.edu)
 * Anthony Bellman (ajbellma@syr.edu)
 * Yu  Sun (ysun57@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0213-E1504" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0213-E1504" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
-* jberna01@syr.edu: Jacob Bernardine (member of submitting group)
 * ajbellma@syr.edu: Anthony Bellman (member of submitting group)
 * ysun57@syr.edu: Yu  Sun (member of submitting group)
 * bwood04@syr.edu: Beyonce Wood (member of evaluating group)
@@ -20011,7 +20018,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lgzahedi@syr.edu: Leila Zahedi (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0213-E1504"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0213-E1504"**
 
 ---
 
@@ -20025,7 +20032,7 @@ You are evaluating group 103, made up of:
 * Yueru Wang (ywang584@syr.edu)
 * Zhennan Chen (zchen172@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0103-E0402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0103-E0402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20040,7 +20047,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lbueno@syr.edu: Laura Bueno (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0103-E0402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0103-E0402"**
 
 ---
 
@@ -20053,7 +20060,7 @@ You are evaluating group 205, made up of:
 * Sean Nusdeo (sgnusdeo@syr.edu)
 * Yang Yang (yyang106@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0205-E1404" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0205-E1404" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20067,7 +20074,7 @@ Once you have, please send it in an email, along with the group's original submi
 * mamartin@syr.edu: Matthew Martin (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0205-E1404"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0205-E1404"**
 
 ---
 
@@ -20081,7 +20088,7 @@ You are evaluating group 1400, made up of:
 * Yuyang Yao (yyao32@syr.edu)
 * Zongli Fang (zofang@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1400-E0803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1400-E0803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20095,7 +20102,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sfturek@syr.edu: Shoshana Turek (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1400-E0803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1400-E0803"**
 
 ---
 
@@ -20109,7 +20116,7 @@ You are evaluating group 2303, made up of:
 * Jing Wang (jwang79@syr.edu)
 * Yiyi Yuan (yyuan30@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2303-E2302" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2303-E2302" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20125,13 +20132,13 @@ Once you have, please send it in an email, along with the group's original submi
 * mwbockma@syr.edu: Maxwell Bockmann (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2303-E2302"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2303-E2302"**
 
 ---
 
 ---
 
-### Group 1605: Andrew Spana, Sydney Lance, Joshua Jezak
+### Group 1605: Andrew Spana, Joshua Jezak
 
 You are evaluating group 1108, made up of:
 
@@ -20139,7 +20146,7 @@ You are evaluating group 1108, made up of:
 * Adam Kinsley Carter (akcarter@syr.edu)
 * Zachary Askarinam (zaaskari@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1108-E1605" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1108-E1605" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20150,17 +20157,16 @@ Once you have, please send it in an email, along with the group's original submi
 * akcarter@syr.edu: Adam Kinsley Carter (member of submitting group)
 * zaaskari@syr.edu: Zachary Askarinam (member of submitting group)
 * ajspana@syr.edu: Andrew Spana (member of evaluating group)
-* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jjezak@syr.edu: Joshua Jezak (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1108-E1605"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1108-E1605"**
 
 ---
 
 ---
 
-### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski
+### Group 1606: Charles Burns, Andrew Hoyt, Timothy Kalinowski, Brandon Turney
 
 You are evaluating group 515, made up of:
 
@@ -20168,7 +20174,7 @@ You are evaluating group 515, made up of:
 * Tessa Pulgar (tkpulgar@syr.edu)
 * Zoe Copeland (zccopela@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0515-E1606" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0515-E1606" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20181,9 +20187,10 @@ Once you have, please send it in an email, along with the group's original submi
 * cwburns@syr.edu: Charles Burns (member of evaluating group)
 * jahoyt@syr.edu: Andrew Hoyt (member of evaluating group)
 * tjkalino@syr.edu: Timothy Kalinowski (member of evaluating group)
+* bsturney@syr.edu: Brandon Turney (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0515-E1606"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0515-E1606"**
 
 ---
 
@@ -20197,7 +20204,7 @@ You are evaluating group 103, made up of:
 * Yueru Wang (ywang584@syr.edu)
 * Zhennan Chen (zchen172@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0103-E0402" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0103-E0402" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20212,7 +20219,7 @@ Once you have, please send it in an email, along with the group's original submi
 * lbueno@syr.edu: Laura Bueno (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0103-E0402"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0103-E0402"**
 
 ---
 
@@ -20226,7 +20233,7 @@ You are evaluating group 101, made up of:
 * Sultan Alhameli (salhamel@syr.edu)
 * Zeren Chen (zchen200@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0101-E0510" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0101-E0510" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20241,7 +20248,7 @@ Once you have, please send it in an email, along with the group's original submi
 * znkirkla@syr.edu: Zaria Kirkland (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0101-E0510"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0101-E0510"**
 
 ---
 
@@ -20256,7 +20263,7 @@ You are evaluating group 404, made up of:
 * Zachary Cohen (zcohen03@syr.edu)
 * Ryan Cohen (rycohen@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0404-E1713" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0404-E1713" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20273,7 +20280,7 @@ Once you have, please send it in an email, along with the group's original submi
 * amhines@syr.edu: Amr Hines (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0404-E1713"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0404-E1713"**
 
 ---
 
@@ -20288,7 +20295,7 @@ You are evaluating group 1907, made up of:
 * Zoe Carlson (zecarlso@syr.edu)
 * Eden Tefera (etefera@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1907-E2700" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1907-E2700" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20304,7 +20311,7 @@ Once you have, please send it in an email, along with the group's original submi
 * xyuan16@syr.edu: Xiaoping Yuan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1907-E2700"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1907-E2700"**
 
 ---
 
@@ -20318,7 +20325,7 @@ You are evaluating group 1808, made up of:
 * Margaret Grinnell (megrinne@syr.edu)
 * Zev Kalechofsky (zekalech@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1808-E0801" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1808-E0801" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20334,20 +20341,21 @@ Once you have, please send it in an email, along with the group's original submi
 * tmoss02@syr.edu: Taylor Moss (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1808-E0801"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1808-E0801"**
 
 ---
 
 ---
 
-### Group 2702: Bangshi Zeng, Tao Tian, Weiyi She, Yiheng Guan
+### Group 2702: Bangshi Zeng, Weiyi She, Yiheng Guan
 
 You are evaluating group 2905, made up of:
 
 * Owen Zides (ozides@syr.edu)
 * Zoe Mccreary (zemccrea@syr.edu)
+* Eli Levine (elevin04@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2905-E2702" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2905-E2702" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20356,13 +20364,13 @@ Once you have, please send it in an email, along with the group's original submi
 
 * ozides@syr.edu: Owen Zides (member of submitting group)
 * zemccrea@syr.edu: Zoe Mccreary (member of submitting group)
+* elevin04@syr.edu: Eli Levine (member of submitting group)
 * bzeng04@syr.edu: Bangshi Zeng (member of evaluating group)
-* tatian@syr.edu: Tao Tian (member of evaluating group)
 * wshe01@syr.edu: Weiyi She (member of evaluating group)
 * yguan10@syr.edu: Yiheng Guan (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2905-E2702"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2905-E2702"**
 
 ---
 
@@ -20377,7 +20385,7 @@ You are evaluating group 1603, made up of:
 * Daniel Chaplick (djchapli@syr.edu)
 * Zachary Goldman (zhgoldma@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1603-E2602" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1603-E2602" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20394,7 +20402,7 @@ Once you have, please send it in an email, along with the group's original submi
 * yli170@syr.edu: Elvis Lee (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1603-E2602"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1603-E2602"**
 
 ---
 
@@ -20408,7 +20416,7 @@ You are evaluating group 709, made up of:
 * Ruiyun  Zhang (rzhang63@syr.edu)
 * Zhen Huang (zhuang38@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0709-E1006" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0709-E1006" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20424,21 +20432,19 @@ Once you have, please send it in an email, along with the group's original submi
 * mcreese@syr.edu: Matthew Reese (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0709-E1006"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0709-E1006"**
 
 ---
 
 ---
 
-### Group 2907: Eli Levine, Victor Richarson
-
-You are evaluating group 2204, made up of:
+### Group 2907: You are evaluating group 2204, made up of:
 
 * Kevin Mendez (kmende04@syr.edu)
 * William Boalt (wtboalt@syr.edu)
 * Zion Smith (zismith@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2204-E2907" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2204-E2907" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20448,11 +20454,9 @@ Once you have, please send it in an email, along with the group's original submi
 * kmende04@syr.edu: Kevin Mendez (member of submitting group)
 * wtboalt@syr.edu: William Boalt (member of submitting group)
 * zismith@syr.edu: Zion Smith (member of submitting group)
-* elevin04@syr.edu: Eli Levine (member of evaluating group)
-* vrichars@syr.edu: Victor Richarson (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2204-E2907"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2204-E2907"**
 
 ---
 
@@ -20466,7 +20470,7 @@ You are evaluating group 1401, made up of:
 * Zhishan Ni (zni106@syr.edu)
 * Jieying Xing (jxie102@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1401-E0710" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1401-E0710" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20482,7 +20486,7 @@ Once you have, please send it in an email, along with the group's original submi
 * nmreyesj@syr.edu: Naftali Reyes (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1401-E0710"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1401-E0710"**
 
 ---
 
@@ -20496,7 +20500,7 @@ You are evaluating group 510, made up of:
 * Tyler Dawson (tldawson@syr.edu)
 * Zaria Kirkland (znkirkla@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0510-E0415" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0510-E0415" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20512,7 +20516,7 @@ Once you have, please send it in an email, along with the group's original submi
 * dgeorg02@syr.edu: David George (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0510-E0415"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0510-E0415"**
 
 ---
 
@@ -20526,7 +20530,7 @@ You are evaluating group 1400, made up of:
 * Yuyang Yao (yyao32@syr.edu)
 * Zongli Fang (zofang@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1400-E0803" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1400-E0803" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20540,7 +20544,7 @@ Once you have, please send it in an email, along with the group's original submi
 * sfturek@syr.edu: Shoshana Turek (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1400-E0803"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1400-E0803"**
 
 ---
 
@@ -20550,17 +20554,19 @@ The subject line of your message should be **"Project 1 Evaluation: P1E-S1400-E0
 
 You are evaluating group 2604, made up of:
 
+* Linxin Wan (lwan03@syr.edu)
 * Chengting Wu (cwu141@syr.edu)
 * Suyun Chen (schen188@syr.edu)
 * Ziqian Shan (zshan01@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2604-E0512" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2604-E0512" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
 You should download the <a href="project1evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
 Once you have, please send it in an email, along with the group's original submission, to the following:
 
+* lwan03@syr.edu: Linxin Wan (member of submitting group)
 * cwu141@syr.edu: Chengting Wu (member of submitting group)
 * schen188@syr.edu: Suyun Chen (member of submitting group)
 * zshan01@syr.edu: Ziqian Shan (member of submitting group)
@@ -20569,13 +20575,13 @@ Once you have, please send it in an email, along with the group's original submi
 * rybradle@syr.edu: Ryan Bradley (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2604-E0512"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2604-E0512"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 503, made up of:
 
@@ -20584,7 +20590,7 @@ You are evaluating group 503, made up of:
 * Zachary Rohrer (ztrohrer@syr.edu)
 * Kim Heewoon (hkim99@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0503-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0503-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20597,10 +20603,11 @@ Once you have, please send it in an email, along with the group's original submi
 * hkim99@syr.edu: Kim Heewoon (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0503-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0503-E1004"**
 
 ---
 
@@ -20613,8 +20620,9 @@ You are evaluating group 102, made up of:
 * Hongkai He (hhe122@syr.edu)
 * Yifei Liu (yliu17@syr.edu)
 * Zachary Stern (zwstern@syr.edu)
+* Martin Berishaj (maberish@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S0102-E0705" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0102-E0705" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20624,13 +20632,14 @@ Once you have, please send it in an email, along with the group's original submi
 * hhe122@syr.edu: Hongkai He (member of submitting group)
 * yliu17@syr.edu: Yifei Liu (member of submitting group)
 * zwstern@syr.edu: Zachary Stern (member of submitting group)
+* maberish@syr.edu: Martin Berishaj (member of submitting group)
 * anpaek@syr.edu: Andrew Paek (member of evaluating group)
 * ivmainet@syr.edu: Isabel Maine-Torres (member of evaluating group)
 * sasaunde@syr.edu: Samuel Saunders (member of evaluating group)
 * amceesay@syr.edu: Aminata Ceesay (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S0102-E0705"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S0102-E0705"**
 
 ---
 
@@ -20645,7 +20654,7 @@ You are evaluating group 1300, made up of:
 * Dingkai Yao (dyao02@syr.edu)
 * Renata Lee (rlee17@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S1300-E0207" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S1300-E0207" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20660,13 +20669,13 @@ Once you have, please send it in an email, along with the group's original submi
 * kcabuls@syr.edu: Katrina Abuls (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S1300-E0207"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S1300-E0207"**
 
 ---
 
 ---
 
-### Group 1004: Ellen Kingman, Jackson Dubrull, Jack Gonzalez
+### Group 1004: Ellen Kingman, Jackson Dubrull, Sydney Lance, Jack Gonzalez
 
 You are evaluating group 2800, made up of:
 
@@ -20674,7 +20683,7 @@ You are evaluating group 2800, made up of:
 * Isabel Eisen (imeisen@syr.edu)
 * Ziwei Zhao (zzhao07@syr.edu)
 
-You should have received an email from them with their Project 1 submission, titled "Project 1 Submission: P1S-S2800-E1004" and their names.
+You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S2800-E1004" and their names.
 
 If you have not gotten a message from them, please contact them and ask them to send you their work.
 
@@ -20686,10 +20695,11 @@ Once you have, please send it in an email, along with the group's original submi
 * zzhao07@syr.edu: Ziwei Zhao (member of submitting group)
 * eekingma@syr.edu: Ellen Kingman (member of evaluating group)
 * jdubrull@syr.edu: Jackson Dubrull (member of evaluating group)
+* sjlance@syr.edu: Sydney Lance (member of evaluating group)
 * jgonza09@syr.edu: Jack Gonzalez (member of evaluating group)
 * suast101projects@gmail.com
 
-The subject line of your message should be **"Project 1 Evaluation: P1E-S2800-E1004"**
+The subject line of your message should be **"Project 2 Evaluation: P2E-S2800-E1004"**
 
 ---
 
