@@ -12,52 +12,8 @@ appear in the information for other students who are in your group or who will b
 
 ---
 
----
 
 
-
-### Group 607: Benjamin Schiller, Rachel Iannarelli, Lagarthucin Legrand
-
-You are evaluating group 000, made up of:
-
-
-You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0000-E0607" and their names.
-
-If you have not gotten a message from them, please contact them and ask them to send you their work.
-
-You should download the <a href="project2evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
-Once you have, please send it in an email, along with the group's original submission, to the following:
-
-* beschill@syr.edu: Benjamin Schiller (member of evaluating group)
-* raiannar@syr.edu: Rachel Iannarelli (member of evaluating group)
-* lklegran@syr.edu: Lagarthucin Legrand (member of evaluating group)
-* suast101projects@gmail.com
-
-The subject line of your message should be **"Project 2 Evaluation: P2E-S0000-E0607"**
-
----
-
----
-
-### Group 1609: Jacob Cohen Kronberg, Blessing Emole
-
-You are evaluating group 000, made up of:
-
-
-You should have received an email from them with their Project 2 submission, titled "Project 2 Submission: P1S-S0000-E1609" and their names.
-
-If you have not gotten a message from them, please contact them and ask them to send you their work.
-
-You should download the <a href="project2evaluation.docx">evaluation form</a>, import it into Google Docs or Office365, and complete it with your group.
-Once you have, please send it in an email, along with the group's original submission, to the following:
-
-* jckronbe@syr.edu: Jacob Cohen Kronberg (member of evaluating group)
-* ubemole@syr.edu: Blessing Emole (member of evaluating group)
-* suast101projects@gmail.com
-
-The subject line of your message should be **"Project 2 Evaluation: P2E-S0000-E1609"**
-
----
 
 ---
 

@@ -23,68 +23,6 @@ Again, unless you are Andrew Dinnhaupt, the first listing is not yours.
 
 
 
-DROP: alpapalc,Papalcure,Alex,804 PRESUMED DROP,Monday 6:45-8:05 PM,,Main Campus,,,,,,, (skipping)
-DROP: ogporter,Porter,Olivia,2802 DROPPED,Friday 11:00-12:20 AM,,Main Campus,N/A,Google preferred,US East Coast,,,, (skipping)
-DROP: vrichars,Richarson,Victor,2907 DROPPED?,Friday 12:45-2:05 PM,,Online,,,,,,, (skipping)
-DROP: ajruscit,Ruscitto,Anthony,1004 DROPPED,Tuesday 3:35-4:50 PM,,South Campus,,Microsoft preferred,US East Coast,,,, (skipping)
-DROP: jimiele,Miele,Jillian,207 DROPPED,Monday 9:30-10:50 AM,,Main Campus,Sarah Bragg,Google preferred,US East Coast,,,, (skipping)
-DROP: ypei04,Pei,Ying,2602 DROPPED,Friday 8:00-9:20 AM ,,Online,,Microsoft preferred,Middle East or Central Asia,,,, (skipping)
-
-####  , @syr.edu
-
-Your group is number . Your lab time is .
-
-Your other group members are:
-* Camryn Johnson-Andrews (cjohns26@syr.edu)
-<br>
-
-Your group will be completing Project 2 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project2B.docx>. Since I am late posting this, you should submit your project as soon as you can, but no later than Friday at noon.
-
-When you are done, your work will be evaluated by Group 607.
-
-**Submission Instructions**: When you finish your work, make sure that the sharing settings for your document are "*anyone with the link can edit*". Email your finished document as an attachment, or as a shareable Google Drive or Office365 link, to all of the following:
-*   (@syr.edu) (your group member)
-* Camryn Johnson-Andrews (cjohns26@syr.edu) (your group member)
-* Benjamin Schiller (beschill@syr.edu) (member of evaluating group)
-* Rachel Iannarelli (raiannar@syr.edu) (member of evaluating group)
-* Lagarthucin Legrand (lklegran@syr.edu) (member of evaluating group)
-* suast101projects@gmail.com
-
-
-The subject line of your email should be "Project 2 Submission: P2S-S0000-E0607 ( , Camryn Johnson-Andrews)"
-
-
-<br>
-
----
-
-<br>
-
-
-#### First Name Last Name, SU email@syr.edu
-
-Your group is number Group ID. Your lab time is Time Slot.
-
-Your other group members are:
-<br>
-
-Your group will be completing Project 2 Version B. You may download it from <https://walterfreeman.github.io/ast101/projects/project2B.docx>. Since I am late posting this, you should submit your project as soon as you can, but no later than Friday at noon.
-
-When you are done, your work will be evaluated by Group 1609.
-
-**Submission Instructions**: When you finish your work, make sure that the sharing settings for your document are "*anyone with the link can edit*". Email your finished document as an attachment, or as a shareable Google Drive or Office365 link, to all of the following:
-* First Name Last Name (SU email@syr.edu) (your group member)
-* Jacob Cohen Kronberg (jckronbe@syr.edu) (member of evaluating group)
-* Blessing Emole (ubemole@syr.edu) (member of evaluating group)
-* suast101projects@gmail.com
-
-
-The subject line of your email should be "Project 2 Submission: P2S-S0000-E1609 (First Name Last Name)"
-
-
-<br>
-
----
 
 <br>
 
