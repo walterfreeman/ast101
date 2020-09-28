@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Orbit Simulator
+category: top
 permalink: lab4sim.html 
 use_math: true
 ---

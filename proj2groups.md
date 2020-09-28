@@ -2,7 +2,6 @@
 layout: page 
 permalink: groups2.html
 title: Project 2 Assignment
-category: top
 ---
 
 This page has group information listed for everyone in our class. Make sure you find your own listing. (Unless you are Andrew Dinnhaupt, the first listing isn't yours!)
@@ -16,8 +15,6 @@ Students are listed in alphabetical order by email address. It will be easiest i
 appear in the information for other students who are in your group or who will be sending you their work for evaluation.
 
 Again, unless you are Andrew Dinnhaupt, the first listing is not yours. 
-
----
 
 ---
 
