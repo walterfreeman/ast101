@@ -5,8 +5,15 @@ category: top
 permalink: labs.html 
 use_math: true
 ---
+
+
+**Note:** Lab 4 is a short lab that you will do on your own, individually. You do not need to come to lab at the normally-scheduled time this week. Instead, you may connect to Blackboard Collaborate at any normal lab time to ask for help. (Those times are Monday 8am-9:30pm, Tuesday 4:30-9:20 pm, Wednesday 8am-6:30pm, Thursday 5:00-9:20pm, Friday 8am-2pm.) Each person will need to make their own submission, rather than one per group.
+
+Lab 4, either method: <a href="labs/lab4-2020/lab4-2020i-v2.docx">[Word]</a><br>
+You can also access a <a href="https://docs.google.com/document/d/1mtF-fPcEK80pL7GEZ6QjSouhZ5ElkEO-ylN26HXpXbQ/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it.<br><br>
+
 Lab 3, either method: <a href="labs/lab3-2020/lab3-2020-parallax.docx">[Word]</a><br>
-You can also access a <a href="https://docs.google.com/document/d/1Y3k6RGgiK9wpUcwkgaxHdLyejfkImoD6iE89cKaqvig/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it.
+You can also access a <a href="https://docs.google.com/document/d/1Y3k6RGgiK9wpUcwkgaxHdLyejfkImoD6iE89cKaqvig/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it.<br><br>
 
 Lab 2, working in person: <a href="labs/lab2-2020/lab2-2020-inperson-final.docx">[Word]</a><br>
 Lab 2, working online: <a href="labs/lab2-2020/lab2-2020-remote-final.docx">[Word]</a><br><br>
