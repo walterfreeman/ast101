@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Finding truth in precision: from heliocentrism to science](slides/lecture10.pdf)
+Current slides: [Gravity](slides/lecture11.pdf)
 
 <br><br>
 
