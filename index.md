@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Gravity](slides/lecture11.pdf)
+Current slides: [The beginning of physics](slides/lecture12.pdf)
 
 <br><br>
 
@@ -29,7 +29,7 @@ The <a href="assignment2.html">Project 2 page</a> has everything you need to kno
 You can also just search for your name (although you might appear in other people's information too).
 
 **Paper 1** is also posted. You can access it from the top of the page or with this <a href="paper1.html">direct link to Paper 1</a>.
-Your first draft is due Monday, Sept 28.
+Your first draft is due Monday, Sept 28. Your final draft is due Monday, Oct 5.
 
 <br><br>
 
