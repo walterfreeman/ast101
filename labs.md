@@ -7,8 +7,6 @@ use_math: true
 ---
 
 
-**Note:** Lab 4 is a short lab that you will do on your own, individually. You do not need to come to lab at the normally-scheduled time this week. Instead, you may connect to Blackboard Collaborate at any normal lab time to ask for help. (Those times are Monday 8am-9:30pm, Tuesday 4:30-9:20 pm, Wednesday 8am-6:30pm, Thursday 5:00-9:20pm, Friday 8am-2pm.) Each person will need to make their own submission, rather than one per group.
-
 Lab 5, either method: <a href="labs/lab5-2020/lab5-2020.docx">[Word]</a><br>
 You can also access a <a href="https://docs.google.com/document/d/1vS9EeXzAGTldnnvOe1Ifbx2Cgqm5w5wrh-2ZsWnqZyU/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
 
