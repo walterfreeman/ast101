@@ -23,13 +23,9 @@ Current slides: [The beginning of physics](slides/lecture12.pdf)
 
 <br><br>
 
-**Project 2**, involving thinking about how the seasons and the motion of things in the sky are caused by the motions of the Earth and Moon, is posted now. 
-
-The <a href="assignment2.html">Project 2 page</a> has everything you need to know. Once you are there, people are listed alphabetically by email address.
-You can also just search for your name (although you might appear in other people's information too).
 
 **Paper 1** is also posted. You can access it from the top of the page or with this <a href="paper1.html">direct link to Paper 1</a>.
-Your first draft is due Monday, Sept 28. Your final draft is due Monday, Oct 5.
+Your first draft is due Monday, Sept 28. Your final draft is due Tuesday, Oct 6, by email to <suast101projects@gmail.com>.
 
 <br><br>
 
