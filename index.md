@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [The beginning of physics](slides/lecture12.pdf)
+Current slides: [Surprise black holes! Energy](slides/lecture13.pdf)
 
 <br><br>
 
