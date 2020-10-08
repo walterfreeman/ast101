@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Surprise black holes! Energy](slides/lecture13.pdf)
+Current slides: [Energy; what is science](slides/lecture14.pdf)
 
 <br><br>
 
@@ -24,8 +24,6 @@ Current slides: [Surprise black holes! Energy](slides/lecture13.pdf)
 <br><br>
 
 
-**Paper 1** is also posted. You can access it from the top of the page or with this <a href="paper1.html">direct link to Paper 1</a>.
-Your first draft is due Monday, Sept 28. Your final draft is due Tuesday, Oct 6, by email to <suast101projects@gmail.com>.
 
 <br><br>
 
