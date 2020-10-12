@@ -6,6 +6,9 @@ permalink: labs.html
 use_math: true
 ---
 
+Lab 6, either method: <a href="labs/lab6-2020/lab6-2020.docx">[Word]</a><br>
+You can also access a <a href="https://docs.google.com/document/d/1S8Uclaq3Li_Pf-zhoKFNFFKTRtit9T6Lez1QzcF64lo/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
+
 
 Lab 5, either method: <a href="labs/lab5-2020/lab5-2020.docx">[Word]</a><br>
 You can also access a <a href="https://docs.google.com/document/d/1vS9EeXzAGTldnnvOe1Ifbx2Cgqm5w5wrh-2ZsWnqZyU/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
