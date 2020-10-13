@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Paper 1
-category: top
 permalink: paper1.html 
 use_math: true
 ---

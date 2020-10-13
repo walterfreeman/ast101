@@ -5,8 +5,9 @@ permalink: paper2.html
 use_math: true
 ---
 
-**tl;dr Write either about the astronomy done by an ancient culture or on issues of scientific integrity. Due Friday, November 15, by 5PM. Email your submission
-to suast101projects@gmail.com *and* put a copy in your TA's mailbox.**
+**tl;dr Write a case study on a situation where the process of science has run off the rails. If you do not participate in the peer evaluation program,
+your final draft is due on October 26. If you do participate, your first draft is due October 23; your final draft will be due November 1. Email your submission
+to suast101projects@gmail.com.**
 
 ## Paper 2 Option 1: Scientific ethics and integrity / Pseudoscience
 
@@ -37,7 +38,7 @@ paper should focus on the challenges of conducting scientific inquiry into your 
 For instance: Last year we got quite a few mediocre papers that mostly repeated common arguments for the legalization of marijuana, and didn't address the central question of "How should scientific research into the effects of marijuana be conducted, given all the 
 difficulties in doing such research honestly?" 
 
-
+<!--
 ## Paper 2 Option 3: Archaeoastronomy
 
 <i>The astronomy portion of ``The History of Non-Western Science'', discussed
@@ -72,5 +73,5 @@ You might address points like:
 * Did they observe anything particularly unusual, or discover anything that was particularly advanced for the time period? 
 
 **Note**: This is not a "laundry list" of points that you must address; instead, it is a list of ideas; there are certainly many more. The best papers are ones that relate multiple facets of your people's lifestyle, culture, technology, and astronomical tradition to make a coherent narrative.
-
+-->
 

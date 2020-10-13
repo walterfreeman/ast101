@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Orbit Simulator
-category: top
-permalink: lab4sim.html 
+title: Two-Body Orbit Simulator
+permalink: orbitsim.html 
 use_math: true
 ---
 

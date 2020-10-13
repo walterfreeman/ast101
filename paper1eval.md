@@ -2,7 +2,6 @@
 layout: page 
 permalink: paper1-reviews.html
 title: Paper 1 reviews
-category: top
 ---
 
 ---
