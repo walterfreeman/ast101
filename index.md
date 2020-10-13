@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Energy; what is science](slides/lecture14.pdf)
+Current slides: [Science and pseudoscience](slides/lecture15.pdf)
 
 <br><br>
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paper 2
+category: top
 permalink: paper2.html 
 use_math: true
 ---
@@ -9,69 +10,97 @@ use_math: true
 your final draft is due on October 26. If you do participate, your first draft is due October 23; your final draft will be due November 1. Email your submission
 to suast101projects@gmail.com.**
 
-## Paper 2 Option 1: Scientific ethics and integrity / Pseudoscience
+If you have an idea you would like feedback on, post it to Piazza or come to discussion hours.
 
-The scientific approach has resulted in an explosion of technology and knowledge about our world. However, *because* of its success, the misapplication of the scientific method without high standards of ethics and integrity, or the use of the trappings of scientific study to lend credence to a spurious idea ("pseudoscience"), can be a dangerous thing. 
+## Case Study: Flawed Process of Science
+
+The scientific approach has resulted in an explosion of technology and knowledge about our world. However, when applied without attention to integrity -- to ensuring rigor, thoroughness, and accuracy -- even honest, well-meaning scientists
+can reach incorrect conclusions. Worse, the intentional misapplication of the scientific method, or the use of the trappings of scientific study to lend credence to a spurious idea ("pseudoscience"), is a powerful tool of deception, in which
+bad actors claim that deliberate misinformation resulted from an unbiased scientific process.
 
 In this paper, you will explore what happens when the process of scientific thought is either negligently or maliciously derailed.
 
-Choose a contemporary (since 1875) phenomenon in which this happened. (It doesn't have to be specifically astronomical.) 
-Discuss what happened (telling the story if it is not a familiar one), 
-and describe in what way the principles of scientific integrity, ethics, and/or rigor were compromised.
+Choose a contemporary (roughly, since 1875) phenomenon in which this happened. (It doesn't have to be specifically about physics or astronomy; your example may come from any field that purports to use the scientific process, including the social sciences.) 
+Your example needs to have at least the following properties:
 
-Also describe what "warning signs" someone else might observe that would hint that something is wrong. What questions should a skeptical audience (whether fellow scientists or the general public) have asked that could point out the flaws in the argument being made?
+* Someone made a claim purporting to be the result of scientific study
+* This claim was false or not well-founded
+* The incorrect claim resulted in some way from some failing in the *process of science*.
+  * This might be because of an honest mistake
+  * It might be because someone really should have been more careful 
+  * It might also be a result of deliberate deception or malice
 
-Finally, if the issue resulted from negligence, rather than malice, describe what the researchers should have done instead to ensure that they didn't reach incorrect conclusions.
+As a reminder, common fallacies that you will find include:
 
+* Sampling bias: using a limited and biased data set that isn't representative of the broader population
+* Overgeneralization: drawing broad conclusions from limited evidence (i.e. generalizing from a psychological study of American college students to all people)
+* Argument *ad hominem*: rejecting legitimate scientific findings based on who the scientists are, rather than considering the data itself
+* Ignoring refuting evidence: failing to consider or deliberately ignoring evidence that calls into question the claim being made
+* Manufacturing a controversy: attempting to erode public confidence in legitimate scientific conclusions by creating the appearance of a controversy when no real controversy exists
+* Sensationalism: conflating a *demonstration that something is exciting* with *evidence that is true*
 
-## Paper 2 Option 2: a variant of the previous
+### So, what do I want you to do?
 
-Choose a contemporary area of inquiry that is particularly fraught with pitfalls in scientific ethics or integrity, in which good science is intermingled with questionable claims -- for instance, the search for exterrestrial life, research into medical uses of marijuana, research into the connection between gun laws and violence, the discourse surrounding climate change, etc. This might be because of a connection to a particularly profitable industry, 
-the ulterior motives of people seeking political power, the tendency to affirm or refute deeply-held biases, or sensationalistic interest by the public or by those involved. 
+Write a short essay of 750-1500 words (2-3 pages single spaced; 3-6 pages double spaced) that discusses what happened, and describes in what way the principles of scientific integrity or rigor were compromised.
 
-Give a brief description of the pitfalls. How has the scientific process run off the rails or been abused in this area? How *should* inquiry in this area be conducted, and what should people be especially wary of? How should we ensure, in Feynman's words, that we do not fool ourselves? Are there any narratives in the history of your chosen topic where people have done an exemplary job of ensuring ethics and integrity and "doing it right"?
+Your paper should also describe what "warning signs" someone else might observe that would hint that something is wrong. 
+What questions should a skeptical audience (whether fellow scientists or the general public) have asked that could point 
+out the flaws in the argument being made? This is especially important if you are discussing an example of 
+deliberate misinformation: how could someone else have recognized that they were being lied to?
 
-**A note on politics:** This topic may lead you into political territory. *It is perfectly okay to have clear opinions*. For instance, if you believe that one side of an issue has more merit than the other, you do not need to spend "equal time" articulating the 
-position of the "other side" that you believe is faulty. (We will of course evaluate your work based on whether you state your positions well and thoughtfully, not whether the person grading your paper agrees with you!) However, your
-paper should focus on the challenges of conducting scientific inquiry into your topic and how your topic should be studied without bias; it shouldn't simply be an advocacy paper for a particular policy position. 
+Finally, if the issue resulted from negligence or a mistake, rather than a deliberate attempt to deceive anyone, describe what the researchers should have 
+done instead to ensure that they didn't reach incorrect conclusions.
 
-For instance: Last year we got quite a few mediocre papers that mostly repeated common arguments for the legalization of marijuana, and didn't address the central question of "How should scientific research into the effects of marijuana be conducted, given all the 
-difficulties in doing such research honestly?" 
+A few notes:
 
-<!--
-## Paper 2 Option 3: Archaeoastronomy
+* This topic may lead you into political territory. *It is perfectly okay to have clear views*. For instance, if you believe 
+that one side of an issue has more merit than the other, you do not need to spend "equal time" articulating the 
+position of the "other side" that you believe is faulty. (We will of course evaluate your work based on whether you 
+state your positions well and thoughtfully, not whether the person grading your paper agrees with you!) However, your
+paper should focus on the process of science and how it has gone astray; it shouldn't simply be an advocacy paper 
+for a particular policy position. 
 
-<i>The astronomy portion of ``The History of Non-Western Science'', discussed
-in class as a good reference for this paper, lives <a href="http://astro.if.ufrgs.br/fis2008/TheHistoryofNon-WesternScience.pdf">here</a>.</i>
+* You may write about a single experiment/claim, or a series of linked claims that form a coherent movement.
 
-Choose a historical culture and research the ways that they conducted astronomy, then write a paper describing their astronomical culture and how it fits into the context of the broader circumstances of their lives, in particular into their larger intellectual tradition. 
+### What if you already wrote a paper like this for PHY211?
 
-You should choose a civilization other than the ancient Greeks (since we've studied them) or European peoples whose astronomical knowledge is broadly part of the same intellectual tradition (i.e. 13th century Italy or France is out, but the ancient Celts or Vikings are okay.) 
+The idea to teach students a little bit about how science protects itself from incorrect conclusions, so that you can be equipped to refute invalid claims when you encounter them in your lives, isn't just a AST101 thing.
 
-However, you are encouraged to use the familiar Western tradition as a point of comparison. 
+We do this in some other classes too, including PHY211, which some of you may have taken with me in the Spring. So some of you may have already completed the standard assignment, and you should do something different (maybe)!
 
-Your paper should be more than just a listing of facts that you discovered; we are looking for you to relate things you've learned and draw interesting conclusions or make interesting speculations about them. It is okay to speculate in this paper, so long as you explain why your proposals have some merit.
+If you wrote a paper like this in PHY211, you may either:
 
-You might address points like:
+* Write another paper about a different topic, comparing the situation to whatever you wrote about last term
+* Write instead about one of the following topics:
+  * Discuss what sorts of changes could be made in society to protect against bad actors using invalid scientific claims to cause harm. These changes could involve changes to education, to government, or to the way legitimate scientists interact with the public.
+  * Discuss how you think this problem -- of invalid scientific claims causing harm to society -- has changed over time, choosing any time period you find interesting.
+  * Discuss how the representation of science in the popular imagination -- whether portrayed in fiction or in other media -- is similar to the reality of how the scientific process works, and how it is different
 
-* Did they favor particular ways of understanding their world in general? Are these reflected in the way they understood the heavens?
-<br>
-* What form do their descriptions of astronomical events and phenomena take?
-<br>
-* In what ways was astronomy a practically-useful discipline, and in what ways was it a purely intellectual or creative endeavor?
-<br>
-* What technology (both material and intellectual) was available, and how did that influence both their understanding of the night sky and the ways they described it?
-    * Were they primarily an oral culture, or did they make extensive use of written records in communicating information to the next generation? 
-    * What was their understanding of mathematics (geometry, numbers, algebra)?
-    * Did the people use instruments beyond the unaided eye to understand the sky? 
-* How did their astronomy influence and how was it influenced by their literary or religious tradition? For instance, the Greeks named the planets after their gods, and used the story of Persephone and Hades to explain the seasons; there is cross-pollination between their mythology and their constellations. Did your chosen people name constellations or tell stories based on what they saw in the sky?
-<br>
-* At what latitude and in what geography did they live? Is this relevant for their understanding of the sky? (People living far from the Equator experience the sky in very different ways than those close to it!)
-<br>
-* What challenges were prominent in their lives (warfare, navigation, harsh climate, etc.)? Do any of these influence the way they conducted astronomy?
-<br>
-* Did they observe anything particularly unusual, or discover anything that was particularly advanced for the time period? 
+### What do we expect regarding citation of sources and academic integrity?
 
-**Note**: This is not a "laundry list" of points that you must address; instead, it is a list of ideas; there are certainly many more. The best papers are ones that relate multiple facets of your people's lifestyle, culture, technology, and astronomical tradition to make a coherent narrative.
--->
+* We expect you to write an articulate essay consisting of both your own thoughts and (possibly) research that you do at the library or on the internet.
+* We expect you to show clearly which text is original to you, which reflects ideas which you found elsewhere but have digested and expressed in your own words, and which text is a direct quote from someone else's words. **In short, you need to cite your sources, in any clear format you are familiar with**.
+You do not need lots of sources, but any references you use you should tell me about.
+This should include at a minimum URL's and page titles for online sources, and book titles, authors, and publication years for books. 
+Note that extensive use of direct quotes is discouraged. A direct quote should only be used when the original author said it better than you possibly could, and if that is
+often the case, then this makes us question your writing skill!
+* We expect you to critically consider the validity and reliability of your sources. Just becuse something shows up in a Google search does not mean that the author is well-informed.
+(Of course, you will likely be citing *incorrect* things in order to talk about them!) 
+* We expect you to write your paper yourself. Remember my standard for academic integrity: "academic dishonesty consists of substituting someone else's understanding for your own." 
+Talk to other people (and cite them). Look stuff up online! Talk to your friends and get them to read your paper for you!
+But, ultimately, you must understand everything you write, and have composed the words yourself.
 
+### How will this be graded?
+
+The grading will be done by a combination of your recitation TA's and professors. 
+
+If you write an exemplary essay here, especially one that teaches us something we didn't know, you may earn extra credit.
+
+Longer papers will get no higher of a grade unless they use their extra words to actually say something interesting. There are almost five hundred of you and grading is going to take a while, so if you only have a few things to say, say them well and succinctly, and be proud.
+
+We will grade you based on:
+
+* insight into the process of science and factual correctness
+* clarity of writing. Note that we will not nitpick spelling or minor grammar issues, and will be particularly lenient to students who have not lived for long in an English-speaking country. I'm more interested in whether your ideas fit together to tell a coherent story.
+* creativity, in particular in relating your issue to other issues or trends in human thought 
+* **We are not looking for perfection; we are looking for insight**. I am aware that many of you speak English as a second language. Don't worry about your English skills; I want to know what you think.
