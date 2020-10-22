@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Science and pseudoscience](slides/lecture15.pdf)
+Current slides: [Thermal radiation](slides/lecture17.pdf)
 
 <br><br>
 
