@@ -1,14 +1,13 @@
 ---
 layout: page
-permalink: projects.html
+permalink: finalprojects.html
 title: Final project
 use_math: true
 ---
 
 ## Ast101 final project
 
-This assignment may be modified slightly, but the due date will not change. I may, however, offer minor extra credit
-to students turning theirs in a few days early, just so we can get everything graded by the deadline.
+This assignment is still being finalized, including the due date. It'll be finished shortly.
 
 ### Overview
 
@@ -25,7 +24,7 @@ do it well.
 ### Project proposals
 
 If you have an unusual idea that you want to implement, please send a short proposal to me or Suman so we can give you feedback and approve your idea
-as appropriate for our class. There are very few things that we don't approve; in general, we'll just be giving you feedback to make your owrk better.
+as appropriate for our class. There are very few things that we don't approve; in general, we'll just be giving you feedback to make your work better.
 
 ### Artist's statement for artistic pieces
 
@@ -56,7 +55,7 @@ Your projects will be graded on the basis of:
 * rhetorical clarity (but no points will be deducted for purely grammar mistakes)
 * intellectual effort
 
-The projects are due on 10 December when you take the final exam.
+The projects will be due in early December. 
 
 Essays should be at least three pages (1 inch margins/12 point font/space-and-a-half). However, if you have strong ideas, I'm far more interested in the expression of your ideas than in how many pages you use to describe them.
 
