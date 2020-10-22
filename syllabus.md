@@ -28,10 +28,10 @@ use_math: true
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 (do not visit my office in person; I can't meet students there because of COVID safeguards)
 -   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, held online on Blackboard Collaborate
--   Office hours, in person: Held outdoors, times and locations TBD
--   Office hours, online: Held on Zoom, time TBD. 
+-   Office hours, in person: Held outdoors, Friday mornings (dependent on college meetings) and Tuesday 4pm-5:30
+-   Office hours, online: Held on Zoom at the same times
 -   Course website: http://walterfreeman.github.io/ast101/
--   Lead TA: 
+-   Lead TA: Faraz Chahili (group work), Mario Olivares (overall), Suman Kundu (grading)
 -   Point of Contact for Registration Issues: Juliette Rawda, <phyacademics@syr.edu>
 
 
@@ -69,18 +69,17 @@ Contact the TA’s if:
 
 They are:
 
-Faraz Chahili, <fchahili@syr.edu>, lead TA
-Suman Kundu, <skundu@syr.edu>, lead TA
-Mario Olivares, <maolivar@syr.edu>, lead TA
-Jeff Frelier, <jpfrelie@syr.edu>
-Penelope Taylor, <ptaylo01@syr.edu>
-Clayton Larson, <cllarson@syr.edu>
-Vincent Musso, <vjmusso@syr.edu>
-Hang Pham, <hpham02@syr.edu>
-Yuezhe Yao, <yyao102@syr.edu>
-Vidyesh Anisetti, <vvaniset@syr.edu>
-
-
+* Faraz Chahili, <fchahili@syr.edu>, lead TA
+* Suman Kundu, <skundu@syr.edu>, lead TA
+* Mario Olivares, <maolivar@syr.edu>, lead TA
+* Jeff Frelier, <jpfrelie@syr.edu>
+* Mahesh Gandikota, <mgandiko@syr.edu>
+* Clayton Larson, <cllarson@syr.edu>
+* Kesavan Manivannan, <kmanivan@syr.edu>
+* Vincent Musso, <vjmusso@syr.edu>
+* Hang Pham, <hpham02@syr.edu>
+* Yuezhe Yao, <yyao102@syr.edu>
+* Vidyesh Anisetti, <vvaniset@syr.edu>
 
 #### The coaches
 The coaches are undergraduate students like yourself who took this class in the past and who will be helping you learn during lecture and lab. 
@@ -415,6 +414,8 @@ we expect you to take your commitment to your group in your lab work and your ho
 If you do not submit a first draft of one of your papers on time for someone else to evaluate, then you will only get half credit for the paper. (It will also not be as good as it could have been!) This may be
 a rough draft, of course.
 
+Due dates for these things may change slightly as the semester elapses.
+
 | Item                     |            Date        | Points           |
 |--------------------------|:----------------------:|-----------------:|
 | Paper 1: first draft     | September 28           |       0          | 
@@ -422,7 +423,7 @@ a rough draft, of course.
 | Paper 1: final draft     | October 6              |       10+        |
 | Paper 2: first draft     | October 19             |       0          | 
 | Paper 2: peer evaluation | October 23             |       5          |
-| Paper 2: final draft     | October 28             |       10+        |
+| Paper 2: final draft     | October 28 / November 1|       10+        |
 | Paper 3                  | November 10            |       10+        |
 | Final project proposal   | November 15(on Piazza) |       5          |
 | Final project            | December 4             |       10+        |
