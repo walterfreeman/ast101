@@ -19,6 +19,11 @@ Current slides: [Thermal radiation](slides/lecture17.pdf)
 
 <br><br>
 
+Link to feedback guidelines for Paper 2: [Paper 2 feedback guidelines](paper-2-evaluation.docx)
+
+You may also find this on Google Docs at <https://docs.google.com/document/d/1AfD97HewIbVkLecFOxPf51LrPUgeWCn729D3hUuFZak/>. 
+
+
 ---
 
 <br><br>

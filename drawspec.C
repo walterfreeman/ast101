@@ -94,7 +94,7 @@ void setcolor(double wavelength) // ganked from an online source
         double e=13.6/(2*2)-13.6/(i*i);
         double ll=1240/e;
         double f=exp(-(wavelength-ll)*(wavelength-ll)/(width));
-        printf("wavelength is %.2f factor is %e\n",wavelength,f);
+//        printf("wavelength is %.2f factor is %e\n",wavelength,f);
         factor-=f*(inverse-0.5)*2;
     }
   }
@@ -106,7 +106,7 @@ void setcolor(double wavelength) // ganked from an online source
       {
         double ll=lines[i];
         double f=exp(-(wavelength-ll)*(wavelength-ll)/(width));
-        printf("wavelength is %.2f factor is %e\n",wavelength,f);
+//        printf("wavelength is %.2f factor is %e\n",wavelength,f);
         factor-=f*(inverse-0.5)*2;
       }
    }
@@ -118,7 +118,7 @@ void setcolor(double wavelength) // ganked from an online source
       {
         double ll=lines[i];
         double f=exp(-(wavelength-ll)*(wavelength-ll)/(width));
-        printf("wavelength is %.2f factor is %e\n",wavelength,f);
+//        printf("wavelength is %.2f factor is %e\n",wavelength,f);
         factor-=f*(inverse-0.5)*2;
       }
    }
@@ -368,15 +368,15 @@ void disp(void)
   double emin=1240/lmax, emax=1240/lmin;
   double dec;
   int prec;
-  if (erange < 0.1) {dec=0.01; prec=2;}
-  else if (erange < 0.2) {dec=0.02; prec=2;}
-  else if (erange < 0.5) {dec=0.05; prec=2;}
-  else if (erange < 1) {dec=0.1; prec=1;}
-  else if (erange < 2) {dec=0.2; prec=1;}
-  else if (erange < 5) {dec=0.5; prec=1;}
-  else if (erange < 10) {dec=1; prec=0;}
-  else if (erange < 20) {dec=2; prec=0;}
-  else   {dec=5; prec=0;}
+  if (erange < 0.1) {dec=0.002; prec=3;}
+  else if (erange < 0.2) {dec=0.005; prec=3;}
+  else if (erange < 0.5) {dec=0.01; prec=2;}
+  else if (erange < 1) {dec=0.02; prec=2;}
+  else if (erange < 2) {dec=0.05; prec=2;}
+  else if (erange < 5) {dec=0.1; prec=1;}
+  else if (erange < 10) {dec=0.2; prec=1;}
+  else if (erange < 20) {dec=0.5; prec=1;}
+  else   {dec=1; prec=0;}
   
   emax = (int)(emax/dec)*dec; //round
   for (double e=emax; e>=emin; e-=dec)
@@ -446,6 +446,7 @@ void keyb(unsigned char key, int x, int y)
   if (key == 'm') {hg=1-hg;}
   if (key == ' ') {dmaxamp=maxamp;}
   if (key == 'S') {autoscale=1-autoscale;}
+  printf("%f pixels per nm (Z6 at 70mm: %f)\n",window_size_x/(lmax-lmin),12438/2000.0);
   glutPostRedisplay();
 }
 

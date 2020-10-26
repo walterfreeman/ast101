@@ -2,12 +2,15 @@
 layout: page
 permalink: finalprojects.html
 title: Final project
+category: top
 use_math: true
 ---
 
 ## Ast101 final project
 
-This assignment is still being finalized, including the due date. It'll be finished shortly.
+This assignment is still being finalized. It'll be finished shortly. It will be due on 5 December. 
+People doing particularly elaborate things may request extensions, which will be approved on a case-by-case basis,
+but no later than 10 December.
 
 ### Overview
 
