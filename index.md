@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Thermal radiation](slides/lecture17.pdf)
+Current slides: [The Sun](slides/lecture20.pdf)
 
 <br><br>
 
