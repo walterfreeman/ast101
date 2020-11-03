@@ -15,9 +15,8 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Optimism, humanism, and the story of flight](slides/lecture21.pdf)
+Current slides: [The origin of the Solar System](slides/lecture22.pdf)
 
-[Gravitational waves (guest presentation by Laurel White)](slides/AST101_Presentation.pdf)
 
 <br><br>
 
