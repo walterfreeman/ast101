@@ -315,12 +315,12 @@ void disp(void)
      
    }
    glEnd();
-   glColor4f(0,0,0,0.6);
+   glColor4f(1,1,1,0.6);
  
   glEnd();
   // draw frame
   glBegin(GL_LINE_STRIP);
-  glColor4f(0,0,0,1);
+  glColor4f(1,1,1,1);
   glVertex3f(-0.9,-0.4,0);
   glVertex3f(0.9,-0.4,0);
   glVertex3f(0.9,0.4,0);
@@ -341,7 +341,7 @@ void disp(void)
   else if (lmax - lmin < 10000) lstep=1000;
   else if (lmax - lmin < 20000) lstep=2000;
   else lstep=5000;
- 
+  lstep = 10;
   double linit=(int)(lmin/lstep)*lstep;
 
   for (double l=linit; l<lmax; l+=lstep)
@@ -355,8 +355,8 @@ void disp(void)
     glVertex3f(x,-0.4,0);
   glEnd();
     sprintf(thestring,"%d",(int)l);
-    glColor4f(0,0,0,1);
-    if (x-lastx > 0.2)
+    glColor4f(1,1,1,1);
+    if (x-lastx > 0.1 && (int)l % 50 == 0)
     {
     lastx=x;
     renderBitmapString(x,-0.64,0,GLUT_BITMAP_HELVETICA_18,thestring);
@@ -366,6 +366,8 @@ void disp(void)
   // figure out energy marks; let's aim for 5-10.
   double erange=1240/lmin - 1240/lmax;
   double emin=1240/lmax, emax=1240/lmin;
+  if (emax > 5) emax=5;
+  if (erange > 5) erange=5;
   double dec;
   int prec;
   if (erange < 0.1) {dec=0.002; prec=3;}
@@ -374,10 +376,10 @@ void disp(void)
   else if (erange < 1) {dec=0.02; prec=2;}
   else if (erange < 2) {dec=0.05; prec=2;}
   else if (erange < 5) {dec=0.1; prec=1;}
-  else if (erange < 10) {dec=0.2; prec=1;}
-  else if (erange < 20) {dec=0.5; prec=1;}
-  else   {dec=1; prec=0;}
-  
+//  else if (erange < 10) {dec=0.2; prec=1;}
+//  else if (erange < 20) {dec=0.5; prec=1;}
+  else   {dec=0.1; prec=1;}
+
   emax = (int)(emax/dec)*dec; //round
   for (double e=emax; e>=emin; e-=dec)
   {
@@ -402,11 +404,11 @@ void disp(void)
   glEnd();
     prec=-log10(dec)+0.9;
     sprintf(thestring,"%.*f",prec,e);
-  glColor4f(0,0,0,1);
+  glColor4f(1,1,1,1);
     if (x-lastx > 2.0/window_size*(15*(prec+1)))
     {
     lastx=x;
-    renderBitmapString(x,0.55,0,GLUT_BITMAP_HELVETICA_18,thestring);
+    if (e < 10) renderBitmapString(x,0.55,0,GLUT_BITMAP_HELVETICA_18,thestring);
     }
   } 
   sprintf(thestring,"Energy per photon (eV)");
@@ -488,7 +490,7 @@ int main(int argc, char **argv)
   glEnable(GL_BLEND);
   glEnable(GL_MULTISAMPLE);
   glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
-  glClearColor(1.0, 1.0, 1.0, 1.0);
+  glClearColor(0.0, 0.0, 0.0, 1.0);
 
   glMatrixMode(GL_PROJECTION);
   glLoadIdentity();

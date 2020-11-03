@@ -6,7 +6,10 @@ permalink: labs.html
 use_math: true
 ---
 
-**A reminder:** You will need to draw things on Lab 8. The best way to do this is with a printout. You can either use your own printout or pick one up at the Physics Building in front of Stolkin Auditorium.
+**A reminder:** You will need to draw things on Lab 9 as well. The best way to do this is with a printout. You can either use your own printout or pick one up at the Physics Building in front of Stolkin Auditorium. The printouts will be available at 3:30 PM on Tuesday, November 3.
+
+Lab 9: <a href="labs/lab9-2020/lab9-2020.docx">[Word]</a> <a href="labs/lab9-2020/lab9-2020.pdf">[PDF]</a>. The PDF version may print better.<br>
+You can also access a <a href="https://docs.google.com/document/d/19T6fIvaxyusCiNW-gNSj2TMkQk9aYBp3Iyi-oRvMJ8E/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
 
 Lab 8, either method: <a href="labs/lab8-2020/lab8-2020.docx">[Word]</a><br>
 You can also access a <a href="https://docs.google.com/document/d/1mBcCXZo-ZqtDEWkzgy1PnYHmOT35neTfQ0ocIDYKR3g">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
