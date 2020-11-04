@@ -4,13 +4,13 @@
 #include <time.h>
 #include <stdlib.h>
 
-int N = 4000;
+int N = 5000;
 int ntrails=0;
 double rmin = 0.4;
 double rmax = 6;
-double rconst=0.2;
+double rconst=0.1;
 double rpower = 0.35;
-double zspread=0.1;
+double zspread=0.2;
 
 int istime(int delay) 
 { 
