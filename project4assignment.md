@@ -5,6 +5,8 @@ title: Project 4 Assignment
 category: top
 ---
 
+**This is due Sunday, November 8, by the end of the day.**
+
 This page has group information listed for everyone in our class. Make sure you find your own listing. (Unless you are Andrew Dinnhaupt, the first listing isn't yours!)
 
 This page has been updated with all of the changes we have made. We are still working through your requests. You should work with the groups listed here unless you get a confirmation of a change.
