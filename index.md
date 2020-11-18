@@ -15,14 +15,11 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [The greenhouse effect](slides/lecture24.pdf)
+Current slides: [To the Moon!](slides/lecture26.pdf)
 
 
 <br><br>
 
-Link to feedback guidelines for Paper 2: [Paper 2 feedback guidelines](paper-2-evaluation.docx)
-
-You may also find this on Google Docs at <https://docs.google.com/document/d/1AfD97HewIbVkLecFOxPf51LrPUgeWCn729D3hUuFZak/>. 
 
 
 ---
