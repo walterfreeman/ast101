@@ -6,8 +6,6 @@ permalink: labs.html
 use_math: true
 ---
 
-https://docs.google.com/document/d/1kxEynMKoJTiWA_QXMA50jxzYFacAa_lZnJIhdtP4omg/
-
 
 Lab 11: <a href="labs/lab11-2020/lab11-2020.docx">[Word]</a> <a href="labs/lab11-2020/lab11-2020.pdf">[PDF]</a>. <br>
 You can also access a <a href="https://docs.google.com/document/d/1kxEynMKoJTiWA_QXMA50jxzYFacAa_lZnJIhdtP4omg/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
