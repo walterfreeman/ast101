@@ -6,7 +6,12 @@ permalink: labs.html
 use_math: true
 ---
 
-**Lab 10 can be done entirely on a computer, but you will likely want scratch paper to write equations on.**
+
+Lab 11: <a href="labs/lab11-2020/lab11-2020.docx">[Word]</a> <a href="labs/lab11-2020/lab11-2020.pdf">[PDF]</a>. <br>
+You can also access a <a href="https://docs.google.com/document/d/1kxEynMKoJTiWA_QXMA50jxzYFacAa_lZnJIhdtP4omg/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
+If you would like to write on a PDF of the graph paper for this lab, you may download it here: <a href="graphpaper.pdf">graphpaper.pdf</a>
+<br><br>
+
 
 Lab 10: <a href="labs/lab10-2020/lab10-2020.docx">[Word]</a> <a href="labs/lab10-2020/lab10-2020.pdf">[PDF]</a>. The PDF version may print better.<br>
 You can also access a <a href="https://docs.google.com/document/d/1-P_JkV5tQFab_ujRN-KOZe5KOwiKuMmEGhBNcXCccjA/">Google Doc version</a>. You will need to choose File -> Make a Copy and make your own version to edit it. (Don't click "Request Edit Access" -- choose File -> "Make a Copy".)<br><br>
