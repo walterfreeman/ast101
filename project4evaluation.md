@@ -2,7 +2,6 @@
 layout: page 
 permalink: project4evaluation.html
 title: Project 4 Evaluation
-category: top
 ---
 
 This page has evaluation instructions listed for everyone in our class. Make sure you find your own listing. (It will have your name listed in large print.)
