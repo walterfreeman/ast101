@@ -15,7 +15,7 @@ Discord server: <https://discord.gg/qzszRjr>
 
 The <a href="calendar.html">calendar</a> page, with readings and links to lecture slides and recordings, is now online.
 
-Current slides: [Ad astra per aspera! -- part 1](slides/lecture27.pdf)
+Current slides: [Ad astra per aspera! -- part 2](slides/lecture28.pdf)
 
 
 <br><br>
