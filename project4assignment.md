@@ -2,7 +2,6 @@
 layout: page 
 permalink: groups4.html
 title: Project 4 Assignment
-category: top
 ---
 
 **This is due Sunday, November 8, by the end of the day.**
