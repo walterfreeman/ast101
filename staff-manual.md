@@ -28,7 +28,6 @@ students see the poetry of astrophysics. We are emissaries from the beautiful fi
 who show up in our class. We want them to leave our class having both basic scientific literacy but also an appreciation for what science is, how it 
 works, its role in our world, and how they can share in the grand mission to understand the Cosmos and use that understanding to enrich the human experience.
 
-
 This class is a large undertaking: we have six hundred students and a teaching team of a dozen, all working toward a common purpose: 
 helping our students see the connections between the technical aspects of astronomy, its beauty, and the human experience more broadly.
 We want them to leave our class knowing something about the heavens -- but also with some knowledge of what science is, and a positive impression
@@ -52,10 +51,12 @@ advice for any issues that arise, or even just someone to talk to about your car
 
 ### Communication
 
-I anticipate using Discord as a primary means of communication both within the staff and with the students, although we may switch to using
-Slack if many people request this. Please get the Discord (or Slack) app for your phones; it is the best way for us to communicate quickly and
+We will use Slack for internal communications using a private channel on the SU Physics team. Please ping Walter for an invite if you don't
+have one already.
+Please get the Slack client for your phones and computers; it is the best way for us to communicate quickly and
 can be a lot more efficient than either email or GroupMe threads. 
 
+We will use Discord as a means of communication with the students, though it is not required that either they or we use it.
 You may join the Discord server at <https://discord.gg/M52DajmqMV>. Ping Walter once you're there for the coach/TA role.
 
 ### Your Roles
@@ -88,6 +89,28 @@ We will pay you by the hour for this work.
 
 I'll discuss each of these in detail at the end. Coaches -- if you ever want more or fewer working hours (since you are paid by the hour), please let me know and we can either reduce your workload 
 or find more stuff for you to do. 
+
+### Dealing With Emergencies
+
+If you are going to miss a lab section and have advance warning, swap with another TA; that's not a problem.
+
+If you are a coach and must miss class, it is not an emergency. Just let Walter know (via Discord).
+
+However, if you're going to miss a lab section without much warning -- you missed your bus, you overslept,
+you have a medical emergency -- then your first priority should be to *get someone to Holden Observatory* to cover for you.
+
+You should do the following:
+
+* Send a message to #ast101staff on Discord asking someone to cover for you. If there's no answer in two minutes...
+* Call Walter at (520) 409 3766 and then Patrick at (xxx) xxx xxxx in that order. If you can't get them...
+* Call the Physics Department office at (315) 443 3901 if it's between 8am and 6pm
+* If it becomes apparent you're going to be more than five minutes late and nobody can cover, write a message to #ast101
+in Discord and then email your students.
+
+If you have a student who is being disruptive and doesn't stop, ask them to leave the classroom.
+If a student is being *extremely* disruptive to the point where it jeopardizes the wellbeing of the other folks in the room, 
+please do whatever you need to do to protect your safety and the safety of your students, including calling the Department of Public Safety at (315) 443 2224. (This is very rare but it has happened).
+
 
 ### Interacting With Students
 
@@ -145,38 +168,22 @@ on how many students are affected.
 
 If anyone on the teaching staff contracts COVID, obviously you should take as much time off work as you need to recover.
 
+If a student is not wearing a mask if we are in a COVID alert status that requires this, 
+or if they are a student required to wear a mask by SU administration,
+offer them one from the classroom supply. If they don't put it on and don't offer a reason why they cannot, ask them to leave. 
+If they are unwilling to do this and become confrontational, do whatever you need to protect yourself and the class, and call for backup (ping @channel in #ast101staff and/or call Walter,
+the Physics Department office, or Public Safety.
+
+Currently all students are required to wear masks in the classroom, as are we. If this changes, we will show you how to look up which students are 
+required to wear a mask at all times using Orange Success.
+
+
 #### Backups, coverage, and support
 
 We expect you to prioritize your health and wellbeing over teaching astronomy. If you are ill, experiencing a great deal of stress,
 are not able to get enough sleep, or something like that, please let me or Patrick know. We will get coverage for you during your
 section, get you some backup in grading papers, or whatever it is that you need. I can't emphasize this enough: 
 **please ask for support**. We have lots of people teaching this class and we *can* get someone there to back you up if you need it.
-
-#### Dealing With Emergencies
-
-If you are going to miss a lab section and have advance warning, swap with another TA; that's not a problem.
-
-If you are a coach and must miss class, it is not an emergency. Just let Walter know (via Discord).
-
-However, if you're going to miss a lab section without much warning -- you missed your bus, you overslept,
-you have a medical emergency -- then your first priority should be to *get someone to Holden Observatory* to cover for you.
-
-You should do the following:
-
-* Send a message to #ast101staff on Discord asking someone to cover for you. If there's no answer in two minutes...
-* Call Walter at (520) 409 3766 and then Patrick at (xxx) xxx xxxx in that order. If you can't get them...
-* Call the Physics Department office at (315) 443 3901 if it's between 8am and 6pm
-* If it becomes apparent you're going to be more than five minutes late and nobody can cover, write a message to #ast101
-in Discord and then email your students.
-
-If you have a student who is being disruptive and doesn't stop, ask them to leave the classroom.
-If a student is being *extremely* disruptive to the point where it jeopardizes the wellbeing of the other folks in the room, 
-please do whatever you need to do to protect your safety and the safety of your students, including calling the Department of Public Safety at (315) 443 2224. (This is very rare but it has happened).
-
-If you are working in person with students and a student is not wearing a mask if we are in a COVID alert status that requires this, 
-offer them one from the classroom supply. If they don't put it on and don't offer a reason why they cannot, ask them to leave. 
-If they are unwilling to do this and become confrontational, do whatever you need to protect yourself and the class, and call for backup (ping @everyone in #ast101staff and/or call Walter,
-the Physics Department office, or Public Safety.
 
 
 ## TA duties in detail
@@ -196,7 +203,7 @@ responding to their questions, and asking them leading questions of your own des
 
 ### Group Work
 
-On the first day of class, have the students sort themselves into groups of three (with one or two groups of two). 
+On the first day of lab, have the students sort themselves into groups of three (with one or two groups of two). 
 You may do this in any way you want. As a general rule, it is best if the number of women/nonbinary people in a group
 is 0, 2, or 3; it is not a good idea to have a group of one woman and two men. 
 
@@ -221,14 +228,14 @@ This will let you assign them grades later on based on their learning and teamwo
 We should grade labs on a six-point scale:
 
 * **S**: The student asked excellent questions, went above the norm in helping their groupmates learn, and expressed themselves clearly and articulately.
-They are clearly interested in a depth of knowledge, not just "doing the exercises". *Grades of S should be somewhat rare, and based on what you observe in lab
+They are clearly interested in a depth of knowledge, not just "doing the exercises". *Grades of S should be rare, and based on what you observe in lab
 directly, not just what the student writes, unless it is truly exceptional.* Counts as 110% in the average.
 * **A**: The student understands the material thoroughly and well; they completed the lab as intended, worked with their group, asked questions when needed,
-and left the lab having achieved our goals. Counts as 90% in the average.
+and left the lab having achieved our goals. Counts as 90% in the average. *(Note that the A range is 80-100%.)*
 * **B**: The student understood most of the material, but lacks understanding of some elements OR the student understands the material well, but did not 
-collaborate effectively with their group. Counts as 70% in the average.
+collaborate effectively with their group. Counts as 75% in the average. *(Note that the B range is 65-80%.)*
 * **C**: The student's understanding has significant gaps, and the student didn't ask appropriate questions or engage with their group in order to 
-remediate them. Counts as 60% in the average.
+remediate them. Counts as 60% in the average. *(Note that the C range is 55-65%.)*
 * **D**: The student was only participating marginally in the activity -- arriving late, continually not paying attention, etc. They learned very little. Counts as 40%.
 * **F**: The student did no meaningful work or did not show up. Counts as 0%.
 
@@ -250,9 +257,7 @@ You record these grades in the shared Google document and on each of their paper
 ### Feedback
 
 After each lab section, I'd like you to take two minutes to provide some feedback about how the students are doing. This may seem like a silly bit of trivia,
-but it is essential for me to keep tabs on how things are going and make changes as needed. You can do this on your phone in a dedicated Discord channel.
-
-
+but it is essential for me to keep tabs on how things are going and make changes as needed. You can do this on your phone in a dedicated Slack channel we will set up.
 
 ### Prelabs
 
@@ -269,7 +274,7 @@ If they are sick or have an academic-related reason, it does not use up their fr
 
 ## Weekly Staff Meetings
 
-We'll have a weekly staff meeting on Friday afternoons where we discuss the following week's lab and how the class is going. 
+We'll have a weekly staff meeting on Friday 2-3pm in Holden where we discuss the following week's lab and how the class is going. 
 You are expected to attend all of these.
 
 ### Homework
@@ -293,10 +298,13 @@ Every week, we will ask you for an update on your grading. If you are a bit behi
 
 ### Exams
 
-We will have five midterm mini-exams and a final.
+We will have a number (probably five) midterm mini-exams and a final.
 
-We'll need a few proctors on those days in class to answer student questions (who may be TA's or coaches). During the final we'll need everyone or nearly everyone to help proctor. 
+We'll need a few proctors on those days in class to answer student questions (who may be TA's or coaches). During the final we'll need all hands on deck to help proctor.
 
 ### Paper Grading
 
-We will be discussing the process of science in our class, and students will write a paper on pseudoscience/science denialism later in the term. You'll be responsible for grading these papers. We'll talk about this more as the time comes, but this is coming sometime in April and will be a fair bit of work.
+We will be discussing the process of science in our class, and students will write a paper on pseudoscience/science denialism later in the term. Earlier in the semester they will write a paper 
+relating timekeeping to motions in the sky. 
+
+You'll be responsible for grading these papers. We'll talk about this more as the time comes. Grading these will be a fair bit of work.
