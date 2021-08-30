@@ -10,9 +10,12 @@ use_math: true
 ##### Quick links: <a id="top"></a>
 
 * [Contact Information](#contact)
-	* [Textbooks](#books)
+* [Textbooks](#books)
 * [Course philosophy](#philosophy)
+* [Health and wellness](#health)
+* [Inclusion and dignity](#inclusion)
 * [Course material](#material)
+* [Learning objectives](#objectives)
 * [Activities](#activities)
 * [Labs](#labs)
 * [Grading](#grading)
@@ -22,18 +25,23 @@ use_math: true
 
 ---
 
-<h1>"Science lets us choose our own future."</h1>
-
 ### Contact information at a glance
 
--   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 (do not visit my office in person; I can't meet students there because of COVID safeguards)
--   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, held online on Blackboard Collaborate
--   Office hours, in person: Held outdoors, Friday mornings (dependent on college meetings) and Tuesday 4pm-5:30
--   Office hours, online: Held on Zoom at the same times
+-   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 
+-   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, in Stolkin Auditorium
+-   Office hours: TBD, held in room 215
 -   Course website: http://walterfreeman.github.io/ast101/
--   Lead TA: Faraz Chahili (group work), Mario Olivares (overall), Suman Kundu (grading)
+- Teaching assistants:
+    * Patrick Adams, <paadams@syr.edu>, head TA
+    * Tyler Hain, <tahain@syr.edu>
+    * Vincent Musso, <vjmusso@syr.edu>
+    * Kishan Sankharva, <khsankha@syr.edu>
+    * Chad Skerbec, <crskerbe@syr.edu>
+    * Byron Sleight, <bsleight@syr.edu>
+    * Sierra Thomas, <sthoma31@syr.edu>
+    * Vidyesh Rao, <vvaniset@syr.edu>
 -   Point of Contact for Registration Issues: Juliette Rawda, <phyacademics@syr.edu>
-
+-   Course Discord server: <https://discord.gg/9DkbcEXjtY>
 
 ### Who's who
 
@@ -42,10 +50,10 @@ There are a lot of people teaching this class; who are they?
 #### The professor
 Walter is in charge of giving the lectures, writing materials, helping students in any way I can (with my class or anything else!), supervising grading, and leading the course as a whole.
 
-If you want to talk to me, come to office hours (held outdoors or virtually) or ask me a question
-on the class Piazza forum. You can also email me about private issues at <wafreema@syr.edu>; however, if you email me a question 
-that other students might be interested in, I will ask you to post it instead to Piazza so other people can
-benefit from the answer.
+If you want to talk to me, come to office hours or catch me before or after class. I am also
+frequently on the Discord server.
+
+You can also email me about private issues at <wafreema@syr.edu>. 
 
 Contact Walter if:
 
@@ -57,51 +65,36 @@ Contact Walter if:
 
 #### The TA's
 The lab teaching assistants are PhD students in physics who work as junior instructors as part of their training. 
-They are in charge of leading labs and helping grade your work. You can contact them by email or 
-through Piazza, or by simply talking to them during lab.
+They are in charge of leading labs and helping grade your work. You can contact them by email, by going to
+their office hours in the Physics Clinic, or by simply talking to them during lab.
 
-Contact the TA’s if:
+Contact your TA if:
 * You have a question about astronomy
 * You have a suggestion that will improve their lab, or that you want them to pass on to me
 * Something is wrong with your grade
 * You will miss a lab
 * The people in your lab group are not working together effectively
 
-They are:
-
-* Faraz Chahili, <fchahili@syr.edu>, lead TA
-* Suman Kundu, <skundu@syr.edu>, lead TA
-* Mario Olivares, <maolivar@syr.edu>, lead TA
-* Jeff Frelier, <jpfrelie@syr.edu>
-* Mahesh Gandikota, <mgandiko@syr.edu>
-* Clayton Larson, <cllarson@syr.edu>
-* Kesavan Manivannan, <kmanivan@syr.edu>
-* Vincent Musso, <vjmusso@syr.edu>
-* Hang Pham, <hpham02@syr.edu>
-* Yuezhe Yao, <yyao102@syr.edu>
-* Vidyesh Anisetti, <vvaniset@syr.edu>
-
 #### The coaches
-The coaches are undergraduate students like yourself who took this class in the past and who will be helping you learn during lecture and lab. 
+The coaches are undergraduate students like yourself who took this class in the past and who will be helping you
+during lecture, occasionally during lab, and over the internet and the Discord server.
 
-You can contact them by talking to them during class or lab, or when they are helping out online at other times; they will also be answering questions on Piazza and other platforms.
-
-Some of the coaches will be able to help you in person during your lab in places that are convenient for your group (maybe even in your dorm!) if they know where you are meeting.
+You can contact them by talking to them during class or lab or on Discord.
 
 Talk to the undergraduate coaches if:
-* You have a question about astronomy, the labs, or your homework
-* You want advice on studying (they were in your shoes pretty recently and can give the best advice of any of us!)
+* You have a question about the tutorials in class, your homework, or your papers
+* You want advice on studying, writing your papers, or anything else!
 
 #### A note on email
 
 We will receive prodigious amounts of email this semester and will sometimes get behind on answering mail. Please help us out! There are two things you can do:
 
-1. If you have a question that might apply to other students, please post it to Piazza instead of sending it as an email. We can then answer it there, and other people will benefit.
+1. If you have a question that might apply to other students and are on Discord, please ask there
+ instead of sending it as an email. You will get a quicker answer there, and other people will benefit.
 
-2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a 
-subject line of "Lab" -- tell me what your issue is with your lab!
+2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a subject line of "Lab" -- tell me what your issue is with your lab!
 
-We will try to answer all messages within two days. If you don’t get a reply after three days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail!) 
+We will try to answer all messages within 24 hours. If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail!) 
 
 ---
 
@@ -133,6 +126,9 @@ It is the story of how our species has grown up and discovered that the Universe
 And so we will study that beauty, too: how the heavens have inspired generations of 
 poets, artists, dreamers, and authors.
 
+Most of you won’t become astrophysicists; you will become designers and businessfolk, architects and reporters, doctors and lawyers, and writers and thinkers, and I hope that you will take some of the inspiration, the poetry, the philosophy, the wisdom, and the wonder of astronomy into your chosen disciplines and your lives.
+
+
 <!-- Most people’s interest in astronomy begins as children, when they look up at the night sky and say “Wow, that’s gorgeous; I want to know more about that!” Or, perhaps, they watch *Star Trek* or *Battlestar Galactica* and want to know more about the universe outside our world that inspired the storytellers. The ancients’ interest in astronomy began with more pragmatic goals in mind: the night sky can be used to navigate. We’ve been to the moon, we’ve sent robots to the planets, and two lonely spacecraft are floating out to the stars, keeping in fading contact with us for the time being using the dwindling power from their plutonium-powered transmitters. Perhaps, someday, we will follow them? Regardless of the reason, astronomy has captured the imagination of humanity like no other science, and we would be amiss in our study of astronomy not to look at the broader influence that the heavens have had on the larger sweep of human imagination and thought.-->
 
 #### 2. Reasoning and synthesis, not memorization
@@ -140,7 +136,13 @@ poets, artists, dreamers, and authors.
 This course is emphatically not a class where you will come to lecture, sit there and listen to a presentation of some facts, and then repeat them back to me on exams. Rather, you will need to think about how we’ve gained the understanding that we have about our universe, and engage in scientific reasoning based on astronomical principles. You are not going to be learning a list of currently-accepted facts; you are going to be practicing skills and learning to see the universe as scientists see it. This will require hard work from you: you're going
 to be *doing* and *thinking*, not just passively amassing facts. 
 
-#### 3. Group work
+So, during class, you'll be spending a lot of your time *doing stuff* to learn: collaborating with people near you
+in the auditorium to figure things out. We will give you copies of tutorials that guide you through developing
+the skills involved in astronomy, and I and the coaches will be on hand to help you as you develop your skills.
+
+Take this seriously: it is the most important part of our class.
+
+<!-- #### 3. Group work
 
 
 One of the most vibrant aspects of university life is the intellectual community you form with your peers. In normal circumstances this sort of community forms naturally, as you become friends and colleagues with the people around you in your classes. This semester, this sort of community will be even more important (as you support each other through a difficult time), but harder to maintain (since you will often be online). 
@@ -155,128 +157,75 @@ just on whether your work is correct but whether they could learn from it.
 You will be vital supports to each other in both learning our material and during this weird semester as a whole. Our class is full of friendly people; become friends with them! A part of your grade will come from how effectively your group works together, and you will assess that yourselves. 
 
 If there is a problem with how your group is collaborating -- if one person is not making any effort, or if one person is not collaborating well with the others -- then please tell your TA. These sorts of issues will both make the class a lot less enjoyable and interfere with your learning, but they can be fixed. Let us know, and we will fix them.
+--> 
 
-
-
-
-<!-- #### 2. Astronomy as a liberal art
-
-Most of you won’t become astrophysicists; you will become designers and businessfolk, architects and reporters, doctors and lawyers, and writers and thinkers, and I hope that you will take some of the inspiration, the poetry, the philosophy, the wisdom, and the wonder of astronomy into your chosen disciplines and your lives.
-
-#### 3. This is your class, too
+#### 4. This is your class, too
 
 As part of this philosophy, I welcome your input. If there is some aspect of astronomy that inspires or fascinates you, please ask; if you have feedback for me that will help you enjoy the class more, then please let me know.>>
 
--->
+
+<a id="health"></a>
+---
 
 ### Public Health
 
-Our highest priority during this semester is the preservation of your health and ours. The University has already sent you the general things we expect students to do to protect public health. In our class:
+* Wear a mask during class if required by the University. If it is not required, but there is still a significant
+number of COVID cases on campus, we still highly encourage you to do so except when you are speaking.
 
-* We expect you to wear a face covering when indoors or when interacting with others outdoors. If you have a medical reason that you can’t do so, notify your instructor.
-
-* Stay at least six feet from others when possible, indoors and outdoors. If you need to get closer than that to one person for brief periods outdoors, that is okay if you are wearing a mask.
-
-* Don’t share tools or apparatus without cleaning them with sanitizer or alcohol; in particular, don’t share pencils, computers, etc., with your classmates.
-
-These principles apply whenever you are working with your classmates, whether it is during class time or not.
-
-These guidelines may change during the semester to reflect changing conditions and knowledge; we will let you know if this happens.
-
-If you forget your mask, instructors will likely have extras; ask us, and we may have one for you.
-
-If a student is unwilling to do their part to preserve public health, then we will ask them to leave and complete their work online.
-
-#### What to do if you’re not feeling well
-One of the most important things you can do is to stay home if you are sick. All of the components of our class can be done remotely, and if you are feeling unwell -- particularly if your symptoms involve nausea, cough, fever, or others common in COVID-19 -- you should connect to our class remotely, and inform us that you are working remotely because you are ill. If you are supposed to meet your group in person to work on homework, tell them that you're feeling sick, and ask to connect remotely; they'll understand.
-
-We often have a culture of trying to “push through” when we’re not feeling well, saying things like “Yeah, I am sick, but I will be okay -- I can still go to class”. While this sort of perseverance in general is a good thing, coming to class when you’re sick puts other people’s health at risk. So, if you have any symptoms at all, stay home.
+* If you forget your mask, we will likely have extras for you. Please ask. 
 
 #### What to do if you’re seriously sick
 If you have an illness or injury that interferes with your ability to do work in our class, talk to us! The Center for Disability Resources also helps students with short-term injuries and illnesses -- concussions, broken bones, etc. If you are sick or hurt, we will work with you and with CDR to do whatever we can to accommodate your condition. 
 
-If you are too sick to participate in class, even remotely, don’t worry! We want you to focus on taking care of yourself rather than on physics classes. If you are sick and miss things, we will be flexible with deadlines to allow you to catch up. 
+If you are too sick to come to class, or have COVID-19 or another condition
+that is highly contagious,
+we want you to focus on taking care of yourself rather than on physics classes. 
+This is in part why we allow you to "try again" when it comes to your quiz topics: 
+if you are sick the first time a topic appears on the quiz, then you will have a 
+second chance to demonstrate your proficiency.
 
-If you miss a large amount of class (two weeks or more), you may be eligible to take an “incomplete grade” in the course.
+If you miss a large amount of class (two weeks or more) for a reason beyond your control, 
+you may be eligible to take an “incomplete grade” in the course.
 This is a “grade pending” status that means that you were not able to finish all your work during the semester. Once you finish up your work in the spring, we can go back and give you your final grade.
+If you are unable to come to class for an extended period because of COVID-19, this is likely how we will resolve the situation if you miss too much of class.
+
 If you think you might need to use this option, it is important to talk to us as early as possible so we can discuss arrangements. In general, only students who have completed a meaningful amount of classwork with a passing grade are eligible to take an incomplete.
 
-#### What happens if your instructors get sick?
-If any of your instructors contract COVID-19, we will do our best to get a substitute instructor for you as soon as possible. If this happens, however, we cannot risk a spreading set of cases in our class. In this case, it is likely that the remainder of our class will transition to being fully online. 
+<a id="inclusion">
+---
 
 ### Inclusion, Equality, and Dignity
-Everyone in this class is an equally-valued member of this university and our community. We expect you to treat your classmates as honored colleagues in the collective endeavor we are all involved in: to understand the natural world and use that understanding to improve our society. 
+Everyone in this class is an equally-valued member of this university and our community. 
+We expect you to treat your classmates and instructors as honored colleagues in the 
+collective endeavor we are all involved in: to understand the natural world and 
+use that understanding to improve our society. 
 
-In particular, bias against or denigration of anyone in our class because of their gender or how they express it, their sexual orientation, their religion, their national origin, their race or ethnicity, or a disability they may have will not be tolerated. If you are the target of this sort of bias or if you witness it, please report it directly to me and I will take swift action. If you don’t feel comfortable talking to me, you may report it anonymously to the Physics Department at <https://docs.google.com/forms/d/e/1FAIpQLScNduLL1hc9fJu5MRaKjajJFnlTDiDio0xvqprn9kCXDpS2Cg/viewform>. If Google Forms is not accessible to you, then you may create an anonymous email address and send your concerns directly to my chair at <jlross@syr.edu>.
+In particular, bias against or denigration of anyone in our class because of their gender or how they express it, their sexual orientation, their life stance, their national origin, the language they speak, 
+their race or ethnicity, or a disability they may have will not be tolerated. If you are the target of this sort of bias or if you witness it, please report it directly to me and I will take swift action. If you don’t feel comfortable talking to me, you may report it anonymously to the Physics Department at <https://docs.google.com/forms/d/e/1FAIpQLScNduLL1hc9fJu5MRaKjajJFnlTDiDio0xvqprn9kCXDpS2Cg/viewform>.
 
-
-
-### Remote Access and Format
-
-#### Tech platforms
-
-* We will use **Blackboard Collaborate** as our primary way to have class meetings for both lab and lecture. 
-You will need to become familiar with it.
-
-* You should use either **Google Docs** or **Office 365/Sharepoint** to work together on documents with your groups. (Your group should choose one or the other.)
-
-* **Piazza** is an online discussion board, designed to let you ask and answer questions easily. You will get
-extra credit for providing good answers to your classmates' questions; instructors will also be around to 
-answer your questions. It will be the best resource for you to ask for assistance for your homework, for instance.
-
-* You may wish to use your own **Zoom** rooms to collaborate with your groupmates, 
-as it is better than Collaborate for small groups. I will hold my online office hours using Zoom as well. FIXME: link
-
-* The teaching staff will use **Slack** as a way for us to collaborate. You are welcome to join the Slack team
-and chat with us there. FIXME: invite link
-
-If for some reason you are unable to access one of these tools that you need, please let the teaching staff know as soon as possible so we can make alternate arrangements for you to access everything in our class.
-
-
-#### Format
-
-The “lecture” component of our class will be held fully online. You will connect using Blackboard Collaborate and participate that way. We hope to have lively discussions in class using the chat tool, so this isn’t something that you will just listen to passively! 
-
-We will have two types of lab sections. Some of them will have a TA present in person; others will be 
-exclusively online. 
-Regardless of the type of lab you are enrolled in, you are encouraged to meet with your lab group in person
-on campus and work with them. 
-Of course, if you aren't able to do this, you can always work with them online.
-
-If you are enrolled in one of the in-person sections and are unable to attend in person, you should make 
-arrangements to work with your group over the internet, using Blackboard Collaborate.
-
-
-If you are not able to join us at the regular time, you will also be able to complete your work asynchronously. We will be recording all of the lectures, so you can watch them later. 
-
-For the online portions of our class, you will need a stable internet connection, a computer, and some portable device with a camera. A headset or earbuds will be very helpful.
-
-If you don’t have and can’t easily get these things, contact us; we may be able to help you out. Likewise, if you have an equipment failure during the semester, we will work with you to ensure that you don’t fall behind while waiting on repair or replacement of your equipment. 
-
-If for some reason some component of our online material is not accessible to you (because of a disability, a technological limitation, or anything else), please let us know. Don't just fall behind or miss things without
-asking us for help; we will do whatever we can to make our class work for you, but we have to know what you 
-need.
-
-#### Recordings
-
-We will be recording the lecture portion of our class so that people not present can follow along. These recordings will include things that students say in chat, since that conversation is an essential part of the class experience. Recordings from our class will generally be available only to other members of our class. In order to accord your classmates the freedom to say what they wish in class without fear of criticism or embarrassment, please do not distribute these recordings.
-
-Lab sections will generally not be recorded.
-
-<a id="material"></a>
-
+<a id="material">
+---
 ### Course Material
 
-This course focuses mostly on the astronomy of the solar system, and is divided into four broad sections:
+This course focuses mostly on the astronomy of the solar system, and is divided into eight broad sections:
 
-*1.* **What we can see from Earth:** the stars, the moon, and the sun, how the night sky changes, and why it looks the way it does
+*1.* **The motion of the stars and Sun:** how the rotation and revolution of the Earth cause the stars and Sun to appear to move in the way that they do
 
-*2.* **Celestial motion:** why the planets move in the ways that they do, how we know that, and the laws of gravity and orbits
+*2.* **The changing seasons and phases of the Moon**
 
-*3.* **The nature of light:** what light is, how it tells us about the Universe, and how it affects the heavens
+*3.* **The story of heliocentrism:** how we came to learn that the planets orbit the Sun, and the properties of those orbits
 
-*4.* **Humans and the Universe:** the past, present, and future of spaceflight, and the possibility of life elsewhere
+*4.* **The birth of physics:** how the laws of gravity and mechanics conspire to create orbits ... and all other motion 
 
+*5.* **Thermal radiation:** the properties of light; how hot things emit light, and what we can learn from that light
+
+*6.* **Spectroscopy:** how every chemical element interacts with unique wavelengths of light that comprise its fingerprint
+
+*7.* **The nature of the planets:** how the planets in the Solar System differ, and the factors that influence their climate 
+
+*8.* **Humans and the Universe:** the past, present, and future of spaceflight, and the possibility of life elsewhere
+
+---
 <a id="objectives"></a>
 
 ### Learning Objectives
@@ -312,30 +261,40 @@ I encourage you to read the assigned sections on the [calendar](./calendar.html)
 
 #### Class Meetings
 
-The large-class meetings will take two different forms, both on Blackboard Collaborate.
+Tuesdays and Thursdays we will meet in the auditorium. We'll alternate between presenting material and doing things with it. 
+I want to avoid a "static" lecture as much as possible, and I want to hear your ideas as much as possible during class. 
 
-Whenever I am mostly talking to the whole class, we will meet in the "course room". During class I will ask some poll questions; it is important that you are there there to answer these, since those responses are both useful for me to assess
-how you are doing and give me feedback and will be used to assess your class participation grade. If you are watching the recordings afterward, then I will post those poll questions as a Blackboard "quiz" for you to answer. (Your grade will not
-depend on whether you get the right answers.)
+So, during class, I will frequently ask your thoughts on things. Sometimes that will take the form of an informal conversation. 
+Feel free to raise your hands and ask me things. We will also have "poll" questions in class, which you can answer using multiple-choice
+cards.
 
-#### Written homework and peer evaluation
+Additionally, coaches and I will be keeping an eye on the Discord chat during class. If you'd rather ask things on Discord instead of 
+calling them out in the auditorium, please do that. However, note that I will often defer logistical questions that don't pertain to
+the whole class until afterwards, and answer them then. (This is to be considerate of the rest of the class, since otherwise they would
+have to wait while I discussed something with you that doesn't relate to them.)
 
-You will have group homework assignments during the semester that have a twist to them. **The most unique part about the homework in this class is that you are writing for an audience of your peers -- to explain something to them -- rather than
-for an audience of your instructors**. Your grade will reflect how well your explanation helps someone else understand *why* things work the way they do, not simply on whether you got the correct answer.
+#### Tutorials
 
-Each time we have homework, your group will work together to prepare an explanation for another group to view. Your explanation may be a document -- but it could also be a video, a series of pictures, etc. 
-That group will then look at your work, discuss how much they learned from it, and assess your work. Likewise, you will then get a copy of someone _else's_ work, and will assess it. You will need to decide:
+We will also use a substantial amount of class time in the auditorium for you to work on tutorials: sets of exercises that help you develop the skills we
+are discussing. These will be the most useful things for you to develop the skills you'll need for the quizzes, and so you should do them
+in class and ask questions as you get stuck with things. The coaches and I will circulate around and help you out.
 
-* whether their work is factually correct
-* whether their explanation is understandable
-* whether you learned something from what they've done
+#### Homework and short quizzes
 
-and write for them some feedback.
+There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; if you finish the
+tutorial part in class (which you won't turn in), start working on the homework (which you will). Instead of turning in homework, we will sometimes
+ask you a question about the homework as an "intro question" in class; you should write the answer along with your name on a piece of paper and turn 
+it in to us. (You will need to be in class to submit these; we expect you to come to class.)
 
-You will return your assessment to them and to us; we'll review your assessment. Then you will get _two_ grades:
+We may also ask you a short quiz question at the end of class on the day's material.
 
-* a grade on your own work, as assessed by your peers. (We'll give you the grade they gave you, if it is reasonable. If it's not, we'll give you whatever you earned.)
-* a grade on your assessment of their work. If your assessment is reasonable and thoughtful you will get full credit.
+#### Larger quizzes
+
+The semester is divided into eight units. After each of the first six units, you will take a short quiz in class testing your mastery of that material. If you do not do as well as you had hoped,
+you will have a second opportunity on the following quiz day. (That is, you will have the first opportunity to demonstrate your knowledge of Unit 3 on the same day that you have a second
+opportunity at Unit 2.) 
+
+The questions on these quizzes will be based on things you did in the homework, in the tutorials, and in lab. 
 
 #### Papers
 
@@ -344,10 +303,7 @@ both exerted the greatest influence on, and been influenced the most by, the bro
 
 * First paper: an exploration of the connection between timekeeping and the sky, as embodied in a historical, present, or fictional calendar 
 * Second paper: an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
-* Third paper: a reflection on the link between science and human progress, and on the theme of this class: "Science lets us write our own better future."
 * Final project: Extremely open-ended; a topic you didn't choose from earlier, or a topic or creative fine-art project that you propose yourself, or an elaboration on your third paper.
-
-For the first two of these assignments, you will need to first submit a draft to be evaluated by someone else in the class. They will give you feedback on your work and give you a chance to improve it before your final submission. 
 
 Some of you, at some point in the semester, will probably ask me for extra credit. **This is it**; these papers will be graded out of ten points, but there is no limit on the grade you can achieve. 
 
@@ -363,14 +319,15 @@ There will also be several take-home labs, which are similar in character to hom
 
 Your lab grade will reflect both your participation while in lab and the quality of the work you submit. 
 
-Labs will be graded on a five point scale:
+Labs will be graded with a letter grade only:
 
-* 0: Nothing, or nothing relevant (F)
-* 1: A minimal attempt or severe errors (F)
-* 2: The assignment is partially complete or contains multiple major errors (D)
-* 3: The assignment is complete, but contains errors in the solutions (C)
-* 4: The assignment is complete, but may contain several minor errors (B)
-* 5: The assignment is complete and substantially correct. (A)
+* 0: Nothing or nothing relevant; not contributing to your group's work 
+* F: A minimal attempt or severe errors; only minor contributions to your group
+* D: Work that is partially complete or contains many major errors 
+* C: Work that is complete, but contains meaningful errors in the solutions
+* B: Work that is complete, but may contain several minor errors
+* A: Work that is complete and substantially correct.
+* S: Work that goes beyond expectations. "S" grades (for "Superior") are typically awarded on the basis of exceptional work in lab: asking great questions, helping your groupmates learn, and strong insight. 
 
 Note that the point of the lab portion of the class is to learn by doing; it is not to "get the right answers". 
 Your grade is based on your understanding of what is going on *as reflected by* what you turn in; it is not based only on a mechanical evaluation of whether you "wrote down the right answers or not".
@@ -380,21 +337,13 @@ result in you failing the course (or worse).
 
 The lab attendance policy is as follows:
 
-* You should attend lab at the time that you registered for. If you aren't able to attend lab at that time, then you must find a different time _with your group_ to meet together and do the lab.
-If that is a scheduled lab meeting time, then you can just attend in person or online. If you do this, one of your group members should email the TA of the section you are attending, cc: the rest 
-of your group, explaining that you are attending their section instead and why.
-
-Alternatively, you may post on Piazza asking if a coach is available to work with your group at some other time and place. 
-
-* You should come to lab on time. If you show up more than fifteen minutes late for your lab then your other groupmates will likely give you a low grade on their assessment, and your TA may also flag this and assign a penalty.
-If you are going to be late, the people to talk to are _your groupmates_, not your TA. Contact _them_ and explain to them why you are late.
-
-* During lab you're expected to do the lab in collaboration with your group, as with everything else in this class.
- 
-
-* Once you finish your lab, one person in your group should email a link to the shared document you all worked on to suast101labs@gmail.com, cc: the other group members. This is due within 12 hours of the end of your lab.
-
-* TA's have wide latitude to make decisions, and they may allow for leniency on a case-by-case basis; however, this is the exception, not the rule.
+* You must have completed the prelab to attend lab. If you have not, then you will need to use your "one unexcused swap" to attend a different lab 
+section that week.
+* You should attend lab at the time that you registered for. If you aren't able to attend lab at that time, you should:
+  * Contact the TA of another lab section at a time you can attend and ask if they have space
+  * If they do, inform your TA that you will be attending their section instead that week
+  * You may do this only once during the semester for an unexcused reason (including not having your prelab done). If you must miss lab for an illness or emergency, this does not count.
+* You should come to lab on time.
 
 We're very willing to work with and around problems that you may encounter in helping you succeed in our 
 class; please let us know if something is going on that requires special accommodations. However, by default, this is the expectation.
@@ -407,40 +356,34 @@ class; please let us know if something is going on that requires special accommo
 
 ### Grading
 
-There are no exams in this class. 
-Instead, your grade will come primarily from your papers, homework, and labs. Since there are no exams,
-we expect you to take your commitment to your group in your lab work and your homework as seriously as you would take studying for exams.
+We will assign you grades based on your lab work, your large quizzes, your homework and small quizzes, your papers and project, and a comprehensive 
+final exam. 
 
-If you do not submit a first draft of one of your papers on time for someone else to evaluate, then you will only get half credit for the paper. (It will also not be as good as it could have been!) This may be
-a rough draft, of course.
+For each of the first six units, you will have multiple opportunities to demonstrate your proficiency. We will use only the highest score. 
+
+We will omit your lowest homework grade and your lowest lab grade. Your short quizzes will be rescaled such that an 80% will earn full credit.
+
+
 
 Due dates for these things may change slightly as the semester elapses.
 
 | Item                     |            Date        | Points           |
 |--------------------------|:----------------------:|-----------------:|
-| Paper 1: first draft     | September 28           |       0          | 
-| Paper 1: peer evaluation | October 1              |       5          |
-| Paper 1: final draft     | October 6              |       10+        |
-| Paper 2: first draft     | October 19             |       0          | 
-| Paper 2: peer evaluation | October 23             |       5          |
-| Paper 2: final draft     | October 28 / November 1|       10+        |
-| Paper 3                  | November 10            |       10+        |
-| Final project proposal   | November 15(on Piazza) |       5          |
-| Final project            | December 4             |       10+        |
-| Labs                     |Throughout the semester |       25         |
-| Homework (your work)     |Throughout the semester |       25         |
-| Homework (evaluations)   |Throughout the semester |       10         |
-| Participation in class   |Throughout the semester |       10         |
-| Midterm group assessment | October 15             |       10         |
-| Final group assessment   | December 1             |       10         |
+| Unit 1                   |                        | 5                |
+| Unit 2                   |                        | 5                |
+| Unit 3                   |                        | 5                |
+| Unit 4                   |                        | 5                |
+| Unit 5                   |                        | 5                |
+| Unit 6                   |                        | 5                |
+| Final Exam               |                        | 20               |
+| Paper 1                  |                        | 10               |
+| Paper 2                  |                        | 10               |
+| Final project            |                        | 10               |
+| Labs                     |                        | 30               |
+| Homework / Short Quizzes |                        | 20               |
 |--------------------------|:----------------------:|-----------------:|
 
-This set of items totals 145 points. 
-
-Each student may miss one lab and one homework assignment without penalty. If you are going to miss a lab or homework assignment, you should
-
-* Contact your group and tell them that you are unable to work with them that week or on that assignment
-* They must mark you as "absent" when they make their submission
+This set of items totals 130 points. 
 
 Your score will be converted to a percentage and your final grade will be determined from your score as follows:
 
@@ -476,24 +419,37 @@ multiple resources available for you -- the Writing Center, and a few coaches wh
 Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns those who seek her". Our class's theme is a variant on this: "Science allows us to
 write our own future." The most valuable thing you will gain from your education here isn't a degree or a bunch of marks on your transcript: it is the power to influence your world that you will gain from the things you learn.
 
-As such, if you pass off someone else's work as your own in this class, you are cheating yourself out of the value of education itself. You are likely also letting the other two people in your group down. This class is designed
-so that any student who works hard and keeps up will pass. You do not need to substitute someone else's work or knowledge for your own; your own talents, your own skill, and your own work are enough.
+As such, if you pass off someone else's work as your own in this class, you are cheating yourself out of the value of education itself. 
+This class is designed
+so that any student who works hard and keeps up will pass. 
+You do not need to substitute someone else's work or knowledge for your own; 
+your own talents, your own skill, and your own work are enough. 
 
-While you are encouraged to discuss everything in the course with your peers, all work you submit must reflect your own understanding. We may impose a grade sanction up to course failure for any instance of academic dishonesty. Syracuse University’s Academic Integrity Policy governs general expectations for students and is incorporated into this syllabus by reference. 
+While you are encouraged to discuss everything in the course with your peers, 
+all work you submit must reflect your own understanding. 
+We may impose a grade sanction up to course failure for any instance of academic dishonesty. 
+Syracuse University’s Academic Integrity Policy governs general expectations for students and is incorporated into this syllabus by reference. 
 
-Many of your assignments will be group assignments in which a group of people will work closely together in preparing their work. Sometimes we may ask everyone in the group to submit an individual copy; other times we may ask for each group to submit their assignment only once. Regardless, we expect each person to have participated meaningfully in the work, and each person needs to understand everything that you are submitting. Submitting a group assignment that you did not contribute to, or do not understand, is a form of academic dishonesty.
-
-Likewise, making a false statement about a group member's contributions is also a form of academic dishonesty. 
+For your in-class quizzes, you may use one page of handwritten notes that you personally wrote. If you have a disability that interferes with 
+this, you may prepare your notes using a computer, so long as you do it yourself. 
 
 You will write some papers this semester. In these, you must show clearly which text is original to you, which reflects ideas which you found elsewhere but have digested and expressed in your own words, and which text is a direct quote from someone else’s words.
 You must cite any references that you use. (You do not need to cite anything from the course textbook, notes, or lectures.) If you consult a webpage or book for information, you should tell us this. We don’t care what citation style you use.
 
-Direct quotes must be indicated, as must extensive near-direct paraphrases (i.e. taking the organization and content of someone else’s writing and merely replacing words with synonyms, reordering words, omitting sentences or phrases, etc.). This is done by either blockquoting the other writer’s text or by putting it in quotation marks. In general, however, you should use direct quotes only sparingly in your writing.
+Direct quotes must be indicated. This is done by either blockquoting the other writer’s text or by putting it in quotation marks. In general, however, you should use direct quotes only sparingly in your writing.
+
+**A note on "paraphrasing"**: Taking the organization and content of someone else’s writing and merely replacing words with synonyms, reordering words, omitting sentences or phrases, etc., is never a good idea. This is called "substitution plagiarism". 
+If you want to use someone else's rhetoric, then quote it directly and attribute the quote.
+If you want to use their ideas, then read what they have written and describe their ideas using your own logic, rhetoric, and organization.
 
 **A note on Chegg and similar platforms:** You are not allowed to post any materials from our class to Chegg’s “ask an expert” platform or any similar platform soliciting solutions to copy. Our experience has shown that these platforms are overwhelmingly used for academic dishonesty, i.e. to copy things without doing the work or understanding the process. 
-Instead, you should collaborate with your classmates or ask one of your instructors for help. The best way to do this is to post a question on Piazza. We will almost certainly be more helpful than anonymous people over the internet in helping you learn the material and gain skills and understanding. It is an extremely serious breach of academic integrity to solicit solutions to homework or exams from Chegg or similar, since this also facilitates the academic dishonesty of others.
+Instead, you should collaborate with your classmates or ask one of your instructors for help. The best way to do this is to talk to us during class or 
+on Discord. 
+We will almost certainly be more helpful than anonymous people over the internet in helping you learn the material and gain skills and understanding. 
+It is an extremely serious breach of academic integrity to solicit or use solutions from Chegg or similar, 
+since this also facilitates the academic dishonesty of others.
 
-I filed academic integrity charges against over 200 people last semester after I found solutions to my final exam on the internet; let's not have a repeat this year.
+
 
 ---
 
@@ -510,7 +466,10 @@ More generally, if there is anything I can do to help you, whether it is related
 
 ### Copyright
 
-All materials that we have developed this class are the copyright of their authors, but we do not intend to restrict their use; anyone may use them under the Creative Commons cc-by-nc-sa license, which gives you the right to share our materials freely or adapt them so long as you credit their authors, do not use them for commercial purposes, and require that anyone else distributing them also license them under these same terms. Recordings of class meetings themselves are not included in this license; those may not be distributed outside of our class without our permission to protect students’ freedom of expression in class.
+All materials that we have developed this class are the copyright of their authors, but we do not intend to restrict their use; anyone may use them under the Creative Commons cc-by-nc-sa license, which gives you the right to share our materials freely or adapt them so long as you credit their authors, do not use them for commercial purposes, and require that anyone else distributing them also license them under these same terms. 
+
+You are free to record class for your personal use but those recordings are not included in this license; 
+those may not be distributed outside of our class without our permission to protect students’ freedom of expression in class.
 
 Note that uploading materials to Chegg, CourseHero, or similar websites constitutes commercial use and is thus not allowed. 
 
@@ -526,7 +485,8 @@ SU’s religious observances notification and policy, found at http://hendricks.
 
 Events of equal solemnity to major religious observances, occurring on inflexible dates, will be given the same deference as religious observances. This includes weddings and commitment ceremonies of immediate family members, funerals, caregiving duties for sick family members, other family emergencies or singularly-important events, job interviews, and the like. 
 
-Participation in political or social activism occurring on inflexible dates – attending a demonstration, canvassing for a campaign, or the like – will be given this same deference. 
+Participation in political or social activism occurring on inflexible dates or in response to ongoing circumstances – attending a demonstration, canvassing for a campaign, or the like – will be given this same deference. 
 
 If you must miss your lab because of a solemn observance, social or political activism, illness or injury, or academic conflict, please discuss this with your group and arrange to attend at a different time that week. 
 
+If you miss a large quiz for such a reason, then you can demonstrate proficiency on that material on a subsequent quiz date, as usual.
