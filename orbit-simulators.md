@@ -2,7 +2,6 @@
 layout: page
 title: Simulators 
 permalink: orbitsims.html 
-category: top
 use_math: true
 ---
 

@@ -10,7 +10,6 @@ Audio cues if the AV equipment is being wonky:
 [Overture...](https://www.youtube.com/watch?v=w9xrmThlsOA)
 [Sanskrit...](https://www.youtube.com/watch?v=D_2bluVPsb0)
 [British...](https://www.youtube.com/watch?v=buqtdpuZxvk)
-[Latin...](https://www.youtube.com/watch?v=MhinC9eVKR4&feature=youtu.be&t=216)
 
 ---
 
