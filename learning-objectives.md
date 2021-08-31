@@ -17,6 +17,7 @@ After this class, students will be able to...
 * explain the basics of the philosophy of humanism, and how scientific development is one manifestation of it
 * create rhetoric, art, writing, and the like that blends astronomical ideas with other academic fields
 * recognize and rebut (pseudo)scientific and denialist rhetoric that is dishonest or misleading
+<br>
 
 2. Astronomy by Eye (Unit 1)
 * describe the actual motions of the Sun, Earth, Moon, planets, and stars, using both words and pictures
@@ -25,6 +26,7 @@ After this class, students will be able to...
 * describe how the "celestial sphere model", formulated without the knowledge that the Earth moves around the Sun, still makes reasonably accurate predictions
 * describe the causes of the seasons and the moon phases
 * predict the differences in the sky, seasons, etc., between different places on Earth
+<br>
 
 3. History of Celestial Mechanics (Unit 2)
 * describe the state of astronomical knowledge in ancient times, both what was known and what was not
@@ -38,6 +40,7 @@ After this class, students will be able to...
 * describe how Newton's laws of motion and universal gravitation, and the conservation of energy, provide a physical basis for Kepler's laws
 * use Newton's laws of motion and gravitation to predict how objects will move in a variety of circumstances
 * explain the relation of this process to the birth of modern science
+<br>
 
 4. Light and Matter / The Sun (Unit 3)
 * describe the basic nature of light as a dual particle/wave phenomenon, and the unity of the electromagnetic spectrum
@@ -51,6 +54,7 @@ After this class, students will be able to...
 * explain why the spectra of all stars are similar, and the broader impact this insight has for philosophy and the humanities
 * describe the basics of the Sun's energy source, nuclear fusion
 * describe the basic properties of non-light astronomical observations: neutrino astronomy and gravitational-wave observations
+<br>
 
 5. Humans and the Cosmos (Unit 4)
 * explain the basics of the origin of the Solar System from a collapsing nebula
