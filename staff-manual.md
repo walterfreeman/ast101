@@ -5,7 +5,13 @@ category: top
 use_math: true
 title: Staff Manual
 ---
-# Astronomy 101 Staff Manual (draft)
+# Astronomy 101 Staff Manual
+
+*This staff manual is posted publically on our course website as part of our commitment to 
+transparency. It is written for an audience of the GTA's and coaches to whom it applies.
+I want to be completely open with students about how we conduct our course,
+so you are welcome to read this document to see how the organization and administration
+will look on our end.*
 
 Welcome to the Astronomy 101 teaching team! This document will serve both as an introduction to your duties and as a reference during the semester.
 
@@ -57,7 +63,8 @@ Please get the Slack client for your phones and computers; it is the best way fo
 can be a lot more efficient than either email or GroupMe threads. 
 
 We will use Discord as a means of communication with the students, though it is not required that either they or we use it.
-You may join the Discord server at <https://discord.gg/M52DajmqMV>. Ping Walter once you're there for the coach/TA role.
+You may join the Discord server at <https://discord.gg/M52DajmqMV>. Ping Walter once you're there for the coach/TA role. If any coaches are spending substantial time there (either helping AST101 students
+or students in other classes), talk to Walter regarding getting paid for this work.
 
 ### Your Roles
 
@@ -102,12 +109,12 @@ you have a medical emergency -- then your first priority should be to *get someo
 You should do the following:
 
 * Send a message to #ast101staff on Discord asking someone to cover for you. If there's no answer in two minutes...
-* Call Walter at (520) 409 3766 and then Patrick at (xxx) xxx xxxx in that order. If you can't get them...
+* Call Walter at (xxx) xxx xxxx and then Patrick at (xxx) xxx xxxx in that order. (Numbers pinned in staff Slack.) If you can't get them...
 * Call the Physics Department office at (315) 443 3901 if it's between 8am and 6pm
-* If it becomes apparent you're going to be more than five minutes late and nobody can cover, write a message to #ast101
-in Discord and then email your students.
+* If it becomes apparent you're going to be more than five minutes late and nobody can cover, write a message to #ast101 in Discord and then email your students.
 
-If you have a student who is being disruptive and doesn't stop, ask them to leave the classroom.
+If you have a student who is being disruptive and doesn't stop, or who refuses to wear a mask when 
+required, ask them to leave the classroom.
 If a student is being *extremely* disruptive to the point where it jeopardizes the wellbeing of the other folks in the room, 
 please do whatever you need to do to protect your safety and the safety of your students, including calling the Department of Public Safety at (315) 443 2224. (This is very rare but it has happened).
 
@@ -250,14 +257,15 @@ You might record during lab that Alice's grade should be higher than the written
 
 When you look at their written work, you choose Bob's lab to look at. (You see that Charlie wasn't really doing much, so it would be unfair to Alice and Bob
 to look at his.) You observe that Bob has written down reasonable things that reflect a solid A-level understanding. You award Alice an S (A modified upward
-for her work during lab), Bob an A, and Charlie a C (modified significantly downward for his lack of participation).
+for her work during lab), Bob an A, and Charlie a C (modified significantly downward for his lack of participation). If Charlie's work was especially poor, you might look at what he submitted and then 
+apply the modification from there.
 
 You record these grades in the shared Google document and on each of their papers, then return them at the beginning of the next lab.
 
 ### Feedback
 
 After each lab section, I'd like you to take two minutes to provide some feedback about how the students are doing. This may seem like a silly bit of trivia,
-but it is essential for me to keep tabs on how things are going and make changes as needed. You can do this on your phone in a dedicated Slack channel we will set up.
+but it is essential for me to keep tabs on how things are going and make changes as needed. You can do this on your phone in a dedicated Slack thread. 
 
 ### Prelabs
 
@@ -268,7 +276,9 @@ go to another lab section.
 
 A student may -- *once* during the semester -- switch lab sections without a good reason. (Not doing their prelab counts here.) 
 
-They do this by emailing another lab TA and cc:ing you, asking that TA if they may attend (space permitting), and -- after approval -- going to the other section.
+They do this by emailing another lab TA and cc:ing you, asking that TA if they may attend (space permitting), and -- after approval -- going to the other section. If a student emails you and your section is
+full (meaning: 21 students consistently attend), then you should apologize and tell them that you are
+full.
 
 If they are sick or have an academic-related reason, it does not use up their free switch.
 
@@ -282,15 +292,18 @@ You are expected to attend all of these.
 The homework component of this class is new this year, so there will be some bugs to knock out. They will submit homework either on Blackboard or 
 as written work to you. Grading duties will be split between you and the coaches.
 
-The primary goal of the homework here is *for the students to learn*. We will be grading it, but do not knock yourself out over the grading. The primary goal
-of giving grades to the homework is so the students will do it; it is not to sort out who will get which grade.
+The primary goal of the homework here is *for the students to learn*. 
+TA's and senior coaches will be grading it, but do not knock yourself out over the grading. The primary goal
+of giving grades to the homework is so the students will do it; it is not to rigorously sort out who will get which grade.
 
 Since the format of the homework will vary from time to time, the grading rubric will too. We will keep you informed about grading practices for homework;
-they will evolve as the semester progresses.
+they will evolve as the semester progresses, since this is not a component of the course we've had before.
+
 
 #### Maintaining Gradebooks
 
-We will maintain grades on either Blackboard or a shared Google document, shared only with your @g.syr.edu accounts. 
+We will maintain grades on a document shared between ourselves that we sync with Blackboard periodically. We will discuss how this will work in staff meetings in more depth. (This is not in the manual
+for security.)
 
 In the first two weeks of class, we'll create a separate "Smart View" of each TA's students on Blackboard. You are responsible for grading your students' homework and in-class exams, and for keeping up with their recitation assessments. We hope to have coaches help with some of the grading.
 
@@ -307,4 +320,5 @@ We'll need a few proctors on those days in class to answer student questions (wh
 We will be discussing the process of science in our class, and students will write a paper on pseudoscience/science denialism later in the term. Earlier in the semester they will write a paper 
 relating timekeeping to motions in the sky. 
 
-You'll be responsible for grading these papers. We'll talk about this more as the time comes. Grading these will be a fair bit of work.
+You'll be responsible for grading these papers. We'll talk about this more as the time comes (and will
+post the rubric here and in the assignment). Grading these will be a fair bit of work.
