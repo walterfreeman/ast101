@@ -1,14 +1,17 @@
 ---
 layout: page
 permalink: lab_schedule.html
-title: Lab schedule
+category: top
+title: Labs
 ---
 
 **Labs begin the second week of classes.**
 
-Note: Students with Monday labs will attend labs a week behind because of Labor Day for a while.
-(This means that on a week when most sections are on Lab 3, Monday's students will be on 
-Lab 2.)
+We will post links to the labs and prelabs here starting Thursday.
+
+---
+
+### Lab TA's
 
 * Patrick Adams, <paadams@syr.edu>, head TA
 * Tyler Hain, <tahain@syr.edu>
@@ -18,6 +21,15 @@ Lab 2.)
 * Byron Sleight, <bsleight@syr.edu>
 * Sierra Thomas, <sthoma31@syr.edu>
 * Vidyesh Rao, <vvaniset@syr.edu>
+
+---
+
+### Lab schedule
+
+Note: Students with Monday labs will attend labs a week behind because of Labor Day for a while.
+(This means that on a week when most sections are on Lab 3, Monday's students will be on 
+Lab 2.)
+
 
 
 | **Section**    | **Instructor** | **Time** |
