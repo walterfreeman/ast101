@@ -7,7 +7,7 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-This is the course website for AST101. We will use it to post all material for class. 
+This is the course website for Astronomy 101. We will use it to post all material for class. 
 
 ### Link to lecture slides:
 
@@ -31,8 +31,7 @@ Teaching staff:
     * Sierra Thomas, <sthoma31@syr.edu>
     * Vidyesh Rao, <vvaniset@syr.edu>
     
-* Kiersten Edwards, <kedwar03@syr.edu>, writing coach 
-    * Other peer coaches 
+* Kiersten Edwards, <kedwar03@syr.edu>, writing coach, and other peer coaches 
 
 <br>
 

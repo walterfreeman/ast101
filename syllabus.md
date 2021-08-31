@@ -25,6 +25,9 @@ use_math: true
 
 ---
 
+*This syllabus should be considered a draft until this notice is removed. It will be finalized
+soon.*
+
 ### Contact information at a glance
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 
