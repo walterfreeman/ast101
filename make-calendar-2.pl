@@ -1,4 +1,4 @@
-open Sched,"schedule-draft.tsv";
+open Sched,"schedule.tsv";
 
 <Sched>;
 
@@ -16,6 +16,7 @@ while (<Sched>)
   $read[$line]=$w[4];
   $labs[$line]=$w[5];
   $quiz[$line]=$w[6];
+  $tutname[$line]=$w[7];
 
   unless ($topic[$line] =~ /EXAM/)
   {
@@ -23,6 +24,10 @@ while (<Sched>)
       {
 	  print STDERR "FOUND SLIDES $day\n";
       	  $topic[$line]="<a href=\"slides/lecture$day/lecture$day.pdf\">$topic[$line]</a>";
+      }
+      if (-e "tutorials/$tutname[$line]/$tutname[$line].pdf")
+      {
+	  $tut[$line]="<a href=\"tutorials/$tutname[$line]/$tutname[$line].pdf\">$tut[$line]</a>";
       }
       
     $day++;

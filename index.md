@@ -11,7 +11,7 @@ This is the course website for Astronomy 101. We will use it to post all materia
 
 ### Link to lecture slides:
 
-<a href="slides/lecture1/lecture1.pdf">Introduction and welcome</a>
+<a href="slides/lecture2/lecture2.pdf">The celestial sphere model</a>
 
 ### Information
 
