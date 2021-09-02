@@ -13,6 +13,11 @@ This is the course website for Astronomy 101. We will use it to post all materia
 
 <a href="slides/lecture2/lecture2.pdf">The celestial sphere model</a>
 
+### Upcoming assignments
+
+Here is the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">Celestial Sphere tutorial.</a> 
+This document also contains your first homework assignment. It is due Thursday, September 9, at the beginning of class.
+
 ### Information
 
 Teaching staff:

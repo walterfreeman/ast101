@@ -45,8 +45,8 @@ Lab 2.)
 |M010|          	 |Monday 8:15PM-9:35PM |
 |M027|Tyler Hain          	 |Tuesday 3:30PM-4:50PM |
 |M028|Tyler Hain        		 |Tuesday 5:00PM-6:20PM |
-|M029|Jeffrey Frelier   		 |Tuesday 6:30PM-7:50PM |
-|M030|Jeffrey Frelier   		 |Tuesday 8:00PM-9:20PM |
+|M029|Patrick Adams     		 |Tuesday 6:30PM-7:50PM |
+|M030|Vincent Musso     		 |Tuesday 8:00PM-9:20PM |
 |M025|Sierra Thomas         	 |Wednesday 8:00AM-9:20AM |
 |M011|Sierra Thomas	 |Wednesday 9:30AM-10:50AM |
 |M012|Chad Skerbec        |Wednesday 11:00AM-12:20PM |
