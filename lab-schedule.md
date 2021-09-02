@@ -7,7 +7,12 @@ title: Labs
 
 **Labs begin the second week of classes.**
 
-We will post links to the labs and prelabs here starting Thursday.
+| Lab Title | Lab Link | Prelab Link |
+|--------------------------------------------|----------------------------------------|-----------------------------------------------------|
+| Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
+|--------------------------------------------|----------------------------------------|-----------------------------------------------------|
+
+<br><br>
 
 ---
 
