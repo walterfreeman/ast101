@@ -253,7 +253,7 @@ int main(int argc, char **argv)
      double rdot = cos((clat+46)*M_PI/180)*4;
      double rad=0.1;
 
-     printf("C 0 0 1\n");
+     printf("C 0.2 0.2 1\n");
      printf("c3 %e %e %e %e\n",rdot,0.,zdot,rad);
      printf("C 1 1 0\n");
      printf("c3 %e %e %e %e\n",0.,-rdot,zdot,rad);
@@ -267,7 +267,7 @@ int main(int argc, char **argv)
      rdot = cos((clat+5)*M_PI/180)*4;
      rad=0.1;
 
-     printf("C 0 0 1\n");
+     printf("C 0.2 0.2 1\n");
      printf("c3 %e %e %e %e\n",rdot,0.,zdot,rad);
      printf("C 1 1 0\n");
      printf("c3 %e %e %e %e\n",0.,-rdot,zdot,rad);

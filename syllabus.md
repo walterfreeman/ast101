@@ -32,7 +32,7 @@ soon.*
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 
 -   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, in Stolkin Auditorium
--   Office hours: TBD, held in room 215
+-   Office hours: Wednesday 2-4 PM and Friday 9-11 AM, held in room 112 for now
 -   Course website: http://walterfreeman.github.io/ast101/
 - Teaching assistants:
     * Patrick Adams, <paadams@syr.edu>, head TA
