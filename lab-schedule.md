@@ -47,11 +47,11 @@ Lab 2.)
 |M007|Chad Skerbec        	 |Monday 3:45PM-5:05PM |
 |M008|Tyler Hain            |Monday 5:15PM-6:35PM |
 |M009|Tyler Hain	 |Monday 6:45PM-8:05PM |
-|M010|          	 |Monday 8:15PM-9:35PM |
+|M010|Vidyesh Rao          	 |Monday 8:15PM-9:35PM |
 |M027|Tyler Hain          	 |Tuesday 3:30PM-4:50PM |
 |M028|Tyler Hain        		 |Tuesday 5:00PM-6:20PM |
-|M029|Patrick Adams     		 |Tuesday 6:30PM-7:50PM |
-|M030|Vincent Musso     		 |Tuesday 8:00PM-9:20PM |
+|M029|Vidyesh Rao     		 |Tuesday 6:30PM-7:50PM |
+|M030|Vidyesh Rao       		 |Tuesday 8:00PM-9:20PM |
 |M025|Sierra Thomas         	 |Wednesday 8:00AM-9:20AM |
 |M011|Sierra Thomas	 |Wednesday 9:30AM-10:50AM |
 |M012|Chad Skerbec        |Wednesday 11:00AM-12:20PM |
@@ -60,11 +60,11 @@ Lab 2.)
 |M015|Byron Sleight 		 |Wednesday 3:45PM-5:05PM |
 |M016|Byron Sleight | Wednesday 5:15PM-6:35PM |
 |M017|Patrick Adams|Wednesday 6:45PM-8:05PM |
-|M018|             	   	 |Wednesday 8:15PM-9:35PM |
+|M018|Patrick Adams	   	 |Wednesday 8:15PM-9:35PM |
 |M019|Byron Sleight | Thursday 5:00PM-6:20PM |
 |M020|Patrick Adams		 |Thursday 6:30PM-7:50PM |
 |M031|Vincent Musso                   |Thursday 8:00PM-9:20PM |
-|M026|Kishan Sankharva     	 |Friday 8:00AM-9:20AM |
+|M026|Vidyesh Rao          	 |Friday 8:00AM-9:20AM |
 |M021|Kishan Sankharva        	 |Friday 9:30AM-10:50AM |
 |M022|Vincent Musso|Friday 11:00AM-12:20PM |
 |M023|Vincent Musso  		 |Friday 12:45PM-2:05PM |
