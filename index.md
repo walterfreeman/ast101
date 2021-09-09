@@ -11,12 +11,14 @@ This is the course website for Astronomy 101. We will use it to post all materia
 
 ### Link to lecture slides:
 
-<a href="slides/lecture3/lecture3.pdf">The perspective from Earth</a>
+<a href="slides/lecture3/lecture4.pdf">The yearly orbit of Earth</a>
 
 ### Upcoming assignments
 
-Here is the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">Celestial Sphere tutorial.</a> 
-This document also contains your first homework assignment. It is due Thursday, September 9, at the beginning of class.
+Here is the <a href="tutorials/zodiac-motion/zodiac-motion.pdf">Zodiac Motion tutorial.</a> The last page is Homework 2, which is due 
+Tuesday, September 14.
+
+**Your first quiz** is Tuesday, September 14.
 
 ### Information
 
