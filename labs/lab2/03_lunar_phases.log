@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.22)  6 SEP 2018 20:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**03_lunar_phases.tex
+(./03_lunar_phases.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip43
+\cftbeforetoctitleskip=\skip44
+\cftaftertoctitleskip=\skip45
+\cftbeforepartskip=\skip46
+\cftpartnumwidth=\skip47
+\cftpartindent=\skip48
+\cftbeforesecskip=\skip49
+\cftsecindent=\skip50
+\cftsecnumwidth=\skip51
+\cftbeforesubsecskip=\skip52
+\cftsubsecindent=\skip53
+\cftsubsecnumwidth=\skip54
+\cftbeforesubsubsecskip=\skip55
+\cftsubsubsecindent=\skip56
+\cftsubsubsecnumwidth=\skip57
+\cftbeforeparaskip=\skip58
+\cftparaindent=\skip59
+\cftparanumwidth=\skip60
+\cftbeforesubparaskip=\skip61
+\cftsubparaindent=\skip62
+\cftsubparanumwidth=\skip63
+\cftbeforeloftitleskip=\skip64
+\cftafterloftitleskip=\skip65
+\cftbeforefigskip=\skip66
+\cftfigindent=\skip67
+\cftfignumwidth=\skip68
+\c@lofdepth=\count87
+\c@lotdepth=\count88
+\cftbeforelottitleskip=\skip69
+\cftafterlottitleskip=\skip70
+\cftbeforetabskip=\skip71
+\cfttabindent=\skip72
+\cfttabnumwidth=\skip73
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip76
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks16
+\extratabsurround=\skip77
+\backup@length=\skip78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)))
+\AM@pagewidth=\dimen109
+\AM@pageheight=\dimen110
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@global@opts=\toks17
+\AM@toc@title=\toks18
+\c@AM@survey=\count92
+\AM@templatesizebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip79
+\multirow@cntb=\count93
+\multirow@dima=\skip80
+\bigstrutjot=\dimen111
+)
+(./03_lunar_phases.aux)
+\openout1 = `03_lunar_phases.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 76.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen112
+\scratchbox=\box28
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen113
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\big@size=\dimen114
+\AtBeginShipoutBox=\box29
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 83.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 96.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 106
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 106.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 106.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 106.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 106.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 106.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 106.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 106
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+pplx on input line 115
+.
+LaTeX Font Info:    No file OMSpplx.fd. on input line 115.
+
+LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 115.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[2]
+<local_sky.pdf, id=13, 232.87pt x 159.59625pt>
+File: local_sky.pdf Graphic file (type pdf)
+<use local_sky.pdf>
+Package pdftex.def Info: local_sky.pdf  used on input line 159.
+(pdftex.def)             Requested size: 232.86942pt x 159.59584pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+[3 <./local_sky.pdf>]
+File: local_sky.pdf Graphic file (type pdf)
+<use local_sky.pdf>
+Package pdftex.def Info: local_sky.pdf  used on input line 213.
+(pdftex.def)             Requested size: 232.86942pt x 159.59584pt.
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+[5]
+Overfull \hbox (14.05641pt too wide) in paragraph at lines 262--264
+\OT1/pplx/m/n/10.95 Use the back-ground in-for-ma-tion on moon phases (at $\OT1
+/cmtt/m/n/10.95 http : / / astro . unl . edu / naap / lps / lunarPage1 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 317--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+<new.jpg, id=44, 101.178pt x 101.178pt>
+File: new.jpg Graphic file (type jpg)
+<use new.jpg>
+Package pdftex.def Info: new.jpg  used on input line 331.
+(pdftex.def)             Requested size: 72.26999pt x 72.27377pt.
+<moon_01.jpg, id=45, 101.178pt x 104.0688pt>
+File: moon_01.jpg Graphic file (type jpg)
+<use moon_01.jpg>
+Package pdftex.def Info: moon_01.jpg  used on input line 334.
+(pdftex.def)             Requested size: 72.26999pt x 74.33875pt.
+<moon_05.jpg, id=46, 101.178pt x 106.9596pt>
+File: moon_05.jpg Graphic file (type jpg)
+<use moon_05.jpg>
+Package pdftex.def Info: moon_05.jpg  used on input line 337.
+(pdftex.def)             Requested size: 72.26999pt x 76.4037pt.
+<third_q.jpg, id=47, 101.178pt x 102.6234pt>
+File: third_q.jpg Graphic file (type jpg)
+<use third_q.jpg>
+Package pdftex.def Info: third_q.jpg  used on input line 340.
+(pdftex.def)             Requested size: 72.26999pt x 73.30626pt.
+<moon_06.jpg, id=48, 101.178pt x 101.178pt>
+File: moon_06.jpg Graphic file (type jpg)
+<use moon_06.jpg>
+Package pdftex.def Info: moon_06.jpg  used on input line 343.
+(pdftex.def)             Requested size: 72.26999pt x 72.27377pt.
+<full.jpg, id=49, 101.178pt x 101.178pt>
+File: full.jpg Graphic file (type jpg)
+<use full.jpg>
+Package pdftex.def Info: full.jpg  used on input line 348.
+(pdftex.def)             Requested size: 72.26999pt x 72.27377pt.
+<first_q.jpg, id=50, 101.178pt x 104.0688pt>
+File: first_q.jpg Graphic file (type jpg)
+<use first_q.jpg>
+Package pdftex.def Info: first_q.jpg  used on input line 351.
+(pdftex.def)             Requested size: 72.26999pt x 74.33875pt.
+<moon_02.jpg, id=51, 101.178pt x 106.2369pt>
+File: moon_02.jpg Graphic file (type jpg)
+<use moon_02.jpg>
+Package pdftex.def Info: moon_02.jpg  used on input line 354.
+(pdftex.def)             Requested size: 72.26999pt x 75.88747pt.
+<moon_04.jpg, id=52, 101.178pt x 101.178pt>
+File: moon_04.jpg Graphic file (type jpg)
+<use moon_04.jpg>
+Package pdftex.def Info: moon_04.jpg  used on input line 357.
+(pdftex.def)             Requested size: 72.26999pt x 72.27377pt.
+<moon_03.jpg, id=53, 101.178pt x 101.178pt>
+File: moon_03.jpg Graphic file (type jpg)
+<use moon_03.jpg>
+Package pdftex.def Info: moon_03.jpg  used on input line 360.
+(pdftex.def)             Requested size: 72.26999pt x 72.27377pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+[7 <./new.jpg> <./moon_01.jpg> <./moon_05.jpg> <./third_q.jpg> <./moon_06.jpg> 
+<./full.jpg> <./first_q.jpg> <./moon_02.jpg> <./moon_04.jpg> <./moon_03.jpg>]
+<moon_orbit.png, id=58, 395.406pt x 240.768pt>
+File: moon_orbit.png Graphic file (type png)
+<use moon_orbit.png>
+Package pdftex.def Info: moon_orbit.png  used on input line 418.
+(pdftex.def)             Requested size: 395.40503pt x 240.7674pt.
+
+[8 <./moon_orbit.png>]
+<moon_bisect.pdf, id=64, 433.62pt x 131.49126pt>
+File: moon_bisect.pdf Graphic file (type pdf)
+<use moon_bisect.pdf>
+Package pdftex.def Info: moon_bisect.pdf  used on input line 438.
+(pdftex.def)             Requested size: 433.61894pt x 131.49092pt.
+<blank_moon.pdf, id=65, 91.34125pt x 91.34125pt>
+File: blank_moon.pdf Graphic file (type pdf)
+<use blank_moon.pdf>
+Package pdftex.def Info: blank_moon.pdf  used on input line 446.
+(pdftex.def)             Requested size: 91.34102pt x 91.34102pt.
+ [9 <./moon_bisect.pdf> <./blank_moon.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+[10]
+<moon_table.pdf, id=94, 614.295pt x 794.97pt>
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf>
+Package pdftex.def Info: moon_table.pdf  used on input line 482.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf>
+Package pdftex.def Info: moon_table.pdf  used on input line 482.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<moon_table.pdf, id=97, page=1, 614.295pt x 794.97pt>
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf, page 1>
+Package pdftex.def Info: moon_table.pdf , page1 used on input line 482.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf, page 1>
+Package pdftex.def Info: moon_table.pdf , page1 used on input line 482.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf, page 1>
+Package pdftex.def Info: moon_table.pdf , page1 used on input line 482.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf, page 1>
+Package pdftex.def Info: moon_table.pdf , page1 used on input line 482.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: moon_table.pdf Graphic file (type pdf)
+<use moon_table.pdf, page 1>
+Package pdftex.def Info: moon_table.pdf , page1 used on input line 482.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [11 <./moon_table.pdf>] (./03_lunar_phases.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3279 strings out of 492982
+ 47780 string characters out of 6134896
+ 108975 words of memory out of 5000000
+ 6745 multiletter control sequences out of 15000+600000
+ 21063 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,18n,43p,560b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatin
+o/uplri8a.pfb>
+Output written on 03_lunar_phases.pdf (11 pages, 731612 bytes).
+PDF statistics:
+ 172 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

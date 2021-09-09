@@ -1,0 +1,189 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Place in the Universe \\
+\vspace*{0.1cm}
+Lab 2 Prelab: What Is A Day?
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+\hrule
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+%{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Please note that prelabs must be completed \underline{\textbf{***BEFORE***}} you arrive at your lab section, and your TA will verify that you have done so. If you have not completed your prelab before arriving you will be asked to leave and attend another section
+-- but you can only do this once all semester.
+
+Also note that this prelab also uses {\it Stellarium}. If you have a Mac and are having the ``this program is not from a 
+recognized developer'' error, the following instructions (provided by a Mac user) might help:
+
+{\it Apparently the new versions of macOS, by default, complain if you ask them to run software – like Stellarium – that came from a source other than the Apple Store. To get around this, if you control-click on the Stellarium file inside the .dmg that you downloaded, a menu will appear with the option ``Open''. Choose this option. You will get a popup asking whether you want to run software from an unrecognized developer; say yes, and Stellarium will open.}
+
+If you are still unable to get Stellarium working on your computer, there is a web version that you can use. (The hotkeys may be 
+different in it.)
+
+\subsection*{Materials}
+
+This lab uses a free program called Stellarium. It is verified safe by your instructor, and can be downloaded at  \\
+\\
+\url{https://stellarium.org/} \\
+
+If you do not have your own computer, contact Dr. Freeman.
+
+\newpage
+
+\section{What is a Day?}
+
+A day is ...
+
+\begin{itemize}
+\item ... the amount of time it takes the Earth to rotate once
+\item ... the amount of time it takes the Sun to come back to roughly the same place in the sky
+\item ... the amount of time it takes the stars to come back to the same place in the sky
+\end{itemize}
+
+	Are these all the same? Let's find out.
+
+\subsection{The solar day}
+
+\begin{itemize}
+\item Press Z in Stellarium to turn on the azimuthal grid. Point the camera south, and notice that the $180^\circ$ 
+	grid line extends from
+the southern horizon up into the sky. Then, press A to turn off the atmosphere, so you can see the Sun and the other stars
+		at the same time. (In the web version, you can turn the azimuthal grid on and the atmosphere off
+		by clicking the icons at the bottom.)
+
+\item Advance time slowly until the Sun crosses the $180^\circ$ line, and determine to a precision of one minute when that is. 
+	(You can use the J/K/L keys to adjust the rate at which time flows in the desktop version. In the web version, you can click
+		on the clock and adjust the date and time.)
+Write down that time and date here:
+
+\vspace{1in}
+
+\item Now, speed time up again, and let the Sun set and then rise again. 
+	Determine the time at which the Sun crosses the $180^\circ$ line again (one day later), and write down that time and date:
+
+		\vspace{1in}
+
+	\item How much time has passed between these two? Is this what you expect? Since we have measured the length of a day
+		using the Sun, this amount of time is ``one day by the Sun'', or {\bf one solar day}. Give your answer
+		as a number of hours plus a number of minutes.
+
+		\vspace{2in}
+
+\end{itemize}
+
+\subsection{The sidereal day}
+
+Now, we'll repeat the same procedure, but this time measuring a day based on the motion of the stars. This kind of day is called a {\it sidereal day}. This word is pronounced ``sid-uh-ree-ull'' and comes from the Latin {\it sider}, meaning ``star''.
+
+\begin{itemize}
+	\item Find the star Sirius, the brightest star in the night sky. (You can find it by pressing Ctrl-F in both versions.)
+		Advance time forward and determine, to a precision of one minute, when it crosses the $180^\circ$ line. Write that time 
+		and date 
+		below: 
+		
+		\vspace{1in}
+
+	\item Now, advance time until Sirius sets and rises again. On the following day, write down the time and date when Sirius 
+		again passes through the the $180^\circ$ line. Write that time
+                and date
+                below: 
+
+		\vspace{1in}
+
+	\item Determine how much time has passed between {\it these} two moments. Is this what you expect? Give your answer as 
+		a number of hours plus a number of minutes. Since here we have measured the length of a day using a star, this 
+		length of time is called ``one day by the stars'', or {\bf one sidereal day}.
+
+		\vspace{2in}
+\end{itemize}
+
+\newpage
+
+\subsection{Putting it together}
+
+\begin{itemize}
+
+	\item By how much do one solar day and one sidereal day differ, according to your measurements?
+
+		\vspace{1in}
+
+	\item Do we use the solar day or the sidereal day in order to keep civil time ({\it i.e.} the time that our clocks show)? 
+		Why have we made this choice?
+
+		\vspace{2in}
+
+	\item Discuss briefly in words or pictures why there is a difference between a day according to the Sun, and a day according to the stars.
+\end{itemize}
+\end{document}
+
+

@@ -1,0 +1,191 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 2: The Motion of the Sun  
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+\hrule
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Please note that prelabs must be completed \underline{\textbf{***BEFORE***}} you arrive at your lab section, and your TA will verify that you have done so. If you have not completed your prelab before arriving you will be asked to leave and attend another section
+-- but you can only do this once all semester.
+
+Also note that this prelab also uses {\it Stellarium}. If you have a Mac and are having the ``this program is not from a 
+recognized developer'' error, see the note at the bottom of the course website, which reads:
+
+{\it Apparently the new versions of macOS, by default, complain if you ask them to run software – like Stellarium – that came from a source other than the Apple Store. To get around this, if you control-click on the Stellarium file inside the .dmg that you downloaded, a menu will appear with the option ``Open''. Choose this option. You will get a popup asking whether you want to run software from an unrecognized developer; say yes, and Stellarium will open.}
+
+If you are still unable to get Stellarium working on your computer, there is an alternate version of this prelab.
+
+{\bf You may do either one of the prelab options (``Simulating the moon phases with Stellarium'' or ``Diagramming the moon phases''); you do not need to do both.}
+
+\subsection*{Materials}
+
+This lab uses a free program called Stellarium. It is verified safe by your instructor, and can be downloaded at  \\
+\\
+\url{https://stellarium.org/} \\
+
+If you do not have your own computer, contact Dr. Freeman.
+
+\newpage
+
+\section{Simulating the moon phases with Stellarium}
+
+\subsection{Finding and tracking the Moon}
+
+\begin{itemize}
+
+\item Press F4 to open the ``Location'' window and set the viewing location to Syracuse, NY. Then press F5 to open the ``date/time''
+window and set the time to 1 AM, September 6, 2018.
+
+\item Press F3 to open the ``Search'' window and type ``Moon'' to focus on the Moon. The view should center itself on the Moon. Then,
+to follow the Moon in the sky, press T, for ``track''.
+
+\item {\bf Question 1:} Now, speed time up by pressing ``L'' three times. Soon you should see the Moon rise over the horizon. When the Moon rises, go back to ``normal'' time by pressing ``K''. What time of day
+did the Moon rise?
+
+\vspace{1in}
+
+\item {\bf Question 2:} Zoom in on the Moon. You can do this by using your mousewheel, touchpad, or pressing Ctrl-Shift-8 (try 
+different numbers for different zoom levels). Draw the phase of the moon you see below.
+
+\vspace{2in}
+
+\item {\bf Question 3:} Now speed time up again and wait for the Sun to rise. (You may need to zoom out.) 
+What time did the Sun rise? At the time that the Sun rose, where was the Moon?
+
+\vspace{1in}
+
+\item {\bf Question 4:} Is there any significance of the location of the ``lit'' portion of the Moon? What does it point to?
+
+\vspace{1in}
+\end{itemize}
+\subsection{The Moon, the Earth, and the Sun at midnight}
+
+\begin{itemize}
+
+\item Now set the time to September 25, 2018, 00:00:01 (that is, one second after midnight). Find the Moon again. What is
+the phase of the Moon on this day?
+
+\vspace{1in}
+
+\item Where is the Sun at this time?
+
+\vspace{1in}
+
+\item In the space below, draw a diagram of the following, looking down on the Earth from above the North Pole, that 
+could correspond to midnight on September 25. 
+
+\begin{itemize}
+\item The Earth
+\item The observer on the surface of the Earth (just draw a dot)
+\item The Moon
+\item The direction of the Sun (draw an arrow that says ``Sun is over here'')
+\end{itemize}
+\end{itemize}
+
+\newpage
+
+\section{Diagramming the Moon Phases (for people with Stellarium issues)}
+
+\subsection{Time on Earth}
+
+In the following diagram, four points on the Earth's surface are labeled A, B, C, and D. What time is it at each point?
+Shade the Earth so that the daytime half is light, and the nighttime half is dark.
+
+\vspace{3in}
+
+Just like the Earth, the Moon will always have one half lit by the Sun, and one half that is dark. In the following diagram,
+shade in the Moon like you did the Earth. Note that two possible positions of the Moon in its orbit are drawn; shade both of them.
+
+\vspace{4in}
+\newpage
+If the Moon is at position A, what will it look like as seen from Earth? What time of day will this moon be high in the sky?
+
+\vspace{1in}
+
+If the Moon is at position B, what will it look like as seen from Earth? What time of day will this moon {\it rise}?
+
+\vspace{1in}
+
+The Moon orbits the Earth counterclockwise about once every 30 days. 
+How long will the Moon take to move from position A to position B?
+
+\vspace{1in}
+
+If the Moon is in position B, where will it be located in the sky for an observer experiencing noon? (Remember, noon means that 
+the Sun is overhead.)
+
+\end{document}

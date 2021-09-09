@@ -10,6 +10,7 @@ title: Labs
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
+| Lab 2: Changes During The Year | <a href="labs/lab2/lab2.pdf">Lab 2</a> | <a href="labs/lab2/lab2prelab.pdf">Lab 2 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 <br><br>

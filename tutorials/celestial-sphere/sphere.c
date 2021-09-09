@@ -224,7 +224,7 @@ int main(int argc, char **argv)
   v2.y=0;
   v2.z=1;
   vector vtemp;
-  double rotrate = 0.002;
+  double rotrate = 0.015;
   
   vector zhat=zv; zhat.z=1;
   printf("font large\n");

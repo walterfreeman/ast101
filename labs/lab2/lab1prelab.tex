@@ -1,0 +1,175 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 1: Stellarium and The Celestial Sphere Prelab
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+\hrule
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Please note that prelabs must be completed \underline{\textbf{***BEFORE***}} you arrive at your lab section, and your TA will verify that you have done so. If you have not completed your prelab before arriving you will be asked to leave and attend another section
+-- but you can only do this once all semester.
+
+\subsection*{Materials}
+
+This lab uses a free program called Stellarium. It is verified safe by your instructor, and can be downloaded at  \\
+\\
+\url{https://stellarium.org/} \\
+
+If you do not have your own computer, contact Dr. Freeman.
+
+\subsection*{Objective}
+
+The point of this prelab is to familiarize yourself with Stellarium, so that you won't need to spend several minutes figuring out the program in lab and can jump right in! Don't be daunted by the fact that this prelab is 4 pages long; one of them is just the cover page. The questions are very basic, and designed to get you familiar with the interface of Stellarium. We'll save the thinking for the lab itself!
+
+\newpage
+
+\section{Familiarizing Yourself with Stellarium}
+
+Open Stellarium. You should find yourself in a grassy field, either at night or during the day depending on when you complete this assignment.
+
+\noindent
+\textbf{Question 1.} Hold down left click and move your mouse. You should see that you're able to move your view around the area. You can do the same using the arrow keys. You can also scroll the mouse wheel to zoom in and out and change your field of view, but things look a little weird if you zoom too far.\\
+\\
+Between what two cardinal directions (South, Northwest, etc.) do you find the large white building?\\
+\vspace*{1.5cm}
+
+\hrulefill\\
+\noindent
+
+\textbf{Question 2.} Speaking of clicking, go ahead and click on a star. (For those of you completing this during the day, note that the Sun is a star.) A block of text appears in the upper left hand corner of the screen. What is below the line ``Type: star''?\\
+\vspace*{1.5cm}
+
+
+\hrulefill\\
+To get rid of the text and unselect the star, right click.\\
+
+\textbf{Question 3.} Without clicking, move your mouse to the lower left part of the screen to reveal a menu with symbols like a question mark, a compass, a wrench, etc. Click the question mark to open the help menu.\\
+\\
+What is the command to add a custom marker? How do you delete the marker? Try it and see that it works!\\
+\vspace*{1.5cm}
+
+\hrulefill\\
+
+The help menu is an invaluable tool for figuring out how to do things in Stellarium. You can also press F1 to bring up the help menu at any time! Do it now to close the menu.
+
+\newpage
+
+\textbf{Question 4.} Open the search window from the menu on the left hand side, or by pressing F3. This menu allows you to search the sky for any known object and highlight it for easy viewing. Search for Venus now. Depending on when you do this assignment, Venus may not be visible (Do you think you know why? Keep in mind that Stellarium shows you the sky as an observer on the ground would see it!), so don't worry if you see nothing but darkness or grass. What is the magnitude of Venus?\\
+\vspace*{1.5cm}
+
+\hrulefill\\
+For the future: Magnitude is a scale that measure how bright an object is, and the smaller the number (negative numbers are smaller than positive), the brighter the object! For now, you can get rid of the data about Venus by right clicking.\\
+
+\textbf{Question 5.} Using either the side menu or its quick key shortcut, open the Date/time window. As its name suggests, this window allows you to change the date and time of the sky that Stellarium is showing you to any time you want! To try it, set the date to September 1, 2019, at noon (12:00:00). Now, do a search for Venus again. Which other object in the sky is Venus closest to at that time?\\
+\vspace*{1.5cm}
+
+\hrulefill\\
+When setting the time, you can either use the arrows to increment by 1, or you can click on the values and type your own. Typing is usually faster!\\
+
+\textbf{Question 6.} Open the Location window (F6). This window allows you to change the location of the observer to be anywhere in the world. By default, Stellarium places the observer in the middle of the continental United States. In the search box on the right, search for Syracuse, and selected Syracuse (New York), United States, as we certainly aren't in Utah.\\
+
+What is the \underline{latitude} of Syracuse?\\
+\vspace*{1.5cm}
+
+\hrulefill\\
+
+\newpage
+
+\textbf{Question 7.} Go back into the date/time window, and set to September 1, 2018, at midnight. Now, mouse over the bottom of the screen to reveal another menu. This menu has controls for what is displayed on the screen, as well as simulating the passage of time! Holding your mouse over a button gives the name for that button, as well as its keyboard shortcut.\\
+
+The three left-most buttons have to do with the constellations. Below, name of each of them, and describe what they do. Turn them off when you're done. \\
+\vspace*{1.5cm}
+
+\hrulefill\\   
+
+\textbf{Question 8.} Change the time to noon, but keep the date the same.\\
+
+The sixth button is called ``Ground''. Click it, and describe what it does. Do the same for the Cardinal points button, and the Atmosphere button.
+\vspace*{1.5cm}
+
+\hrulefill\\ 
+
+\textbf{Question 9.} Since the moment you opened Stellarium, it has been moving time forward in real time; that is, every second it's been open, it's been updating the sky to reflect that. Near the far right of the bottom menu are buttons to control the speed of this simulation. \\
+
+Find the four buttons to do with controlling time in Stellarium: Decrease time speed, Set normal time rate, Set time to now, and Increase time speed. Above them is a readout of the current time, down to the second. Before pushing any buttons, this should move in real time. Hit ``Increase time speed'' once. Do you notice a change in the time readout? What about the sky display?
+\vspace*{1.5cm}
+
+\hrulefill\\
+
+You've now had a basic look at the controls for Stellarium. We'll use this throughout the labs this semester, so try to remember them. If you're ever stuck, the help menu (F1) and of course your TA will be there for you.
+
+The last button is the exit button. Go ahead and hit it. You're done!
+\end{document}
