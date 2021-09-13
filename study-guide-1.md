@@ -1,7 +1,8 @@
 ---
 layout: page
 use_math: true
-title: Study Guide 1
+title: Study Guide 1+2
+category: top
 permalink: exam1study.html
 ---
 
@@ -64,6 +65,8 @@ others will only be visible briefly or not at all (those lying close to the SCP)
   * The stars' apparent positions shift a little bit westward every solar day (since it's a bit longer than a sidereal day)
   * We measure days and calibrate our clocks by the solar day, not the sidereal day
 * The twelve constellations in the sky that lie behind the Sun as the Earth orbits it are together called the zodiac; which one lies behind the Sun depends on the time of year.
+
+# Study guide for Unit 2
 
 ### The Moon
 
