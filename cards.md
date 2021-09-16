@@ -2,6 +2,7 @@
 layout: page 
 permalink: cards.html
 use_math: true
+category: top
 title: ABCD images
 ---
 

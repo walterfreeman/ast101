@@ -1,7 +1,6 @@
 ---
 layout: page 
 permalink: staff-manual.html 
-category: top
 use_math: true
 title: Staff Manual
 ---
