@@ -20,8 +20,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 2 Sept | <a href="slides/lecture2/lecture2.pdf">The celestial sphere; <br>apparent motion of the sky</a> | Assign HW1 | <a href="tutorials/celestial-sphere/celestial-sphere.pdf">Celestial Sphere</a> |  | <a href="https://openstax.org/books/astronomy/pages/1-6-a-tour-of-the-universe">Sec 1.6</a> |
 | 7 Sept | <a href="slides/lecture3/lecture3.pdf">Consequences of the rotating Earth:<br> the celestial sphere</a> |  | <a href="tutorials/observers-on-earth/observers-on-earth.pdf">Observers on Earth</a> |  |  |
 | 9 Sept | <a href="slides/lecture4/lecture4.pdf">Consequences of the revolving Earth: <br>the Sun and the stars</a> | HW1 due;<br>Assign HW2 | <a href="tutorials/zodiac-motion/zodiac-motion.pdf">The Zodiac</a> |  |  |
-| 14 Sept | Consequences of the revolving Earth: <br>sidereal and solar days | HW2 due | Sidereal and Solar Day | Unit 1 |  |
-| 16 Sept | Consequences of the Earth’s tilt: <br> the seasons | Assign HW3 | The Seasons |  |  |
+| 14 Sept | <a href="slides/lecture5/lecture5.pdf">Consequences of the revolving Earth: <br>sidereal and solar days</a> | HW2 due | Sidereal and Solar Day | Unit 1 |  |
+| 16 Sept | <a href="slides/lecture6/lecture6.pdf">Consequences of the Earth’s tilt: <br> the seasons</a> | Assign HW3 | <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a> |  |  |
 | 21 Sept | The phases of the moon |  | Phases of the Moon |  |  |
 | 23 Sept | Timekeeping | HW3 due<br>Assign Paper 1 |  |  |  |
 | 28 Sept | Interlude I: <br>"Science done well" |  |  | Units 1+2 |  |
