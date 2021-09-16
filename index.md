@@ -7,18 +7,14 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-This is the course website for Astronomy 101. We will use it to post all material for class. 
-
 ### Link to lecture slides:
 
-<a href="slides/lecture4/lecture4.pdf">The yearly orbit of Earth</a>
+<a href="slides/lecture6/lecture6.pdf">The yearly orbit of Earth</a>
 
 ### Upcoming assignments
 
-Here is the <a href="tutorials/zodiac-motion/zodiac-motion.pdf">Zodiac Motion tutorial.</a> The last page is Homework 2, which is due 
-Tuesday, September 14.
-
-**Your first quiz** is Tuesday, September 14.
+Here is the <a href="tutorials/the-seasons/the-seasons.pdf">Seasons tutorial.</a> The last page is Homework 3, which is due 
+Thursday, September 23.
 
 ### Information
 
