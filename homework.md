@@ -6,6 +6,7 @@ category: top
 use_math: true
 ---
 
+Your third homework assignment is include as part of the <a href="tutorials/the-seasons/the-seasons.pdf">exercise on the seasons</a>.
 
 Your second homework assignment is included as part of the <a href="tutorials/zodiac-motion/zodiac-motion.pdf">Exercise on the motion of the zodiac</a>.
 
