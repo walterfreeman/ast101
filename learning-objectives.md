@@ -2,7 +2,6 @@
 layout: page
 permalink: learning-objectives.html
 title: Curriculum
-category: top
 use_math: true
 ---
 

@@ -22,7 +22,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 9 Sept | <a href="slides/lecture4/lecture4.pdf">Consequences of the revolving Earth: <br>the Sun and the stars</a> | HW1 due;<br>Assign HW2 | <a href="tutorials/zodiac-motion/zodiac-motion.pdf">The Zodiac</a> |  |  |
 | 14 Sept | <a href="slides/lecture5/lecture5.pdf">Consequences of the revolving Earth: <br>sidereal and solar days</a> | HW2 due | Sidereal and Solar Day | Unit 1 |  |
 | 16 Sept | <a href="slides/lecture6/lecture6.pdf">Consequences of the Earth’s tilt: <br> the seasons</a> | Assign HW3 | <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a> |  |  |
-| 21 Sept | The phases of the moon |  | Phases of the Moon |  |  |
+| 21 Sept | <a href="slides/lecture7/lecture7.pdf">The phases of the moon</a> |  | Phases of the Moon |  |  |
 | 23 Sept | Timekeeping | HW3 due<br>Assign Paper 1 |  |  |  |
 | 28 Sept | Interlude I: <br>"Science done well" |  |  | Units 1+2 |  |
 | 30 Sept | From geocentrism <br>to heliocentrism |  |  |  |  |
