@@ -9,7 +9,7 @@ title: Announcements and Information
 
 ### Link to lecture slides:
 
-<a href="slides/lecture6/lecture6.pdf">The yearly orbit of Earth</a>
+<a href="slides/lecture7/lecture7.pdf">The phases of the Moon</a>
 
 ### Upcoming assignments
 
