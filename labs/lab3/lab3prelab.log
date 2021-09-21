@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  15 SEP 2021 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  21 SEP 2021 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **lab3prelab.tex
 (./lab3prelab.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -65,7 +65,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -102,7 +102,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks16
+\@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -122,13 +122,13 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen139
 \ar@mcellbox=\box45
 \extrarowheight=\dimen140
-\NC@list=\toks17
+\NC@list=\toks16
 \extratabsurround=\skip83
 \backup@length=\skip84
 \ar@cellbox=\box46
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -154,7 +154,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )))
 \AM@pagewidth=\dimen141
 \AM@pageheight=\dimen142
@@ -163,14 +163,14 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box47
-\AM@global@opts=\toks18
+\AM@global@opts=\toks17
 \AM@pagecnt=\count180
-\AM@toc@title=\toks19
+\AM@toc@title=\toks18
 \c@AM@survey=\count181
 \AM@templatesizebox=\box48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count182
 \l__pdf_internal_box=\box49
 )
@@ -203,12 +203,12 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 \scratchbox=\box50
 \nofMPsegments=\count184
 \nofMParguments=\count185
-\everyMPshowfont=\toks20
+\everyMPshowfont=\toks19
 \MPscratchCnt=\count186
 \MPscratchDim=\dimen144
 \MPnumerator=\count187
 \makeMPintoPDFobject=\count188
-\everyMPtoPDFconversion=\toks21
+\everyMPtoPDFconversion=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -274,7 +274,7 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [1
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <moon-diagram-full.pdf, id=9, 451.6875pt x 351.3125pt>
 File: moon-diagram-full.pdf Graphic file (type pdf)
 <use moon-diagram-full.pdf>
@@ -287,36 +287,38 @@ File: moon-diagram-new.pdf Graphic file (type pdf)
 Package pdftex.def Info: moon-diagram-new.pdf  used on input line 128.
 (pdftex.def)             Requested size: 381.5874pt x 307.73003pt.
  [3 <./moon-diagram-new.pdf>]
-<moon-diagram-crescent.pdf, id=25, 435.6275pt x 351.3125pt>
-File: moon-diagram-crescent.pdf Graphic file (type pdf)
-<use moon-diagram-crescent.pdf>
-Package pdftex.def Info: moon-diagram-crescent.pdf  used on input line 149.
-(pdftex.def)             Requested size: 381.5874pt x 307.73003pt.
+<moon-diagram-crescent-crop.pdf, id=25, 423.5825pt x 341.275pt>
+File: moon-diagram-crescent-crop.pdf Graphic file (type pdf)
+<use moon-diagram-crescent-crop.pdf>
+Package pdftex.def Info: moon-diagram-crescent-crop.pdf  used on input line 149
+.
+(pdftex.def)             Requested size: 381.5874pt x 307.45189pt.
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
 154.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [4 <./moon-diagram-crescent.pdf>]
+)
+[4 <./moon-diagram-crescent-crop.pdf>]
 <moon-diagram-half.pdf, id=33, 435.6275pt x 351.3125pt>
 File: moon-diagram-half.pdf Graphic file (type pdf)
 <use moon-diagram-half.pdf>
 Package pdftex.def Info: moon-diagram-half.pdf  used on input line 164.
 (pdftex.def)             Requested size: 381.5874pt x 307.73003pt.
- [5 <./moon-diagram-half.pdf>] (./lab3prelab.aux) ) 
+ [5 <./moon-diagram-half.pdf>]
+(./lab3prelab.aux) ) 
 Here is how much of TeX's memory you used:
- 3362 strings out of 480616
- 48590 string characters out of 5906382
- 282700 words of memory out of 6000000
- 19194 multiletter control sequences out of 15000+600000
+ 3369 strings out of 481239
+ 48688 string characters out of 5920377
+ 279841 words of memory out of 5000000
+ 18573 multiletter control sequences out of 15000+600000
  549334 words of font info for 66 fonts, out of 8000000 for 9000
- 1137 hyphenation exceptions out of 8191
- 37i,6n,31p,483b,148s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/p
-alatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on lab3prelab.pdf (5 pages, 127752 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 37i,6n,31p,483b,146s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
+</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on lab3prelab.pdf (5 pages, 126587 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
