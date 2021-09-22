@@ -7,6 +7,8 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+Here is the link to <a href="exam1-formAkey.pdf">Quiz 1</a> with explanations and answers.
+
 ### Link to lecture slides:
 
 <a href="slides/lecture7/lecture7.pdf">The phases of the Moon</a>
