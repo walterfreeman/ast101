@@ -7,9 +7,9 @@ use_math: true
 
 ## Writing Assignment 1: Calendars and the Sky
 
-**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. Your first draft is due September 28. But you should read all of this, since it has important information.**
+**tl;dr: I want you to write some stuff about how the sky is related to the way humans (or hobbits or aliens) keep time. But you should read all of this, since it has important information.**
 
-### Your final draft is due at the end of the day Tuesday, October 6. Please email it to <suast101projects@gmail.com>.
+### Your final draft is due at the end of the day Monday, 18 October. Please email it to <suast101projects@gmail.com> and put a copy in your TA's mailbox. 
 
 ---
 
