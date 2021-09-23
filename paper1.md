@@ -58,11 +58,6 @@ You might also write about:
 
 ---
 
-### How will this be submitted?
-
-You will send a first draft to a reviewer in our class. The first draft won't be graded by them, but they will give you some suggestions and feedback for improvement. Then you will have a few more days to incorporate their advice
-and submit your final draft.
-
 ### How will this be graded?
 
 We will grade you out of ten points. The grading will be done mostly by the TA's, and perhaps partly by me (Dr. Freeman).
