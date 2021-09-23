@@ -11,7 +11,7 @@ Here is the link to <a href="exam1-formAkey.pdf">Quiz 1</a> with explanations an
 
 ### Link to lecture slides:
 
-<a href="slides/lecture7/lecture7.pdf">The phases of the Moon</a>
+<a href="slides/lecture8/lecture8.pdf">Keeping time</a>
 
 ### Upcoming assignments
 

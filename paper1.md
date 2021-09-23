@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paper 1
+category: top
 permalink: paper1.html 
 use_math: true
 ---
@@ -24,18 +25,6 @@ If you have a background in a particular culture, you may write about your own c
 Alternatively, you may choose to write about the reckoning of time used in any major work of speculative fiction (science fiction, fantasy), including the concept of "astrological ages"; do they themselves form a very long calendar? 
 
 You should **see the section on specific calendars**, at the bottom, for some modifications to the assignment depending on your choice. **Note that if you choose the Chinese, Jewish, or Islamic calendars, there is a [slightly different assignment](#common)**.
-
-For example, the **Gregorian calendar**, the calendar we use, has the following properties:
-
-* The smallest unit of time on the calendar is the *solar day*, judged by the motion of the Sun in the sky
-* We also have the *month* and the *week*, which are based on the Moon. The month is an approximation (but is not exact!) of how long it takes the Moon to cycle through its phases; the week is an approximation (not exact) of the amount of time it takes the moon to make a quarter-phase.
-* The week is partially based on the Judeo-Christian religious tradition, which asks people to work and rest in seven-day cycles.
-* The year is the seasonal (tropical) year, based on the solstices and equinoxes. 
-* These things don't quite line up. There isn't an integer number of solar days in a seasonal year, so we need leap years. There isn't an integer number of lunar cycles in a solar cycle, so our months are not exact. Finally, a lunar month isn't exactly 28 solar days, so the week is not quite one-quarter of a 
-lunar cycle.
-* We give a great deal of precedence to the cycles of the Sun, reckoning dates only by their distance from the solstices and equinoxes, and do not really care about the cycles of the Moon that much. That is, a holiday falling on December 25 will reliably occur 3-4 day after the Winter Solstice. There is no 
-attempt to make the lunar cycles line up with the solar ones.
-
 ---
 
 ### So, what do I want you to do?
@@ -56,11 +45,24 @@ You might also write about:
 * What are the historical ancestors of your calendar (for instance, the Gregorian calendar draws inspiration from the Julian calendar)?
 * How has this calendar adapted to the modern world? 
 
+For example, the **Gregorian calendar**, the calendar we use, has the following properties:
+
+* The smallest unit of time on the calendar is the *solar day*, judged by the motion of the Sun in the sky
+* We also have the *month* and the *week*, which are based on the Moon. The month is an approximation (but is not exact, not even on average) of how long it takes the Moon to cycle through its phases; the week is an approximation (not exact) of the amount of time it takes the moon to make a quarter-phase.
+* The week is partially based on the Judeo-Christian religious tradition, which asks people to work and rest in seven-day cycles. The names of the days vary from language to language; in English they come in part from the names of Norse gods.
+* The year is the seasonal (tropical) year, based on the solstices and equinoxes. 
+* These things don't quite line up. There isn't an integer number of solar days in a seasonal year, so we need leap years. There isn't an integer number of lunar cycles in a solar cycle, so our months are not exact. Finally, a lunar month isn't exactly 28 solar days, so the week is not quite one-quarter of a 
+lunar cycle.
+* We give a great deal of precedence to the cycles of the Sun, reckoning dates only by their distance from the solstices and equinoxes, and do not really care about the cycles of the Moon that much. That is, a holiday falling on December 25 will reliably occur 3-4 day after the Winter Solstice. There is no 
+attempt to make the lunar cycles line up with the solar ones.
+* The names of the months mostly come from Roman gods and emperors.
+
+
 ---
 
 ### How will this be graded?
 
-We will grade you out of ten points. The grading will be done mostly by the TA's, and perhaps partly by me (Dr. Freeman).
+We will grade you out of ten points. The grading will be done mostly by the TA's, and perhaps partly by me (Dr. Freeman). We will give you a detailed rubric in a week or so.
 
 If you write an exemplary essay here, especially one that teaches us something we didn't know and couldn't have Googled quickly, you may earn up to **double credit**, for a 20/10, or in truly exemplary cases even more. (Dr. Freeman will read most of these.) Longer papers will get no higher of a grade
 unless they use their extra words to actually say something interesting. There are 750 of you and grading is going to take a while, so if you only have one page of stuff to say, say it, say it well and succinctly, and be proud.
