@@ -12,6 +12,7 @@ title: Labs
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
 | Lab 2: Changes During The Year | <a href="labs/lab2/lab2.pdf">Lab 2</a> | <a href="labs/lab2/lab2prelab.pdf">Lab 2 Prelab</a> |
 | Lab 3: The Moon | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
+| Lab 4: Parallax | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 <br><br>
