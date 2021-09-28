@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: exam2study.html 
-title: Study Guide 2
+title: Study Guide 3+4
 use_math: true
 ---
 
-# Study guide for Exam 2
+# Study guide for Quizzes 3+4
 
 In this unit, we studied:
 
