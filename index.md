@@ -11,12 +11,9 @@ Here is the link to <a href="exam1-formAkey.pdf">Quiz 1</a> with explanations an
 
 ### Link to lecture slides:
 
-<a href="slides/lecture8/lecture8.pdf">Keeping time</a>
+<a href="slides/lecture9/lecture9.pdf">Science done well</a>
 
 ### Upcoming assignments
-
-Here is the <a href="tutorials/the-seasons/the-seasons.pdf">Seasons tutorial.</a> The last page is Homework 3, which is due 
-Thursday, September 23.
 
 ### Information
 

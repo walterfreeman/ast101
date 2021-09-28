@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  24 SEP 2021 12:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  28 SEP 2021 12:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **lab4.tex
 (./lab4.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -65,7 +65,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -102,7 +102,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks16
+\@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -122,13 +122,13 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen139
 \ar@mcellbox=\box45
 \extrarowheight=\dimen140
-\NC@list=\toks17
+\NC@list=\toks16
 \extratabsurround=\skip83
 \backup@length=\skip84
 \ar@cellbox=\box46
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -154,7 +154,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )))
 \AM@pagewidth=\dimen141
 \AM@pageheight=\dimen142
@@ -163,9 +163,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box47
-\AM@global@opts=\toks18
+\AM@global@opts=\toks17
 \AM@pagecnt=\count180
-\AM@toc@title=\toks19
+\AM@toc@title=\toks18
 \c@AM@survey=\count181
 \AM@templatesizebox=\box48
 )
@@ -179,7 +179,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
+\@emptytoks=\toks19
 \ex@=\dimen143
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -209,26 +209,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip17
 \c@parentequation=\count189
 \dspbrk@lvl=\count190
-\tag@help=\toks21
+\tag@help=\toks20
 \row@=\count191
 \column@=\count192
 \maxfields@=\count193
-\andhelp@=\toks22
+\andhelp@=\toks21
 \eqnshift@=\dimen146
 \alignsep@=\dimen147
 \tagshift@=\dimen148
 \tagwidth@=\dimen149
 \totwidth@=\dimen150
 \lineht@=\dimen151
-\@envbody=\toks23
+\@envbody=\toks22
 \multlinegap=\skip86
 \multlinetaggap=\skip87
-\mathdisplay@stack=\toks24
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count194
 \l__pdf_internal_box=\box51
 )
@@ -261,12 +261,12 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 \scratchbox=\box52
 \nofMPsegments=\count196
 \nofMParguments=\count197
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count198
 \MPscratchDim=\dimen153
 \MPnumerator=\count199
 \makeMPintoPDFobject=\count266
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -326,7 +326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 
 [1
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
@@ -559,19 +559,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
 [8] (./lab4.aux) ) 
 Here is how much of TeX's memory you used:
- 4243 strings out of 480616
- 59931 string characters out of 5906382
- 300420 words of memory out of 6000000
- 20032 multiletter control sequences out of 15000+600000
+ 4251 strings out of 481239
+ 60003 string characters out of 5920377
+ 297561 words of memory out of 5000000
+ 19412 multiletter control sequences out of 15000+600000
  561135 words of font info for 98 fonts, out of 8000000 for 9000
- 1137 hyphenation exceptions out of 8191
- 37i,8n,31p,730b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 37i,8n,31p,782b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on lab4.pdf (8 pages, 75640 bytes).
+Output written on lab4.pdf (8 pages, 76029 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
