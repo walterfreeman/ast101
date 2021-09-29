@@ -4,7 +4,7 @@ use_math: true
 permalink: exam4study.html
 ---
 
-# Study guide for Unit 4
+# Study guide for Quizzes 7+8
 
 In this unit, we studied:
 

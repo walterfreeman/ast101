@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Exam 3 Study Guide
+title: Quiz 5+6 Study Guide
 permalink: exam3study.html 
 use_math: true
 ---
 
-# Study guide for Exam 3
+# Study guide for Quizzes 5+6
 
 In this unit, we studied:
 
