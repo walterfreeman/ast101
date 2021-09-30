@@ -1,0 +1,241 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Corner of the Universe \\
+\vspace*{0.1cm}
+Lab 4: Parallax
+}
+\end{center}
+
+\vspace*{0.5cm}
+
+{\Large Name:}\vspace*{0.5cm}\\\hrule
+%{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
+{\Large Lab section:}\vspace*{0.5cm}\\\hrule
+{\Large Group Members:}\vspace*{0.5cm}\\\hrule
+\vspace*{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+As we are discussing in class for Unit 3, one of the issues that led to the development of the celestial sphere model and guided our early understanding of the Universe was the observation that stars do not exhibit parallax; that is, to the naked eye, the position of stars relative to one another never appear to alter in even the slightest. If the stars are not all the same distance away, then they ought to at times appear closer together or farther apart. This lab will explore the concept of parallax, and culminate with the realization that even though the stars {\it are} different distances away, we never could've found this with the tools available at the time. 
+
+\subsection*{Materials}
+
+A meter stick and metal marker.
+
+\subsection*{Objective}
+
+To use parallax to determine the distance to an object, verify the procedure works, and apply the concepts to the stars.
+
+\newpage
+
+\section{Measuring Angular Distance}
+
+\subsection{How to Measure Angular Distance}
+Like in the prelab, hold a finger up right in front of your face. Then, slowly move your finger away. At first, you finger appears very large, but as you move it away, it begins to appear smaller and smaller. Clearly, your finger isn't actually shrinking. What's happening is the amount of your vision that your finger is occupying is changing. This is the \textbf{angular size} of an object; the amount of your field of vision the object occupies. Clearly this depends on both the actual size of the object, and the distance the object is from you.\\
+
+As another example, the Moon and the Sun both \textit{appear} to be the same size in the sky, but in fact the Sun is considerably larger. It's just also farther away!\\
+
+To measure angular distance, we use angles, measured in degrees. And like regular distance, we will measure this using a meter stick. \textbf{If you hold a meter stick exactly 57cm away from your face, then every cm on the meter stick will take up $1^\circ$ of your field of view.} To help you with these measurements, we've put metal brackets on your meter sticks. Make sure they are at the 57cm mark. These brackets show you separations of 2.5cm, 5cm, 10cm, and 12.5cm -- illustrating angular sizes of $2.5^\circ$, $5^\circ$, $10^\circ$, and $12.5^\circ$. For other distances, you can hold a ruler or second meter stick out 57cm away from your eye. Your TA will demonstrate how this works.\\
+
+\subsection{Practicing With Heads}
+
+\textbf{Question 1.} Practice measuring angular size of your groupmates' heads (You may need the help of your partners and the second meter stick, if the markings on the metal bracket aren't useful!).
+Remember, the angular size of any object that you see is $1^\circ$ for every centimeter mark that it spans on your meter stick. How large is your group mate's head, in degrees?\\
+
+\vspace*{1.5cm}
+(1) \hrulefill\\
+\textbf{Please make sure each member of the group measures at least one head!}
+
+\textbf{Question 2.} Now, measure the head of someone at another table, and then at a table across the room. You may get up if you need to.\\
+
+\vspace{1.5cm}
+(1) \hrulefill
+
+\newpage
+
+\textbf{Question 3.} Were all three measurements the same, or did they vary? If they varied, was it because the heads you measured were all actually different sizes, or was something else going on?\\
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 4.} Do objects that are farther away appear smaller or larger?\\
+
+\vspace{1.5cm}
+(1) \hrulefill\\
+
+\subsection{Measure Carefully...}
+
+\textbf{Question 5.} Hold the meter stick 57cm away\footnote{Those who remember your high school mathematics: there are about 57 degrees in one radian. This funny number is here because we're measuring angles in degrees.}, and remeasure the angular size of one of your group members' heads. Then, move the metal bracket or second meter stick closer to your face, and measure the size of the head again. Does the size you measured get bigger or smaller?\\ 
+
+\vspace{1.5cm}
+(1) \hrulefill\\
+
+\textbf{Question 6.} If you hold the metal bracket or second meter stick \textbf{closer} than 57cm, will you overestimate or underestimate the angular sizes of objects?\\
+
+\vspace{1.5cm}
+(2) \hrulefill
+
+\newpage
+
+\section{Using Parallax to Measure Distance}
+
+We've observed that parallax depends on distance. Objects that are farther away exhibit a much smaller parallax effect than those that are closer. Using a little geometry, we can use this fact to determine how far away an object is using its parallax, per the following formula:
+
+\begin{center}
+	$\text{distance from center of baseline=}57\times\frac{\text{length of baseline}}{\text{total parallax}}$
+\end{center}
+
+Two of these should be familiar...
+\begin{itemize}
+	\item distance from center of baseline: this is how far the object is from the halfway point between the two points you observed the object from. Roughly speaking, this is the distance the object is away from you.
+	\item length of baseline: this is the distance between the two points you observed the object from. From the prelab, you should know that making the baseline longer makes it easier to observe parallax.
+\end{itemize}
+We have yet to define "total parallax". Total parallax is the total change in angular separation between the object you're observing and a distant background object as you observe it from two different observation points.\\
+
+As an example of these ideas, recall the exercise in the prelab where you observed your finger with your right and then left eye, and compared it with Hendricks Chapel. Suppose you actually measured the angular separation between your finger and Hendricks. You might have found that your finger was first $1.5^\circ$ to the left when viewing with your right eye, and then $1.0^\circ$ to the right when viewing with your left eye. In this case, the total parallax would be $2.5^\circ$, because that's how much the angle changed. The baseline would be the distance between your eyes, about 6cm. And the distance of the object from the baseline would be how far your finger was held from your face; probably around 3cm. \\
+
+\textbf{If it is raining or dark:} You should now go over to the physics building, in the hallways that runs alongside the quad. Please remember that classes may be in session, and to be respectful!\\
+
+\textbf{Otherwise:} Go outside of Holden Observatory.
+
+\newpage
+
+\subsection{Measuring Distance Yourself}
+For the next several question, put your answers into the chart on the next page!
+
+\textbf{Question 7.} Select an object that you will attempt to measure the distance to using parallax. This object should be relatively close by. Then, choose a far away object or building as a reference object. List the object you're measuring the distance to and the distant reference object below.\\
+
+\textbf{Question 8.} Choose a point to observe the object from. Using your meter stick, measure the angular separation between the object and your reference point. List this below. Be sure to indicate whether your object appears to the left or to the right of your reference object.\\
+
+\textbf{Question 9.} Keep track of where you made your first measurement (perhaps by having one of your group mates stand on the spot), and move to a second observation point. Again, measure the angular separation between your object and your reference point, and indicate whether it is to the left or the right\\
+
+\textbf{Question 10.} Calculate the total parallax as described in the last section. Note: If your object swapped whether it was on the left or on the right, you must add your angular separations. If it stayed on the same side both times, you must subtract them.\\
+
+\textbf{Question 11.} Using your meterstick, measure how far apart your two observation points were from each other. Remember that this is the length of your baseline!\\
+
+\textbf{Question 12.} Using the equation at the start of Section 3, calculate how far away your object is from your baseline.\\
+
+\textbf{Question 13.} Stand on the point halfway between your two observation points, and then measure the distance to your chosen object.\\
+
+\textbf{Question 14.} Calculate the percent difference between the value you calculated and the value you measured. Recall that the formula for percent difference is $100\times\frac{calculated-measured}{measured}$, and that for percent difference, you always make your final answer positive (So that if your percent difference ends up being -25\%, you would just write 25\%).
+
+\newpage
+
+\subsection*{A Second Trial}
+
+(16) \textbf{Question 15.} Keeping your chosen object and reference point the same, repeat this process, this time making sure to choose observation points that were farther apart than those you chose the first time, so that you Length of Baseline is longer. Then, fill in the column "Trial 2" below: \\
+
+\begin{tabular}{| l | c | c |}
+	\hline
+	                               & Trial 1\hspace{4cm} & Trial 2\hspace{4cm}  \\ \hline
+	(1) Angular Separation at Point 1 (L/R)  &                     &                      \\ \hline
+	(1) Angular Separation at Point 2  (L/R) &                     &                      \\ \hline
+	(2) Total Parallax                       &                     &                      \\ \hline
+	(1) Length of Baseline                   &                     &                      \\ \hline
+	(1) Calculated Distance to Object        &                     &                      \\ \hline
+	(1) Measured Distance to Object          &                     &                      \\ \hline
+	(1) Percent Difference                   &                     &                      \\
+	\hline
+\end{tabular}\\
+
+\textbf{Question 16.} For both trials, how accurately were you able to calculate the distance to the object? Which trial gave a better result?\\
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 17.} In this experiment, there are a number of possible sources of error. List as many as you can below (at least 3!). Please note that "human error" is not an acceptable answer. Human error means you did something wrong or imperfect; what specifically did you do wrong or imperfectly?\\
+
+\vspace{4.5cm}
+(3+2)\hrulefill
+
+\newpage
+
+(5) \textbf{Question 18.} In the space below, draw a sketch of one trial in the experiment we've done. Like the prelab, this should be a \textbf{schematic} diagram, consisting mostly of simple lines, dots and labels, rather than an art project. In your sketch, be sure to label your two observation points, your baseline, the object you were measuring the distance to, and your distant reference object!
+
+\newpage
+
+\section{Closing Concepts}
+\textbf{Question 19.} Before the age of rockets, any measurement of the stars had to be made on Earth. If you're confined to Earth and wish to observe the parallax of stars, what is the longest baseline you can possibly have? \textit{hint: it may involve making observations at two different times and the orbit of the Earth}.\\
+
+\vspace{1.5cm}
+(1) \hrulefill\\
+
+\textbf{Question 20.} The diameter of the Earth's orbit is 2 AU (Do you remember what an AU is?), and the closest star system to Earth other than the Sun is Alpha Centauri, approximately 276000 AU away. Using the equation in Section 3, calculate how much parallax this star exhibits using the longest possible baseline available to us on Earth.\\
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 21.} Tycho Brahe made the best "naked eye" measurements of the stars to date, with an accuracy of 0.03 degrees. Compare with your answer to question 21; was Tycho Brahe able to measure the parallax of Alpha Centauri?\\
+
+\vspace{1.5cm}
+(2) \hrulefill\\
+
+\textbf{Question 22.} If the stars really do exhibit parallax, why couldn't ancient astronomers see it? This is why the Celestial Sphere model happened!\\
+
+\vspace{1.5cm}
+(3) \hrulefill\\
+\end{document}

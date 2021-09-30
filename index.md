@@ -7,13 +7,7 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-Here is the link to <a href="exam1-formAkey.pdf">Quiz 1</a> with explanations and answers.
-
-### Link to lecture slides:
-
-<a href="slides/lecture9/lecture9.pdf">Science done well</a>
-
-### Upcoming assignments
+I was sick Thursday. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> before Tuesday.
 
 ### Information
 
