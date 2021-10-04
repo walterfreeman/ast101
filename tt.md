@@ -26,7 +26,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 23 Sept | <a href="slides/lecture8/lecture8.pdf">Timekeeping</a> | HW3 due<br>Assign Paper 1 |  |  |  |
 | 28 Sept | <a href="slides/lecture9/lecture9.pdf">Interlude I: <br>"Science done well"</a> |  |  | Units 1+2 |  |
 | 30 Sept | From geocentrism <br>to heliocentrism |  |  |  |  |
-| 5 Oct | Kepler’s laws of orbital motion | Assign HW4 | Kepler's laws |  |  |
+| 5 Oct | Kepler’s laws of orbital motion | Assign HW4 | <a href="tutorials/keplers-laws/keplers-laws.pdf">Kepler's laws</a> |  |  |
 | 7 Oct | The law of gravitation | HW4 (short) due | Gravitation | Units 2+3 |  |
 | 12 Oct | Newton’s laws of motion |  | Newton's laws of motion |  |  |
 | 14 Oct | The conservation of energy | HW4 due | Conservation of energy | Units 3+4 |  |
