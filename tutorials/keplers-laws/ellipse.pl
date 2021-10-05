@@ -1,7 +1,7 @@
 $x=1;
 $y=0;
 $vx=0;
-$vy=3.14159*1.6;
+$vy=3.14159*2;
 $t=0;
 $dt=0.001;
 $GM = 3.14159**2*4;
@@ -11,8 +11,8 @@ print "#x -1.5 1.5 y -1.5 1.5\n";
 @labels = ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L");
 @labels = ("Jan 1","Feb 1", "Mar 1", "Apr 1", "May 1","Jun 1", "Jul 1", "Aug 1", "Sep 1", "Oct 1", "Nov 1", "Dec 1");
 
-@stops = (0, 1, 5, 5.33, 5.66, 6, 6.33, 6.66, 7);
-@labels = ("Jan 1", "Feb 1", "A", "B", "C", "D", "E", "F","G");
+#@stops = (0, 1, 5, 5.33, 5.66, 6, 6.33, 6.66, 7);
+#@labels = ("Jan 1", "Feb 1", "A", "B", "C", "D", "E", "F","G");
 
 print "#cs 0.8\n";
 $st=0;
@@ -23,7 +23,7 @@ for ($i=0; $i<8; $i++)
     $th=3.14159*0.25*$i;
     printf "line %e %e %e %e\n",0.05*sin($th),0.05*cos($th),0.08*sin($th), 0.08*cos($th);
 }
-$mode=1;
+$mode=2;
 
 #if ($mode == 1) {$a=shift @labels; push @labels,$a;}
 
@@ -58,7 +58,7 @@ if ($advance)
 	{
 	    $advance=0;
 	    print "fillcirc $x $y 0.05\n";
-	    printf "%e %e \"$labels[$st]\"\n",$x+($x/$r)*0.1-0.01,$y+($y/$r)*0.1;
+	    printf "%e %e \"$labels[$st]\"\n",$x+($x/$r)*0.2-0.07,$y+($y/$r)*0.2;
 	    $st++;
 	}
     }

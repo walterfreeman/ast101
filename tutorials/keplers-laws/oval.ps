@@ -1,0 +1,472 @@
+%!
+%%Creator: zephyr:wfreeman(Walter)
+%%Title: Unix plot file
+%%CreationDate: Tue Oct  5 00:00:47 2021
+%%DocumentFonts: Courier
+%%EndComments
+%%BoundingBox: 0 0 4096 4096
+% Start of psplot.pro -- prolog for plot(5) translator
+% Copyright (c) 1984,1985,1987 Adobe Systems Incorporated. All Rights Reserved. 
+%              RESTRICTED RIGHTS LEGEND
+% Use, duplication or disclosure by the Government is subject to
+% restrictions as set forth in subdivision (b)(3)(ii) of the Rights in
+% Technical Data and Computer Software Clause at 252.227-7013.
+% Name of Contractor: Adobe Systems Incorporated
+% Address:  1870 Embarcadero Road
+%	  Palo Alto, California  94303
+% RCS: $Header: psplot.pro,v 2.2 87/11/17 16:41:06 byron Rel $
+save 50 dict begin /psplot exch def
+/StartPSPlot
+   {newpath 0 0 moveto 8 setlinewidth 0 setgray 1 setlinecap
+    /imtx matrix currentmatrix def /dmtx matrix defaultmatrix def
+    /fnt /Courier findfont def /smtx matrix def fnt 8 scalefont setfont}def
+/solid {{}0}def
+/dotted	{[2 nail 3.5 nail ] 0}def
+/longdashed {[10 nail] 0}def
+/shortdashed {[6 nail] 0}def
+/dotdashed {[2 nail 6 nail 10 nail 6 nail] 0}def
+/disconnected {{}0}def
+/min {2 copy lt{pop}{exch pop}ifelse}def
+/max {2 copy lt{exch pop}{pop}ifelse}def
+/len {dup mul exch dup mul add sqrt}def
+/nail {0 imtx dtransform len 0 idtransform len}def
+
+/m {newpath moveto}def
+/n {lineto currentpoint stroke moveto}def
+/p {newpath moveto gsave 1 setlinecap solid setdash
+    dmtx setmatrix .4 nail setlinewidth
+    .05 0 idtransform rlineto stroke grestore}def
+/l {moveto lineto currentpoint stroke moveto}def
+/t {smtx currentmatrix pop imtx setmatrix show smtx setmatrix}def
+/a {gsave newpath /y2 exch def /x2 exch def 
+    /y1 exch def /x1 exch def /yc exch def /xc exch def
+    /r x1 xc sub dup mul y1 yc sub dup mul add sqrt
+       x2 xc sub dup mul y2 yc sub dup mul add sqrt add 2 div def
+    /ang1 y1 yc sub x1 xc sub atan def
+    /ang2 y2 yc sub x2 xc sub atan def
+    xc yc r ang1 ang2 arc stroke grestore}def
+/c {gsave newpath 0 360 arc stroke grestore}def
+/e {gsave showpage grestore newpath 0 0 moveto}def
+/f {load exec setdash}def
+/s {/ury exch def /urx exch def /lly exch def /llx exch def
+    imtx setmatrix newpath clippath pathbbox newpath
+    /dury exch def /durx exch def /dlly exch def /dllx exch def
+    /md durx dllx sub dury dlly sub min def
+    /Mu urx llx sub ury lly sub max def
+    36 144 translate .8 .8 scale
+    dllx dlly translate md Mu div dup scale llx neg lly neg translate}def
+/EndPSPlot {clear psplot end restore}def
+StartPSPlot
+%%EndProlog
+%%Page: 1 1
+0 0 4096 4096 s
+/solid f
+2275 1413 m
+3088 1413 n
+2275 3038 m
+3088 3038 n
+3088 1413 m
+3100 1413 n
+3113 1413 n
+3126 1413 n
+3139 1414 n
+3151 1415 n
+3164 1416 n
+3177 1417 n
+3189 1419 n
+3202 1421 n
+3215 1423 n
+3227 1425 n
+3240 1427 n
+3252 1429 n
+3265 1432 n
+3277 1435 n
+3290 1438 n
+3302 1441 n
+3314 1445 n
+3326 1448 n
+3339 1452 n
+3351 1456 n
+3363 1461 n
+3375 1465 n
+3387 1470 n
+3398 1474 n
+3410 1479 n
+3422 1484 n
+3433 1490 n
+3445 1495 n
+3456 1501 n
+3468 1507 n
+3479 1513 n
+3490 1519 n
+3501 1526 n
+3512 1532 n
+3523 1539 n
+3534 1546 n
+3544 1553 n
+3555 1560 n
+3565 1568 n
+3575 1575 n
+3585 1583 n
+3596 1591 n
+3605 1599 n
+3615 1607 n
+3625 1616 n
+3634 1624 n
+3644 1633 n
+3653 1642 n
+3662 1650 n
+3671 1660 n
+3680 1669 n
+3688 1678 n
+3697 1688 n
+3705 1697 n
+3714 1707 n
+3722 1717 n
+3730 1727 n
+3737 1737 n
+3745 1747 n
+3752 1758 n
+3760 1768 n
+3767 1779 n
+3774 1790 n
+3780 1800 n
+3787 1811 n
+3793 1822 n
+3799 1834 n
+3806 1845 n
+3811 1856 n
+3817 1868 n
+3823 1879 n
+3828 1891 n
+3833 1902 n
+3838 1914 n
+3843 1926 n
+3848 1938 n
+3852 1950 n
+3856 1962 n
+3860 1974 n
+3864 1986 n
+3868 1998 n
+3871 2011 n
+3874 2023 n
+3878 2035 n
+3880 2048 n
+3883 2060 n
+3886 2073 n
+3888 2085 n
+3890 2098 n
+3892 2111 n
+3894 2123 n
+3895 2136 n
+3896 2149 n
+3897 2161 n
+3898 2174 n
+3899 2187 n
+3900 2199 n
+3900 2212 n
+3900 2225 n
+3900 2238 n
+3900 2251 n
+3899 2263 n
+3898 2276 n
+3897 2289 n
+3896 2301 n
+3895 2314 n
+3894 2327 n
+3892 2339 n
+3890 2352 n
+3888 2365 n
+3886 2377 n
+3883 2390 n
+3880 2402 n
+3878 2415 n
+3874 2427 n
+3871 2439 n
+3868 2452 n
+3864 2464 n
+3860 2476 n
+3856 2488 n
+3852 2500 n
+3848 2512 n
+3843 2524 n
+3838 2536 n
+3833 2548 n
+3828 2559 n
+3823 2571 n
+3817 2582 n
+3811 2594 n
+3806 2605 n
+3799 2616 n
+3793 2628 n
+3787 2639 n
+3780 2650 n
+3774 2660 n
+3767 2671 n
+3760 2682 n
+3752 2692 n
+3745 2703 n
+3737 2713 n
+3730 2723 n
+3722 2733 n
+3714 2743 n
+3705 2753 n
+3697 2762 n
+3688 2772 n
+3680 2781 n
+3671 2790 n
+3662 2800 n
+3653 2808 n
+3644 2817 n
+3634 2826 n
+3625 2834 n
+3615 2843 n
+3605 2851 n
+3596 2859 n
+3585 2867 n
+3575 2875 n
+3565 2882 n
+3555 2890 n
+3544 2897 n
+3534 2904 n
+3523 2911 n
+3512 2918 n
+3501 2924 n
+3490 2931 n
+3479 2937 n
+3468 2943 n
+3456 2949 n
+3445 2955 n
+3433 2960 n
+3422 2966 n
+3410 2971 n
+3398 2976 n
+3387 2980 n
+3375 2985 n
+3363 2989 n
+3351 2994 n
+3339 2998 n
+3326 3002 n
+3314 3005 n
+3302 3009 n
+3290 3012 n
+3277 3015 n
+3265 3018 n
+3252 3021 n
+3240 3023 n
+3227 3025 n
+3215 3027 n
+3202 3029 n
+3189 3031 n
+3177 3033 n
+3164 3034 n
+3151 3035 n
+3139 3036 n
+3126 3037 n
+3113 3037 n
+3100 3037 n
+2275 3038 m
+2262 3037 n
+2249 3037 n
+2237 3037 n
+2224 3036 n
+2211 3035 n
+2199 3034 n
+2186 3033 n
+2173 3031 n
+2161 3029 n
+2148 3027 n
+2135 3025 n
+2123 3023 n
+2110 3021 n
+2098 3018 n
+2085 3015 n
+2073 3012 n
+2061 3009 n
+2048 3005 n
+2036 3002 n
+2024 2998 n
+2012 2994 n
+2000 2989 n
+1988 2985 n
+1976 2980 n
+1964 2976 n
+1952 2971 n
+1941 2966 n
+1929 2960 n
+1918 2955 n
+1906 2949 n
+1895 2943 n
+1884 2937 n
+1872 2931 n
+1861 2924 n
+1850 2918 n
+1840 2911 n
+1829 2904 n
+1818 2897 n
+1808 2890 n
+1797 2882 n
+1787 2875 n
+1777 2867 n
+1767 2859 n
+1757 2851 n
+1747 2843 n
+1738 2834 n
+1728 2826 n
+1719 2817 n
+1710 2808 n
+1700 2800 n
+1692 2790 n
+1683 2781 n
+1674 2772 n
+1666 2762 n
+1657 2753 n
+1649 2743 n
+1641 2733 n
+1633 2723 n
+1625 2713 n
+1618 2703 n
+1610 2692 n
+1603 2682 n
+1596 2671 n
+1589 2660 n
+1582 2650 n
+1576 2639 n
+1569 2628 n
+1563 2616 n
+1557 2605 n
+1551 2594 n
+1545 2582 n
+1540 2571 n
+1534 2559 n
+1529 2548 n
+1524 2536 n
+1520 2524 n
+1515 2512 n
+1511 2500 n
+1506 2488 n
+1502 2476 n
+1498 2464 n
+1495 2452 n
+1491 2439 n
+1488 2427 n
+1485 2415 n
+1482 2402 n
+1479 2390 n
+1477 2377 n
+1475 2365 n
+1473 2352 n
+1471 2339 n
+1469 2327 n
+1467 2314 n
+1466 2301 n
+1465 2289 n
+1464 2276 n
+1463 2263 n
+1463 2251 n
+1463 2238 n
+1463 2225 n
+1463 2212 n
+1463 2199 n
+1463 2187 n
+1464 2174 n
+1465 2161 n
+1466 2149 n
+1467 2136 n
+1469 2123 n
+1471 2111 n
+1473 2098 n
+1475 2085 n
+1477 2073 n
+1479 2060 n
+1482 2048 n
+1485 2035 n
+1488 2023 n
+1491 2011 n
+1495 1998 n
+1498 1986 n
+1502 1974 n
+1506 1962 n
+1511 1950 n
+1515 1938 n
+1520 1926 n
+1524 1914 n
+1529 1902 n
+1534 1891 n
+1540 1879 n
+1545 1868 n
+1551 1856 n
+1557 1845 n
+1563 1834 n
+1569 1822 n
+1576 1811 n
+1582 1800 n
+1589 1790 n
+1596 1779 n
+1603 1768 n
+1610 1758 n
+1618 1747 n
+1625 1737 n
+1633 1727 n
+1641 1717 n
+1649 1707 n
+1657 1697 n
+1666 1688 n
+1674 1678 n
+1683 1669 n
+1692 1660 n
+1700 1650 n
+1710 1642 n
+1719 1633 n
+1728 1624 n
+1738 1616 n
+1747 1607 n
+1757 1599 n
+1767 1591 n
+1777 1583 n
+1787 1575 n
+1797 1568 n
+1808 1560 n
+1818 1553 n
+1829 1546 n
+1840 1539 n
+1850 1532 n
+1861 1526 n
+1872 1519 n
+1884 1513 n
+1895 1507 n
+1906 1501 n
+1918 1495 n
+1929 1490 n
+1941 1484 n
+1952 1479 n
+1964 1474 n
+1976 1470 n
+1988 1465 n
+2000 1461 n
+2012 1456 n
+2024 1452 n
+2036 1448 n
+2048 1445 n
+2061 1441 n
+2073 1438 n
+2085 1435 n
+2098 1432 n
+2110 1429 n
+2123 1427 n
+2135 1425 n
+2148 1423 n
+2161 1421 n
+2173 1419 n
+2186 1417 n
+2199 1416 n
+2211 1415 n
+2224 1414 n
+2237 1413 n
+2249 1413 n
+2262 1413 n
+/solid f
+1 1 m
+e
+%%Trailer
+EndPSPlot

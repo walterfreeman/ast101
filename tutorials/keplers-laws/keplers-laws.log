@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  4 OCT 2021 18:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  5 OCT 2021 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **keplers-laws.tex
 (./keplers-laws.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -33,7 +33,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks14
+\@emptytoks=\toks15
 \ex@=\dimen135
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -63,21 +63,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count182
 \dspbrk@lvl=\count183
-\tag@help=\toks15
+\tag@help=\toks16
 \row@=\count184
 \column@=\count185
 \maxfields@=\count186
-\andhelp@=\toks16
+\andhelp@=\toks17
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
 \tagshift@=\dimen140
 \tagwidth@=\dimen141
 \totwidth@=\dimen142
 \lineht@=\dimen143
-\@envbody=\toks17
+\@envbody=\toks18
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks18
+\mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -103,7 +103,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
+\KV@toks@=\toks20
 )
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
@@ -119,7 +119,7 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count187
 \Gm@cntv=\count188
@@ -132,10 +132,10 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layoutheight=\dimen151
 \Gm@layouthoffset=\dimen152
 \Gm@layoutvoffset=\dimen153
-\Gm@dimlist=\toks20
+\Gm@dimlist=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box47
 )
@@ -164,12 +164,12 @@ LaTeX Font Info:    ... okay on input line 37.
 \scratchbox=\box48
 \nofMPsegments=\count192
 \nofMParguments=\count193
-\everyMPshowfont=\toks21
+\everyMPshowfont=\toks22
 \MPscratchCnt=\count194
 \MPscratchDim=\dimen155
 \MPnumerator=\count195
 \makeMPintoPDFobject=\count196
-\everyMPtoPDFconversion=\toks22
+\everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -213,26 +213,80 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<oval-crop.pdf, id=1, 286.06876pt x 191.71625pt>
+File: oval-crop.pdf Graphic file (type pdf)
+<use oval-crop.pdf>
+Package pdftex.def Info: oval-crop.pdf  used on input line 65.
+(pdftex.def)             Requested size: 112.1983pt x 75.1932pt.
+<highecc-crop.pdf, id=2, 130.4875pt x 39.14626pt>
+File: highecc-crop.pdf Graphic file (type pdf)
+<use highecc-crop.pdf>
+Package pdftex.def Info: highecc-crop.pdf  used on input line 70.
+(pdftex.def)             Requested size: 112.1983pt x 33.65973pt.
+<lowecc-crop.pdf, id=3, 177.66376pt x 159.59625pt>
+File: lowecc-crop.pdf Graphic file (type pdf)
+<use lowecc-crop.pdf>
+Package pdftex.def Info: lowecc-crop.pdf  used on input line 75.
+(pdftex.def)             Requested size: 112.1983pt x 100.79211pt.
+<circle-crop.pdf, id=4, 253.94875pt x 253.94875pt>
+File: circle-crop.pdf Graphic file (type pdf)
+<use circle-crop.pdf>
+Package pdftex.def Info: circle-crop.pdf  used on input line 80.
+(pdftex.def)             Requested size: 112.1983pt x 112.1989pt.
+
+Overfull \hbox (7.8332pt too wide) in paragraph at lines 63--83
+[]$[]$ $[]$ $[]$ $[]$ 
+ []
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./keplers-laws.aux) )
- 
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./oval-crop
+.pdf> <./highecc-crop.pdf> <./lowecc-crop.pdf> <./circle-crop.pdf>]
+<earth-crop.pdf, id=26, 329.23pt x 311.1625pt>
+File: earth-crop.pdf Graphic file (type pdf)
+<use earth-crop.pdf>
+Package pdftex.def Info: earth-crop.pdf  used on input line 101.
+(pdftex.def)             Requested size: 199.46198pt x 188.51741pt.
+ [2 <./earth-crop.pdf>]
+<pick-one-crop.pdf, id=33, 236.885pt x 175.65625pt>
+File: pick-one-crop.pdf Graphic file (type pdf)
+<use pick-one-crop.pdf>
+Package pdftex.def Info: pick-one-crop.pdf  used on input line 121.
+(pdftex.def)             Requested size: 216.81pt x 160.7748pt.
+ [3 <./pick-one-crop.pdf>] [4] [5] [6]
+<choice2-crop.pdf, id=49, 262.9825pt x 221.82875pt>
+File: choice2-crop.pdf Graphic file (type pdf)
+<use choice2-crop.pdf>
+Package pdftex.def Info: choice2-crop.pdf  used on input line 258.
+(pdftex.def)             Requested size: 149.60028pt x 126.1932pt.
+<choice1-crop.pdf, id=50, 262.9825pt x 229.85875pt>
+File: choice1-crop.pdf Graphic file (type pdf)
+<use choice1-crop.pdf>
+Package pdftex.def Info: choice1-crop.pdf  used on input line 265.
+(pdftex.def)             Requested size: 149.60028pt x 130.76129pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 256--270
+[]$[]$ $[]$ 
+ []
+
+[7 <./choice2-crop.pdf> <./choice1-crop.pdf>] [8] (./keplers-laws.aux) ) 
 Here is how much of TeX's memory you used:
- 2359 strings out of 481239
- 32119 string characters out of 5920377
- 276104 words of memory out of 5000000
- 17627 multiletter control sequences out of 15000+600000
- 537309 words of font info for 41 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 30i,4n,34p,287b,101s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on keplers-laws.pdf (2 pages, 55075 bytes).
+ 2400 strings out of 480616
+ 33138 string characters out of 5906382
+ 280963 words of memory out of 6000000
+ 18288 multiletter control sequences out of 15000+600000
+ 537610 words of font info for 42 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 30i,6n,34p,360b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on keplers-laws.pdf (8 pages, 1381277 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
