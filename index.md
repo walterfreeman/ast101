@@ -7,7 +7,18 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-I was sick Thursday. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> before Tuesday.
+### Current lecture slides:
+
+Here are <a href="slides/lecture11/lecture11.pdf">the slides on Kepler's laws of orbital motion</a>. 
+
+I was sick last Thursday. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
+
+
+### Upcoming assignments
+
+Homework 4 is included as the back page of the <a href="tutorials/keplers-laws/keplers-laws.pdf">tutorial on Kepler's laws</a> that you got in class on October 5. 
+
+
 
 ### Information
 
