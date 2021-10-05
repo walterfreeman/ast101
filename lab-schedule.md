@@ -5,9 +5,9 @@ category: top
 title: Labs
 ---
 
-**Labs begin the second week of classes.**
-
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
+
+**Simulator for Lab 5:** <a href="orbitsim.html">Orbit Simulator</a>
 
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
@@ -36,11 +36,6 @@ title: Labs
 ---
 
 ### Lab schedule
-
-Note: Students with Monday labs will attend labs a week behind because of Labor Day for a while.
-(This means that on a week when most sections are on Lab 3, Monday's students will be on 
-Lab 2.)
-
 
 
 | **Section**    | **Instructor** | **Time** |
