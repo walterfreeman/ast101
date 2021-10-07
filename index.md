@@ -9,7 +9,7 @@ title: Announcements and Information
 
 ### Current lecture slides:
 
-Here are <a href="slides/lecture11/lecture11.pdf">the slides on Kepler's laws of orbital motion</a>. 
+Here are <a href="slides/lecture12/lecture12.pdf">the slides on gravity</a>. 
 
 I was sick last Thursday. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
 
