@@ -1,0 +1,18 @@
+#cm 3 cs 1
+-8.7 1.2 "Earth"
+fillcirc -8 0 0.8
+#cm 1
+7.6 1.2 "Mars"
+fillcirc 8 0 0.4
+#cm 0
+line -8 0 8 0
+line -8 0.5 -8 -0.5
+line -4 0.5 -4 -0.5
+line  0 0.5  0 -0.5
+line  4 0.5  4 -0.5
+line  8 0.5  8 -0.5
+
+-4 -1 "A"
+0 -1 "B"
+4 -1 "C"
+

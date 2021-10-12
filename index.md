@@ -9,9 +9,9 @@ title: Announcements and Information
 
 ### Current lecture slides:
 
-Here are <a href="slides/lecture12/lecture12.pdf">the slides on gravity</a>. 
+Here are <a href="slides/lecture13/lecture13.pdf">the slides on the laws of motion.</a>. 
 
-I was sick last Thursday. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
+I was sick at the beginning of this unit. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
 
 
 ### Upcoming assignments

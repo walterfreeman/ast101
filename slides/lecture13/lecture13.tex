@@ -1,0 +1,953 @@
+
+\documentclass[10pt]{beamer}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{multimedia}
+\usepackage{hyperref}
+
+
+\usefonttheme{professionalfonts} % using non standard fonts for beamer
+\usefonttheme{serif} % default family is serif
+%\documentclass[12pt]{beamerthemeSam.sty}
+\usepackage{epsf}
+%\usepackage{pstricks}
+%\usepackage[orientation=portrait,size=A4]{beamerposter}
+\geometry{paperwidth=160mm,paperheight=120mm}
+%DT favorite definitions
+\def\LL{\left\langle}	% left angle bracket
+\def\RR{\right\rangle}	% right angle bracket
+\def\LP{\left(}		% left parenthesis
+\def\RP{\right)}	% right parenthesis
+\def\LB{\left\{}	% left curly bracket
+\def\RB{\right\}}	% right curly bracket
+\def\PAR#1#2{ {{\partial #1}\over{\partial #2}} }
+\def\PARTWO#1#2{ {{\partial^2 #1}\over{\partial #2}^2} }
+\def\PARTWOMIX#1#2#3{ {{\partial^2 #1}\over{\partial #2 \partial #3}} }
+
+\def\rightpartial{{\overrightarrow\partial}}
+\def\leftpartial{{\overleftarrow\partial}}
+\def\diffpartial{\buildrel\leftrightarrow\over\partial}
+
+\def\BC{\begin{center}}
+\def\EC{\end{center}}
+\def\BN{\begin{enumerate}}
+\def\EN{\end{enumerate}}
+\def\BI{\begin{itemize}}
+\def\EI{\end{itemize}}
+\def\BE{\begin{displaymath}}
+\def\EE{\end{displaymath}}
+\def\BEA{\begin{eqnarray*}}
+\def\EEA{\end{eqnarray*}}
+\def\BNEA{\begin{eqnarray}}
+\def\ENEA{\end{eqnarray}}
+\def\EL{\nonumber\\}
+
+\newcommand{\etal}{{\it et al.}}
+\newcommand{\gbeta}{6/g^2}
+\newcommand{\la}[1]{\label{#1}}
+\newcommand{\ie}{{\em i.e.\ }}
+\newcommand{\eg}{{\em e.\,g.\ }}
+\newcommand{\cf}{cf.\ }
+\newcommand{\BS}{\bigskip}
+\newcommand{\etc}{etc.\ }
+\newcommand{\atantwo}{{\rm atan2}}
+\newcommand{\Tr}{{\rm Tr}}
+\newcommand{\dt}{\Delta t}
+\newcommand{\op}{{\cal O}}
+\newcommand{\msbar}{{\overline{\rm MS}}}
+\def\chpt{\raise0.4ex\hbox{$\chi$}PT}
+\def\schpt{S\raise0.4ex\hbox{$\chi$}PT}
+\def\MeV{{\rm Me\!V}}
+\def\GeV{{\rm Ge\!V}}
+
+%AB: my color definitions
+%\definecolor{mygarnet}{rgb}{0.445,0.184,0.215}
+%\definecolor{mygold}{rgb}{0.848,0.848,0.098}
+%\definecolor{myg2g}{rgb}{0.647,0.316,0.157}
+\definecolor{A}{rgb}{1.0,0.3,0.3}
+\definecolor{B}{rgb}{0.0,1.0,0.0}
+\definecolor{C}{rgb}{1.0,1.0,0.0}
+\definecolor{D}{rgb}{0.5,0.5,1.0}
+\definecolor{E}{rgb}{0.7,0.7,0.7}
+\definecolor{abtitlecolor}{rgb}{1.0,1.0,1.0}
+\definecolor{absecondarycolor}{rgb}{0.0,0.416,0.804}
+\definecolor{abprimarycolor}{rgb}{1.0,0.686,0.0}
+\definecolor{Red}           {rgb}{1,0.4,0.4}
+\definecolor{Yellow}           {rgb}{1,1,0.0}
+\definecolor{Grey}          {cmyk}{.7,.7,.7,0}
+\definecolor{Blue}          {cmyk}{1,1,0,0}
+\definecolor{Green}         {cmyk}{1,0,1,0}
+\definecolor{Brown}         {cmyk}{0,0.81,1,0.60}
+\definecolor{Silver}        {rgb}{0.95,0.9,1.0}
+\definecolor{Sky}           {rgb}{0.07,0.0,0.2}
+\definecolor{Darkbrown}     {rgb}{0.4,0.3,0.2}
+\definecolor{40Gray}        {rgb}{0.4,0.4,0.5}
+\usetheme{Madrid}
+
+
+\setbeamercolor{normal text}{fg=Silver,bg=Sky}
+
+%AB: redefinition of beamer colors
+%\setbeamercolor{palette tertiary}{fg=white,bg=mygarnet}
+%\setbeamercolor{palette secondary}{fg=white,bg=myg2g}
+%\setbeamercolor{palette primary}{fg=black,bg=mygold}
+\setbeamercolor{title}{fg=abtitlecolor}
+\setbeamercolor{frametitle}{fg=abtitlecolor}
+\setbeamercolor{palette tertiary}{fg=white,bg=Darkbrown}
+\setbeamercolor{palette secondary}{fg=white,bg=absecondarycolor}
+\setbeamercolor{palette primary}{fg=white,bg=40Gray}
+\setbeamercolor{structure}{fg=abtitlecolor}
+
+\setbeamerfont{section in toc}{series=\bfseries}
+
+%AB: remove navigation icons
+\beamertemplatenavigationsymbolsempty
+\title[The beginnings of physics]{
+  \textbf {The beginnings of physics}}
+
+
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2021\\Walter Freeman}
+
+\date{\today}
+
+\begin{document}
+
+
+
+\frame{\titlepage}
+
+%\frame{
+%
+%
+%"What, then, is the meaning of it all? ... I think that we must frankly admit that {\em we do not know.}
+%
+%\bigskip
+%
+%This is not a new idea; this is the idea of the age of reason.  This is the philosophy that guided the men who made the democracy that we live under. 
+%The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, tossed out, more new ideas brought in; a trial and error system.  
+%This method was a result of the fact that science was already showing itself to be a successful venture at the end of the 18th century.  
+%Even then it was clear to socially‑minded people that the openness of the possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown.  
+%If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar.
+%
+%\bigskip
+%
+%We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems....  Our responsibility is to do what we can, learn what we can, improve the solutions and pass them on.  
+%It is our responsibility to leave the men of the future a free hand.  In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time.
+%This we will do if we say we have the answers now, so young and ignorant; if we suppress all discussion, all criticism, saying, "This is it, boys, man is saved!" and thus doom man for a long time to the chains of authority, confined to the limits of our present imagination.  It has been done so many times before.
+%
+%\bigskip
+%
+%It is our responsibility as scientists, knowing the great progress and great value of a satisfactory philosophy
+%of ignorance, the great progress that is the fruit of freedom of thought, to proclaim the value of this freedom, 
+%to teach how doubt is not to be feared but welcomed and discussed, and to demand this freedom as our duty to all coming generations.
+%
+%\bigskip
+%
+%\large
+%\begin{flushright}--Feynman, {\it The Value of Science} (1955)\end{flushright}
+%}
+%
+%
+
+\frame{\frametitle{\textbf{Dealing with the situation we are in}}
+
+\Large
+
+Large classes -- particularly with masks on -- are not ideal for anyone.
+
+\BS\BS\pause
+\large
+
+I am doing my best to ensure that our class is friendly for everyone despite the challenges:
+
+\BI
+\item There are makeups for everything
+\item All of our material is posted online
+\item If you must miss a lab section, you can go to another one
+\item All of our quizzes are ``low-stakes'' (each unit counts for 3\% of your grade)
+\pause\BS
+\item We always have time at the beginning of each class for you to ask questions
+\item \color{Green}You can use this time to ask about the exercises or homework
+\EI
+\BS\BS\pause\color{Red}
+
+I welcome your ideas to make things better for you -- since you will think of things I haven't thought of!
+}
+
+\frame{\frametitle{\textbf{What you can do to help}}
+	
+	\Large
+	
+	\bf There are things you can do to help us:
+	
+	\BI
+	\color{A}
+	\item Wear your masks properly in the auditorium\pause
+		\color{D}
+	\item Show consideration to your colleagues\pause
+		\color{C}
+	\item Assess risk with reason\pause
+		\color{B}
+	\item Know that you can always come talk to me to get caught up\pause
+	\EI
+}
+
+\frame{\frametitle{\textbf{The next quiz}}
+\Large
+\BC The next quiz is Thursday. Reminders: \EC
+
+\large
+
+\BI
+\item You can bring any notes you handwrote yourself, including your exercises
+\item It will be 10+10 questions
+\item The new section will cover:
+\BI
+\item The ``geocentric $\rightarrow$ heliocentric'' transition
+\item Kepler's laws of orbital motion (last Tuesday)
+\item The law of gravity (last Thursday) and laws of motion (today)
+\item The conservation of energy (Thursday before the quiz)
+\EI
+\BS
+\item It will include the ``retake'' on the seasons and the Moon
+\EI
+
+\BS\BS
+
+Bring a pencil with you. We will post seating charts.
+}
+
+
+
+\frame{\frametitle{\textbf{On the papers}}
+
+\Large
+
+
+
+Issue 1: Don't just list facts, tell why they are important and how they work!
+
+\bigskip
+\bigskip
+
+
+{\large\color{Red}
+\it The Jewish calendar has 12 months in a year. Each month has 29 or 30 days. Every few years there is a
+thirteenth month added; this is called an intercalary month.
+}
+
+\begin{center} ... compared with ... \end{center}
+
+
+{\large\color{Green}
+\it The Jewish calendar has 12 months in a year. These months are exactly based on the phases of the moon,
+unlike the months in our calendar, which are only approximate. But 12 lunar cycles is about ten days short
+of a full year. This means that around every third year, a 13th month must be added to the calendar, so that
+the New Year happens in the same season each time.}
+
+}
+
+
+\frame{\frametitle{\textbf{On the papers}}
+
+\Large
+
+
+
+Issue 2: If you don't understand something (words, ideas), ask about it, rather than glossing over it!
+
+\bigskip
+\bigskip
+
+
+{\large\color{Red}
+\it The ancient Egyptian year begins with the {\color{D}heliacal} rising of Sirius. 
+}
+
+\begin{center} ... compared with ... \end{center}
+
+
+{\large\color{Green}
+\it Since the sidereal day and solar day are not equal, stars rise at different hours of the day in different 
+parts of the year. When the Sun has already risen, you can't see the stars. This means that during part of the
+year, we won't see Sirius rise. However, since Sirius will rise earlier and earlier each day, eventually it 
+will come up before the Sun has risen, and you'll see Sirius rise again. This event marked the ancient Egyptian
+new year.}
+
+}
+
+\frame{\frametitle{\textbf{On the papers}}
+
+\Large
+
+
+
+Issue 3: Fluff 
+
+\bigskip
+\bigskip
+
+
+{\large\color{Red}
+\it The Flubowilli calendar is very interesting! It's very different from our own Gregorian calendar! 
+}
+
+\begin{center} ... compared with ... \end{center}
+
+
+{\large\color{Green}
+\it The Flubowilli people live on a planet near two stars that orbit each other. This gives them the ability 
+to tell time by the motion of their suns, which is the basis of their calendar.
+}
+}
+
+\frame{\frametitle{\textbf{The story so far}}
+	\Large
+	Kepler realized that all the planets moved in elliptical orbits, and described their properties.
+	
+	\BS
+	He didn't know {\it why} they moved like that, only that they did.
+
+\BS
+Isaac Newton uncovered fundamental laws that (when combined with mathematics) explained {\it why} they move in ellipses.
+
+\BS
+
+Today, we will:
+
+\BI
+\item Explore a little more of the physical science of motion
+\item Talk about how Newton's laws of motion connect to astronomy
+\item See why the mass of a planet doesn't matter for its motion
+\EI
+
+
+}
+
+
+\frame{\frametitle{\textbf{Newton's four ideas}}
+	\Large
+     
+	\begin{enumerate}
+		\item {\color{A}The law of gravity: all objects attract each other}
+		\item {\color{B}The first law of motion: without a force, objects keep moving with the same velocity}
+		\item \color{C} The second law of motion: forces make objects accelerate (change their velocity)
+		\item \color{D} The third law of motion: forces come in pairs
+	\end{enumerate}
+\pause 
+Two of these are more important to us than the others...
+}
+
+	\frame{\frametitle{\textbf{Newton's four ideas}}
+		\Large
+		
+		\begin{enumerate}
+			\item {\color{white} The law of gravity: all objects attract each other}
+			\item {\color{40Gray}The first law of motion: without a force, objects keep moving with the same velocity}
+			\item {\color{white}  The second law of motion: forces make objects accelerate (change their velocity)}
+			\item \color{40Gray} The third law of motion: forces come in pairs
+		\end{enumerate}
+	
+	
+	}
+
+
+\frame{\frametitle{\textbf{The force of gravity}}
+	\Large
+	\BC
+	Newton discovered:
+	
+	$$
+	F_{\rm grav} = \frac{G \times ({\rm mass\, of\, object\, A}) \times ({\rm mass\, of\, object\, B})}{({\rm distance\, between\, them})^2}
+	$$
+	
+	\pause
+	
+	or, in mathematical shorthand,
+	
+	$$
+	F_{\rm grav} = \frac{Gm_1m_2}{r^2}.
+	$$
+	
+	\EC
+	
+	\large\pause
+	
+	$G$ is just a number telling how strong gravity is: about a ten-billionth of the weight of an apple for two kilogram objects a meter apart.
+	
+}
+
+\frame{\frametitle{\textbf{From last time...}}
+	\Large
+	Suppose two asteroids are floating out in space, 20 miles apart. Asteroid A is twice as massive as asteroid B,
+	and the force of A's gravity on B is 20 tons.
+	
+	\bigskip
+	
+	Suppose I now move the two asteroids further apart, so they're 40 miles apart. What will the force of A's gravity on B be now?
+	
+	\huge
+	
+	\bigskip
+	
+	\color{A}A: 5 tons\\
+	\color{B}B: 10 tons\\
+	\color{C}C: 20 tons\\
+	\color{D}D: 40 tons\\
+	\color{E}E: 80 tons
+}
+
+\frame{\frametitle{\textbf{The solution}}
+	\Large
+	Recall:
+	
+	$$
+	F_{\rm grav} = \frac{Gm_1m_2}{\color{Red}r^2}.
+	$$
+	
+	\bigskip
+	\bigskip
+	\bigskip
+	
+	If I increase the distance between the asteroids by a factor of 2, then I increase the denominator of this fraction by a factor of \underline{\hspace{4em}},
+	which will \underline{\hspace{4em}} the whole fraction by a factor of \underline{\hspace{4em}}.
+}
+%
+%\frame{
+%	\Large
+%	
+%\it I know the earth, moon, stars, etc. are moving, but [is] the Milky Way Galaxy also moving? In which direction? ... Towards where? How does the whole universe travel?
+%
+%\rm \begin{flushright}--Chris Ruan\end{flushright}
+%\vspace{0.5in}
+%
+%\it If we are ``free falling around the sun (in orbit)'' does that mean our solar system is free falling around something bigger? And so on? Or are we suspended in a constant frozen place with the sun?
+%
+%
+%
+%\rm \begin{flushright}--Ryan Yon\end{flushright}
+%
+%\vspace{0.5in}
+%	
+%\it I read somewhere that our solar system is moving through the universe in a helix... is this true? And if so, how does this work?
+%
+%\rm \begin{flushright}--Shannon Kirkpatrick\end{flushright}
+%	
+%}
+
+\frame{\frametitle{\textbf{Newton's first law}}
+\BC
+\Large
+What happens to a ship at sea whose engines die?
+\EC
+\bigskip
+\Large
+\bigskip
+\bigskip
+\bigskip
+
+\color{A}A: It comes to a stop \\
+\color{B}B: It keeps going forward until it hits something \\
+}
+
+\frame{\frametitle{\textbf{Newton's first law}}
+\BC
+\Large
+What happens to a spacecraft whose engines die?
+\EC
+\bigskip
+\Large
+\bigskip
+\bigskip
+\bigskip
+
+\color{A}A: It comes to a stop \\
+\color{B}B: It keeps going forward until it hits something 
+}
+
+
+\frame{\frametitle{\textbf{Newton's first law}}
+\BC
+\Large
+No motive force is required to keep things moving. They do that on their own.
+
+\pause
+\bigskip
+\bigskip
+
+On Earth things come to rest only because of the forces of friction. (Aristotle was wrong!)
+
+\bigskip
+\bigskip
+
+In space we don't have these, so things ``coast'' forever without another force to change their motion.
+\EC
+}
+
+\frame{\frametitle{\textbf{Newton's biggest idea: the second law of motion}}
+
+\Huge
+\BC
+
+``Forces cause objects to accelerate''
+
+\bigskip
+\bigskip
+\bigskip
+
+$F=ma$
+
+\bigskip
+\bigskip
+\bigskip
+
+$F/m = a$
+
+\bigskip
+\bigskip
+\bigskip
+
+\Large
+
+``The strength of a force, divided by the mass of the thing it acts on, gives that thing's acceleration''
+\EC
+}
+
+
+
+\frame{\frametitle{\textbf{Combining gravity with $F=ma$}}
+	\Large
+	Remember the Esus and Sulis problems from the {\it Lecture Tutorials}? What was the big surprise/message there?
+
+\pause\bigskip
+
+{\it The mass of an orbiting planet} doesn't affect how it moves around the Sun.
+
+
+\bigskip\bigskip\pause
+
+More generally, gravity causes the same change in motion on all objects, regardless of their mass.
+
+\bigskip\bigskip	\pause
+
+Why?
+
+\bigskip\bigskip	
+	
+	Remember: 
+	
+	\BI
+	\item The law of gravity lets us figure out the force that a mass $M$ (like the Sun) exerts on another mass $m$ (like a planet)	
+	\item Newton's second law lets us figure out how that force causes that mass $m$ to accelerate.
+	\EI
+	
+	\bigskip\bigskip
+}
+
+
+\frame{
+	
+	\Large
+	Suppose I have two satellites next to each other orbiting the Earth at a distance $r$.
+	The small one has a mass $m_A$; the big one has mass
+	$m_B$; the Earth has mass $m_E$.
+	
+	\bigskip
+	
+	What is the force of gravity (``weight'') on satellite A from the Earth?
+	
+	\pause
+	$$ 
+	F = \frac{G \times m_E \times m_A}{r^2}
+	$$
+}
+
+\frame{
+	
+	\Large
+	Suppose I have two satellites next to each other orbiting the Earth at a distance $r$.
+	The small one has a mass $m_A$; the big one has mass
+	$m_B$; the Earth has mass $m_E$.
+	
+	\bigskip
+	
+	What is the force of gravity (``weight'') on satellite B from the Earth?
+	
+	\pause
+	$$ 
+	F = \frac{G \times m_E \times m_B}{r^2}
+	$$
+	
+	\pause
+	
+	\color{Red}The {\it force} that they feel depends on their own masses. How does this change how they move?
+}
+
+\frame{
+	
+	\Large
+	Suppose I have two satellites next to each other orbiting the Earth at a distance $r$.
+	The small one has a mass $m_A$; the big one has mass
+	$m_B$; the Earth has mass $m_E$.
+	
+	\bigskip
+	
+	What is the acceleration of satellite A because of the Earth's gravity? 
+	
+	\bigskip
+	
+	Newton's second law: $F = ma \rightarrow a = F/m$
+	
+	\bigskip
+	
+	\pause
+	$$ 
+	F = \frac{G \times m_E \times m_A}{r^2}
+	$$
+	
+	\pause
+	
+	$$
+	a = \frac{G \times m_E \times {\color{B}m_A}}{r^2} \div {\color{B}m_A} = \frac{G \times m_E}{r^2}
+	$$
+	
+	\pause
+	
+	\color{Red}The mass of the satellite cancels from the equation!
+	
+}
+
+\frame{
+	
+	\Large
+	Suppose I have two satellites next to each other orbiting the Earth at a distance $r$.
+	The small one has a mass $m_A$; the big one has mass
+	$m_B$; the Earth has mass $m_E$.
+	
+	\bigskip
+	
+	What is the acceleration of satellite B because of the Earth's gravity? 
+	
+	\bigskip
+	
+	Newton's second law: $F = ma \rightarrow a = F/m$
+	
+	\bigskip
+	
+	\pause
+	$$ 
+	F = \frac{G \times m_E \times m_B}{r^2}
+	$$
+	
+	\pause
+	
+	$$
+	a = \frac{G \times m_E \times {\color{B}m_B}}{r^2} \div {\color{B}m_B} = \frac{G \times m_E}{r^2}
+	$$
+	
+	\pause
+	
+	\color{Red}The mass of the satellite {\it doesn't affect} how Earth's gravity makes it move!
+	
+}
+\frame{\frametitle{\textbf{Acceleration}}
+\large
+
+Acceleration has a direction; it can increase, decrease, or redirect an object's velocity:
+
+\BI
+\item Apply engine power to a car going East: force to the East $\rightarrow$ it goes East faster
+\item Apply brakes to a car going East: force to the West $\rightarrow$ it goes East more slowly
+\item Turn steering wheel left: force to the North $\rightarrow$ car starts traveling Northeast
+\EI
+
+(illustration on document camera)
+
+
+}
+
+\frame{\frametitle{\textbf{What does acceleration do?}}
+
+\Large
+Acceleration causes changes in an object's velocity.
+
+\bigskip
+\bigskip\pause
+
+Velocity causes changes in an object's position.
+
+\bigskip\bigskip
+\bigskip\pause
+
+Using the mathematics of changes (calculus), you can work out {\it everything} about how an object moves this way!
+
+}
+
+\frame{
+\Large
+Suppose two asteroids are floating out in space. Asteroid A is twice as massive as asteroid B.
+
+\bigskip
+
+If the force of A's gravity on B is ten tons, the force of B's gravity on A will be...
+
+\huge
+
+\bigskip
+
+\color{A}A: 5 tons\\
+\color{B}B: 10 tons\\
+\color{C}C: 20 tons\\
+\color{D}D: 40 tons
+}
+
+
+\frame{\frametitle{\textbf{The solution}}
+
+\large
+
+Let's look at that expression again:
+
+$$
+F_{\rm grav} = \frac{Gm_1m_2}{r^2}.
+$$
+
+(Remember, $r$ is the distance between the objects)
+
+\bigskip
+\bigskip
+
+Notice that switching $m_1$ (one asteroid) and $m_2$ (the other) in this expression doesn't affect the result!
+
+\pause
+\bigskip
+\bigskip
+\bigskip
+
+``For every action there is an equal and opposite reaction'': if the Earth's gravity pulls me down with a force of 160 pounds, I pull {\it up on the Earth} with the same force of 160 pounds.
+}
+
+
+\frame{
+
+\BC
+\Huge
+Complete the exercise for today.
+
+\bigskip
+\large
+
+We will do something else after this.
+\EC
+}
+
+\frame{\frametitle{\textbf {Newton's third law of motion}}
+
+\Large
+
+Newton's third law says that if object A exerts a force on object B, object B exerts the same force back on A.
+
+\bigskip
+
+This is easily apparent from the form of the gravitational law:
+
+$$
+F_g = \frac{G \color{B}m_A m_B}{r^2}
+$$
+
+The math doesn't distinguish between ``the object pulling'' and ``the object being pulled'': the force is the same on both ends.
+
+\bigskip\bigskip
+
+Consider the gravity between the Earth and the Moon:
+
+\bigskip
+
+\BI
+\item The gravitational {\color{Red} force} is the same on both objects
+\pause
+\item ... but this force causes a greater {\color{B}acceleration on the Moon}, because its mass is smaller
+	\EI
+}
+
+
+
+
+
+
+
+\frame{\frametitle{\textbf {(I wrote this slide in an earlier year)}}
+\large
+\color{A}
+Student A: ``Kepler's laws say that the planets orbit around the Sun in elliptical orbits, with the Sun fixed at one focus of the ellipse. The Sun doesn't move.
+
+\bigskip
+\bigskip
+\bigskip
+\color{B}
+Student B: ``But the laws of gravitation say that if the Sun pulls on the planets, which it must in order to hold them in their orbits, the planets must pull back on the Sun.
+This pull makes the Sun accelerate, so it has to wobble a bit.''
+
+\bigskip
+\bigskip
+\bigskip
+\color{white}
+Who's right?
+
+\pause
+
+\bigskip
+\bigskip
+\bigskip
+\color{A}
+Student A: ``Why don't we see the wobble, then, if the force pulling on the Sun is the same as the force pulling on the planets?''
+}
+
+\frame{\frametitle{\textbf{(I wrote this slide in an earlier year...)}}
+\large
+
+Student A: ``Why don't we see the wobble, then, if the force pulling on the Sun is the same as the force pulling on the planets?''
+
+\bigskip
+\bigskip
+\bigskip
+
+\large
+
+\color{A}A: The gravitational forces from all the planets on the Sun cancel each other out \\ \bigskip 
+\color{B}B: The planets are so far away that the force they exert on the Sun is small \\ \bigskip 
+\color{C}C: The Sun's mass is so big that this amount of force doesn't affect it that much \\ \bigskip 
+\color{D}D: We {\it do} see this wobble, if we look closely enough
+
+\bigskip
+\bigskip
+\bigskip
+\color{white}
+Someone else might see it, too...
+}
+
+
+\frame{\frametitle{\textbf {(I wrote this slide in an earlier year)}}
+	\large
+	
+	Student A: ``Why don't we see the wobble, then, if the force pulling on the Sun is the same as the force pulling on the planets?''
+	
+	\bigskip
+	\bigskip
+	\bigskip
+	
+	\large
+	
+	\color{A}A: The gravitational forces from all the planets on the Sun cancel each other out \\ \bigskip 
+	\color{B}B: The planets are so far away that the force they exert on the Sun is small \\ \bigskip 
+	\color{C}C: The Sun's mass is so big that this amount of force doesn't affect it that much \\ \bigskip 
+	\color{D}D: We {\it do} see this wobble, if we look closely enough
+	
+	\bigskip
+	\bigskip
+	\bigskip
+	\color{white}
+	Someone else might see it, too... and ``listen'' to it ... \color{C}\bf and win a Nobel Prize for it...
+}
+
+\frame{\frametitle{\textbf{How does this create circular motion?}}
+\Large
+Without a force, things travel in straight lines at constant speeds (Newton's first law).
+
+\bigskip
+
+It requires a force {\it directed toward the center} to hold something in circular motion.
+
+\bigskip
+\bigskip
+
+Let's demonstrate and watch this.}
+
+\frame{\frametitle{\textbf{What about elliptical orbits?}}
+
+\Large
+For gravity, the force depends on the distance from the center, as you know. 
+
+\bigskip
+
+The particular mathematics that produces ellipses is too hard for our pencils. But our computers can do it!
+
+\bigskip
+
+To make our simulator, all I did was program $F = \frac{GMm}{r^2}$ and $F=ma$ into
+my computer and make it do the math for me! (This is next week's homework in my other class!)
+
+}
+
+\frame{\frametitle{\textbf{How far can we take this?}}
+\BC
+\Large
+
+\url{https://www.youtube.com/watch?v=W-csPZKAQc8}
+
+\pause
+\bigskip
+\bigskip
+\bigskip
+
+The only difference between this and what you will do in lab is the number of objects!
+\EC
+}
+
+
+
+\frame{
+	
+	\begin{columns}
+		\column{0.5\textwidth}
+		\color{Green}	
+		\begin{center}
+			
+			\Large
+			Gravitation
+			
+			
+			$$F_g = \frac{Gm_1m_2}{r^2}$$
+			
+		\end{center}
+		\large
+		\begin{itemize}
+			\item All objects attract all other objects
+			\item The force is proportional to the product of the masses...
+			\item ... divided by the squared distance between their centers.
+		\end{itemize}
+		
+		\column{0.5\textwidth}
+		\color{Red}	
+		\begin{center}
+			
+			\Large
+			Second law of motion
+			
+			
+			$$a = F / m$$
+		\end{center}
+		\begin{itemize}
+			\large
+			\item Forces make objects accelerate
+			\item The acceleration is in the direction of that force...
+			\item ... and is equal to the size of the force divided by that thing's mass.
+		\end{itemize}
+	\end{columns}
+	
+	
+	\bigskip
+	
+	\Large\bigskip
+	
+	
+	Gravity tells us the forces on all objects in space; the second law of motion tells us how that causes them to move. From this, 
+	and a little math, you can predict everything about their motion.
+	
+}
+
+
+
+
+
+\end{document}

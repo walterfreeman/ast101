@@ -74,7 +74,6 @@ Lab 5: Simulating Planets' Orbits (I)
 \vspace*{0.5cm}
 
 {\Large Name:}\vspace*{0.5cm}\\\hrule
-{\Large Student number (SUID):}\vspace*{0.5cm}\\\hrule
 {\Large Lab section:}\vspace*{0.5cm}\\\hrule
 {\Large Group Members:}\vspace*{0.5cm}\\\hrule
 \vspace*{0.5cm}
@@ -93,9 +92,11 @@ In this lab, you will work directly with a computer program that contains within
 
 This lab will also expose you to a little computer code, written in the language Python. You do not need to know anything about computer programming beforehand. However, one step in this lab requires you to look at some computer code and think about what it does. We're not going to require you to {\it write} code, but we want to give you a little exposure to what it looks like. Python is a language used by many scientists and web developers (and other people) for all kinds of things; it is one of the most popular programming languages today.
 
+\newpage
+
 \subsection{Kepler's laws of planetary motion}
 
-First, Kepler realized that if planets moved in *elliptical* orbits rather than circular ones, their movements fit the observations very well. He formulated three laws of orbits that describe the motion of the planets. Paraphrased, they are:
+First, Kepler realized that if planets moved in {\bf elliptical} orbits rather than circular ones, their movements fit the observations very well. He formulated three laws of orbits that describe the motion of the planets. Paraphrased, they are:
 
 \begin{enumerate}
 
@@ -337,9 +338,17 @@ This is all it does!
 
 (5) \textbf{Question 16.} Look at the code from lines 50-65. Look at the code and try to identify what each group of lines does. Write those line numbers by the steps in the above list. 
 
-(5) \textbf{Question 17.} As you saw earlier, this simulation has all of the features that Kepler observed in the orbits of the actual planets. However, Kepler's laws don't appear {\it anywhere} in this code; there are no mentions of ellipses, long and short axes, moving faster near perihelion, or anything like that!
+(5) \textbf{Question 17.} Newton's third law in this context says: {\it ``If the star applies a force to the planet, then the planet applies a force to the star that is of equal size, but in the opposite direction.''} Look at the
+computer code that calculates the gravitational forces on the planet and on the star. Does this simulation appear to follow Newton's third law? How can you tell? (How do you say ``the opposite direction'' to a computer?)
+
+\vspace{1.5in}
+
+
+(5) \textbf{Question 18.} As you saw earlier, this simulation has all of the features that Kepler observed in the orbits of the actual planets. However, Kepler's laws don't appear {\it anywhere} in this code; there are no mentions of ellipses, long and short axes, moving faster near perihelion, or anything like that!
 
 You've already seen how this program works. Why do you think it correctly simulates the features of the planets' orbits, even though it doesn't have any of the substance of Kepler's laws inside it?
+
+Call your TA over to join in your discussion. Ask them to sign your paper after talking to you.
 
 
 
