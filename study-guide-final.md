@@ -27,5 +27,5 @@ If you're looking for the past exams with answer keys, here they are:
 
 Quiz 1: <a href="exam1-formAkey.pdf">form A</a>
 
-Quiz 1+2: <a href="exam12-formA.pdf">form A, no answers</a>
+Quiz 1+2: <a href="exam12-formAkey.pdf">form A, with explanations</a>
 
