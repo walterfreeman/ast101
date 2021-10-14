@@ -7,9 +7,14 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-### Current lecture slides:
+### Seating charts
 
-Here are <a href="slides/lecture13/lecture13.pdf">the slides on the laws of motion.</a>. 
+The seating charts for today's quiz:
+
+* <a href="chart-secM001.pdf">Section 1</a>
+* <a href="chart-secM002.pdf">Section 2</a>
+
+### Current lecture slides:
 
 I was sick at the beginning of this unit. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
 
