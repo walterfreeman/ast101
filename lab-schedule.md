@@ -18,7 +18,8 @@ title: Labs
 | Lab 3: The Moon | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 | Lab 4: Parallax | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
 | Lab 5: Simulating Orbits | <a href="labs/lab5/lab5.pdf">Lab 5</a> | <a href="labs/lab5/lab5prelab.pdf">Lab 5 Prelab</a> |
-| Lab 6: The Center of the Galaxy | <a href="labs/lab6/lab6.pdf">Lab 6</a> | No prelab this week! |
+
+| Lab 6: The Center of the Galaxy | <a href="labs/lab6/lab6-noprint.pdf">Lab 6</a> | No prelab this week! |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 <br><br>
