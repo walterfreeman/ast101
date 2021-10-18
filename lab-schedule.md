@@ -7,7 +7,9 @@ title: Labs
 
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
 
-**Simulator for Lab 5:** <a href="orbitsim.html">Orbit Simulator</a>
+**Simulator for Lab 6:** <a href="orbitsim.html">Orbit Simulator</a>
+
+**Movie for Lab 6:** <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">Star Orbiting the Center of the Galaxy</a>
 
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
@@ -16,6 +18,7 @@ title: Labs
 | Lab 3: The Moon | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 | Lab 4: Parallax | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
 | Lab 5: Simulating Orbits | <a href="labs/lab5/lab5.pdf">Lab 5</a> | <a href="labs/lab5/lab5prelab.pdf">Lab 5 Prelab</a> |
+| Lab 6: The Center of the Galaxy | <a href="labs/lab6/lab6.pdf">Lab 5</a> | No prelab this week! |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 <br><br>

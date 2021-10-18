@@ -1,0 +1,302 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[margin=1in]{geometry}
+%\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+%\oddsidemargin=0pt
+%\evensidemargin=0pt
+%\textwidth=7in
+%\topmargin=0pt
+%\headheight=0pt
+%\headsep=0pt
+%\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+%\textwidth = 6.6 in
+%\textheight = 9.1 in
+%\oddsidemargin = -0.05 in
+%\evensidemargin = +0.05 in
+%\topmargin = -.1 in
+%\headheight = 0.0 in
+%\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\pagenumbering{gobble}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+\vspace*{0.1cm}
+Astronomy 101 Lab 6: The Black Hole at the Center of the Galaxy
+}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{New Assessment and Deliverables}
+
+We are not able to print lab materials any more. Thus, rather than giving you a grade based on the work we observe in lab combined with the things you write on the lab materials and turn in, we will be giving you a grade based on what we observe, combined with your submissions to a Blackboard ``assignment'' that we will post.
+
+I found out about this late Sunday night, so we are having to switch gears quickly. If this process doesn't work well, we will change it!
+
+So, the way your lab will work is:
+
+\begin{enumerate}
+	\item You come to lab and conduct your lab exploration while reading this document on a computer or tablet. This will require at least two computers or tablets per group: one to run the orbit simulator and one to view this document
+	\item Each member of your group will record the critical parts of their work on their own paper. Make sure you clearly label what they are; you'll need these things later. This is your {\it lab record}; make sure you take good notes here, since you will need them both for the latter parts of the lab and for your assessment later.
+	\item When you get done with your lab, you will go to Blackboard and find the assignment ``Lab 6 Submission''. There we will ask you some questions; type your answers into Blackboard. Some of these questions will be direct ("What did you measure for X?"), and some will involve interpretation ("Why does this work in the way it does?")
+	\item This should take you only about ten minutes to do, and will involve you basically copying down things from your lab record. Your submission on Blackboard is due two days after your lab (although the due date on Blackboard will say Sunday, since it is the same assignment for the whole class).
+	\item Your TA will grade your submissions on Blackboard.
+\end{enumerate}
+
+\section{Objective}
+
+To apply the computer simulation you learned to use last week to analyze the orbit of a star near the center of the Milky Way, and in so doing determine the mass and nature of the object in the middle of the orbit.
+
+
+
+\section{Introduction}
+In this lab, you’ll repeat part of the analysis that Reinhard Genzel and Andrea Ghez used to measure the mass of the “compact object” (supermassive black hole) at the center of the Milky Way, which won them the Nobel Prize last year.
+
+Ghez was part of a team that used the Keck Telescope in Hawai’i to take extremely detailed pictures of the center of the Milky Way. She and her team used a variety of complex methods to take these detailed pictures over decades, and “see through” both the turbulent atmosphere and the dust between us and the core of the Milky Way.
+
+
+
+\section{A Look at the Center of the Milky Way}
+
+See the lab section of the course website for a link to a video, taken over twenty years, of the center of the Milky Way using the Keck Telescope.
+
+Once Ghez and her team got their images, the result was pretty simple. One star is clearly orbiting something very closely; they observed it for long enough to watch it make a complete orbit. 
+
+... but what is it orbiting? There is no light coming from the center of the orbit, so it is not a star. Perhaps it is a black hole? Astronomers have suspected for a long time that the centers of galaxies, including ours, have extraordinarily massive black holes. Genzel and Ghez’ work showed that the mass of the object at the center of the galaxy is so high, and that object is so small, that it can only be a black hole. They measured its mass very precisely using a more complex analysis, since they had to consider the possibility that they were looking at the orbit ``edge-on''. However, using only this video, we can get a rough estimate of its mass. Estimates of this sort are quite useful in astronomy; knowing, for instance, whether something has a mass of a few suns, a few hundred suns, a few thousand suns, or a few million suns, etc., tells us quite a lot about it!
+\vspace{0.5in}
+
+What can we tell from the video?
+
+\begin{itemize}
+\item We know the angular size of the orbit (compare its size to the reference bar shown)
+\item We know the time that the star takes to make an orbit 
+\end{itemize}
+
+We also know how far away the center of the galaxy is from us; other observations tell us that it is 26,000 light years away.
+
+
+\section{Approach}
+
+Here’s how you will use this information to measure the mass of the supermassive black hole.
+
+\begin{enumerate}
+
+\item Remember that Kepler’s Third Law says that $A^3 / T^2 = K$ for orbits of all of the planets around the Sun, where $A$ is the long axis of the orbit and $T$ is the period of the orbit (how long it takes to go around)\footnote{Here $T$ stands for time.}. The constant $K$ in that law depends on the mass of the object being orbited. You can use the Orbit Simulator to determine the relationship between $K$ and the mass (which we’ll call $M$).
+\item Once you know the relationship between $K$ (the constant in Kepler’s Third Law) and the mass of the black hole, you can figure out $A$ and $T$, use those to find $K$, and then use that to find $M$. So, how do we find $A$ and $T$?
+
+\begin{enumerate}
+
+\item Finding $A$: Remember the idea of angular size from the Parallax Lab? You’ll use the idea of angular size, combined with the fact that you know the distance to the center of the galaxy, to figure out how far across the orbit of the star is.
+
+\item Finding $T$: This is just the time (in years) that it takes the star to make one orbit. You can figure it out by looking at the video -- nothing hard here!
+
+\item Finding $K$: Kepler’s Third Law says that $A^3 / T^2 = K$. So you can use this to find $K$.
+
+\item Finding $M$: In Step 1 you will have worked out a relationship between $K$ and $M$. You will use this relationship, along with your value of $K$, to discover the mass of the supermassive black hole!
+\end{enumerate}
+\end{enumerate}
+
+
+
+\subsection{A Word on Measurement and Units}
+
+It is important to always be consistent in the system of units you use to measure things. In this lab, we have three things we will be measuring: distance, time, and mass. We’ll use the same units used in the Orbit Simulator, since we will be using the simulator to learn about what affects the value of $K$.
+
+\textbf{Question 1.} Look at the comments in the Orbit Simulator code. What units does it use to measure mass? What units does it use to measure distance? What units does it use to measure time? These are sensible units to measure things in our Solar System; we will see that they can also be used for stars and black holes!
+
+{\it Record on your lab record what units the Orbit Simulator uses for these units. You will need to measure all other quantities in this lab in those units of distance, time, and mass.}
+
+\section{Step 1: Finding the Relationship between $K$ and $M$}
+
+This is the hardest part of this lab! Don’t worry if you need help thinking through it; ask your TA for help. They won't tell you the result, but they will help you reason through it!
+
+Fire up the Orbit Simulator. Make sure the mass of the Sun is set to 1.
+
+Last week, you tested Kepler’s third law by measuring the long axis of an orbit (aphelion + perihelion) and the orbital period for an orbit, and calculating the constant K from those. Remind yourself how this works by simulating two different orbits again. (Simulate one orbit, then change either the starting distance from the Sun or the starting velocity, and run the code again.) 
+
+\bigskip
+
+
+{\bf Task 2.} {\it Create a chart like this on your lab record, and fill it out for two different orbits with a central mass of 1 solar mass.}
+
+\begin{center}
+	\large
+\begin{tabular}{|c|c|c|c|c|c|}
+	\hline
+	Central mass $M$ & Aphelion & Perihelion & Long axis $A$ & Period $T$ & Constant $K = A^3 / T^2$ \\ \hline
+	1 & & & & &  \\ \hline
+	1 & & & & &  \\ \hline
+%	& & & & &  \\ \hline
+%	& & & & &  \\ \hline
+	
+\end{tabular}
+
+\end{center}
+
+You should get the same constant. This is because in both cases, your planet is orbiting an object with the same mass: the Sun.
+
+However, you probably expect $K$ to depend on the mass of the star. In particular, if the star has more mass, a planet will need to orbit it more quickly to stay in the same orbit without getting pulled in by its gravity.
+
+\bigskip
+
+Now, simulate two more pairs of orbits -- one with the mass of the star set to 10 solar masses, and one with it set to 100 solar masses. You will need to change the starting distance from the star and/or the starting velocity in order to have stable orbits, since otherwise the increased gravity of the Sun will pull the planet in too close for the computer to accurately simulate. 
+
+
+
+{\bf Task 3.} Simulate two different orbits at 10 solar masses and two more at 100 solar masses, and put all six of your orbits in the table shown below. {\it Add four more lines to your chart on your lab record so it resembles the below; you should have six orbits.}
+
+\begin{center}
+	\large
+	\begin{tabular}{|c|c|c|c|c|c|}
+		\hline
+		Central mass $M$ & Aphelion & Perihelion & Long axis $A$ & Period $T$ & Constant $K = A^3 / T^2$ \\ \hline
+		1 & & & & &  \\ \hline
+		1 & & & & &  \\ \hline
+		10 & & & & &  \\ \hline
+		10 & & & & &  \\ \hline
+		100 & & & & &  \\ \hline
+		100 & & & & &  \\ \hline
+	\end{tabular}
+
+\end{center}
+
+
+
+Again, you should get the same value of $K$ for your two orbits with $M=10$, and a different value of $K$ with $M=100$.
+
+\bigskip
+{\bf Question 4.} When you multiplied the mass $M$ by 10 and then by 10 again, how did the constant $K$ change? (Don’t just say “increase” or “decrease” -- tell me by what factor it increased or decreased. For instance, you might say “$K$ became 1/10 as big” or “$K$ became 100 times bigger”.
+
+
+
+From this, you should be able to work out a formula relating $K$ (the Kepler’s third law constant) and $M$ (the mass of the central object).
+
+For instance, it might have a form like
+
+\begin{align*}
+M &= \# * K \\
+M &= \# * K^2 \\
+M &= \# * K^3 \\
+M &= \# / K \\
+\end{align*}
+
+… where \# is some number you need to work out. Once you think you have the formula relating $M$ and $K$, call your TA over and explain to them how you got the formula you did.
+
+{\bf Question 5.} What is that formula for M in terms of K? {\it Write down on your lab record the relationship between $M$ and $K$. This will let you find the mass of any object
+if you can observe the orbit of something orbiting it.}
+
+
+
+\section{Step 2: Finding $A$, the Long Axis of the Orbit}
+
+Go to the video taken with the Keck Telescope over 20 years of the center of the Milky Way that is linked from the ``labs'' section of the course website. The little bar in the movie shows an angular size of $\frac{1}{2}$ arcsecond. (One arcsecond is 1/3600 of a degree.) 
+
+{\bf Question 6.} Based on the movie, estimate the long axis of the orbit shown in arcseconds. Then convert that measurement to degrees. 
+
+You should get a very small number -- that is okay! This is why the astronomers who won the Nobel Prize needed one of the best telescopes on Earth and very fancy techniques to take these pictures -- the motion is so small.{\it Write down on your lab record the angular size of the long axis of the star's orbit in degrees.}
+
+However, we don’t need the {\bf angular size} of the orbit -- we need its physical size. 
+
+There is a simple relationship between angular size (measured in degrees) and physical size. This is the same relationship that you used during your parallax lab:
+
+$$
+\text{Physical size} = \frac{\text{(angular size in degrees)}}{57} \times \text{distance to object}$$
+
+The center of the Milky Way is 26,000 light years away. Using this formula and the value you found for the angular size in degrees, determine the size of its orbit. 
+
+{\bf Question 7.} The above formula will give you an answer in light years. Discuss with your group whether this value makes sense.
+
+{\bf Question 8.} However, we need the physical size of the orbit in AU. If a light year is 63,000 AU, find the size of the orbit in AU. {\it Write down on your lab record the actual size of the long axis of the star's orbit in AU.}
+
+
+
+{\bf Question 9.} This is a star orbiting a black hole, not a planet orbiting a star. Discuss with your group how this value compares to the sorts of distances you are familiar with? (Remember: Earth orbits the Sun at a distance of 1 AU; Neptune is about 40 AU away; our nearest star Proxima Centauri is 250,000 AU away.) Call your TA over and share with them your result.
+
+
+\section{Step 3: Finding $T$, the Orbital Period}
+
+{\bf Question 10.} This one is easy! Looking at the movie, estimate how many years it takes for the star to go around. {\it Write down on your lab record the period of your star's orbit.}
+
+
+
+\section{Step 4: Finding $K$, the Kepler's Third Law Constant}
+
+$K$, the Kepler’s third law constant, is just $K = A^3 / T^2$. Find the value of $K$ for the star using the values of $A$ and $T$ you found in Steps 2 and 3 just now. {\it Write down on your lab record the value of $K$ for your orbit.}
+
+
+
+
+\section{Step 5: Finding $M$, the Mass of the Black Hole}
+
+{\bf Question 11.} Look at the formula relating $K$ and $M$ that you devised in Step 1. Using the value of $K$ that you found in Step 4, find the mass of the supermassive black hole. {\it Write down on your lab record the mass that you get for the supermassive black hole.}
+
+
+
+
+{\bf Question 12.} Genzel and Ghez used more precise methods to analyze the orbit. However, once they determined $A$ and $T$, they determined $M$ in the same way that you have done; they came up with a value of a few million solar masses. Is your answer in the right ballpark? (Do you have a few million solar masses? A few hundred million? A few thousand?)
+
+\section{Step 6: Checking Your Work}
+
+Does your result make sense?
+
+Go back to the Orbit Simulator. Set the central object to the mass that you calculated in Step 5, and set the mass of the object orbiting it to 10 solar masses. 
+
+
+{\bf Question 13.} Can you produce an orbit around the supermassive black hole with approximately the long axis $A$ and period $T$ that you determined from the movie? (You will need to fiddle with the initial velocity and initial distance.) {\it Write down on your lab record the initial values for this orbit -- what initial distance from the star and initial velocity did you have to use?}
+
+
+
+{\bf A Final Note:} When you looked at the orbit in the movie and estimated its “size”, you likely automatically assumed that this was the “long axis” of the orbit. {\it Can} you actually determine the long axis from just looking at this movie? Consider what the movie might look like if the orbit was oriented at different angles and was highly eccentric. Are you sure you are seeing the {\it long} axis?
+
+Genzel and Ghez considered Kepler’s {\it second} law as well -- that you can learn something about where aphelion and perihelion are in an orbit by watching the speed of the star change. How might you do that? ({\it Hint:} How can you tell the difference between a {\it circular orbit that is tilted relative to our line of sight} and an {\it eccentric orbit that is flat}? In both cases, the star traces out an ellipse in the movie ... so how do you know which is which?)
+
+{\it Write down on your lab record your thoughts here: how could you use Kepler's second law to figure out if you are looking at a circular orbit that is tilted, or an eccentric elliptical orbit.}
+
+\end{document}
