@@ -28,9 +28,9 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 30 Sept | From geocentrism <br>to heliocentrism |  |  |  |  |
 | 5 Oct | <a href="slides/lecture11/lecture11.pdf">Kepler’s laws of orbital motion</a> | Assign HW4 | <a href="tutorials/keplers-laws/keplers-laws.pdf">Kepler's laws</a> |  |  |
 | 7 Oct | <a href="slides/lecture12/lecture12.pdf">The law of gravitation</a> | HW4 (short) due | Gravitation | Units 2+3 |  |
-| 12 Oct | Newton’s laws of motion |  | <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of motion</a> |  |  |
+| 12 Oct | <a href="slides/lecture13/lecture13.pdf">Newton’s laws of motion</a> |  | <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of motion</a> |  |  |
 | 14 Oct | The conservation of energy | HW4 due | <a href="tutorials/conservation-of-energy/conservation-of-energy.pdf">Conservation of energy</a> | Units 3+4 |  |
-| 19 Oct | Interlude II: <br>"Science done poorly" | Paper 1 due<br>Assign Paper 2 |  |  |  |
+| 19 Oct | <a href="slides/lecture15/lecture15.pdf">Interlude II: <br>"Science done poorly"</a> | Paper 1 due |  |  |  |
 | 21 Oct | The nature of light | Assign HW5 | EM spectrum |  |  |
 | 26 Oct | Thermal radiation |  | Thermal radiation |  |  |
 | 28 Oct | Comparing stars | HW5 due |  | Units 4+5 |  |

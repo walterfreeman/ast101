@@ -7,21 +7,12 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-### Seating charts
-
-The seating charts for today's quiz:
-
-* <a href="chart-secM001.pdf">Section 1</a>
-* <a href="chart-secM002.pdf">Section 2</a>
+Remember that Paper 1 is due today. Please email a copy to <suast101projects@gmail.com> and put one in your TA's mailbox.
 
 ### Current lecture slides:
 
-I was sick at the beginning of this unit. Please read the <a href="heliocentrism.html">notes on the emergence of heliocentrism</a> if you haven't already.
+Class 15: <a href="slides/lecture15/lecture15.pdf">Science and its imitators</a>
 
-
-### Upcoming assignments
-
-Homework 4 is included as the back page of the <a href="tutorials/keplers-laws/keplers-laws.pdf">tutorial on Kepler's laws</a> that you got in class on October 5. 
 
 
 
