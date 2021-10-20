@@ -9,7 +9,7 @@ title: Labs
 
 **Simulator for Lab 6:** <a href="orbitsim.html">Orbit Simulator</a>
 
-**Movie for Lab 6:** <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">Star Orbiting the Center of the Galaxy</a>
+**Movie for Lab 6:** Star orbiting the center of the galaxy, <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">[link to gfycat]</a> <a href="labs/lab6/black-hole-orbit.mp4">[direct link]</a>
 
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
