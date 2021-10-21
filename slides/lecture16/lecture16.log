@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  20 OCT 2021 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  21 OCT 2021 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -869,35 +869,35 @@ Package pdftex.def Info: solarspectrum.jpg  used on input line 122.
 ] [9
 
 ]
-<linear-spectrum.jpg, id=88, 1345.025pt x 633.36626pt>
+<linear-spectrum.jpg, id=89, 1345.025pt x 633.36626pt>
 File: linear-spectrum.jpg Graphic file (type jpg)
 <use linear-spectrum.jpg>
-Package pdftex.def Info: linear-spectrum.jpg  used on input line 220.
+Package pdftex.def Info: linear-spectrum.jpg  used on input line 224.
 (pdftex.def)             Requested size: 348.19656pt x 163.96584pt.
  [10
 
  <./linear-spectrum.jpg>]
 File: linear-spectrum.jpg Graphic file (type jpg)
 <use linear-spectrum.jpg>
-Package pdftex.def Info: linear-spectrum.jpg  used on input line 220.
+Package pdftex.def Info: linear-spectrum.jpg  used on input line 224.
 (pdftex.def)             Requested size: 348.19656pt x 163.96584pt.
  [11
 
 ]
 File: linear-spectrum.jpg Graphic file (type jpg)
 <use linear-spectrum.jpg>
-Package pdftex.def Info: linear-spectrum.jpg  used on input line 220.
+Package pdftex.def Info: linear-spectrum.jpg  used on input line 224.
 (pdftex.def)             Requested size: 348.19656pt x 163.96584pt.
  [12
 
 ]
-<mwmw.jpg, id=108, 1039.885pt x 705.63625pt>
+<mwmw.jpg, id=109, 1039.885pt x 705.63625pt>
 File: mwmw.jpg Graphic file (type jpg)
 <use mwmw.jpg>
-Package pdftex.def Info: mwmw.jpg  used on input line 226.
+Package pdftex.def Info: mwmw.jpg  used on input line 230.
 (pdftex.def)             Requested size: 438.25612pt x 297.39087pt.
 
-Overfull \hbox (3.01207pt too wide) in paragraph at lines 226--226
+Overfull \hbox (3.01207pt too wide) in paragraph at lines 230--230
  [] 
  []
 
@@ -908,43 +908,43 @@ Overfull \hbox (3.01207pt too wide) in paragraph at lines 226--226
 ] [15
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 285
+LaTeX Font Info:    Trying to load font information for U+msa on input line 289
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 285
+LaTeX Font Info:    Trying to load font information for U+msb on input line 289
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<experiencephysics.jpg, id=128, 192.72pt x 221.8689pt>
+<experiencephysics.jpg, id=129, 192.72pt x 221.8689pt>
 File: experiencephysics.jpg Graphic file (type jpg)
 <use experiencephysics.jpg>
-Package pdftex.def Info: experiencephysics.jpg  used on input line 285.
+Package pdftex.def Info: experiencephysics.jpg  used on input line 289.
 (pdftex.def)             Requested size: 165.38966pt x 190.40404pt.
  [16
 
  <./experiencephysics.jpg>]
 File: experiencephysics.jpg Graphic file (type jpg)
 <use experiencephysics.jpg>
-Package pdftex.def Info: experiencephysics.jpg  used on input line 285.
+Package pdftex.def Info: experiencephysics.jpg  used on input line 289.
 (pdftex.def)             Requested size: 165.38966pt x 190.40404pt.
  [17
 
 ]
 File: experiencephysics.jpg Graphic file (type jpg)
 <use experiencephysics.jpg>
-Package pdftex.def Info: experiencephysics.jpg  used on input line 285.
+Package pdftex.def Info: experiencephysics.jpg  used on input line 289.
 (pdftex.def)             Requested size: 165.38966pt x 190.40404pt.
  [18
 
 ]
 File: experiencephysics.jpg Graphic file (type jpg)
 <use experiencephysics.jpg>
-Package pdftex.def Info: experiencephysics.jpg  used on input line 285.
+Package pdftex.def Info: experiencephysics.jpg  used on input line 289.
 (pdftex.def)             Requested size: 165.38966pt x 190.40404pt.
  [19
 
@@ -975,17 +975,19 @@ Package pdftex.def Info: experiencephysics.jpg  used on input line 285.
 
 ] [32
 
+] [33
+
+] [34
+
 ]
-<EMSpec.png, id=240, 689.57625pt x 340.27126pt>
+<EMSpec.png, id=255, 689.57625pt x 340.27126pt>
 File: EMSpec.png Graphic file (type png)
 <use EMSpec.png>
-Package pdftex.def Info: EMSpec.png  used on input line 521.
+Package pdftex.def Info: EMSpec.png  used on input line 558.
 (pdftex.def)             Requested size: 435.24405pt x 214.7718pt.
- [33
+ [35
 
- <./EMSpec.png>] [34
-
-]
+ <./EMSpec.png>]
 \tf@nav=\write6
 \openout6 = `lecture16.nav'.
 
@@ -995,37 +997,39 @@ Package pdftex.def Info: EMSpec.png  used on input line 521.
 \tf@snm=\write8
 \openout8 = `lecture16.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 537.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 537.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
  (./lecture16.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 537.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 537.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 561.
 Package rerunfilecheck Info: File `lecture16.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18945 strings out of 480616
- 361801 string characters out of 5906382
- 612414 words of memory out of 6000000
- 34295 multiletter control sequences out of 15000+600000
- 547444 words of font info for 82 fonts, out of 8000000 for 9000
+ 18946 strings out of 480616
+ 361802 string characters out of 5906382
+ 618414 words of memory out of 6000000
+ 34294 multiletter control sequences out of 15000+600000
+ 547097 words of font info for 81 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  58i,15n,67p,796b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on lecture16.pdf (34 pages, 1278262 bytes).
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on lecture16.pdf (35 pages, 1318128 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -31,7 +31,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 12 Oct | Newton’s laws of motion |  | <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of motion</a> |  |  |
 | 14 Oct | <a href="slides/lecture14/lecture13.pdf">The conservation of energy</a> | HW4 due | <a href="tutorials/conservation-of-energy/conservation-of-energy.pdf">Conservation of energy</a> | Units 3+4 |  |
 | 19 Oct | <a href="slides/lecture15/lecture15.pdf">Interlude II: <br>"Science done poorly"</a> | Paper 1 due |  |  |  |
-| 21 Oct | The nature of light | Assign HW5 | EM spectrum |  |  |
+| 21 Oct | <a href="slides/lecture16/lecture16.pdf">The nature of light</a> | Assign HW5 | EM spectrum |  |  |
 | 26 Oct | Thermal radiation |  | Thermal radiation |  |  |
 | 28 Oct | Comparing stars | HW5 due |  | Units 4+5 |  |
 | 2 Nov | Atomic energy levels:<br> absorption and emission | Assign HW6 |  |  |  |

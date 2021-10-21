@@ -11,7 +11,7 @@ Remember that Paper 1 is due today. Please email a copy to <suast101projects@gma
 
 ### Current lecture slides:
 
-Class 15: <a href="slides/lecture15/lecture15.pdf">Science and its imitators</a>
+Class 16: <a href="slides/lecture16/lecture16.pdf">Light</a>
 
 
 
