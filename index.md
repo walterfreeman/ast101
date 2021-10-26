@@ -11,7 +11,7 @@ Remember that Paper 1 is due today. Please email a copy to <suast101projects@gma
 
 ### Current lecture slides:
 
-Class 16: <a href="slides/lecture16/lecture16.pdf">Light</a>
+Class 17: <a href="slides/lecture17/lecture17.pdf">Thermal radiation</a>
 
 
 
