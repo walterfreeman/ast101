@@ -7,12 +7,13 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-Remember that Paper 1 is due today. Please email a copy to <suast101projects@gmail.com> and put one in your TA's mailbox.
+Remember that Paper 2 is due November 4 and Homework 5 is due today.
+
+The seating charts for today's quiz: <a href="chart-secM001.pdf">[12:30 section]</a> <a href="chart-secM002.pdf">[2:00 section]</a>
 
 ### Current lecture slides:
 
-Class 17: <a href="slides/lecture17/lecture17.pdf">Thermal radiation</a>
-
+Class 18 will use the same slides as the previous class: <a href="slides/lecture17/lecture17.pdf">Thermal radiation</a>
 
 
 
