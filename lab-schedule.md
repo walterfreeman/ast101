@@ -7,9 +7,6 @@ title: Labs
 
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
 
-**Simulator for Lab 6:** <a href="orbitsim.html">Orbit Simulator</a>
-
-**Movie for Lab 6:** Star orbiting the center of the galaxy, <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">[link to gfycat]</a> <a href="labs/lab6/black-hole-orbit.mp4">[direct link]</a>
 
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
@@ -20,7 +17,12 @@ title: Labs
 | Lab 5: Simulating Orbits | <a href="labs/lab5/lab5.pdf">Lab 5</a> | <a href="labs/lab5/lab5prelab.pdf">Lab 5 Prelab</a> |
 | Lab 6: The Center of the Galaxy | <a href="labs/lab6/lab6-noprint.pdf">Lab 6</a> | No prelab this week! |
 | Lab 7: Thermal Radiation and Spectroscopy (I)  | <a href="labs/lab7/lab7.pdf">Lab 7</a> | <a href="labs/lab7/lab-7-spectroscopy-prelab.pdf">Lab 7 Prelab</a>|
+| Lab 8: Thermal Radiation and Spectroscopy (II)  | <a href="labs/lab8/lab8.pdf">Lab 8</a> | No prelab this week! |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
+
+**Simulator for Lab 6:** <a href="orbitsim.html">Orbit Simulator</a>
+
+**Movie for Lab 6:** Star orbiting the center of the galaxy, <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">[link to gfycat]</a> <a href="labs/lab6/black-hole-orbit.mp4">[direct link]</a>
 
 <br><br>
 
