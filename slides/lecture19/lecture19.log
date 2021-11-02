@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  2 NOV 2021 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  2 NOV 2021 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,44 +860,44 @@ Package pdftex.def Info: solarspectrum.jpg  used on input line 124.
 
 ] [6
 
+] [7
+
 ]
-<stellar-spectra.jpg, id=67, 803.0pt x 401.5pt>
+<stellar-spectra.jpg, id=74, 803.0pt x 401.5pt>
 File: stellar-spectra.jpg Graphic file (type jpg)
 <use stellar-spectra.jpg>
-Package pdftex.def Info: stellar-spectra.jpg  used on input line 175.
+Package pdftex.def Info: stellar-spectra.jpg  used on input line 182.
 (pdftex.def)             Requested size: 410.15578pt x 205.08086pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 175
+LaTeX Font Info:    Trying to load font information for U+msa on input line 182
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 175
+LaTeX Font Info:    Trying to load font information for U+msb on input line 182
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [7
+) [8
 
- <./stellar-spectra.jpg>] [8
-
-] [9
+ <./stellar-spectra.jpg>] [9
 
 ] [10
 
 ] [11
 
+] [12
+
 ]
-<EMSpec.jpg, id=103, 689.57625pt x 340.27126pt>
+<EMSpec.jpg, id=109, 689.57625pt x 340.27126pt>
 File: EMSpec.jpg Graphic file (type jpg)
 <use EMSpec.jpg>
-Package pdftex.def Info: EMSpec.jpg  used on input line 256.
+Package pdftex.def Info: EMSpec.jpg  used on input line 263.
 (pdftex.def)             Requested size: 345.39677pt x 170.43634pt.
- [12
+ [13
 
- <./EMSpec.jpg>] [13
-
-] [14
+ <./EMSpec.jpg>] [14
 
 ] [15
 
@@ -926,44 +926,44 @@ Package pdftex.def Info: EMSpec.jpg  used on input line 256.
 
 ] [27
 
-]
-File: solarspectrum.jpg Graphic file (type jpg)
-<use solarspectrum.jpg>
-Package pdftex.def Info: solarspectrum.jpg  used on input line 583.
-(pdftex.def)             Requested size: 302.2197pt x 201.48466pt.
- [28
+] [28
 
 ]
 File: solarspectrum.jpg Graphic file (type jpg)
 <use solarspectrum.jpg>
-Package pdftex.def Info: solarspectrum.jpg  used on input line 583.
+Package pdftex.def Info: solarspectrum.jpg  used on input line 590.
 (pdftex.def)             Requested size: 302.2197pt x 201.48466pt.
  [29
 
 ]
 File: solarspectrum.jpg Graphic file (type jpg)
 <use solarspectrum.jpg>
-Package pdftex.def Info: solarspectrum.jpg  used on input line 583.
+Package pdftex.def Info: solarspectrum.jpg  used on input line 590.
 (pdftex.def)             Requested size: 302.2197pt x 201.48466pt.
  [30
 
-] [31
+]
+File: solarspectrum.jpg Graphic file (type jpg)
+<use solarspectrum.jpg>
+Package pdftex.def Info: solarspectrum.jpg  used on input line 590.
+(pdftex.def)             Requested size: 302.2197pt x 201.48466pt.
+ [31
+
+] [32
 
 ]
 File: stellar-spectra.jpg Graphic file (type jpg)
 <use stellar-spectra.jpg>
-Package pdftex.def Info: stellar-spectra.jpg  used on input line 615.
-(pdftex.def)             Requested size: 410.15578pt x 205.08086pt.
- [32
-
-]
-File: stellar-spectra.jpg Graphic file (type jpg)
-<use stellar-spectra.jpg>
-Package pdftex.def Info: stellar-spectra.jpg  used on input line 615.
+Package pdftex.def Info: stellar-spectra.jpg  used on input line 622.
 (pdftex.def)             Requested size: 410.15578pt x 205.08086pt.
  [33
 
 ]
+File: stellar-spectra.jpg Graphic file (type jpg)
+<use stellar-spectra.jpg>
+Package pdftex.def Info: stellar-spectra.jpg  used on input line 622.
+(pdftex.def)             Requested size: 410.15578pt x 205.08086pt.
+
 [34
 
 ] [35
@@ -972,35 +972,37 @@ Package pdftex.def Info: stellar-spectra.jpg  used on input line 615.
 
 ] [37
 
+] [38
+
 ]
-<pioneer-10.jpg, id=267, 489.83pt x 628.3475pt>
+<pioneer-10.jpg, id=273, 489.83pt x 628.3475pt>
 File: pioneer-10.jpg Graphic file (type jpg)
 <use pioneer-10.jpg>
-Package pdftex.def Info: pioneer-10.jpg  used on input line 643.
+Package pdftex.def Info: pioneer-10.jpg  used on input line 650.
 (pdftex.def)             Requested size: 215.87216pt x 276.9148pt.
- [38
-
- <./pioneer-10.jpg>]
-<pioneer-plaque.jpg, id=274, 696.4419pt x 551.661pt>
-File: pioneer-plaque.jpg Graphic file (type jpg)
-<use pioneer-plaque.jpg>
-Package pdftex.def Info: pioneer-plaque.jpg  used on input line 649.
-(pdftex.def)             Requested size: 345.39677pt x 273.59073pt.
  [39
 
+ <./pioneer-10.jpg>]
+<pioneer-plaque.jpg, id=281, 696.4419pt x 551.661pt>
+File: pioneer-plaque.jpg Graphic file (type jpg)
+<use pioneer-plaque.jpg>
+Package pdftex.def Info: pioneer-plaque.jpg  used on input line 656.
+(pdftex.def)             Requested size: 345.39677pt x 273.59073pt.
+ [40
+
  <./pioneer-plaque.jpg>]
-<pioneer-plaque-2.jpg, id=282, 696.4419pt x 551.661pt>
+<pioneer-plaque-2.jpg, id=288, 696.4419pt x 551.661pt>
 File: pioneer-plaque-2.jpg Graphic file (type jpg)
 <use pioneer-plaque-2.jpg>
-Package pdftex.def Info: pioneer-plaque-2.jpg  used on input line 656.
+Package pdftex.def Info: pioneer-plaque-2.jpg  used on input line 663.
 (pdftex.def)             Requested size: 302.2197pt x 239.38977pt.
-<hyperfine.jpg, id=283, 172.0026pt x 91.7829pt>
+<hyperfine.jpg, id=289, 172.0026pt x 91.7829pt>
 File: hyperfine.jpg Graphic file (type jpg)
 <use hyperfine.jpg>
-Package pdftex.def Info: hyperfine.jpg  used on input line 656.
+Package pdftex.def Info: hyperfine.jpg  used on input line 663.
 (pdftex.def)             Requested size: 129.52461pt x 69.11569pt.
 
-[40
+[41
 
  <./pioneer-plaque-2.jpg> <./hyperfine.jpg>]
 \tf@nav=\write6
@@ -1012,19 +1014,19 @@ Package pdftex.def Info: hyperfine.jpg  used on input line 656.
 \tf@snm=\write8
 \openout8 = `lecture19.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 658.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 658.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 665.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 665.
  (./lecture19.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 658.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 658.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 665.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 665.
 Package rerunfilecheck Info: File `lecture19.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18949 strings out of 481239
- 360965 string characters out of 5920377
+ 18953 strings out of 481239
+ 361000 string characters out of 5920377
  606606 words of memory out of 5000000
- 33655 multiletter control sequences out of 15000+600000
+ 33657 multiletter control sequences out of 15000+600000
  546929 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,796b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1038,10 +1040,10 @@ e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt12.pfb>
-Output written on lecture19.pdf (40 pages, 1599127 bytes).
+Output written on lecture19.pdf (41 pages, 1600168 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
- 81 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
