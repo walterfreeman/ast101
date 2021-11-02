@@ -4,21 +4,23 @@
 \usepackage{calc}
 \usepackage{amssymb}
 \usepackage{color}
+\usepackage{xcolor}
 \usepackage{lscape}
 \usepackage{array}
 \usepackage[sc]{mathpazo}
 \usepackage{url}
 \usepackage[final]{pdfpages}
 \usepackage{amsmath}
+\usepackage{pdfpages}
 
 %\linespread{1.05}
 \oddsidemargin=0pt
 \evensidemargin=0pt
-\textwidth=6.5in
+\textwidth=7.5in
 \topmargin=0pt
 \headheight=0pt
 \headsep=0pt
-\textheight=9in
+\textheight=10in
 % EXPERIMENTAL
 %\parindent=0pt
 %\parskip=3pt
@@ -70,7 +72,10 @@ AST101: Our Corner of the Universe \\
 \vspace*{0.1cm}
 Lab 8: Spectroscopy (II)
 }
+
+\color{red} Note: Since we are printing labs for you this week, we {\bf may} ask you to turn your lab document in to us this week. This is the best lab of the year; enjoy it!
 \end{center}
+
 
 \vspace*{0.5cm}
 
@@ -87,25 +92,18 @@ Lab 8: Spectroscopy (II)
 	\item To gain experience determining chemical composition from emission spectra
 \end{itemize}
 
-\begin{center}
-	\large This reference will be helpful!
-	
-	\includegraphics[width=0.8\textwidth]{spectra.png}
-	
-	(Hydrogen is not on here -- you'll have to figure it out on your own!)
-	
-	The sodium source we have may produce some other lines as well, because of mixture with other elements. You'll recognize
-	sodium by an extremely intense orange line.
-\end{center}
-\newpage
+
 
 \section{Identifying Sources}
 
+
 There are various objects in the room that generate emission spectra. One of them is hydrogen, which doesn't match any of the examples
-on your reference; the others are helium, neon, sodium, and mercury.
+on your reference. The others are on the set of reference spectra that are included as the back page of this lab handout. 
+
+{\color{red}Tear off that set of reference spectra; you will use it throughout today's lab. }
 
 Your group should circle around to all of the tables and look at the different sources. Look at each source and label the position of 
-the emission lines on the spectra as closely as you can. (Notice that the scale in your spectrometer is marked in both nanometers and eV/photon, but that the colors are likely in the opposite order as what I've shown below. That's okay; you can plot this either way.) 
+the emission lines on the spectra as closely as you can. (Notice that the scale in your spectrometer is marked in both nanometers and eV/photon, but that the colors are likely in the opposite order of your reference. That's okay; you can plot this either way, and what matters is the wavelength/energy of each line. So, when you are looking at these, you might say something like ``Mercury's emission spectrum has a very bright green line at 546 nanometers.'') 
 
 Draw the positions of the emission lines as precisely as you can, even if you don't need to do so in order
 to identify the gas in question; you'll need a record of their energies and wavelengths for the second part of this lab.
@@ -119,15 +117,19 @@ element is which. Remember, one of them is hydrogen, which isn't on your referen
 		\Large Source \\ A
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
+\end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
 \end{minipage}
 
 \vspace{1in}
@@ -137,69 +139,109 @@ element is which. Remember, one of them is hydrogen, which isn't on your referen
 		\Large Source \\ B
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
-\newpage
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
+
+\vspace{1in}
 \begin{minipage}{0.1\textwidth}
 	\begin{center}
 		\Large Source \\ C
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
 
-\vspace{1in}
+\vspace{1.2in}
 
 \begin{minipage}{0.1\textwidth}
 	\begin{center}
 		\Large Source \\ D
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
 
-\vspace{1in}
+\vspace{1.2in}
 
 \begin{minipage}{0.1\textwidth}
 	\begin{center}
 		\Large Source \\ E
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
 
+\vspace{1.0in}
+
+\begin{minipage}{0.1\textwidth}
+	\begin{center}
+		\Large Source \\ F
+	\end{center}
+\end{minipage}
+\begin{minipage}{0.7\textwidth}
+	\includegraphics[width=\textwidth]{spectrum2.png}
+\end{minipage}
+
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
+\end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What element is it?
+\end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
+
+\vspace{1.0in}
 
 \newpage
 \begin{landscape}
@@ -290,7 +332,7 @@ However, there are a few things that might confound the spectrum that you're see
 
 \end{itemize}
 
-Looking back at your measurements from the discharge tubes, determine what gas is in the lights in the room
+Looking back at your measurements from the discharge tubes, determine what gas is in the lights in the room. 
 \bigskip
 
 \section{ What's In The Sign?}
@@ -312,34 +354,43 @@ did before, what elements are used in the different tubes?
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
+
+\vspace{1.2in}
 
 
-\vspace{0.7in}
-\hrule
 
 \begin{minipage}{0.1\textwidth}
 	\begin{center}
 		\large ``Physics''
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
 	What element is it?
 \end{minipage}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
+\end{minipage}
 
-\vspace{0.7in}
+\vspace{1.2in}
 \hrule
 
 
@@ -349,38 +400,45 @@ did before, what elements are used in the different tubes?
 		\large Yellow
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
-	What element is this?
+\begin{minipage}{0.33\textwidth}
+	What element is it?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
 \end{minipage}
 
-\vspace{1in}
+\vspace{1.2in}
 \hrule
 \begin{minipage}{0.1\textwidth}
 	\begin{center}
 		\large White
 	\end{center}
 \end{minipage}
-\begin{minipage}{0.8\textwidth}
+\begin{minipage}{0.7\textwidth}
 	\includegraphics[width=\textwidth]{spectrum2.png}
 \end{minipage}
 
-\begin{minipage}{0.5\textwidth}
-	What color does this appear?
+
+\begin{minipage}{0.33\textwidth}
+	What color \\does this appear?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
-	What element is this?
+\begin{minipage}{0.33\textwidth}
+	What element is it?
 \end{minipage}
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.33\textwidth}
+	What spectral lines did\\
+	you use to identify it?
 \end{minipage}
+
+\vspace{1.2in}
 
 \newpage
 
@@ -399,7 +457,7 @@ Try to find:
 
 \begin{itemize}
 \item The absorption line corresponding to the $n=3 \rightarrow n=2$ transition in hydrogen
-\item The absorption line corresponding to the $n=4 \rightarrow n=2$ transition in hydrogen
+\item The absorption line corresponding to the $n=4 \rightarrow n=2$ transition in hydrogen. (Note that because of things being rounded differently, you may find it closer to 2.54 eV here.)
 \item The yellow line that you saw in the sodium lamp and in the reference. Notice that this is really
 {\it two} lines, close together; you can see this in the detailed solar spectrum.)
 \end{itemize}
@@ -407,5 +465,15 @@ Try to find:
 Circle these features as you find them.
 
 If you have a nighttime lab, go look at the street lights in the parking lot next to Holden. Figure out what element is in them!
+
+
+\begin{center}
+	
+	\begin{landscape}
+		\includepdf[pages=-, angle=-90,width=8in]{reference-spectra.pdf}		
+	\end{landscape}
+	
+\end{center}
+\newpage
 
 \end{document}

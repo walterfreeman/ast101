@@ -7,13 +7,14 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-Remember that Paper 2 is due November 4 and Homework 5 is due today.
+The deadline for Paper 2 has been extended until next Monday at the end of the day. 
 
-The seating charts for today's quiz: <a href="chart-secM001.pdf">[12:30 section]</a> <a href="chart-secM002.pdf">[2:00 section]</a>
+Please contact me during office hours, Kiersten by email or Discord, or me on #paper-discussions
+on Discord for assistance with your paper.
 
 ### Current lecture slides:
 
-Class 18 will use the same slides as the previous class: <a href="slides/lecture17/lecture17.pdf">Thermal radiation</a>
+<a href="slides/lecture19/lecture19.pdf">Emission and absorption</a>
 
 
 
@@ -48,5 +49,5 @@ Link to course Discord server: <https://discord.gg/9DkbcEXjtY>
 
 <a href="stellarium-mac.html">Trying to install Stellarium on a Mac?</a>
 
-<center> <img src="darkened-milky-way.jpg">
+<center> <img src="solar-spectrum.jpg">
 <br>
