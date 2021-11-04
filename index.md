@@ -14,7 +14,7 @@ on Discord for assistance with your paper.
 
 ### Current lecture slides:
 
-<a href="slides/lecture19/lecture19.pdf">Emission and absorption</a>
+<a href="slides/lecture20/lecture20.pdf">Spectroscopy</a>
 
 
 
