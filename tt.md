@@ -35,7 +35,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 26 Oct | <a href="slides/lecture17/lecture17.pdf">Thermal radiation</a> |  | Thermal radiation |  |  |
 | 28 Oct | Comparing stars | HW5 due |  | Units 4+5 |  |
 | 2 Nov | <a href="slides/lecture19/lecture19.pdf">Atomic energy levels:<br> absorption and emission</a> | Assign HW6 |  |  |  |
-| 4 Nov | Putting it all together: <br>Spectroscopy | Paper 2 due | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a> |  |  |
+| 4 Nov | <a href="slides/lecture20/lecture20.pdf">Putting it all together: <br>Spectroscopy</a> | Paper 2 due | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a> |  |  |
 | 9 Nov | Composition of and <br>workings of the Sun | HW6 due |  |  |  |
 | 11 Nov | The formation of <br>stars and planets |  |  | Units 5+6 |  |
 | 16 Nov | The effect of atmospheres on<br>sunlight and planetlight | Assign HW7 |  |  |  |
