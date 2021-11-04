@@ -30,6 +30,7 @@ double emax=10;
 double t=4000;
 double maxamp=-1;
 double dmaxamp=1;
+int blank;
 double lmin=351;
 double lmax=800;
 double h=0;
@@ -308,19 +309,38 @@ void disp(void)
     for (double l=lmin; l<lmax; l+=(lmax-lmin)/(window_size))
     {
       double e=1240/l;
-      setcolor(l);
       double x=getx(l), y=1;
+      glColor4f(0,0,0,1);
+      if (blank == 0)
+      {
+      glVertex3f(x,-0.4,0);
+      glVertex3f(x,-0.3,0);
+      setcolor(l);
       glVertex3f(x,-0.3,0);
       glVertex3f(x,0.3,0);
+      glColor4f(0,0,0,1);
+      glVertex3f(x, 0.3,0);
+      glVertex3f(x, 0.4,0);
+      }
+      else
+      {
+	  setcolor(l);
+	  glVertex3f(x,0.4,0);
+	  glVertex3f(x,0.35,0);
+	  glVertex3f(x,-0.4,0);
+	  glVertex3f(x,-0.35,0);
+      }
+	  
+
      
    }
    glEnd();
-   glColor4f(1,1,1,0.6);
+   glColor4f(0,0,0,0.6);
  
   glEnd();
   // draw frame
   glBegin(GL_LINE_STRIP);
-  glColor4f(1,1,1,1);
+  glColor4f(0,0,0,1);
   glVertex3f(-0.9,-0.4,0);
   glVertex3f(0.9,-0.4,0);
   glVertex3f(0.9,0.4,0);
@@ -355,7 +375,7 @@ void disp(void)
     glVertex3f(x,-0.4,0);
   glEnd();
     sprintf(thestring,"%d",(int)l);
-    glColor4f(1,1,1,1);
+    glColor4f(0,0,0,1);
     if (x-lastx > 0.1 && (int)l % 50 == 0)
     {
     lastx=x;
@@ -404,7 +424,7 @@ void disp(void)
   glEnd();
     prec=-log10(dec)+0.9;
     sprintf(thestring,"%.*f",prec,e);
-  glColor4f(1,1,1,1);
+  glColor4f(0,0,0,1);
     if (x-lastx > 2.0/window_size*(15*(prec+1)))
     {
     lastx=x;
@@ -444,6 +464,7 @@ void keyb(unsigned char key, int x, int y)
   if (key == 's') {lmax/=1.01;}
   if (key == 'i') {inverse=1-inverse;}
   if (key == 'h') {h=1-h;}  
+  if (key == 'b') {blank=1-blank;}  
   if (key == 'H') {he=1-he;}  
   if (key == 'm') {hg=1-hg;}
   if (key == ' ') {dmaxamp=maxamp;}
@@ -460,6 +481,7 @@ int main(int argc, char **argv)
   printf("\tq/w     : change minimum wavelength\n");
   printf("\ta/s     : change maximum wavelength\n");
   printf("\ti       : toggle inverse (emission/absorption)\n");
+  printf("\tb       : toggle blank mode (for students to write in)\n");
   printf("\th       : toggle Balmer series ([h]ydrogen lines)\n");
   printf("\tH       : toggle [H]elium lines\n");
   printf("\tm       : toggle [m]ercury lines\n");
@@ -490,7 +512,7 @@ int main(int argc, char **argv)
   glEnable(GL_BLEND);
   glEnable(GL_MULTISAMPLE);
   glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
-  glClearColor(0.0, 0.0, 0.0, 1.0);
+  glClearColor(1.0, 1.0, 1.0, 1.0);
 
   glMatrixMode(GL_PROJECTION);
   glLoadIdentity();
