@@ -306,7 +306,7 @@ void disp(void)
 //   glVertex3f(x,.8,0);
 //  }
    
-    for (double l=lmin; l<lmax; l+=(lmax-lmin)/(window_size))
+    for (double l=lmin; l<lmax; l+=(lmax-lmin)/(window_size*2))
     {
       double e=1240/l;
       double x=getx(l), y=1;

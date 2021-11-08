@@ -98,7 +98,7 @@ Lab 9: How hot are the planets?\\
 \vspace*{0.5cm}
 
 {\Large Name:}\vspace*{0.5cm}\\\hrule
-{\Large NetID:}\vspace*{0.5cm}\\\hrule
+{\Large Group members:}\vspace*{0.5cm}\\\hrule
 {\Large Lab section number:}\vspace*{0.5cm}\\\hrule
 
 
@@ -209,13 +209,66 @@ given off by a hot object.)
 
 \section*{Intensity of sunlight at the Earth's surface}
 
-There are two approaches to figuring this out. {\it You and your group only need to do one of them.} The first approach involves
-more reasoning but fewer formulas; the second approach requires a little more algebra and requires you to use a formula from
-high school geometry for the surface area of a sphere
+There are two approaches to figuring this out. {\it You and your group only need to do one of them.} The first approach is more appropriate for students who remember their high school geometry class well -- in particular, the formula for the surface area of a sphere.
+
+The second approach involves more reasoning but fewer formulas; it is more appropriate for groups who don't remember high school geometry as well and want to figure things out from scratch.
+\newpage
+
+\subsection*{Method 1}
+
+We've talked so far about {\it intensity} -- the amount of power per unit area. If we multiply intensity by area, we can 
+calculate the total power of the light passing through a certain area. In symbols, we know that $P=IA$.
+
+Recall from your high school geometry class that the surface area of a sphere is $4\pi R^2$, where $R$ is the radius of 
+the sphere.
+
+Imagine two spheres. One lies just outside the surface of the Sun, and has radius $r$; the second lies
+has its center is at the Sun and which is 1 AU in radius, so that the Earth (or other planet) 
+is on its edge. (Its radius is $d$.) 
+
+\begin{center}
+\includegraphics[width=3in]{expand-crop.pdf}
+\end{center}
+
+Call the surface area of the small sphere $A_1$ and the power of the sunlight passing through it $P_1$. Using the intensity/power 
+relation above, this tells us that $P_1=I_1 A_1$. Likewise, call the surface area of the large sphere $A_2$, the power of the 
+sunlight passing through it $P_2$, and the intensity of the light there $I_2$, and $P_2 = I_2 A_2$.
+
+The key insight here is that the light from the Sun spreads out, but doesn't ``vanish'' as it travels through space. Thus,
+the total power passing through both spheres is the same, and $I_1 A_1 = I_2 A_2$.
+
+{\bf Question 3a:} Write expressions for $A_1$ and $A_2$ in terms of $r$ and $d$.
+
+\vspace*{5cm}
+
+\hrulefill
+
+\newpage
+{\bf Question 3b:} Substitute the preceding expressions into $I_1 A_1 = I_2 A_2$ to arrive at an equation relating $d$, $r$,
+$I_2$, and $I_1$.
+
+\vspace*{5cm}
+
+\hrulefill
+
+{\bf Question 3c:} Solve the above for $I_2$ to get an expression for $I_2$, the intensity of sunlight at the Earth, in terms of
+$d$, $r$, and $I_1$.
+Hint: Consider whether $d$ or $r$ is larger.
+We expect $I_2$ to be much less than $I_1$; does your formula have this property? Call your TA over if you have questions; this is actually the trickiest part of this whole calculation.
+\vspace*{4cm}
+
+\hrulefill
+
+
+
+
+When you are done with this section, ask your TA to check your results so far; they should sign below.
 
 \newpage
 
-\subsection*{Method 1: More reasoning, less algebra}
+\subsection*{Method 2:}
+
+{\color{red} \it If you already figured out the relationship between $I_2$ and $I_3$ using Method 1 above, do not do this section, and skip ahead.}
 
 Sunlight spreads out as it travels from the Sun to the Earth. Thus, sunlight is less intense here than it is at the Sun's surface (obviously). How much does it spread out?
 
@@ -265,58 +318,6 @@ We expect $I_2$ to be much less than $I_1$; does your formula have this property
 
 When you are done with this section, ask your TA to check your results so far.
 
-\subsection*{Method 2: More algebra, less reasoning}
-
-We've talked so far about {\it intensity} -- the amount of power per unit area. If we multiply intensity by area, we can 
-calculate the total power of the light passing through a certain area. In symbols, we know that $P=IA$.
-
-Recall from your high school geometry class that the surface area of a sphere is $4\pi R^2$, where $R$ is the radius of 
-the sphere.
-
-Imagine two spheres. One lies just outside the surface of the Sun, and has radius $r$; the second lies
-has its center is at the Sun and which is 1 AU in radius, so that the Earth (or other planet) 
-is on its edge. (Its radius is $d$.) 
-
-\begin{center}
-\includegraphics[width=3in]{expand-crop.pdf}
-\end{center}
-
-Call the surface area of the small sphere $A_1$ and the power of the sunlight passing through it $P_1$. Using the intensity/power 
-relation above, this tells us that $P_1=I_1 A_1$. Likewise, call the surface area of the large sphere $A_2$, the power of the 
-sunlight passing through it $P_2$, and the intensity of the light there $I_2$, and $P_2 = I_2 A_2$.
-
-The key insight here is that the light from the Sun spreads out, but doesn't ``vanish'' as it travels through space. Thus,
-the total power passing through both spheres is the same, and $I_1 A_1 = I_2 A_2$.
-
-{\bf Question 3a:} Write expressions for $A_1$ and $A_2$ in terms of $r$ and $d$.
-
-\vspace*{5cm}
-
-\hrulefill
-
-
-{\bf Question 3b:} Substitute the preceding expressions into $I_1 A_1 = I_2 A_2$ to arrive at an equation relating $d$, $r$,
-$I_2$, and $I_1$.
-
-\vspace*{5cm}
-
-\hrulefill
-
-{\bf Question 3c:} Solve the above for $I_2$ to get an expression for $I_2$, the intensity of sunlight at the Earth, in terms of
-$d$, $r$, and $I_1$.
-Hint: Consider whether $d$ or $r$ is larger.
-We expect $I_2$ to be much less than $I_1$; does your formula have this property? Call your TA over if you have questions; this is actually the trickiest part of this whole calculation.
-\vspace*{4cm}
-
-\hrulefill
-
-
-
-
-When you are done with this section, ask your TA to check your results so far.
-
-
-
 
 
 \bigskip
@@ -336,6 +337,10 @@ sunlight on the Earth, $I_2$, in terms of $d$, $r$, $k$, and $T_s$.
 
 \hrulefill
 
+Once you are done, ask your TA to come check your result; they should sign below.
+
+\newpage
+
 
 \section*{The thermal radiation of Earth}
 
@@ -345,7 +350,7 @@ sunlight on the Earth, $I_2$, in terms of $d$, $r$, $k$, and $T_s$.
 
 \hrulefill
 
-\newpage
+
 \section*{The temperature of Earth}
 
 As discussed earlier, for Earth to be in balance, the same amount of light must flow in (from sunlight) and out (from Earth's thermal radiation). Na\"{i}vely, this would imply that
@@ -373,12 +378,13 @@ Now, finally, it's time to plug in numbers. Use the following:
 
 \hrulefill
 
-{\bf Question 9:} Convert this value to Celsius or Fahrenheit. Is this a reasonably accurate value of the temperature of the Earth? Show your work to your TA.
+{\bf Question 9:} Convert this value to Celsius or Fahrenheit. Is this a reasonably accurate value of the temperature of the Earth? Show your work to your TA ; they should sign by your result after your conversation.
 
 \vspace*{4cm}
 
 \hrulefill
-\newpage
+
+\vspace{1in}
 
 What has gone wrong here? We made an assumption that $I_3=I_2$ -- that is, that the {\it intensity of Earth's thermal radiation} must equal the {\it intensity of sunlight at Earth.}
 This was a good first guess, and -- in a universe where things range from 3 Kelvin to millions of Kelvin -- it's not too bad. But we can do better!
@@ -407,7 +413,7 @@ too low?
 \vspace*{4cm}
 
 \hrulefill
-\newpage
+
 
 
 \section*{The temperatures of other planets}
@@ -442,28 +448,37 @@ temperatures of these planets' surfaces:
 \item Pluto: 44K / -380F
 \item Venus: 735K / 864F
 \EI
-
+\newpage
 {\bf Question 12:} 
 Venus is hotter than Earth; is this explained by the fact that it is closer to the Sun? Likewise, does the greater distance from the Sun explain the cooler temperatures on Mars?
 
+\vspace{1.5in}
+\hrulefill
 
-\newpage
+
 
 \section*{Wrapping a planet in glass}
 
 As you saw in the demonstration with the infrared camera in class, glass (as in a student's eyeglasses) {\bf reflects infrared light}, but {\bf allows visible light} to pass.
+
+{\bf Question 13:} 
 Given that the Sun emits visible light but planets, with their lower temperatures, emit infrared light, what do you expect to happen to a planet's temperature if you were to
 enclose it in a glass bubble? 
 
-\bigskip
-\bigskip
-\bigskip
-\bigskip
+\vspace{1.5in}
+\hrulefill
 \bigskip
 
 Other chemicals besides glass have this property as well -- some of them found in the atmospheres of planets. Earth has a moderately thick atmosphere, and Venus has a tremendously thick
-atmosphere. Mars has almost no atmosphere at all. Note that your calculations on the previous page were off by 15 K for Earth, 3 K for Mars, and 400 K for Venus. 
+atmosphere. Mars has almost no atmosphere at all.
+
+{\bf Question 14:}  Note that your calculations on the previous page were off by 15 K for Earth, 3 K for Mars, and 400 K for Venus. 
 What is going on here? 
+
+\vspace{1.8in}
+\hrulefill
+\bigskip
+
 
 \newpage
 \section*{Other stars, other planets, and exterrestrial life}
@@ -476,7 +491,7 @@ has the following properties:
 \item Surface temperature: 10,000 K
 \EI
 
-{\bf Question 12:} Take the formula you got in Question 10 and solve it instead for $d$. If a planet orbiting Sirius were to have the same temperature as Earth (about 288 K), 
+{\bf Question 15:} Take the formula you got in Question 10 and solve it instead for $d$. If a planet orbiting Sirius were to have the same temperature as Earth (about 288 K), 
 how far from Sirius would its orbit be?
 
 \end{document}

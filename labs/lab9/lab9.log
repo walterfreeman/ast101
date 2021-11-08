@@ -1,73 +1,74 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  8 NOV 2019 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  5 NOV 2021 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **lab9.tex
 (./lab9.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip43
-\cftbeforetoctitleskip=\skip44
-\cftaftertoctitleskip=\skip45
-\cftbeforepartskip=\skip46
-\cftpartnumwidth=\skip47
-\cftpartindent=\skip48
-\cftbeforesecskip=\skip49
-\cftsecindent=\skip50
-\cftsecnumwidth=\skip51
-\cftbeforesubsecskip=\skip52
-\cftsubsecindent=\skip53
-\cftsubsecnumwidth=\skip54
-\cftbeforesubsubsecskip=\skip55
-\cftsubsubsecindent=\skip56
-\cftsubsubsecnumwidth=\skip57
-\cftbeforeparaskip=\skip58
-\cftparaindent=\skip59
-\cftparanumwidth=\skip60
-\cftbeforesubparaskip=\skip61
-\cftsubparaindent=\skip62
-\cftsubparanumwidth=\skip63
-\cftbeforeloftitleskip=\skip64
-\cftafterloftitleskip=\skip65
-\cftbeforefigskip=\skip66
-\cftfigindent=\skip67
-\cftfignumwidth=\skip68
-\c@lofdepth=\count88
-\c@lotdepth=\count89
-\cftbeforelottitleskip=\skip69
-\cftafterlottitleskip=\skip70
-\cftbeforetabskip=\skip71
-\cfttabindent=\skip72
-\cfttabnumwidth=\skip73
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count175
+\c@lotdepth=\count176
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -75,41 +76,42 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count90
-\calc@Bcount=\count91
-\calc@Adimen=\dimen105
-\calc@Bdimen=\dimen106
-\calc@Askip=\skip74
-\calc@Bskip=\skip75
+\calc@Acount=\count177
+\calc@Bcount=\count178
+\calc@Adimen=\dimen137
+\calc@Bdimen=\dimen138
+\calc@Askip=\skip80
+\calc@Bskip=\skip81
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count92
-\calc@Cskip=\skip76
+\calc@Ccount=\count179
+\calc@Cskip=\skip82
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks15
+\@emptytoks=\toks16
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip77
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip83
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -117,56 +119,56 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen107
+\@emptytoks=\toks17
+\ex@=\dimen139
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen108
+\pmbraise@=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count93
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count94
-\leftroot@=\count95
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count96
-\DOTSCASE@=\count97
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen109
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count98
-\c@MaxMatrixCols=\count99
-\dotsspace@=\muskip10
-\c@parentequation=\count100
-\dspbrk@lvl=\count101
-\tag@help=\toks17
-\row@=\count102
-\column@=\count103
-\maxfields@=\count104
-\andhelp@=\toks18
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
-\@envbody=\toks19
-\multlinegap=\skip78
-\multlinetaggap=\skip79
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count183
+\DOTSCASE@=\count184
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks18
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip84
+\multlinetaggap=\skip85
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -174,102 +176,62 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (./lab9.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box47
+)
+(./lab9.aux)
 \openout1 = `lab9.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 89.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+89.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen116
-\scratchbox=\box29
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen117
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks22
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
+\scratchcounter=\count193
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen149
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 95.
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 95.
-
 Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
@@ -284,31 +246,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--102
 
  []
 
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 106.
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 108.
-LaTeX Font Info:    Try loading font information for OMS+pplx on input line 126
-.
-LaTeX Font Info:    No file OMSpplx.fd. on input line 126.
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+126.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+136.
 
-LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 126.
-
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 136
-.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 136
-.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+136.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 136
-.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+136.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
@@ -325,46 +281,42 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 136.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 136.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 136
-.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+136.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<expansion.png, id=17, 629.35126pt x 404.51125pt>
-File: expansion.png Graphic file (type png)
-<use expansion.png>
-Package pdftex.def Info: expansion.png  used on input line 227.
-(pdftex.def)             Requested size: 238.49121pt x 153.28998pt.
- [4 <./expansion.png>] [5]
-<expand-crop.pdf, id=24, 302.12875pt x 260.975pt>
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<expand-crop.pdf, id=17, 302.12875pt x 260.975pt>
 File: expand-crop.pdf Graphic file (type pdf)
 <use expand-crop.pdf>
-Package pdftex.def Info: expand-crop.pdf  used on input line 281.
+Package pdftex.def Info: expand-crop.pdf  used on input line 230.
 (pdftex.def)             Requested size: 216.81pt x 187.27666pt.
- [6 <./expand-crop.pdf>] [7] [8] [9] [10] [11] [12] [13] (./lab9.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+ [4 <./expand-crop.pdf>] [5]
+<expansion.png, id=29, 629.35126pt x 404.51125pt>
+File: expansion.png Graphic file (type png)
+<use expansion.png>
+Package pdftex.def Info: expansion.png  used on input line 280.
+(pdftex.def)             Requested size: 238.49121pt x 153.28998pt.
+ [6 <./expansion.png>] [7] [8] [9] [10] [11] [12] [13] (./lab9.aux) ) 
 Here is how much of TeX's memory you used:
- 2967 strings out of 492615
- 39488 string characters out of 6131390
- 106051 words of memory out of 5000000
- 6806 multiletter control sequences out of 15000+600000
- 24163 words of font info for 66 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 41i,6n,27p,271b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
-ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
-pfb>
-Output written on lab9.pdf (13 pages, 118527 bytes).
+ 2951 strings out of 480616
+ 38583 string characters out of 5906382
+ 276069 words of memory out of 6000000
+ 18798 multiletter control sequences out of 15000+600000
+ 553775 words of font info for 77 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 30i,5n,31p,298b,174s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/shar
+e/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
+ino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on lab9.pdf (13 pages, 120483 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
