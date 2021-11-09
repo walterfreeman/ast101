@@ -7,14 +7,9 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-The deadline for Paper 2 has been extended until next Monday at the end of the day. 
-
-Please contact me during office hours, Kiersten by email or Discord, or me on #paper-discussions
-on Discord for assistance with your paper.
-
 ### Current lecture slides:
 
-<a href="slides/lecture20/lecture20.pdf">Spectroscopy</a>
+<a href="slides/lecture21/lecture21.pdf">The Sun</a>
 
 
 
