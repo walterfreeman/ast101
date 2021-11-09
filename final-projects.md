@@ -2,14 +2,18 @@
 layout: page
 permalink: finalprojects.html
 title: Final project
+category: top
 use_math: true
 ---
 
 ## Ast101 final project
 
-This assignment is still being finalized. It'll be finished shortly. It will be due on 5 December. 
-People doing particularly elaborate things may request extensions, which will be approved on a case-by-case basis,
-but no later than 10 December.
+It will be due on the day of your final, 14 December. So we can start grading sooner, we will offer a small amount of extra credit (equal to half a letter grade) to students who turn theirs in by 10 December.
+
+People doing particularly elaborate things may request extensions, which will be approved on a case-by-case basis, but no later than 21 December.
+
+Some projects will be things that can only be submitted physically (e.g. physical art). Some will be things that can only be submitted digitally (e.g. digital art; web design). We will give you submission
+instructions as we get closer to the end of the term.
 
 ### Overview
 
@@ -19,13 +23,12 @@ You need not choose a project related to your major; however, I encourage you to
 
 You also do not need to choose a project from this list. These are some ideas that I have; you likely have other ideas. Your ideas are likely just as good as mine. If you want to do something else, please read many of these suggestions to get an idea of the directions you may take. If in doubt, come see me during help session and discuss your project ideas with me.
 
-*Regardless of what you choose for your project*, it should be executed with intellectual skill. While I encourage you to be creative, your project should involve some skill in whatever discipline it has its roots in.
-Last year I got some fantastic pieces of art -- and some that were made with glitter and glue-sticks. Likewise, I got some fantastic papers -- and some plagiarized from the NASA website. Whatever you choose to do, 
-do it well. 
+*Regardless of what you choose for your project*, it should be executed with intellectual skill. While I encourage you to be creative, your project should involve some skill in whatever discipline it has its roots in. Whatever you choose to do, do it well. 
 
 ### Project proposals
 
-If you have an unusual idea that you want to implement, please send a short proposal to me or Suman so we can give you feedback and approve your idea
+If you have an unusual idea that you want to implement, please send a short proposal to me
+or to your lab TA so we can give you feedback and approve your idea
 as appropriate for our class. There are very few things that we don't approve; in general, we'll just be giving you feedback to make your work better.
 
 ### Artist's statement for artistic pieces
@@ -37,13 +40,13 @@ possible: show us how the actual scientific world inspired your piece, tell us h
 ### Group work
 
 You may work in groups on fine arts-type projects; the idea here is that different people might have different skills that they contribute, but everyone is equally involved in the creative process. These groups should be no larger than three unless
-extra people are {\it absolutely} needed.
+extra people are absolutely needed.
 
 If you do so, each person should write a short summary of their contribution to the effort and submit it along with the project. 
 I anticipate that this will mostly be done by people doing performance projects that require multiple performers, or for mixed media projects that 
 involve different skill sets.
 
-If you're doing a project like this, you {\it must} send me a proposal telling me why you need multiple people.
+If you're doing a project like this, you *must* send me a proposal telling me why you need multiple people.
 
 ### Grading (please read this!)
 
@@ -57,11 +60,11 @@ Your projects will be graded on the basis of:
 * rhetorical clarity (but no points will be deducted for purely grammar mistakes)
 * intellectual effort
 
-The projects will be due in early December. 
+The projects will be due on the day of our final exam, December 14.
 
 Essays should be at least three pages (1 inch margins/12 point font/space-and-a-half). However, if you have strong ideas, I'm far more interested in the expression of your ideas than in how many pages you use to describe them.
 
-As with any academic paper, please cite your sources if you do research (which you may need to for many topics). Any citation format that allows me to pinpoint the original source
+As with any academic paper, please cite your sources if you do research (which you may need to for many topics). Any citation format that allows me to identify the original source
 is acceptable.
 
 ## A few project ideas 
@@ -79,7 +82,7 @@ is acceptable.
           of science communication.
 
 	* Some people have criticized *Chernobyl* as being unfairly "anti-nuclear". Is it a story about the dangers of nuclear power, or is it a more general story about the dangers of technology that is mismanaged? Comment on what you think the moral of 
-          *Chernobyl* is, if there is one. Research the health, environmental, and economic effects of both nuclear power and coal power, its main competitor for most of its history, and comment on the prudence of generating electricity using fission reactors.
+          *Chernobyl* is, if there is one. Research the health, environmental, and economic effects of both nuclear power and coal power, its main competitor for most of its history, and comment on the prudence of generating electricity using fission reactors. We are living tens of miles from the oldest operating power reactor in America; what do you think about this?
 
 * Watch at least the first two seasons of *Battlestar Galactica*. Comment on the physics of spaceflight depicted, as well as whether you believe this is a possible future for a technically-advanced civilization.
 
@@ -106,8 +109,8 @@ Nazis, and the *Last Jedi* antagonists to neo-Nazis.) How have *Star Wars* fasci
 however, if possible, submit a recording/MIDI/mp3 or invite me to a performance. 
 Write a paragraph discussing how astronomy inspires the elements in your piece.
 
-* Perform the Samuel Barber setting of "Sure on This Shining Night" or another musical work inspired by astronomy. The Barber piece is originally for choir or solo voice and piano; if you choose this, I will arrange it for your instrument and piano if you like, if you don't have this skill yourself. If you are a pianist, you can learn the piano part and another student -- or me! -- will perform the other part. A recording is at https://www.youtube.com/watch?v=iGWpGE6abQg. Give me a lot of heads up if you want me to arrange it for you, since this
-takes time :) In your companion piece, talk about both Barber's interpretation of the poetry as well as your own; do you think the music captures the poet's intent?
+* Perform the Samuel Barber setting of "Sure on This Shining Night" or another musical work inspired by astronomy. 
+In your companion piece, talk about both the composer's interpretation of the poetry as well as your own; do you think the music captures the poet's intent?
 
 * Write a short work of fiction or a poem of moderate length incorporating something astronomical as a major element. Science fiction, historical fiction, or any other genre is fine. Also write a paragraph or two 
 discussing the connection between your imagery to the technical aspects of astronomy -- what aspects of the astronomical world inspired the things in your story?
@@ -154,7 +157,7 @@ How would this affect humanity's action (or lack thereof) regarding climate chan
 ### Journalism
 
 * Suppose that a clear signal from extraterrestrial intelligence is discovered at the Very Large Array radio telescope in New Mexico. The signal is ongoing, is clearly of intelligent origin, but doesn't say anything other than to signal the presence of 
-extraterrestrial intelligence. It is confirmed by astronomers around the world. You are assigned to direct coverage of the story for the *New York Times*, CNN, or another major news organization. What do you do? What assignments do you give what reporters, and how do you cover the story? What skills do your reporters need? Who do you interview? You could actually *do* such an interview, with myself or one of the TA's (or Prof. Scott Bassler) playing the part of the scientist.
+extraterrestrial intelligence. It is confirmed by astronomers around the world. You are assigned to direct coverage of the story for the *New York Times*, CNN, or another major news organization. What do you do? What assignments do you give what reporters, and how do you cover the story? What skills do your reporters need? Who do you interview? You could actually *do* such an interview, with myself or one of the TA's playing the part of the scientist.
 
 * Research the ways that journalists often cover scientific topics. (Your professor has some experience with this!) Comment on the advantages and disadvantages of what you see. How can journalists and scientists work together to ensure that science communication 
 serves everyone's needs?
@@ -199,7 +202,10 @@ should do, or should they spend the money elsewhere?
 
 ### Public policy / government
 
-* Suppose you can pass any laws you like regarding climate change. The year is 2020; you can assume anything you like regarding events from 2016 to 2020. What laws do you pass? What values inspire you to pass those laws? What facts motivate them? (You may write this from the perspective of the United States or another country with which you are familiar. If you are writing about the United States, you may assume anything you like regarding the outcomes of the 2018 and 2020 elections; assume you are the president and that Congress is on your side.)
+* Suppose you can pass any laws you like regarding climate change. 
+What laws do you pass? What values inspire you to pass those laws? What facts motivate them? (You may write this from the perspective of the United States or another country with which you are familiar.)
+If you are writing about the United States, discuss the political and economic implications of the laws you propose,
+and the likely support that they would get from major factions in the US Congress.
 
 ### Education
 
@@ -226,7 +232,10 @@ were computer programmers long before her, she elevated software to a true engin
 
 * Interview a member of the LIGO team regarding the management challenges of coordinating such a large team in a high-pressure situation. How is this similar to management challenges in a corporate setting? How is it different?
 
-* Read the portion of *What Do You Care About What Other People Think?* by Richard Feynman that details his investigation into the Space Shuttle *Challenger* disaster. What management changes should have been made at NASA to possibly avert this catastrophe? Are there any unique management challenges specific to to highly technical, life-critical enterprises such as spaceflight?
+* Read the portion of *What Do You Care About What Other People Think?* by Richard Feynman that details his investigation into the Space Shuttle *Challenger* disaster. What management changes should have been made at NASA to possibly avert this catastrophe? Are there any unique management challenges specific to to highly technical, life-critical enterprises such as spaceflight? If you like, 
+compare the management experience of NASA surrounding *Challenger* to the history of management in other
+technical life-critical endeavors, such as Hyman Rickover's management of the 
+US Navy's nuclear submarine program.
 
 * Watch the film *Apollo 13*. Comment on the disaster from a management perspective. What decisions -- not technical decisions, but *management* decisions -- had to be made in order to get the astronauts home alive?
 
@@ -239,8 +248,15 @@ were computer programmers long before her, she elevated software to a true engin
 
 * Compare and contrast the attitudes of spaceflight programs in the United States and the Soviet Union/Russia toward women, as astronauts and/or as scientists. How have attitudes changed since the beginnings of the Space Race?
 
+* Research the life of Sally Ride, the first American woman in space. Compare the 
+popular acclaim she received as a spaceflight pioneer (at least in America) to the 
+lack of acknowlegement of her sexuality (Ride was a lesbian). See for instance 
+<https://www.scientificamerican.com/article/recommended-the-real-sally-ride-astronaut-science-champion-and-lesbian/>. What do these contrasting narratives -- the popular acclaim given to
+her gender, but the lack of recognition of her sexuality -- say about the state of
+society during her life?
+
 * Watch the film *Hidden Figures*, about the experience of three "human computers" working for NASA in the 1960's. Then research the lives and work of Grace Hopper and Margaret Hamilton, two pioneering women who made advances in computer science. Give your thoughts
-on their experiences and careers, and how they relate to the experiences of women working in computer science/engineering today.
+on their experiences and careers, and how they relate to the experiences of women and nonbinary folks working in computer science/engineering today.
 
 ### Ethnic studies in general
 
@@ -253,6 +269,15 @@ What do Islamic scholars say about questions of scheduling prayer, the *qibla*, 
 for people who live in the Arctic/Antarctic, or who are in orbit or in space? What values have informed their decisions? More generally,
 how will humans need to adapt the practices in religion (whether Islam or another faith) to a possible spacefaring future?
 
+* Read Frank Herbert's *Dune* and watch the recent film adaptation. What do you think about Herbert's 
+depiction of an Islam/Arab-inspired culture? Is this depiction respectful, Orientalist, or somewhere in
+between? It has been noted that the film adaptation removes explicit references to some Islamic ideas
+(jihad, the mujahideen, etc.) that are present in the novel. Do you believe this was necessary and/or
+proper? Comment on the utility of science fiction as a platform to explore interactions between
+the Islamic world and the rest of the globe, and/or the metaphor between spice and oil.
+
 ### Chinese studies and history
 
 * In 1054 Chinese astronmers observed a "new star", extraordinarily bright, which we now recognize as a supernova that left behind the Crab Nebula. Research the original observations of the Chinese astronomers, as well as the technology they used. Compare the model used in China at the time to the Ptolemaic model in use in the West. How was Chinese astronomy different from Western astronomy, and how was it similar?
+
+
