@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Thurs Notes
-category: top
 permalink: heliocentrism.html
 ---
 
