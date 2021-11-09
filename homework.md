@@ -6,6 +6,8 @@ category: top
 use_math: true
 ---
 
+Your sixth homework assignment is included as part of the  <a href="tutorials/spectroscopy/spectroscopy.pdf">exercise on spectroscopy.</a>
+
 Here is your <a href="tutorials/thermal-radiation-homework/thermal-radiation-homework.pdf">fifth homework assignment on light and thermal radiation.</a>
 
 Your fourth homework assignment is included as part of the <a href="tutorials/keplers-laws/keplers-laws.pdf">exercise on Kepler's laws</a>.
