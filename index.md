@@ -7,6 +7,8 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+You can find all past quizzes on the study guide page, linked above.
+
 ### Current lecture slides:
 
 <a href="slides/lecture21/lecture21.pdf">The Sun</a>

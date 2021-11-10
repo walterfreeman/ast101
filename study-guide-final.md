@@ -29,3 +29,7 @@ Quiz 1: <a href="exam1-formAkey.pdf">form A</a>
 
 Quiz 1+2: <a href="exam12-formAkey.pdf">form A, with explanations</a>
 
+Quiz 2+34: <a href="exam234-formAkey.pdf">form A, with explanations</a>
+
+Quiz 34i+5: <a href="exam345-formAkey.pdf">form A, with explanations</a>
+
