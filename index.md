@@ -11,7 +11,7 @@ You can find all past quizzes on the study guide page, linked above.
 
 ### Seating charts
 
-<a href="chart-secM001.pdf">Section 1</a>
+<a href="chart-secM001.pdf">Section 1</a><br>
 <a href="chart-secM002.pdf">Section 2</a>
 
 ### Current lecture slides:
