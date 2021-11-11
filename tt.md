@@ -37,7 +37,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 2 Nov | <a href="slides/lecture19/lecture19.pdf">Atomic energy levels:<br> absorption and emission</a> | Assign HW6 |  |  |  |
 | 4 Nov | <a href="slides/lecture20/lecture20.pdf">Putting it all together: <br>Spectroscopy</a> | Paper 2 due | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a> |  |  |
 | 9 Nov | <a href="slides/lecture21/lecture21.pdf">Composition of and <br>workings of the Sun</a> | HW6 due |  |  |  |
-| 11 Nov | The formation of <br>stars and planets |  |  | Units 5+6 |  |
+| 11 Nov | <a href="slides/lecture22/lecture22.pdf">The formation of <br>stars and planets</a> |  |  | Units 5+6 |  |
 | 16 Nov | The effect of atmospheres on<br>sunlight and planetlight | Assign HW7 |  |  |  |
 | 18 Nov | The greenhouse effect |  | The greenhouse effect | Unit 6+7 |  |
 | 30 Nov | Climate change in depth | HW7 due |  |  |  |
