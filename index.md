@@ -9,9 +9,14 @@ title: Announcements and Information
 
 You can find all past quizzes on the study guide page, linked above.
 
+### Seating charts
+
+<a href="chart-secM001.pdf">Section 1</a>
+<a href="chart-secM002.pdf">Section 2</a>
+
 ### Current lecture slides:
 
-<a href="slides/lecture21/lecture21.pdf">The Sun</a>
+<a href="slides/lecture22/lecture22.pdf">The Sun</a>
 
 
 
