@@ -19,6 +19,7 @@ title: Labs
 | Lab 7: Thermal Radiation and Spectroscopy (I)  | <a href="labs/lab7/lab7.pdf">Lab 7</a> | <a href="labs/lab7/lab-7-spectroscopy-prelab.pdf">Lab 7 Prelab</a>|
 | Lab 8: Thermal Radiation and Spectroscopy (II)  | <a href="labs/lab8/lab8.pdf">Lab 8</a> | No prelab this week! |
 | Lab 9: How Hot are the Planets?  | <a href="labs/lab9/lab9.pdf">Lab 9</a> | <a href="labs/lab9/lab9prelab.pdf">Lab 9 Prelab</a> |
+| Lab 9: The Age of the Earth      | <a href="labs/lab10/lab-radioactive-decay.pdf">Lab 10</a> |  |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 **Simulator for Lab 6:** <a href="orbitsim.html">Orbit Simulator</a>
