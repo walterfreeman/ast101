@@ -282,18 +282,14 @@ We will also use a substantial amount of class time in the auditorium for you to
 are discussing. These will be the most useful things for you to develop the skills you'll need for the quizzes, and so you should do them
 in class and ask questions as you get stuck with things. The coaches and I will circulate around and help you out.
 
-#### Homework and short quizzes
+#### Homework
 
 There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; if you finish the
 tutorial part in class (which you won't turn in), start working on the homework (which you will). Instead of turning in homework, we will sometimes
-ask you a question about the homework as an "intro question" in class; you should write the answer along with your name on a piece of paper and turn 
-it in to us. (You will need to be in class to submit these; we expect you to come to class.)
 
-We may also ask you a short quiz question at the end of class on the day's material.
+#### Quizzes
 
-#### Larger quizzes
-
-The semester is divided into eight units. After each of the first six units, you will take a short quiz in class testing your mastery of that material. If you do not do as well as you had hoped,
+The semester is divided into eight units. After each of the first six units, you will take a quiz in class testing your mastery of that material. If you do not do as well as you had hoped,
 you will have a second opportunity on the following quiz day. (That is, you will have the first opportunity to demonstrate your knowledge of Unit 3 on the same day that you have a second
 opportunity at Unit 2.) 
 
@@ -364,7 +360,7 @@ final exam.
 
 For each of the first six units, you will have multiple opportunities to demonstrate your proficiency. We will use only the highest score. 
 
-We will omit your lowest homework grade and your lowest lab grade. Your short quizzes will be rescaled such that an 80% will earn full credit.
+We will omit your lowest homework grade and your lowest lab grade. 
 
 
 
@@ -383,10 +379,10 @@ Due dates for these things may change slightly as the semester elapses.
 | Paper 2                  |                        | 10               |
 | Final project            |                        | 10               |
 | Labs                     |                        | 30               |
-| Homework / Short Quizzes |                        | 20               |
+| Homework                 |                        | 20               |
 |--------------------------|:----------------------:|-----------------:|
 
-This set of items totals 130 points. 
+This set of items totals 120 points. 
 
 Your score will be converted to a percentage and your final grade will be determined from your score as follows:
 
