@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  16 NOV 2021 11:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  16 NOV 2021 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -866,25 +866,25 @@ Package pdftex.def Info: ss-origin.jpg  used on input line 121.
 ] [8
 
 ]
-<ss-overview.jpg, id=83, 1416.29124pt x 834.11626pt>
-File: ss-overview.jpg Graphic file (type jpg)
-<use ss-overview.jpg>
-Package pdftex.def Info: ss-overview.jpg  used on input line 188.
-(pdftex.def)             Requested size: 431.74432pt x 254.27145pt.
-
 [9
 
- <./ss-overview.jpg>]
-<ss-properties.jpg, id=90, 663.4386pt x 524.1984pt>
-File: ss-properties.jpg Graphic file (type jpg)
-<use ss-properties.jpg>
-Package pdftex.def Info: ss-properties.jpg  used on input line 195.
-(pdftex.def)             Requested size: 388.56725pt x 307.02676pt.
+]
+<ss-overview.jpg, id=89, 1416.29124pt x 834.11626pt>
+File: ss-overview.jpg Graphic file (type jpg)
+<use ss-overview.jpg>
+Package pdftex.def Info: ss-overview.jpg  used on input line 191.
+(pdftex.def)             Requested size: 431.74432pt x 254.27145pt.
  [10
 
- <./ss-properties.jpg>] [11
+ <./ss-overview.jpg>]
+<ss-properties.jpg, id=96, 663.4386pt x 524.1984pt>
+File: ss-properties.jpg Graphic file (type jpg)
+<use ss-properties.jpg>
+Package pdftex.def Info: ss-properties.jpg  used on input line 198.
+(pdftex.def)             Requested size: 388.56725pt x 307.02676pt.
+ [11
 
-] [12
+ <./ss-properties.jpg>] [12
 
 ] [13
 
@@ -893,17 +893,17 @@ Package pdftex.def Info: ss-properties.jpg  used on input line 195.
 ] [15
 
 ]
-<nebula-history.jpg, id=128, 1416.29124pt x 412.54124pt>
-File: nebula-history.jpg Graphic file (type jpg)
-<use nebula-history.jpg>
-Package pdftex.def Info: nebula-history.jpg  used on input line 266.
-(pdftex.def)             Requested size: 431.74432pt x 125.75879pt.
-
 [16
 
- <./nebula-history.jpg>] [17
+]
+<nebula-history.jpg, id=134, 1416.29124pt x 412.54124pt>
+File: nebula-history.jpg Graphic file (type jpg)
+<use nebula-history.jpg>
+Package pdftex.def Info: nebula-history.jpg  used on input line 269.
+(pdftex.def)             Requested size: 431.74432pt x 125.75879pt.
+ [17
 
-] [18
+ <./nebula-history.jpg>] [18
 
 ] [19
 
@@ -911,107 +911,107 @@ Package pdftex.def Info: nebula-history.jpg  used on input line 266.
 
 ] [21
 
-]
-File: ss-origin.jpg Graphic file (type jpg)
-<use ss-origin.jpg>
-Package pdftex.def Info: ss-origin.jpg  used on input line 335.
-(pdftex.def)             Requested size: 215.87216pt x 202.46489pt.
- [22
+] [22
 
 ]
 File: ss-origin.jpg Graphic file (type jpg)
 <use ss-origin.jpg>
-Package pdftex.def Info: ss-origin.jpg  used on input line 335.
+Package pdftex.def Info: ss-origin.jpg  used on input line 338.
 (pdftex.def)             Requested size: 215.87216pt x 202.46489pt.
  [23
 
 ]
-<planetesimals.jpg, id=179, 1416.29124pt x 623.32875pt>
+File: ss-origin.jpg Graphic file (type jpg)
+<use ss-origin.jpg>
+Package pdftex.def Info: ss-origin.jpg  used on input line 338.
+(pdftex.def)             Requested size: 215.87216pt x 202.46489pt.
+ [24
+
+]
+<planetesimals.jpg, id=185, 1416.29124pt x 623.32875pt>
 File: planetesimals.jpg Graphic file (type jpg)
 <use planetesimals.jpg>
-Package pdftex.def Info: planetesimals.jpg  used on input line 349.
+Package pdftex.def Info: planetesimals.jpg  used on input line 352.
 (pdftex.def)             Requested size: 345.39677pt x 152.00829pt.
- [24
+ [25
 
  <./planetesimals.jpg>]
 File: planetesimals.jpg Graphic file (type jpg)
 <use planetesimals.jpg>
-Package pdftex.def Info: planetesimals.jpg  used on input line 349.
+Package pdftex.def Info: planetesimals.jpg  used on input line 352.
 (pdftex.def)             Requested size: 345.39677pt x 152.00829pt.
- [25
+ [26
 
-] [26
+] [27
 
 ]
-<ss-full-history.jpg, id=199, 938.50626pt x 1092.08pt>
+<ss-full-history.jpg, id=205, 938.50626pt x 1092.08pt>
 File: ss-full-history.jpg Graphic file (type jpg)
 <use ss-full-history.jpg>
-Package pdftex.def Info: ss-full-history.jpg  used on input line 372.
+Package pdftex.def Info: ss-full-history.jpg  used on input line 375.
 (pdftex.def)             Requested size: 215.87216pt x 251.18977pt.
- [27
+ [28
 
  <./ss-full-history.jpg>]
-<mercury.jpg, id=206, 308.352pt x 308.352pt>
+<mercury.jpg, id=212, 308.352pt x 308.352pt>
 File: mercury.jpg Graphic file (type jpg)
 <use mercury.jpg>
-Package pdftex.def Info: mercury.jpg  used on input line 389.
+Package pdftex.def Info: mercury.jpg  used on input line 392.
 (pdftex.def)             Requested size: 215.87216pt x 215.87315pt.
-<mercury-relief.jpg, id=207, 1734.48pt x 2312.64pt>
+<mercury-relief.jpg, id=213, 1734.48pt x 2312.64pt>
 File: mercury-relief.jpg Graphic file (type jpg)
 <use mercury-relief.jpg>
-Package pdftex.def Info: mercury-relief.jpg  used on input line 389.
+Package pdftex.def Info: mercury-relief.jpg  used on input line 392.
 (pdftex.def)             Requested size: 172.69508pt x 230.2542pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 389
+LaTeX Font Info:    Trying to load font information for U+msa on input line 392
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 389
+LaTeX Font Info:    Trying to load font information for U+msb on input line 392
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [28
+) [29
 
  <./mercury.jpg> <./mercury-relief.jpg>]
-<mercury-color.jpg, id=216, 1927.2pt x 1084.05pt>
+<mercury-color.jpg, id=222, 1927.2pt x 1084.05pt>
 File: mercury-color.jpg Graphic file (type jpg)
 <use mercury-color.jpg>
-Package pdftex.def Info: mercury-color.jpg  used on input line 406.
+Package pdftex.def Info: mercury-color.jpg  used on input line 409.
 (pdftex.def)             Requested size: 259.04922pt x 145.71187pt.
- [29
+ [30
 
  <./mercury-color.jpg>]
 File: mercury-color.jpg Graphic file (type jpg)
 <use mercury-color.jpg>
-Package pdftex.def Info: mercury-color.jpg  used on input line 406.
-(pdftex.def)             Requested size: 259.04922pt x 145.71187pt.
- [30
-
-]
-File: mercury-color.jpg Graphic file (type jpg)
-<use mercury-color.jpg>
-Package pdftex.def Info: mercury-color.jpg  used on input line 406.
+Package pdftex.def Info: mercury-color.jpg  used on input line 409.
 (pdftex.def)             Requested size: 259.04922pt x 145.71187pt.
  [31
 
 ]
-<mars.jpg, id=236, 4815.9925pt x 4815.9925pt>
-File: mars.jpg Graphic file (type jpg)
-<use mars.jpg>
-Package pdftex.def Info: mars.jpg  used on input line 421.
-(pdftex.def)             Requested size: 237.4607pt x 237.43336pt.
-<mars-statue.jpg, id=237, 2224.31pt x 3885.51625pt>
-File: mars-statue.jpg Graphic file (type jpg)
-<use mars-statue.jpg>
-Package pdftex.def Info: mars-statue.jpg  used on input line 421.
-(pdftex.def)             Requested size: 129.52461pt x 226.2435pt.
+File: mercury-color.jpg Graphic file (type jpg)
+<use mercury-color.jpg>
+Package pdftex.def Info: mercury-color.jpg  used on input line 409.
+(pdftex.def)             Requested size: 259.04922pt x 145.71187pt.
  [32
 
- <./mars.jpg> <./mars-statue.jpg>] [33
+]
+<mars.jpg, id=242, 4815.9925pt x 4815.9925pt>
+File: mars.jpg Graphic file (type jpg)
+<use mars.jpg>
+Package pdftex.def Info: mars.jpg  used on input line 424.
+(pdftex.def)             Requested size: 237.4607pt x 237.43336pt.
+<mars-statue.jpg, id=243, 2224.31pt x 3885.51625pt>
+File: mars-statue.jpg Graphic file (type jpg)
+<use mars-statue.jpg>
+Package pdftex.def Info: mars-statue.jpg  used on input line 424.
+(pdftex.def)             Requested size: 129.52461pt x 226.2435pt.
+ [33
 
-] [34
+ <./mars.jpg> <./mars-statue.jpg>] [34
 
 ] [35
 
@@ -1019,30 +1019,30 @@ Package pdftex.def Info: mars-statue.jpg  used on input line 421.
 
 ] [37
 
+] [38
+
 ]
-<erebus.jpg, id=279, 1850.112pt x 487.0998pt>
+<erebus.jpg, id=285, 1850.112pt x 487.0998pt>
 File: erebus.jpg Graphic file (type jpg)
 <use erebus.jpg>
-Package pdftex.def Info: erebus.jpg  used on input line 474.
+Package pdftex.def Info: erebus.jpg  used on input line 477.
 (pdftex.def)             Requested size: 431.74432pt x 113.66574pt.
- [38
-
- <./erebus.jpg>]
-<venus.jpg, id=286, 4504.83pt x 4015.0pt>
-File: venus.jpg Graphic file (type jpg)
-<use venus.jpg>
-Package pdftex.def Info: venus.jpg  used on input line 493.
-(pdftex.def)             Requested size: 172.69508pt x 153.89488pt.
-<birth-of-venus.jpg, id=287, 1833.09843pt x 1174.3875pt>
-File: birth-of-venus.jpg Graphic file (type jpg)
-<use birth-of-venus.jpg>
-Package pdftex.def Info: birth-of-venus.jpg  used on input line 493.
-(pdftex.def)             Requested size: 215.87216pt x 138.28622pt.
  [39
 
- <./venus.jpg> <./birth-of-venus.jpg>] [40
+ <./erebus.jpg>]
+<venus.jpg, id=293, 4504.83pt x 4015.0pt>
+File: venus.jpg Graphic file (type jpg)
+<use venus.jpg>
+Package pdftex.def Info: venus.jpg  used on input line 496.
+(pdftex.def)             Requested size: 172.69508pt x 153.89488pt.
+<birth-of-venus.jpg, id=294, 1833.09843pt x 1174.3875pt>
+File: birth-of-venus.jpg Graphic file (type jpg)
+<use birth-of-venus.jpg>
+Package pdftex.def Info: birth-of-venus.jpg  used on input line 496.
+(pdftex.def)             Requested size: 215.87216pt x 138.28622pt.
+ [40
 
-] [41
+ <./venus.jpg> <./birth-of-venus.jpg>] [41
 
 ] [42
 
@@ -1050,64 +1050,66 @@ Package pdftex.def Info: birth-of-venus.jpg  used on input line 493.
 
 ] [44
 
+] [45
+
 ]
-<venus-radar.jpg, id=327, 4111.36pt x 4111.36pt>
+<venus-radar.jpg, id=333, 4111.36pt x 4111.36pt>
 File: venus-radar.jpg Graphic file (type jpg)
 <use venus-radar.jpg>
-Package pdftex.def Info: venus-radar.jpg  used on input line 524.
+Package pdftex.def Info: venus-radar.jpg  used on input line 527.
 (pdftex.def)             Requested size: 213.71461pt x 213.67276pt.
- [45
+ [46
 
  <./venus-radar.jpg>]
-<cathedral-fig.jpg, id=334, 752.8125pt x 525.965pt>
+<cathedral-fig.jpg, id=340, 752.8125pt x 525.965pt>
 File: cathedral-fig.jpg Graphic file (type jpg)
 <use cathedral-fig.jpg>
-Package pdftex.def Info: cathedral-fig.jpg  used on input line 543.
+Package pdftex.def Info: cathedral-fig.jpg  used on input line 546.
 (pdftex.def)             Requested size: 237.4607pt x 165.90456pt.
-<earth.jpg, id=335, 722.7pt x 723.1818pt>
+<earth.jpg, id=341, 722.7pt x 723.1818pt>
 File: earth.jpg Graphic file (type jpg)
 <use earth.jpg>
-Package pdftex.def Info: earth.jpg  used on input line 543.
+Package pdftex.def Info: earth.jpg  used on input line 546.
 (pdftex.def)             Requested size: 172.69508pt x 172.80577pt.
 
-[46
+[47
 
- <./cathedral-fig.jpg> <./earth.jpg>] [47
+ <./cathedral-fig.jpg> <./earth.jpg>] [48
 
-] [48
+] [49
 
 ]
-<impact.jpg, id=355, 3011.25pt x 2409.0pt>
+<impact.jpg, id=362, 3011.25pt x 2409.0pt>
 File: impact.jpg Graphic file (type jpg)
 <use impact.jpg>
-Package pdftex.def Info: impact.jpg  used on input line 575.
+Package pdftex.def Info: impact.jpg  used on input line 578.
 (pdftex.def)             Requested size: 259.04922pt x 207.20673pt.
 
-Overfull \vbox (4.73431pt too high) detected at line 575
- []
-
-[49
-
- <./impact.jpg>]
-File: impact.jpg Graphic file (type jpg)
-<use impact.jpg>
-Package pdftex.def Info: impact.jpg  used on input line 575.
-(pdftex.def)             Requested size: 259.04922pt x 207.20673pt.
-
-Overfull \vbox (4.73431pt too high) detected at line 575
+Overfull \vbox (4.73431pt too high) detected at line 578
  []
 
 [50
 
+ <./impact.jpg>]
+File: impact.jpg Graphic file (type jpg)
+<use impact.jpg>
+Package pdftex.def Info: impact.jpg  used on input line 578.
+(pdftex.def)             Requested size: 259.04922pt x 207.20673pt.
+
+Overfull \vbox (4.73431pt too high) detected at line 578
+ []
+
+[51
+
 ]
-<absorption.jpg, id=369, 668.2566pt x 198.0198pt>
+<absorption.jpg, id=375, 668.2566pt x 198.0198pt>
 File: absorption.jpg Graphic file (type jpg)
 <use absorption.jpg>
-Package pdftex.def Info: absorption.jpg  used on input line 597.
+Package pdftex.def Info: absorption.jpg  used on input line 600.
 (pdftex.def)             Requested size: 431.74432pt x 127.9348pt.
- [51
+ [52
 
- <./absorption.jpg>] [52
+ <./absorption.jpg>] [53
 
 ]
 \tf@nav=\write6
@@ -1119,17 +1121,17 @@ Package pdftex.def Info: absorption.jpg  used on input line 597.
 \tf@snm=\write8
 \openout8 = `lecture23.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 620.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 620.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 623.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 623.
  (./lecture23.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 620.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 620.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 623.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 623.
 Package rerunfilecheck Info: File `lecture23.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19058 strings out of 480616
- 363206 string characters out of 5906382
+ 19060 strings out of 480616
+ 363225 string characters out of 5906382
  615560 words of memory out of 6000000
  34362 multiletter control sequences out of 15000+600000
  543841 words of font info for 68 fonts, out of 8000000 for 9000
@@ -1144,10 +1146,10 @@ nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmtt12.pfb>
-Output written on lecture23.pdf (52 pages, 25405706 bytes).
+Output written on lecture23.pdf (53 pages, 25407192 bytes).
 PDF statistics:
- 437 PDF objects out of 1000 (max. 8388607)
- 338 compressed objects within 4 object streams
- 105 named destinations out of 1000 (max. 500000)
+ 443 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
+ 107 named destinations out of 1000 (max. 500000)
  172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
