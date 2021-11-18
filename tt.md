@@ -36,10 +36,10 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 28 Oct | Comparing stars | HW5 due |  | Units 4+5 |  |
 | 2 Nov | <a href="slides/lecture19/lecture19.pdf">Atomic energy levels:<br> absorption and emission</a> | Assign HW6 |  |  |  |
 | 4 Nov | <a href="slides/lecture20/lecture20.pdf">Putting it all together: <br>Spectroscopy</a> | Paper 2 due | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a> |  |  |
-| 9 Nov | <a href="slides/lecture21/lecture21.pdf">Spectroscopy, continued</a> | HW6 due |  |  |  |
-| 11 Nov | <a href="slides/lecture22/lecture22.pdf">Composition of and <br>workings of the Sun</a> |  |  | Units 5+6 |  |
-| 16 Nov | <a href="slides/lecture23/lecture23.pdf">The origin of the Solar System</a> | |  |  |  |
-| 18 Nov | The greenhouse effect |  | The greenhouse effect | Unit 6 retake | Assign HW7 |
+| 9 Nov | <a href="slides/lecture21/lecture21.pdf">Composition of and <br>workings of the Sun</a> | HW6 due |  |  |  |
+| 11 Nov | <a href="slides/lecture22/lecture22.pdf">The formation of <br>stars and planets</a> |  |  | Units 5+6 |  |
+| 16 Nov | <a href="slides/lecture23/lecture23.pdf">The effect of atmospheres on<br>sunlight and planetlight</a> | Assign HW7 |  |  |  |
+| 18 Nov | The greenhouse effect |  | The greenhouse effect | Unit 6+7 |  |
 | 30 Nov | Climate change in depth | HW7 due |  |  |  |
 | 2 Dec | Spaceflight: <br>getting to the Moon |  |  |  |  |
 | 7 Dec | Beyond the Moon: <br>Ad astra per aspera! |  |  |  |  |
