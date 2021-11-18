@@ -39,7 +39,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 9 Nov | <a href="slides/lecture21/lecture21.pdf">Spectroscopy, continued                   </a> | HW6 due |  |  |  |
 | 11 Nov | <a href="slides/lecture22/lecture22.pdf">The nature of the Sun                 </a> |  |  | Units 5+6 |  |
 | 16 Nov | <a href="slides/lecture23/lecture23.pdf">The formation of the<br>Solar System                    </a> | Assign HW7 |  |  |  |
-| 18 Nov | The effect of atmospheres<br>and the greenhouse effect |  |  | Unit 6+7 |  |
+| 18 Nov | <a href="slides/lecture24/lecture24.pdf">The effect of atmospheres<br>and the greenhouse effect</a> |  |  | Unit 6+7 |  |
 | 30 Nov | Climate change in depth |  |  |  |  |
 | 2 Dec | Spaceflight: <br>getting to the Moon |  |  |  |  |
 | 7 Dec | Beyond the Moon: <br>Ad astra per aspera! |  |  |  |  |
