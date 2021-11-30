@@ -11,7 +11,7 @@ You can find all past quizzes on the study guide page, linked above.
 
 ### Current lecture slides:
 
-<a href="slides/lecture23/lecture23.pdf">The origin of the Solar System</a>
+<a href="slides/lecture25/lecture25.pdf">Anthropogenic climate change</a>
 
 
 
