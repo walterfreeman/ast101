@@ -11,7 +11,7 @@ You can find all past quizzes on the study guide page, linked above.
 
 ### Current lecture slides:
 
-<a href="slides/lecture25/lecture25.pdf">Anthropogenic climate change</a>
+<a href="slides/lecture26/lecture26.pdf">To the Moon!</a>
 
 
 
