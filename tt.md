@@ -41,7 +41,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 16 Nov | <a href="slides/lecture23/lecture23.pdf">The formation of the<br>Solar System                    </a> | Assign HW7 |  |  |  |
 | 18 Nov | <a href="slides/lecture24/lecture24.pdf">The effect of atmospheres<br>and the greenhouse effect</a> |  |  | Unit 6+7 |  |
 | 30 Nov | <a href="slides/lecture25/lecture25.pdf">Climate change in depth</a> |  |  |  |  |
-| 2 Dec | Spaceflight: <br>getting to the Moon |  |  |  |  |
+| 2 Dec | <a href="slides/lecture26/lecture26.pdf">Spaceflight: <br>getting to the Moon</a> |  |  |  |  |
 | 7 Dec | Beyond the Moon: <br>Ad astra per aspera! |  |  |  |  |
 | 9 Dec | To the stars: <br>ad astra per aspera!, II |  |  |  |  |
 |===============+=========================================================+=============+=======================+=========================+==============+
