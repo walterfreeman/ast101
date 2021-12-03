@@ -6,6 +6,10 @@ category: top
 use_math: true
 ---
 
+Here is your <a href="tutorials/hw7/hw7.pdf">seventh homework assignment</a>. It is nominally due Friday, December 10, but no credit will be deducted
+for late submissions up until Tuesday, December 14. (This should take you maybe 10-15 minutes to do, but you should look at this as you study
+for your final exam.)
+
 Your sixth homework assignment is included as part of the  <a href="tutorials/spectroscopy/spectroscopy.pdf">exercise on spectroscopy.</a>
 
 Here is your <a href="tutorials/thermal-radiation-homework/thermal-radiation-homework.pdf">fifth homework assignment on light and thermal radiation.</a>

@@ -9,6 +9,8 @@ title: Announcements and Information
 
 You can find all past quizzes on the study guide page, linked above.
 
+<a href="tutorials/hw7/hw7.pdf">Homework 7</a> is available now. It is due on Friday, December 10.
+
 ### Current lecture slides:
 
 <a href="slides/lecture26/lecture26.pdf">To the Moon!</a>
