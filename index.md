@@ -13,7 +13,7 @@ You can find all past quizzes on the study guide page, linked above.
 
 ### Current lecture slides:
 
-<a href="slides/lecture26/lecture26.pdf">To the Moon!</a>
+<a href="slides/lecture27/lecture27.pdf">Ad astra per aspera, (I)</a>
 
 
 
