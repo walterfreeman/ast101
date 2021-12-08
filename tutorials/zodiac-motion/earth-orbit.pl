@@ -13,7 +13,7 @@ arrowhead -3 -2 0 -2
 circ 0 0 0.2
 0.5 -2 "1 year"
 #cm 4
-stickfig 0 1.9 0 2.2
+stickfig 0 1.9 0 1.91
 EOF
 
 $pi=3.14159265;

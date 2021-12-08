@@ -25,13 +25,24 @@ This is particularly true for Unit 1, which is all about geometry.
 
 If you're looking for the past exams with answer keys, here they are:
 
-Quiz 1: <a href="exam1-formAkey.pdf">form A</a>
+**Versions with answers and partial explanations**:
 
-Quiz 1+2: <a href="exam12-formAkey.pdf">form A, with explanations</a>
 
-Quiz 2+34: <a href="exam234-formAkey.pdf">form A, with explanations</a>
+<a href="exam1-formAkey.pdf">Quiz 1</a>
+<a href="exam12-formAkey.pdf">Quiz 2 + 1 retake</a>
+<a href="exam234-formAkey.pdf">Quiz 34 + 2 retake</a>
+<a href="exam345-formAkey.pdf">Quiz 5 + 34 retake</a>
+<a href="exam56-formAkey.pdf">Quiz 6 + 5 retake</a>
+<a href="exam6-formA.pdf">Quiz 6 retake</a>
 
-Quiz 34+5: <a href="exam345-formAkey.pdf">form A, with explanations</a>
+<br><br>
 
-Quiz 5+6: <a href="exam56-formAkey.pdf">form A, with (partial) explanations</a>
+**Versions without answers**, by request:
+
+<a href="exam1-formAkey.pdf">Quiz 1</a>
+<a href="exam12-formAkey.pdf">Quiz 2 + 1 retake</a>
+<a href="exam234-formAkey.pdf">Quiz 34 + 2 retake</a>
+<a href="exam345-formAkey.pdf">Quiz 5 + 34 retake</a>
+<a href="exam56-formAkey.pdf">Quiz 6 + 5 retake</a>
+<a href="exam6-formA.pdf">Quiz 6 retake</a>
 
