@@ -13,7 +13,7 @@ You can find all past quizzes on the study guide page, linked above.
 
 ### Current lecture slides:
 
-<a href="slides/lecture27/lecture27.pdf">Ad astra per aspera, (I)</a>
+<a href="slides/lecture28/lecture28.pdf">Ad astra per aspera, (II)</a>
 
 
 

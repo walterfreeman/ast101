@@ -43,7 +43,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | 30 Nov | <a href="slides/lecture25/lecture25.pdf">Climate change in depth</a> |  |  |  |  |
 | 2 Dec | <a href="slides/lecture26/lecture26.pdf">Spaceflight: <br>getting to the Moon</a> |  |  |  |  |
 | 7 Dec | <a href="slides/lecture27/lecture27.pdf">Beyond the Moon: <br>Ad astra per aspera!</a> |  |  |  |  |
-| 9 Dec | To the stars: <br>ad astra per aspera!, II |  |  |  |  |
+| 9 Dec | <a href="slides/lecture28/lecture28.pdf">To the stars: <br>ad astra per aspera!, II</a> |  |  |  |  |
 |===============+=========================================================+=============+=======================+=========================+==============+
 | 14 Dec | FINAL EXAM: 3pm-5pm |  |  |  |  |
 |---------------+---------------------------------------------------------+-------------+-----------------------+-------------------------+--------------+

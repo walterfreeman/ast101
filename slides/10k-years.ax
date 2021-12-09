@@ -1,0 +1,14 @@
+#h 0.3
+#x -100 0
+#lx Years before present
+
+8 0
+8 5
+#
+8 6 "Barack Obama elected"
+#
+13 0
+13 -5
+#
+13 -6 "US invasion of Iraq"
+
