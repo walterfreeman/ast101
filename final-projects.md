@@ -6,14 +6,15 @@ category: top
 use_math: true
 ---
 
-## Ast101 final project
-
-It will be due on the day of your final, 14 December. So we can start grading sooner, we will offer a small amount of extra credit (equal to half a letter grade) to students who turn theirs in by 10 December.
+This is due on the day of your final, 14 December. So we can start grading sooner, we will offer a small amount of extra credit (equal to half a letter grade) to students who turn theirs in by 10 December.
 
 People doing particularly elaborate things may request extensions, which will be approved on a case-by-case basis, but no later than 21 December.
 
-Some projects will be things that can only be submitted physically (e.g. physical art). Some will be things that can only be submitted digitally (e.g. digital art; web design). We will give you submission
-instructions as we get closer to the end of the term.
+Some projects will be things that can only be submitted physically (e.g. physical art). Some will be things that can only be submitted digitally (e.g. digital art; web design). If your project could be
+submitted either way, you may choose either or both.
+
+You may submit physical copies to us at the final exam, or you may email a copy to <suast101projects@gmail.com>.
+
 
 ### Overview
 
