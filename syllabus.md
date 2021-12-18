@@ -382,7 +382,7 @@ Due dates for these things may change slightly as the semester elapses.
 | Homework                 |                        | 20               |
 |--------------------------|:----------------------:|-----------------:|
 
-This set of items totals 120 points. 
+This set of items totals 130 points. 
 
 Your score will be converted to a percentage and your final grade will be determined from your score as follows:
 
