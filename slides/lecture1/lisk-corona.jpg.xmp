@@ -27,20 +27,20 @@
     </rdf:Alt>
    </dc:rights>
    <dc:subject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>Eclipse</rdf:li>
      <rdf:li>Moon</rdf:li>
      <rdf:li>Solar Eclipse</rdf:li>
      <rdf:li>Sun</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </dc:subject>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>Eclipse</rdf:li>
      <rdf:li>Moon</rdf:li>
      <rdf:li>Solar Eclipse</rdf:li>
      <rdf:li>Sun</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </lr:hierarchicalSubject>
    <darktable:masks_history>
     <rdf:Seq/>

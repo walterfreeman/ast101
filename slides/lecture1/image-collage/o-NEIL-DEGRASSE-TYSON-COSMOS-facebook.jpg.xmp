@@ -21,29 +21,24 @@
      <rdf:li>FOX</rdf:li>
     </rdf:Seq>
    </dc:creator>
-   <dc:description>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">COSMOS: A SPACETIME ODYSSEY: More than three decades after Carl Sagan's groundbreaking and iconic series, "Cosmos: A Personal Voyage," it's time once again to set sail for the stars. Host and astrophysicist Neil deGrasse Tyson sets off on the Ship of the Imagination to discover Earth's Cosmic Address and its coordinates in space and time in the "Standing Up in the Milky Way" Series Premiere episode of COSMOS: A SPACETIME ODYSSEY airing Sunday, March 9, 2014 (9:00-10:00 PM ET/PT) on FOX. (Photo by FOX via Getty Images)</rdf:li>
-    </rdf:Alt>
-   </dc:description>
    <dc:rights>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">2014 FOX</rdf:li>
     </rdf:Alt>
    </dc:rights>
    <dc:subject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>bestof</rdf:li>
      <rdf:li>topics</rdf:li>
      <rdf:li>topix</rdf:li>
      <rdf:li>toppics</rdf:li>
      <rdf:li>toppix</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </dc:subject>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>topics|topix|bestof|toppics|toppix</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </lr:hierarchicalSubject>
    <darktable:masks_history>
     <rdf:Seq/>

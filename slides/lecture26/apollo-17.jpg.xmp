@@ -27,18 +27,18 @@
     </rdf:Alt>
    </dc:description>
    <dc:subject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>APOLLO 17</rdf:li>
      <rdf:li>FLAG</rdf:li>
      <rdf:li>MOON</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </dc:subject>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>APOLLO 17</rdf:li>
      <rdf:li>FLAG</rdf:li>
      <rdf:li>MOON</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </lr:hierarchicalSubject>
    <darktable:masks_history>
     <rdf:Seq/>

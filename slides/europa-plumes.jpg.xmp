@@ -27,14 +27,14 @@
     </rdf:Alt>
    </dc:description>
    <dc:subject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>Europa</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </dc:subject>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
+    <rdf:Bag>
      <rdf:li>Europa</rdf:li>
-    </rdf:Seq>
+    </rdf:Bag>
    </lr:hierarchicalSubject>
    <darktable:masks_history>
     <rdf:Seq/>

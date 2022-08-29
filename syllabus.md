@@ -32,19 +32,11 @@ soon.*
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 
 -   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, in Stolkin Auditorium
--   Office hours: Wednesday 2-4 PM and Friday 9-11 AM, held in room 112 for now
+-   Office hours: Wednesday 2:00-4:00 PM or Fridays 10:00 AM-12:00 PM, in the Physics Clinic, or by appointment; you may visit me any time in my office, room 215.
 -   Course website: http://walterfreeman.github.io/ast101/
-- Teaching assistants:
-    * Patrick Adams, <paadams@syr.edu>, head TA
-    * Tyler Hain, <tahain@syr.edu>
-    * Vincent Musso, <vjmusso@syr.edu>
-    * Kishan Sankharva, <khsankha@syr.edu>
-    * Chad Skerbec, <crskerbe@syr.edu>
-    * Byron Sleight, <bsleight@syr.edu>
-    * Sierra Thomas, <sthoma31@syr.edu>
-    * Vidyesh Rao, <vvaniset@syr.edu>
--   Point of Contact for Registration Issues: Juliette Rawda, <phyacademics@syr.edu>
--   Course Discord server: <https://discord.gg/9DkbcEXjtY>
+- Teaching assistants: FIXME
+-   Point of Contact for Registration Issues: Cassandra Ellis, <phyacademics@syr.edu>
+-   Course Discord server: FIXME
 
 ### Who's who
 
@@ -64,7 +56,7 @@ Contact Walter if:
 * You have a suggestion that will improve your experience in the course as a whole or the lecture portion specifically
 * Something is badly wrong in your lab that your TA can’t fix, or that you don’t feel comfortable discussing with them
 * You will miss a large amount of work
-* You need high-level assistance with anything
+* You need high-level assistance with anything in our class or with the university
 
 #### The TA's
 The lab teaching assistants are PhD students in physics who work as junior instructors as part of their training. 
@@ -85,15 +77,14 @@ during lecture, occasionally during lab, and over the internet and the Discord s
 You can contact them by talking to them during class or lab or on Discord.
 
 Talk to the undergraduate coaches if:
-* You have a question about the tutorials in class, your homework, or your papers
-* You want advice on studying, writing your papers, or anything else!
+* You have a question about the tutorials in class, your homework, or your paper
+* You want advice on studying, writing your paper, or anything else!
 
 #### A note on email
 
-We will receive prodigious amounts of email this semester and will sometimes get behind on answering mail. Please help us out! There are two things you can do:
+We will receive prodigious amounts of email this semester and will sometimes get behind on answering mail. Please help us out! There are a few things you can do:
 
-1. If you have a question that might apply to other students and are on Discord, please ask there
- instead of sending it as an email. You will get a quicker answer there, and other people will benefit.
+1. If you have a question that might apply to other students and are on Discord, please ask there instead of sending it as an email. You will get a quicker answer there, and other people will benefit.
 
 2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a subject line of "Lab" -- tell me what your issue is with your lab!
 
@@ -170,27 +161,15 @@ As part of this philosophy, I welcome your input. If there is some aspect of ast
 <a id="health"></a>
 ---
 
-### Public Health
-
-* Wear a mask during class if required by the University. If it is not required, but there is still a significant
-number of COVID cases on campus, we still highly encourage you to do so except when you are speaking.
-
-* If you forget your mask, we will likely have extras for you. Please ask. 
-
 #### What to do if you’re seriously sick
 If you have an illness or injury that interferes with your ability to do work in our class, talk to us! The Center for Disability Resources also helps students with short-term injuries and illnesses -- concussions, broken bones, etc. If you are sick or hurt, we will work with you and with CDR to do whatever we can to accommodate your condition. 
 
 If you are too sick to come to class, or have COVID-19 or another condition
-that is highly contagious,
-we want you to focus on taking care of yourself rather than on physics classes. 
-This is in part why we allow you to "try again" when it comes to your quiz topics: 
-if you are sick the first time a topic appears on the quiz, then you will have a 
-second chance to demonstrate your proficiency.
+that is highly contagious, we want you to focus on taking care of yourself. (The stars will still be there later.) 
+Please contact the Barnes Center for advice; they will send me a note saying that you are sick.
 
-If you miss a large amount of class (two weeks or more) for a reason beyond your control, 
-you may be eligible to take an “incomplete grade” in the course.
+If you miss a large amount of class (two weeks or more) for a reason beyond your control, you may be eligible to take an “incomplete grade” in the course.
 This is a “grade pending” status that means that you were not able to finish all your work during the semester. Once you finish up your work in the spring, we can go back and give you your final grade.
-If you are unable to come to class for an extended period because of COVID-19, this is likely how we will resolve the situation if you miss too much of class.
 
 If you think you might need to use this option, it is important to talk to us as early as possible so we can discuss arrangements. In general, only students who have completed a meaningful amount of classwork with a passing grade are eligible to take an incomplete.
 
@@ -234,22 +213,6 @@ This course focuses mostly on the astronomy of the solar system, and is divided 
 ### Learning Objectives
 
 A more detailed version of the <a href="learning-objectives.html">learning objectives for this class</a> is on a separate page.
-
-In short, after this class, you will be able to...
-
-* describe the characteristics of scientific thought and recognize sound and unsound science
-* write articulate criticism of unsound science
-* discuss astronomy's connection to the arts and humanities
-* predict how things move in the sky based on knowledge of how they move in space
-* describe the history of the development of the modern view of the solar system
-* use Kepler's laws of motion and Newton's laws of mechanics to analyze and predict the motions of planets
-* relate an object's chemical composition and temperature to the spectrum of the light it emits
-* describe the basic properties and histories of the planets, and the role of atmospheres in determining their climate
-* speak articulately about the mechanisms behind anthropogenic climate change and the evidence for it
-* describe the past, present, and possible future of spaceflight
-
-
-<a id="activities"></a>
 
 ---
 
@@ -309,10 +272,10 @@ Some of you, at some point in the semester, will probably ask me for extra credi
 #### Labs
 <a id="labs"></a>
 AST101 satisfies the laboratory course requirement of the liberal arts core and so it has a lab component.
- Many important course activities take place in the laboratories, and so attendance at the lab sections is required. 
+Many important course activities take place in the laboratories, and so attendance at the lab sections is required. 
 There is also a take-home lab that you complete by making observations of the Sun and/or the Moon over a period of several weeks.
 Because the labs are a crucial element of the course, no student may receive a final grade for the course more than one letter grade
-above their lab average. (That is, if you get a D for the lab, the highest grade you can get for the class is a C.)
+above their lab average. (That is, if you get a D average for the lab, the highest grade you can get for the class is a C.)
 
 There will also be several take-home labs, which are similar in character to homework, assigned during the semester. 
 
@@ -348,9 +311,6 @@ We're very willing to work with and around problems that you may encounter in he
 class; please let us know if something is going on that requires special accommodations. However, by default, this is the expectation.
 
 
-
-<a id="grading"></a>
-
 ---
 
 ### Grading
@@ -361,6 +321,31 @@ final exam.
 For each of the first six units, you will have multiple opportunities to demonstrate your proficiency. We will use only the highest score. 
 
 We will omit your lowest homework grade and your lowest lab grade. 
+
+
+Unit 1:
+
+* Motion of stars in the sky (homework quiz)
+* Changing seasons (homework quiz)
+* Moon phases (lab quiz)
+
+
+Unit 2:
+
+* Kepler's second law motion (homework quiz)
+* Phases of Venus (lab quiz)
+
+
+Unit 3:
+
+* Thermal radiation (homework quiz)
+* Spectroscopy (homework quiz)
+
+
+Unit 4:
+
+* Blackbody radiation (homework quiz)
+* 
 
 
 
@@ -416,6 +401,15 @@ multiple resources available for you -- the Writing Center, and a few coaches wh
 ### Academic integrity
 
 Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns those who seek her". Our class's theme is a variant on this: "Science allows us to
+* **We are not looking for perfection; we are looking for insight.** I am aware that many of you speak English as a second language. Don’t worry about your English skills; I want to know what you think. If you need help with your writing, we have 
+multiple resources available for you -- the Writing Center, and a few coaches who have specialized skills in helping students with their writing. 
+
+---
+<a id="policy"></a>
+
+### Academic integrity
+
+Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns those who seek her". Our class's theme is a variant on this: "Science allows us to
 write our own future." The most valuable thing you will gain from your education here isn't a degree or a bunch of marks on your transcript: it is the power to influence your world that you will gain from the things you learn.
 
 As such, if you pass off someone else's work as your own in this class, you are cheating yourself out of the value of education itself. 
@@ -446,15 +440,6 @@ Instead, you should collaborate with your classmates or ask one of your instruct
 on Discord. 
 We will almost certainly be more helpful than anonymous people over the internet in helping you learn the material and gain skills and understanding. 
 It is an extremely serious breach of academic integrity to solicit or use solutions from Chegg or similar, 
-since this also facilitates the academic dishonesty of others.
-
-
-
----
-
-### Students with disabilities
-
-If you believe that you need accommodations for a disability, please contact the Center for Disability Resources (CDR)
 at <a href="http://disabilityservices.syr.edu">disabilityservices.syr.edu</a>, located in Room 309 of 8047 University Avenue, or call (315) 443-4498, TDD: (315) 443-1371 for an appointment to discuss your needs and the process for requesting accommodations. CDR is responsible for coordinating disability-related accommodations and will issue students with documented Disabilities Accommodation Authorization Letters, as appropriate. Since accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible.
 
 **CDR also helps students with short-term injuries**. If you have a concussion, a broken hand, or the like, *please let us know* so we can help you.
