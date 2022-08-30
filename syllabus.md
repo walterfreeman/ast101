@@ -259,14 +259,14 @@ the things in them. If you still have questions, please ask in class or in the P
 #### Homework
 
 There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; 
-we expect that you will finish the tutorial in class, and then work on the homework at home. Instead of turning in homework, we
-will have brief "homework quizzes" in class: on the day the homework is due, we will give you a short quiz that will be very 
-similar to what you did on your homework. 
+we expect that you will finish the tutorial in class, and then work on the homework at home. 
+Instead of turning in homework, we will sometimes have brief "homework quizzes" in class: 
+on the day the homework is due, we will give you a short quiz that will be very similar to what you did on your homework. 
 
 #### Exams
 
-We will have three midterm exams on each of the first three units and a final exam. These exams will be partly multiple choice and 
-partly free-response, and will cover things from lecture, the tutorials and homework, and the labs.
+We will have three midterm exams on each of the first three units and a final exam. 
+These exams will be partly multiple choice and partly free-response, and will cover things from lecture, the tutorials and homework, and the labs.
 
 
 #### Paper and Project
@@ -315,20 +315,18 @@ class; please let us know if something is going on that requires special accommo
 
 Due dates for these things may change slightly as the semester elapses.
 
-| Item                     |            Date        | Points           |
-|--------------------------|:----------------------:|-----------------:|
-| Homework Quiz            | September 15           | 20               |
-| Exam 1                   | September 27           | 20               |
-| Exam 2                   | October 18             | 30               |
-| Exam 3                   | November 8             | 30               |
-| Final Exam               | December 13            | 60               |
-| Paper                    | November 3             | 30               |
-| Final project            | December 6-13          | 30               |
-| Labs                     | Throughout the semester| 5 each           |
-| Weekly checkins          |                        | 2 each           |
-|--------------------------|:----------------------:|-----------------:|
-
-This set of items totals 130 points. 
+| Item                     |            Date        | Points (approximate)|
+|--------------------------|:----------------------:|--------------------:|
+| Homework Quizzes         | Throughout             | 30 each             |
+| Exam 1                   | September 27           | 80                  |
+| Exam 2                   | October 18             | 80                  |
+| Exam 3                   | November 8             | 80                  |
+| Final Exam               | December 13            | 120                 |
+| Paper                    | November 3             | 80                  |
+| Final project            | December 6-13          | 80                  |
+| Labs                     | Throughout the semester| 25 each             |
+| Weekly checkins          | Weekly                 | 3 each              |
+|--------------------------|:----------------------:|--------------------:|
 
 Your score will be converted to a percentage and your final grade will be determined from your score as follows:
 
@@ -347,21 +345,12 @@ Your score will be converted to a percentage and your final grade will be determ
 
 #### Papers 
 
-The papers will be graded out of ten points, although there is no fixed maximum value for your grade; exceptional work will get substantial extra credit. (Both Dr. Freeman and the lab TA's will be helping grade the papers.)
+The paper will be graded out of ten points, although there is no fixed maximum value for your grade; exceptional work will get substantial extra credit. (Both Dr. Freeman and the lab TA's will be helping grade the papers.)
 We will be grading on the basis of:
 
 * astronomical insight and factual correctness
 * clarity of writing, including correct use of astronomical terminology. Note that we will not penalize students for spelling or minor grammar issues, and will be particularly lenient to students who have not lived for long in an English-speaking country. I’m more interested in whether your ideas fit together to tell a coherent story.
 * ambition and creativity
-* **We are not looking for perfection; we are looking for insight.** I am aware that many of you speak English as a second language. Don’t worry about your English skills; I want to know what you think. If you need help with your writing, we have 
-multiple resources available for you -- the Writing Center, and a few coaches who have specialized skills in helping students with their writing. 
-
----
-<a id="policy"></a>
-
-### Academic integrity
-
-Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns those who seek her". Our class's theme is a variant on this: "Science allows us to
 * **We are not looking for perfection; we are looking for insight.** I am aware that many of you speak English as a second language. Don’t worry about your English skills; I want to know what you think. If you need help with your writing, we have 
 multiple resources available for you -- the Writing Center, and a few coaches who have specialized skills in helping students with their writing. 
 
@@ -382,6 +371,8 @@ all work you submit must reflect your own understanding.
 We may impose a grade sanction up to course failure for any instance of academic dishonesty. 
 Syracuse University’s Academic Integrity Policy governs general expectations for students and is incorporated into this syllabus by reference. 
 
+
+
 For your homework quizzes, you may use your homework as reference, so long as you did your homework yourself. If you have a disability that interferes with 
 this, you may prepare your homework using a computer, so long as you do it yourself. 
 
@@ -401,13 +392,16 @@ Instead, you should collaborate with your classmates or ask one of your instruct
 on Discord. 
 We will almost certainly be more helpful than anonymous people over the internet in helping you learn the material and gain skills and understanding. 
 It is an extremely serious breach of academic integrity to solicit or use solutions from Chegg or similar, 
-at <a href="http://disabilityservices.syr.edu">disabilityservices.syr.edu</a>, located in Room 309 of 8047 University Avenue, or call (315) 443-4498, TDD: (315) 443-1371 for an appointment to discuss your needs and the process for requesting accommodations. CDR is responsible for coordinating disability-related accommodations and will issue students with documented Disabilities Accommodation Authorization Letters, as appropriate. Since accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible.
 
-**CDR also helps students with short-term injuries**. If you have a concussion, a broken hand, or the like, *please let us know* so we can help you.
 
-More generally, if there is anything I can do to help you, whether it is related to a disability, a medical condition, or anything else, please let me know. I have an excellent working relationship with CDR and will do anything in my power to make your experience in my class a good one.
+### Students with disabilities and other access challenges
+Syracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. If there are aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course, please contact us to discuss accommodations we can make to ensure that the class is accessible to you, or collaborate with the Center for Disability Resources (CDR) in this process.
 
----
+If you would like to discuss disability-related accommodations with CDR, please visit their website at disabilityservices.syr.edu, visit them in person in Room 309 of 8047 University Avenue, or call (315) 443-4498, TDD: (315) 443-1371 for an appointment to discuss your needs and the process for requesting accommodations. CDR is responsible for coordinating disability-related accommodations. Since accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible.
+
+CDR is one of the most helpful offices on campus. They coordinate academic accommodations to students who have short-term illnesses (physical or mental). If you are injured or ill and need academic accommodations beyond short-term due date extensions for AST101, we will likely design those accommodations for you in collaboration with CDR.
+
+If there are other things presenting access challenges to you in our class – family situations, health challenges, etc. – please talk to me as soon as possible. We will do whatever we must to ensure that you have every opportunity to gain skills in astronomy and be assessed on those skills fairly.
 
 ### Copyright
 
@@ -435,5 +429,5 @@ serving as a poll worker, or the like – will be given this same deference.
 
 If you must miss your lab because of a solemn observance, social or political activism, illness or injury, or academic conflict, please discuss this with your group and arrange to attend at a different time that week. 
 
-If you miss an exam for such a reason, then we will arrange an alternate opportunity for you to demonstrate proficiency on that material.
+If you miss an exam or homework quiz for such a reason, then we will arrange an alternate opportunity for you to demonstrate proficiency on that material.
 
