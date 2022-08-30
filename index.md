@@ -7,9 +7,17 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+Welcome to our class! I'll be adding more material to the website as we need it. Note that you can find links to all of the past lecture 
+slides, along with approximate dates for everything and a semester plan, under the "Calendar" tab (computer) or menu item (mobile).
+
 ### Current lecture slides:
 
 <a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a>
+
+
+### Welcome survey
+
+Please complete the <a href="https://docs.google.com/forms/d/1rppZHcxn6vuiWrEs9eRq4aEF4onvY9xRGrSZjNx0ZNo/">welcome survey</a> before Friday.
 
 
 

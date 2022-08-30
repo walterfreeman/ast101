@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.8.29)  30 AUG 2022 00:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.8.29)  30 AUG 2022 01:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -944,43 +944,37 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./lecture1-2022.nav) [1
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<discord-qr-code.png, id=38, 72.27pt x 72.27pt>
-File: discord-qr-code.png Graphic file (type png)
-<use discord-qr-code.png>
-Package pdftex.def Info: discord-qr-code.png  used on input line 175.
-(pdftex.def)             Requested size: 192.16843pt x 192.17949pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 175
+<website-qr-code.png, id=38, 301.125pt x 301.125pt>
+File: website-qr-code.png Graphic file (type png)
+<use website-qr-code.png>
+Package pdftex.def Info: website-qr-code.png  used on input line 180.
+(pdftex.def)             Requested size: 219.61867pt x 219.62643pt.
+ [2
+
+ <./website-qr-code.png>]
+<blue-marble.jpg, id=50, 1284.8pt x 1285.80376pt>
+File: blue-marble.jpg Graphic file (type jpg)
+<use blue-marble.jpg>
+Package pdftex.def Info: blue-marble.jpg  used on input line 215.
+(pdftex.def)             Requested size: 197.65546pt x 197.80641pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 215
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 175
+LaTeX Font Info:    Trying to load font information for U+msb on input line 215
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<website-qr-code.png, id=40, 301.125pt x 301.125pt>
-File: website-qr-code.png Graphic file (type png)
-<use website-qr-code.png>
-Package pdftex.def Info: website-qr-code.png  used on input line 175.
-(pdftex.def)             Requested size: 192.16843pt x 192.17714pt.
- [2
-
- <./discord-qr-code.png> <./website-qr-code.png>]
-<blue-marble.jpg, id=53, 1284.8pt x 1285.80376pt>
-File: blue-marble.jpg Graphic file (type jpg)
-<use blue-marble.jpg>
-Package pdftex.def Info: blue-marble.jpg  used on input line 210.
-(pdftex.def)             Requested size: 197.65546pt x 197.80641pt.
- [3
+) [3
 
  <./blue-marble.jpg>]
-<chiricahua-small.jpg, id=61, 578.16pt x 385.1991pt>
+<chiricahua-small.jpg, id=57, 578.16pt x 385.1991pt>
 File: chiricahua-small.jpg Graphic file (type jpg)
 <use chiricahua-small.jpg>
-Package pdftex.def Info: chiricahua-small.jpg  used on input line 224.
+Package pdftex.def Info: chiricahua-small.jpg  used on input line 229.
 (pdftex.def)             Requested size: 329.4364pt x 219.48347pt.
  [4
 
@@ -991,38 +985,39 @@ Package pdftex.def Info: chiricahua-small.jpg  used on input line 224.
 ] [7
 
 ]
-<trollface.png, id=91, 642.4pt x 522.753pt>
+<trollface.png, id=88, 642.4pt x 522.753pt>
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 352.
+Package pdftex.def Info: trollface.png  used on input line 357.
 (pdftex.def)             Requested size: 164.7182pt x 134.03807pt.
  [8
 
  <./trollface.png>]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 352.
+Package pdftex.def Info: trollface.png  used on input line 357.
 (pdftex.def)             Requested size: 164.7182pt x 134.03807pt.
  [9
 
 ]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 352.
+Package pdftex.def Info: trollface.png  used on input line 357.
 (pdftex.def)             Requested size: 164.7182pt x 134.03807pt.
  [10
 
 ]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 352.
+Package pdftex.def Info: trollface.png  used on input line 357.
 (pdftex.def)             Requested size: 164.7182pt x 134.03807pt.
- [11
+
+[11
 
 ]
 File: trollface.png Graphic file (type png)
 <use trollface.png>
-Package pdftex.def Info: trollface.png  used on input line 352.
+Package pdftex.def Info: trollface.png  used on input line 357.
 (pdftex.def)             Requested size: 164.7182pt x 134.03807pt.
  [12
 
@@ -1032,8 +1027,7 @@ Package pdftex.def Info: trollface.png  used on input line 352.
 
 ] [15
 
-]
-[16
+] [16
 
 ] [17
 
@@ -1044,42 +1038,32 @@ Package pdftex.def Info: trollface.png  used on input line 352.
 ] [20
 
 ]
-<collage.jpg, id=175, 5018.75pt x 3011.25pt>
-File: collage.jpg Graphic file (type jpg)
-<use collage.jpg>
-Package pdftex.def Info: collage.jpg  used on input line 479.
-(pdftex.def)             Requested size: 549.05508pt x 329.4006pt.
+<lisk-corona.jpg, id=172, 1204.5pt x 804.00375pt>
+File: lisk-corona.jpg Graphic file (type jpg)
+<use lisk-corona.jpg>
+Package pdftex.def Info: lisk-corona.jpg  used on input line 494.
+(pdftex.def)             Requested size: 439.24574pt x 293.19518pt.
 
-Overfull \vbox (16.30954pt too high) detected at line 479
+Overfull \vbox (1.35411pt too high) detected at line 494
  []
 
 [21
 
- <./collage.jpg>]
-<lisk-corona.jpg, id=182, 1204.5pt x 804.00375pt>
-File: lisk-corona.jpg Graphic file (type jpg)
-<use lisk-corona.jpg>
-Package pdftex.def Info: lisk-corona.jpg  used on input line 489.
-(pdftex.def)             Requested size: 439.24574pt x 293.19518pt.
+ <./lisk-corona.jpg>]
+<viralclimber1.jpeg, id=181, 444.15938pt x 295.85532pt>
+File: viralclimber1.jpeg Graphic file (type jpg)
+<use viralclimber1.jpeg>
+Package pdftex.def Info: viralclimber1.jpeg  used on input line 508.
+(pdftex.def)             Requested size: 439.24574pt x 292.58165pt.
 
-Overfull \vbox (1.35411pt too high) detected at line 489
+Overfull \vbox (25.49059pt too high) detected at line 508
  []
 
 [22
 
- <./lisk-corona.jpg>]
-<viralclimber1.jpeg, id=191, 444.15938pt x 295.85532pt>
-File: viralclimber1.jpeg Graphic file (type jpg)
-<use viralclimber1.jpeg>
-Package pdftex.def Info: viralclimber1.jpeg  used on input line 503.
-(pdftex.def)             Requested size: 439.24574pt x 292.58165pt.
+ <./viralclimber1.jpeg>] [23
 
-Overfull \vbox (25.49059pt too high) detected at line 503
- []
-
-[23
-
- <./viralclimber1.jpeg>] [24
+] [24
 
 ] [25
 
@@ -1093,56 +1077,56 @@ Overfull \vbox (25.49059pt too high) detected at line 503
 
 ] [30
 
-] [31
-
 ]
-<alma-star-trails.jpg, id=251, 3685.77pt x 2699.08376pt>
+<alma-star-trails.jpg, id=240, 3685.77pt x 2699.08376pt>
 File: alma-star-trails.jpg Graphic file (type jpg)
 <use alma-star-trails.jpg>
-Package pdftex.def Info: alma-star-trails.jpg  used on input line 595.
+Package pdftex.def Info: alma-star-trails.jpg  used on input line 600.
 (pdftex.def)             Requested size: 274.52754pt x 201.02226pt.
- [32
+ [31
 
  <./alma-star-trails.jpg>]
-<kep6.png, id=258, 540.0175pt x 504.88625pt>
+<kep6.png, id=248, 540.0175pt x 504.88625pt>
 File: kep6.png Graphic file (type png)
 <use kep6.png>
-Package pdftex.def Info: kep6.png  used on input line 619.
+Package pdftex.def Info: kep6.png  used on input line 624.
 (pdftex.def)             Requested size: 274.52754pt x 256.67195pt.
- [33
+ [32
 
  <./kep6.png>]
 File: kep6.png Graphic file (type png)
 <use kep6.png>
-Package pdftex.def Info: kep6.png  used on input line 619.
+Package pdftex.def Info: kep6.png  used on input line 624.
 (pdftex.def)             Requested size: 274.52754pt x 256.67195pt.
- [34
+ [33
 
 ]
 File: kep6.png Graphic file (type png)
 <use kep6.png>
-Package pdftex.def Info: kep6.png  used on input line 619.
+Package pdftex.def Info: kep6.png  used on input line 624.
 (pdftex.def)             Requested size: 274.52754pt x 256.67195pt.
- [35
+ [34
 
 ]
-<blackbody-spectrum.png, id=278, 501.875pt x 463.7325pt>
+<blackbody-spectrum.png, id=268, 501.875pt x 463.7325pt>
 File: blackbody-spectrum.png Graphic file (type png)
 <use blackbody-spectrum.png>
-Package pdftex.def Info: blackbody-spectrum.png  used on input line 644.
+Package pdftex.def Info: blackbody-spectrum.png  used on input line 649.
 (pdftex.def)             Requested size: 274.52754pt x 253.67384pt.
- [36
+ [35
 
  <./blackbody-spectrum.png>]
-<moonshorty_apollo17_1498.jpg, id=286, 1503.6175pt x 762.85pt>
+<moonshorty_apollo17_1498.jpg, id=276, 1503.6175pt x 762.85pt>
 File: moonshorty_apollo17_1498.jpg Graphic file (type jpg)
 <use moonshorty_apollo17_1498.jpg>
-Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 666.
+Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 671.
 (pdftex.def)             Requested size: 384.33687pt x 194.98396pt.
 
-[37
+[36
 
- <./moonshorty_apollo17_1498.jpg>] [38
+ <./moonshorty_apollo17_1498.jpg>] [37
+
+] [38
 
 ] [39
 
@@ -1154,10 +1138,10 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 666.
 
 ] [43
 
-] [44
-
 ]
-[45
+[44
+
+] [45
 
 ] [46
 
@@ -1185,10 +1169,10 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 666.
 
 ] [58
 
-] [59
-
 ]
-[60
+[59
+
+] [60
 
 ] [61
 
@@ -1212,8 +1196,6 @@ Package pdftex.def Info: moonshorty_apollo17_1498.jpg  used on input line 666.
 
 ] [71
 
-] [72
-
 ]
 \tf@nav=\write6
 \openout6 = `lecture1-2022.nav'.
@@ -1230,11 +1212,11 @@ Package rerunfilecheck Info: File `lecture1-2022.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21905 strings out of 478855
- 405564 string characters out of 5858635
- 735997 words of memory out of 6000000
- 38897 multiletter control sequences out of 15000+600000
- 416941 words of font info for 80 fonts, out of 8000000 for 9000
+ 21884 strings out of 478855
+ 405221 string characters out of 5858635
+ 735832 words of memory out of 6000000
+ 38881 multiletter control sequences out of 15000+600000
+ 416604 words of font info for 78 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  128i,15n,126p,437b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
@@ -1248,13 +1230,12 @@ ublic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on lecture1-2022.pdf (72 pages, 13802266 bytes).
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on lecture1-2022.pdf (71 pages, 10738931 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 145 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 587 PDF objects out of 1000 (max. 8388607)
+ 465 compressed objects within 5 object streams
+ 143 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
