@@ -46,8 +46,7 @@ soon.*
   - Lindsay Wilson
 
 -   Point of Contact for Registration Issues: Kristine Weisblatt, <phyacademics@syr.edu>
--   Course Discord server: 
-  - Invite link shared via Blackboard for security reasons 
+  - Discord server invite link shared via Blackboard for security reasons 
 
 ### Who's who
 
@@ -99,8 +98,11 @@ We will receive prodigious amounts of email this semester and will sometimes get
 
 2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a subject line of "Lab" -- tell me what your issue is with your lab!
 
-We will try to answer all messages within 24 hours. If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail and
+We will try to answer all messages that need a reply within 24 hours. 
+If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail and
 we sometimes get behind.) In particular, on the day of an exam, I am only able to answer the most urgent emails. 
+
+
 
 ---
 
@@ -311,22 +313,19 @@ class; please let us know if something is going on that requires special accommo
 
 ### Grading
 
-
-
-
-
 Due dates for these things may change slightly as the semester elapses.
 
 | Item                     |            Date        | Points           |
 |--------------------------|:----------------------:|-----------------:|
-| Exam 1                   |                        | 5                |
-| Exam 2                   |                        | 5                |
-| Exam 3                   |                        | 5                |
-| Final Exam               |                        | 20               |
-| Paper                    |                        | 10               |
-| Final project            |                        | 10               |
-| Labs                     |                        | 30               |
-| Homework                 |                        | 20               |
+| Homework Quiz            | September 15           | 20               |
+| Exam 1                   | September 27           | 20               |
+| Exam 2                   | October 18             | 30               |
+| Exam 3                   | November 8             | 30               |
+| Final Exam               | December 13            | 60               |
+| Paper                    | November 3             | 30               |
+| Final project            | December 6-13          | 30               |
+| Labs                     | Throughout the semester| 5 each           |
+| Weekly checkins          |                        | 2 each           |
 |--------------------------|:----------------------:|-----------------:|
 
 This set of items totals 130 points. 
