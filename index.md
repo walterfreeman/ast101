@@ -18,6 +18,7 @@ slides, along with approximate dates for everything and a semester plan, under t
 ### Welcome survey
 
 Please complete the <a href="https://docs.google.com/forms/d/1rppZHcxn6vuiWrEs9eRq4aEF4onvY9xRGrSZjNx0ZNo/">welcome survey</a> before Friday.
+This will let me learn a little bit about you -- and what you hope to get out of our class!
 
 
 
