@@ -16,7 +16,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 
 | Date          | Topics                                                  | Assignments | Tutorials             |  Readings     |
 |:-------------:|:-------------------------------------------------------:|:-----------:|:---------------------:|-:------------:|
-| August 30 | Introduction to astronomy |  |  |  |
+| August 30 | <a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a> |  |  |  |
 | September 1 | The celestial sphere; apparent motion of the sky | HW1 assigned | Celestial Sphere |  |
 | September 6 | The Celestial Sphere II / What is a day? |  | What is a Day? |  |
 | September 8 | The revolving Earth: the Sun and the Zodiac | HW2 assigned | The Zodiac |  |

@@ -2,7 +2,6 @@
 layout: page
 title: Study Guides 
 permalink: finalstudy.html 
-category: top
 use_math: true
 ---
 

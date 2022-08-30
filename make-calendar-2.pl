@@ -23,7 +23,7 @@ while (<Sched>)
       if (-e "slides/lecture$day/lecture$day-2022.pdf")
       {
 	  print STDERR "FOUND SLIDES $day\n";
-      	  $topic[$line]="<a href=\"slides/lecture$day/lecture$day.pdf\">$topic[$line]</a>";
+      	  $topic[$line]="<a href=\"slides/lecture$day/lecture$day-2022.pdf\">$topic[$line]</a>";
       }
       if (-e "tutorials/$tutname[$line]/$tutname[$line].pdf")
       {
