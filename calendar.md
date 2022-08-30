@@ -16,8 +16,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 
 | Date          | Topics                                                  | Assignments | Tutorials             |  Readings     |
 |:-------------:|:-------------------------------------------------------:|:-----------:|:---------------------:|-:------------:|
-| August 30 | <a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a> |  |  |  |
-| September 1 | The celestial sphere; apparent motion of the sky | HW1 assigned | Celestial Sphere |  |
+| August 30 | <a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a> |  |  | |
+| September 1 | The celestial sphere; apparent motion of the sky | HW1 assigned | Celestial Sphere |  <a href="https://openstax.org/books/astronomy/pages/1-introduction">Chapter 1</a> |
 | September 6 | The Celestial Sphere II / What is a day? |  | What is a Day? |  |
 | September 8 | The revolving Earth: the Sun and the Zodiac | HW2 assigned | The Zodiac |  |
 | September 13 | Consequences of the Earth's tilt: the seasons |  |  |  |
