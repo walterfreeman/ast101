@@ -2,7 +2,6 @@
 layout: page
 title: Homework
 permalink: homework.html
-category: top
 use_math: true
 ---
 
