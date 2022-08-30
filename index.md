@@ -9,7 +9,7 @@ title: Announcements and Information
 
 ### Current lecture slides:
 
-<a href="slides/lecture28/lecture28.pdf">Ad astra per aspera, (II)</a>
+<a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a>
 
 
 
@@ -18,16 +18,19 @@ title: Announcements and Information
 Teaching staff:
 
 * Walter Freeman, <wafreema@syr.edu>, professor
-  * Physics Building 215
-  * Office (help/discussion) hours: Wednesday 2-4 PM, Friday 9-11 AM, or by drop-in (I'm often here)
+  * Office (help/discussion) hours: Monday 10 AM-12 PM or Wednesday 2-4 PM in room 112, or drop in to my office at room 215
 
 * Graduate teaching assistants:
+  - Nada Nabil Elsayed Elmeigy
+  - Keisi Kacanja
+  - Chandler Martin
+  - Chad Skerbec
+  - Byron Sleight
+  - Sierra Thomas
+  - Dylan Van Allen
+  - Lindsay Wilson
     
-* Kiersten Edwards, <kedwar03@syr.edu>, writing coach, and other peer coaches 
-
 <br>
-
-Link to course Discord server: <https://discord.gg/9DkbcEXjtY>
 
 
 <a href="cards.html">Forget your response cards?</a>
@@ -36,5 +39,5 @@ Link to course Discord server: <https://discord.gg/9DkbcEXjtY>
 
 <a href="stellarium-mac.html">Trying to install Stellarium on a Mac?</a>
 
-<center> <img src="solar-spectrum.jpg">
+<center> <img src="darkened-milky-way.jpg">
 <br>
