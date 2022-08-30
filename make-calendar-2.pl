@@ -1,4 +1,4 @@
-open Sched,"schedule.tsv";
+open Sched,"schedule2022.tsv";
 
 <Sched>;
 
@@ -14,13 +14,13 @@ while (<Sched>)
   $hw[$line]=$w[2];
   $tut[$line]=$w[3];
   $read[$line]=$w[4];
-  $labs[$line]=$w[5];
+  $labtopic[$line]=$w[5];
   $quiz[$line]=$w[6];
   $tutname[$line]=$w[7];
 
   unless ($topic[$line] =~ /EXAM/)
   {
-      if (-e "slides/lecture$day/lecture$day.pdf")
+      if (-e "slides/lecture$day/lecture$day-2022.pdf")
       {
 	  print STDERR "FOUND SLIDES $day\n";
       	  $topic[$line]="<a href=\"slides/lecture$day/lecture$day.pdf\">$topic[$line]</a>";
@@ -32,7 +32,7 @@ while (<Sched>)
       
     $day++;
   }
-  print STDERR "Read a line: date $date[$line], topiclink $topic[$line], hw $hw[$line], tutorial $tut[$line], reading $read[$line], lab $labs[$line], quiz $quiz[$line]\n";
+  print STDERR "Read a line: date $date[$line], topiclink $topic[$line], hw $hw[$line], tutorial $tut[$line], reading $read[$line]\n";
   $line++;
 }
 
@@ -57,16 +57,16 @@ You should read the pages listed in the textbook **before** class. The pages in 
 END
 
 
-print "| Date          | Topics                                                  | Assignments | Tutorials             | Quiz                    | Readings     |\n";
-print "|:-------------:|:-------------------------------------------------------:|:-----------:|:---------------------:|:-----------------------:|:------------:|\n";
+print "| Date          | Topics                                                  | Assignments | Tutorials             |  Readings     |\n";
+print "|:-------------:|:-------------------------------------------------------:|:-----------:|:---------------------:|-:------------:|\n";
 
 for ($line=0; $line<@date; $line++)
 {
   if ($topic[$line] =~ /FINAL/)
   {
-print "|===============+=========================================================+=============+=======================+=========================+==============+\n";
+print "|===============+=========================================================+=============+=======================+=======================================+\n";
   }
-  print "| $date[$line] | $topic[$line] | $hw[$line] | $tut[$line] | $quiz[$line] | $read[$line] |\n";
+  print "| $date[$line] | $topic[$line] | $hw[$line] | $tut[$line] | $read[$line] |\n";
 }
-print "|---------------+---------------------------------------------------------+-------------+-----------------------+-------------------------+--------------+\n\n\n\n";
+print "|---------------+---------------------------------------------------------+-------------+-----------------------+---------------------------------------+\n\n\n\n";
 

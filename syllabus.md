@@ -32,11 +32,22 @@ soon.*
 
 -   Instructor: Dr. Walter Freeman, <wafreema@syr.edu>, Physics Building room 215 
 -   Class meetings: Tuesdays and Thursdays, 12:30-1:50 or 2:00-3:20 PM, in Stolkin Auditorium
--   Office hours: Wednesday 2:00-4:00 PM or Fridays 10:00 AM-12:00 PM, in the Physics Clinic, or by appointment; you may visit me any time in my office, room 215.
+  - See "Labs" tab for lab schedule
+-   Office hours: Monday 10:00 AM-12:00 PM or Wednesday 2:00-4:00 PM in the Physics Clinic, or by appointment; you may visit me any time in my office, room 215.
 -   Course website: http://walterfreeman.github.io/ast101/
-- Teaching assistants: FIXME
--   Point of Contact for Registration Issues: Cassandra Ellis, <phyacademics@syr.edu>
--   Course Discord server: FIXME
+- Teaching assistants: 
+  - Nada Nabil Elsayed Elmeigy	
+  - Keisi Kacanja
+  - Chandler Martin
+  - Chad Skerbec
+  - Byron Sleight
+  - Sierra Thomas
+  - Dylan Van Allen
+  - Lindsay Wilson
+
+-   Point of Contact for Registration Issues: Kristine Weisblatt, <phyacademics@syr.edu>
+-   Course Discord server: 
+  - Invite link shared via Blackboard for security reasons 
 
 ### Who's who
 
@@ -45,7 +56,7 @@ There are a lot of people teaching this class; who are they?
 #### The professor
 Walter is in charge of giving the lectures, writing materials, helping students in any way I can (with my class or anything else!), supervising grading, and leading the course as a whole.
 
-If you want to talk to me, come to office hours or catch me before or after class. I am also
+If you want to talk to me, come to ioffice hours or catch me before or after class. I am also
 frequently on the Discord server.
 
 You can also email me about private issues at <wafreema@syr.edu>. 
@@ -56,7 +67,7 @@ Contact Walter if:
 * You have a suggestion that will improve your experience in the course as a whole or the lecture portion specifically
 * Something is badly wrong in your lab that your TA can’t fix, or that you don’t feel comfortable discussing with them
 * You will miss a large amount of work
-* You need high-level assistance with anything in our class or with the university
+* You need high-level assistance with anything in our class or at the university
 
 #### The TA's
 The lab teaching assistants are PhD students in physics who work as junior instructors as part of their training. 
@@ -88,7 +99,8 @@ We will receive prodigious amounts of email this semester and will sometimes get
 
 2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a subject line of "Lab" -- tell me what your issue is with your lab!
 
-We will try to answer all messages within 24 hours. If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail!) 
+We will try to answer all messages within 24 hours. If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail and
+we sometimes get behind.) In particular, on the day of an exam, I am only able to answer the most urgent emails. 
 
 ---
 
@@ -171,7 +183,8 @@ Please contact the Barnes Center for advice; they will send me a note saying tha
 If you miss a large amount of class (two weeks or more) for a reason beyond your control, you may be eligible to take an “incomplete grade” in the course.
 This is a “grade pending” status that means that you were not able to finish all your work during the semester. Once you finish up your work in the spring, we can go back and give you your final grade.
 
-If you think you might need to use this option, it is important to talk to us as early as possible so we can discuss arrangements. In general, only students who have completed a meaningful amount of classwork with a passing grade are eligible to take an incomplete.
+If you think you might need to use this option, it is important to talk to us as early as possible so we can discuss arrangements. 
+In general, only students who have completed a meaningful amount of classwork with a strong grade are eligible to take an incomplete.
 
 <a id="inclusion">
 ---
@@ -183,29 +196,21 @@ collective endeavor we are all involved in: to understand the natural world and
 use that understanding to improve our society. 
 
 In particular, bias against or denigration of anyone in our class because of their gender or how they express it, their sexual orientation, their life stance, their national origin, the language they speak, 
-their race or ethnicity, or a disability they may have will not be tolerated. If you are the target of this sort of bias or if you witness it, please report it directly to me and I will take swift action. If you don’t feel comfortable talking to me, you may report it anonymously to the Physics Department at <https://docs.google.com/forms/d/e/1FAIpQLScNduLL1hc9fJu5MRaKjajJFnlTDiDio0xvqprn9kCXDpS2Cg/viewform>.
+their race or ethnicity, or a disability they may have will not be tolerated. If you are the target of this sort of bias or if you witness it, please report it directly to me and I will take swift action. If you don’t feel comfortable talking to me, you may report it anonymously to the Physics Department chair at <https://syracuseuniversity.qualtrics.com/jfe/form/SV_9pORpTKnq6pLeyF>.
 
 <a id="material">
 ---
 ### Course Material
 
-This course focuses mostly on the astronomy of the solar system, and is divided into eight broad sections:
+This course focuses mostly on the astronomy of the solar system, and is divided into four broad sections:
 
-*1.* **The motion of the stars and Sun:** how the rotation and revolution of the Earth cause the stars and Sun to appear to move in the way that they do
+*1.* **The changing sky:** How the motions of the Earth, Moon, and Sun cause the changes we see in the sky, including the motion of the stars, the phases of the Moon, and the changing seasons
 
-*2.* **The changing seasons and phases of the Moon**
+*2.* **Astromechanics:** how we came to learn that the planets orbit the Sun, the properties of those orbits, and how this led to the origin of the scientific method and of physics
 
-*3.* **The story of heliocentrism:** how we came to learn that the planets orbit the Sun, and the properties of those orbits
+*3.* **Light:** the basic properties of light; how the light from objects depends on their temperature and composition; how the rainbow tells us the nature of the Sun
 
-*4.* **The birth of physics:** how the laws of gravity and mechanics conspire to create orbits ... and all other motion 
-
-*5.* **Thermal radiation:** the properties of light; how hot things emit light, and what we can learn from that light
-
-*6.* **Spectroscopy:** how every chemical element interacts with unique wavelengths of light that comprise its fingerprint
-
-*7.* **The nature of the planets:** how the planets in the Solar System differ, and the factors that influence their climate 
-
-*8.* **Humans and the Universe:** the past, present, and future of spaceflight, and the possibility of life elsewhere
+*4.* **Earth in the Universe:** the origin of Earth and the nature of the planets; climate change on Earth; the past, present, and future of spaceflight, and the possibility of life elsewhere
 
 ---
 <a id="objectives"></a>
@@ -245,56 +250,48 @@ We will also use a substantial amount of class time in the auditorium for you to
 are discussing. These will be the most useful things for you to develop the skills you'll need for the quizzes, and so you should do them
 in class and ask questions as you get stuck with things. The coaches and I will circulate around and help you out.
 
+This is the most important part of our course. These tutorials are where you will practice the technical skills that we expect you to learn in our
+class; our homework and exam questions will often closely resemble the things in the tutorials, so you should take time to make sure you understand
+the things in them. If you still have questions, please ask in class or in the Physics Clinic.
+
 #### Homework
 
-There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; if you finish the
-tutorial part in class (which you won't turn in), start working on the homework (which you will). Instead of turning in homework, we will sometimes
+There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; 
+we expect that you will finish the tutorial in class, and then work on the homework at home. Instead of turning in homework, we
+will have brief "homework quizzes" in class: on the day the homework is due, we will give you a short quiz that will be very 
+similar to what you did on your homework. 
 
-#### Quizzes
+#### Exams
 
-The semester is divided into eight units. After each of the first six units, you will take a quiz in class testing your mastery of that material. If you do not do as well as you had hoped,
-you will have a second opportunity on the following quiz day. (That is, you will have the first opportunity to demonstrate your knowledge of Unit 3 on the same day that you have a second
-opportunity at Unit 2.) 
+We will have three midterm exams on each of the first three units and a final exam. These exams will be partly multiple choice and 
+partly free-response, and will cover things from lecture, the tutorials and homework, and the labs.
 
-The questions on these quizzes will be based on things you did in the homework, in the tutorials, and in lab. 
 
-#### Papers
+#### Paper and Project
 
-Throughout the semester I will also assign several short writing assignments. These will focus on the connections between astronomy and the broader study of the humanities; astronomy is likely the scientific discipline that has
-both exerted the greatest influence on, and been influenced the most by, the broader story of human intellect and philosophy. The topics will be, broadly, as follows:
+Throughout the semester you will write a paper and complete an open-ended project. 
+These will focus on the connections between astronomy and the broader study of the humanities; astronomy is likely the scientific discipline that has
+both exerted the greatest influence on, and been influenced the most by, the broader story of human intellect and philosophy.
 
-* First paper: an exploration of the connection between timekeeping and the sky, as embodied in a historical, present, or fictional calendar 
-* Second paper: an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
-* Final project: Extremely open-ended; a topic you didn't choose from earlier, or a topic or creative fine-art project that you propose yourself, or an elaboration on your third paper.
+# * First paper: an exploration of the connection between timekeeping and the sky, as embodied in a historical, present, or fictional calendar 
+* Your paper is an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
+* Your final project is extremely open-ended, and is an opportunity for you to connect your talents and interests outside astronomy to the scientific world
 
-Some of you, at some point in the semester, will probably ask me for extra credit. **This is it**; these papers will be graded out of ten points, but there is no limit on the grade you can achieve. 
+Some of you, at some point in the semester, will probably ask me for extra credit. **This is it**; these will be graded out of ten points, but there is no limit on the grade you can achieve. 
 
 #### Labs
 <a id="labs"></a>
 AST101 satisfies the laboratory course requirement of the liberal arts core and so it has a lab component.
 Many important course activities take place in the laboratories, and so attendance at the lab sections is required. 
-There is also a take-home lab that you complete by making observations of the Sun and/or the Moon over a period of several weeks.
+There are also two take-home labs that you will complete with your lab group.
 Because the labs are a crucial element of the course, no student may receive a final grade for the course more than one letter grade
 above their lab average. (That is, if you get a D average for the lab, the highest grade you can get for the class is a C.)
 
-There will also be several take-home labs, which are similar in character to homework, assigned during the semester. 
-
-Your lab grade will reflect both your participation while in lab and the quality of the work you submit. 
-
-Labs will be graded with a letter grade only:
-
-* 0: Nothing or nothing relevant; not contributing to your group's work 
-* F: A minimal attempt or severe errors; only minor contributions to your group
-* D: Work that is partially complete or contains many major errors 
-* C: Work that is complete, but contains meaningful errors in the solutions
-* B: Work that is complete, but may contain several minor errors
-* A: Work that is complete and substantially correct.
-* S: Work that goes beyond expectations. "S" grades (for "Superior") are typically awarded on the basis of exceptional work in lab: asking great questions, helping your groupmates learn, and strong insight. 
+Your lab grade will reflect both your learning and participation while in lab and the quality of the work you submit. 
 
 Note that the point of the lab portion of the class is to learn by doing; it is not to "get the right answers". 
 Your grade is based on your understanding of what is going on *as reflected by* what you turn in; it is not based only on a mechanical evaluation of whether you "wrote down the right answers or not".
-In the past we have had
-some students who copied lab answers from students in other sections or the internet. This is a serious sort of academic dishonesty that will
+In the past we have had some students who copied lab answers from students in other sections or the internet. This is a serious sort of academic dishonesty that will
 result in you failing the course (or worse).
 
 The lab attendance policy is as follows:
@@ -310,42 +307,11 @@ section that week.
 We're very willing to work with and around problems that you may encounter in helping you succeed in our 
 class; please let us know if something is going on that requires special accommodations. However, by default, this is the expectation.
 
-
 ---
 
 ### Grading
 
-We will assign you grades based on your lab work, your large quizzes, your homework and small quizzes, your papers and project, and a comprehensive 
-final exam. 
 
-For each of the first six units, you will have multiple opportunities to demonstrate your proficiency. We will use only the highest score. 
-
-We will omit your lowest homework grade and your lowest lab grade. 
-
-
-Unit 1:
-
-* Motion of stars in the sky (homework quiz)
-* Changing seasons (homework quiz)
-* Moon phases (lab quiz)
-
-
-Unit 2:
-
-* Kepler's second law motion (homework quiz)
-* Phases of Venus (lab quiz)
-
-
-Unit 3:
-
-* Thermal radiation (homework quiz)
-* Spectroscopy (homework quiz)
-
-
-Unit 4:
-
-* Blackbody radiation (homework quiz)
-* 
 
 
 
@@ -353,15 +319,11 @@ Due dates for these things may change slightly as the semester elapses.
 
 | Item                     |            Date        | Points           |
 |--------------------------|:----------------------:|-----------------:|
-| Unit 1                   |                        | 5                |
-| Unit 2                   |                        | 5                |
-| Unit 3                   |                        | 5                |
-| Unit 4                   |                        | 5                |
-| Unit 5                   |                        | 5                |
-| Unit 6                   |                        | 5                |
+| Exam 1                   |                        | 5                |
+| Exam 2                   |                        | 5                |
+| Exam 3                   |                        | 5                |
 | Final Exam               |                        | 20               |
-| Paper 1                  |                        | 10               |
-| Paper 2                  |                        | 10               |
+| Paper                    |                        | 10               |
 | Final project            |                        | 10               |
 | Labs                     |                        | 30               |
 | Homework                 |                        | 20               |
@@ -413,27 +375,27 @@ Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns 
 write our own future." The most valuable thing you will gain from your education here isn't a degree or a bunch of marks on your transcript: it is the power to influence your world that you will gain from the things you learn.
 
 As such, if you pass off someone else's work as your own in this class, you are cheating yourself out of the value of education itself. 
-This class is designed
-so that any student who works hard and keeps up will pass. 
-You do not need to substitute someone else's work or knowledge for your own; 
-your own talents, your own skill, and your own work are enough. 
+This class is designed so that any student who works hard and keeps up will pass. 
+You do not need to substitute someone else's work or knowledge for your own; your own talents, your own skill, and your own work are enough. 
 
 While you are encouraged to discuss everything in the course with your peers, 
 all work you submit must reflect your own understanding. 
 We may impose a grade sanction up to course failure for any instance of academic dishonesty. 
 Syracuse University’s Academic Integrity Policy governs general expectations for students and is incorporated into this syllabus by reference. 
 
-For your in-class quizzes, you may use one page of handwritten notes that you personally wrote. If you have a disability that interferes with 
-this, you may prepare your notes using a computer, so long as you do it yourself. 
+For your homework quizzes, you may use your homework as reference, so long as you did your homework yourself. If you have a disability that interferes with 
+this, you may prepare your homework using a computer, so long as you do it yourself. 
 
-You will write some papers this semester. In these, you must show clearly which text is original to you, which reflects ideas which you found elsewhere but have digested and expressed in your own words, and which text is a direct quote from someone else’s words.
-You must cite any references that you use. (You do not need to cite anything from the course textbook, notes, or lectures.) If you consult a webpage or book for information, you should tell us this. We don’t care what citation style you use.
+In your writing for this class, you must show clearly which text is original to you, which reflects ideas which you found elsewhere but have digested and expressed in your own words, and which text is a direct quote from someone else’s words.
+You must cite any references that you use. (You do not need to cite anything from the course textbook, notes, or lectures.) 
+If you consult a webpage or book for information, you should tell us this. We don’t care what citation style you use.
 
 Direct quotes must be indicated. This is done by either blockquoting the other writer’s text or by putting it in quotation marks. In general, however, you should use direct quotes only sparingly in your writing.
 
 **A note on "paraphrasing"**: Taking the organization and content of someone else’s writing and merely replacing words with synonyms, reordering words, omitting sentences or phrases, etc., is never a good idea. This is called "substitution plagiarism". 
 If you want to use someone else's rhetoric, then quote it directly and attribute the quote.
 If you want to use their ideas, then read what they have written and describe their ideas using your own logic, rhetoric, and organization.
+
 
 **A note on Chegg and similar platforms:** You are not allowed to post any materials from our class to Chegg’s “ask an expert” platform or any similar platform soliciting solutions to copy. Our experience has shown that these platforms are overwhelmingly used for academic dishonesty, i.e. to copy things without doing the work or understanding the process. 
 Instead, you should collaborate with your classmates or ask one of your instructors for help. The best way to do this is to talk to us during class or 
@@ -459,7 +421,7 @@ Note that uploading materials to Chegg, CourseHero, or similar websites constitu
 
 ---
 
-### Religious and personal observances 
+### Solemn observances 
 
 *(The following is common to all SU classes)*
 
@@ -467,10 +429,12 @@ SU’s religious observances notification and policy, found at http://hendricks.
 
 *(The following is specific to my classes)*
 
-Events of equal solemnity to major religious observances, occurring on inflexible dates, will be given the same deference as religious observances. This includes weddings and commitment ceremonies of immediate family members, funerals, caregiving duties for sick family members, other family emergencies or singularly-important events, job interviews, and the like. 
+Events of equal solemnity to major religious observances, occurring on inflexible dates, will be given the same deference as religious observances. This includes weddings and commitment ceremonies of immediate family members, funerals, caregiving duties for sick family members, other family emergencies or singularly-important events, job interviews, and the like.
 
-Participation in political or social activism occurring on inflexible dates or in response to ongoing circumstances – attending a demonstration, canvassing for a campaign, or the like – will be given this same deference. 
+Participation in political or social activism occurring on inflexible dates or in response to ongoing circumstances – attending a demonstration, canvassing for a campaign, 
+serving as a poll worker, or the like – will be given this same deference.
 
 If you must miss your lab because of a solemn observance, social or political activism, illness or injury, or academic conflict, please discuss this with your group and arrange to attend at a different time that week. 
 
-If you miss a large quiz for such a reason, then you can demonstrate proficiency on that material on a subsequent quiz date, as usual.
+If you miss an exam for such a reason, then we will arrange an alternate opportunity for you to demonstrate proficiency on that material.
+
