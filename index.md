@@ -10,9 +10,15 @@ title: Announcements and Information
 Welcome to our class! I'll be adding more material to the website as we need it. Note that you can find links to all of the past lecture 
 slides, along with approximate dates for everything and a semester plan, under the "Calendar" tab (computer) or menu item (mobile).
 
+### Upcoming assignments:
+
+* Homework 1 is included as the back page of the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">exercise on the celestial sphere</a>. It is due Thursday, September 8, when we will have a brief
+quiz in class.
+* Lab 1 is next week. 
+
 ### Current lecture slides:
 
-<a href="slides/lecture1/lecture1-2022.pdf">Introduction to astronomy</a>
+<a href="slides/lecture2/lecture2-2022.pdf">The celestial sphere: apparent motion of the sky each day</a>
 
 
 ### Welcome survey
