@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.15)  1 SEP 2022 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.15)  1 SEP 2022 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -857,13 +857,13 @@ Overfull \vbox (4.1376pt too high) detected at line 132
 [2
 
  <./sphere-medieval.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 148
+LaTeX Font Info:    Trying to load font information for U+msa on input line 147
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 148
+LaTeX Font Info:    Trying to load font information for U+msb on input line 147
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -891,45 +891,45 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [13
 
+] [14
+
 ]
-<nyc-skyline.jpg, id=122, 602.25pt x 361.35pt>
+<nyc-skyline.jpg, id=128, 602.25pt x 361.35pt>
 File: nyc-skyline.jpg Graphic file (type jpg)
 <use nyc-skyline.jpg>
-Package pdftex.def Info: nyc-skyline.jpg  used on input line 258.
+Package pdftex.def Info: nyc-skyline.jpg  used on input line 278.
 (pdftex.def)             Requested size: 435.24405pt x 261.15877pt.
- [14
+ [15
 
  <./nyc-skyline.jpg>]
-<nyc-skyline-dark.jpg, id=129, 785.93625pt x 522.45187pt>
+<nyc-skyline-dark.jpg, id=135, 785.93625pt x 522.45187pt>
 File: nyc-skyline-dark.jpg Graphic file (type jpg)
 <use nyc-skyline-dark.jpg>
-Package pdftex.def Info: nyc-skyline-dark.jpg  used on input line 271.
+Package pdftex.def Info: nyc-skyline-dark.jpg  used on input line 291.
 (pdftex.def)             Requested size: 400.42372pt x 266.18385pt.
 
-Overfull \vbox (24.56917pt too high) detected at line 271
+Overfull \vbox (24.56917pt too high) detected at line 291
  []
 
-[15
+[16
 
  <./nyc-skyline-dark.jpg>]
-<alamut-babak.jpg, id=136, 903.375pt x 903.375pt>
+<alamut-babak.jpg, id=142, 903.375pt x 903.375pt>
 File: alamut-babak.jpg Graphic file (type jpg)
 <use alamut-babak.jpg>
-Package pdftex.def Info: alamut-babak.jpg  used on input line 276.
+Package pdftex.def Info: alamut-babak.jpg  used on input line 296.
 (pdftex.def)             Requested size: 261.14908pt x 261.14497pt.
- [16
-
- <./alamut-babak.jpg>]
-<canyonlands.jpg, id=144, 650.43pt x 433.62pt>
-File: canyonlands.jpg Graphic file (type jpg)
-<use canyonlands.jpg>
-Package pdftex.def Info: canyonlands.jpg  used on input line 280.
-(pdftex.def)             Requested size: 391.71698pt x 261.15324pt.
  [17
 
- <./canyonlands.jpg>] [18
+ <./alamut-babak.jpg>]
+<canyonlands.jpg, id=150, 650.43pt x 433.62pt>
+File: canyonlands.jpg Graphic file (type jpg)
+<use canyonlands.jpg>
+Package pdftex.def Info: canyonlands.jpg  used on input line 300.
+(pdftex.def)             Requested size: 391.71698pt x 261.15324pt.
+ [18
 
-] [19
+ <./canyonlands.jpg>] [19
 
 ] [20
 
@@ -955,10 +955,10 @@ Package pdftex.def Info: canyonlands.jpg  used on input line 280.
 
 ] [31
 
-]
-[32
+] [32
 
-] [33
+]
+[33
 
 ] [34
 
@@ -976,41 +976,41 @@ Package pdftex.def Info: canyonlands.jpg  used on input line 280.
 
 ] [41
 
+] [42
+
 ]
-<orion-flat.jpg, id=304, 7.7871pt x 10.8405pt>
+<orion-flat.jpg, id=310, 7.7871pt x 10.8405pt>
 File: orion-flat.jpg Graphic file (type jpg)
 <use orion-flat.jpg>
-Package pdftex.def Info: orion-flat.jpg  used on input line 411.
+Package pdftex.def Info: orion-flat.jpg  used on input line 431.
 (pdftex.def)             Requested size: 174.09828pt x 242.54541pt.
-<orion-art.jpg, id=305, 343.2825pt x 501.875pt>
+<orion-art.jpg, id=311, 343.2825pt x 501.875pt>
 File: orion-art.jpg Graphic file (type jpg)
 <use orion-art.jpg>
-Package pdftex.def Info: orion-art.jpg  used on input line 411.
+Package pdftex.def Info: orion-art.jpg  used on input line 431.
 (pdftex.def)             Requested size: 174.09828pt x 254.52847pt.
- [42
+ [43
 
  <./orion-flat.jpg> <./orion-art.jpg>]
 File: orion-flat.jpg Graphic file (type jpg)
 <use orion-flat.jpg>
-Package pdftex.def Info: orion-flat.jpg  used on input line 411.
+Package pdftex.def Info: orion-flat.jpg  used on input line 431.
 (pdftex.def)             Requested size: 174.09828pt x 242.54541pt.
 File: orion-art.jpg Graphic file (type jpg)
 <use orion-art.jpg>
-Package pdftex.def Info: orion-art.jpg  used on input line 411.
+Package pdftex.def Info: orion-art.jpg  used on input line 431.
 (pdftex.def)             Requested size: 174.09828pt x 254.52847pt.
- [43
-
-]
-<orion-depth.png, id=319, 22.3495pt x 12.06909pt>
-File: orion-depth.png Graphic file (type png)
-<use orion-depth.png>
-Package pdftex.def Info: orion-depth.png  used on input line 420.
-(pdftex.def)             Requested size: 391.71698pt x 211.58739pt.
  [44
 
- <./orion-depth.png>] [45
+]
+<orion-depth.png, id=325, 22.3495pt x 12.06909pt>
+File: orion-depth.png Graphic file (type png)
+<use orion-depth.png>
+Package pdftex.def Info: orion-depth.png  used on input line 440.
+(pdftex.def)             Requested size: 391.71698pt x 211.58739pt.
+ [45
 
-] [46
+ <./orion-depth.png>] [46
 
 ] [47
 
@@ -1020,10 +1020,10 @@ Package pdftex.def Info: orion-depth.png  used on input line 420.
 
 ] [50
 
-]
-[51
+] [51
 
-] [52
+]
+[52
 
 ] [53
 
@@ -1039,59 +1039,61 @@ Package pdftex.def Info: orion-depth.png  used on input line 420.
 
 ] [59
 
+] [60
+
 ]
-<sphere-1.png, id=419, 404.51125pt x 309.155pt>
+<sphere-1.png, id=425, 404.51125pt x 309.155pt>
 File: sphere-1.png Graphic file (type png)
 <use sphere-1.png>
-Package pdftex.def Info: sphere-1.png  used on input line 613.
+Package pdftex.def Info: sphere-1.png  used on input line 633.
 (pdftex.def)             Requested size: 174.09828pt x 133.0567pt.
-<sphere-2.png, id=421, 510.90875pt x 497.86pt>
+<sphere-2.png, id=427, 510.90875pt x 497.86pt>
 File: sphere-2.png Graphic file (type png)
 <use sphere-2.png>
-Package pdftex.def Info: sphere-2.png  used on input line 613.
+Package pdftex.def Info: sphere-2.png  used on input line 633.
 (pdftex.def)             Requested size: 217.62202pt x 212.06248pt.
 
-Overfull \vbox (37.53111pt too high) detected at line 613
+Overfull \vbox (37.53111pt too high) detected at line 633
  []
 
-[60
+[61
 
  <./sphere-1.png> <./sphere-2.png>]
-<sphere-3.png, id=430, 404.51125pt x 309.155pt>
+<sphere-3.png, id=437, 404.51125pt x 309.155pt>
 File: sphere-3.png Graphic file (type png)
 <use sphere-3.png>
-Package pdftex.def Info: sphere-3.png  used on input line 629.
+Package pdftex.def Info: sphere-3.png  used on input line 649.
 (pdftex.def)             Requested size: 208.92006pt x 159.67181pt.
- [61
+ [62
 
  <./sphere-3.png>]
 File: sphere-3.png Graphic file (type png)
 <use sphere-3.png>
-Package pdftex.def Info: sphere-3.png  used on input line 629.
+Package pdftex.def Info: sphere-3.png  used on input line 649.
 (pdftex.def)             Requested size: 208.92006pt x 159.67181pt.
- [62
+ [63
 
 ]
 File: sphere-3.png Graphic file (type png)
 <use sphere-3.png>
-Package pdftex.def Info: sphere-3.png  used on input line 645.
+Package pdftex.def Info: sphere-3.png  used on input line 665.
 (pdftex.def)             Requested size: 217.62202pt x 166.32324pt.
- [63
+ [64
 
 ]
-<aus-flag.png, id=451, 2007.5pt x 1003.75pt>
+<aus-flag.png, id=457, 2007.5pt x 1003.75pt>
 File: aus-flag.png Graphic file (type png)
 <use aus-flag.png>
-Package pdftex.def Info: aus-flag.png  used on input line 657.
+Package pdftex.def Info: aus-flag.png  used on input line 677.
 (pdftex.def)             Requested size: 261.14908pt x 130.56865pt.
- [64
+ [65
 
  <./aus-flag.png>]
 File: aus-flag.png Graphic file (type png)
 <use aus-flag.png>
-Package pdftex.def Info: aus-flag.png  used on input line 657.
+Package pdftex.def Info: aus-flag.png  used on input line 677.
 (pdftex.def)             Requested size: 261.14908pt x 130.56865pt.
- [65
+ [66
 
 ]
 \tf@nav=\write6
@@ -1103,19 +1105,19 @@ Package pdftex.def Info: aus-flag.png  used on input line 657.
 \tf@snm=\write8
 \openout8 = `lecture2-2022.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 660.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 660.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 680.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 680.
  (./lecture2-2022.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 660.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 660.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 680.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 680.
 Package rerunfilecheck Info: File `lecture2-2022.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19059 strings out of 481239
- 362904 string characters out of 5920376
- 616250 words of memory out of 5000000
- 33707 multiletter control sequences out of 15000+600000
+ 19063 strings out of 481239
+ 362939 string characters out of 5920376
+ 616293 words of memory out of 5000000
+ 33709 multiletter control sequences out of 15000+600000
  544816 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,800b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1130,10 +1132,10 @@ nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
 ts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on lecture2-2022.pdf (65 pages, 3891965 bytes).
+Output written on lecture2-2022.pdf (66 pages, 3892958 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 421 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
+ 540 PDF objects out of 1000 (max. 8388607)
+ 427 compressed objects within 5 object streams
+ 133 named destinations out of 1000 (max. 500000)
  137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
