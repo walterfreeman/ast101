@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  1 SEP 2021 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.15)  31 AUG 2022 23:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,47 +212,106 @@ e
 ))
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<disk-crop.pdf, id=21, 361.35pt x 185.69376pt>
-File: disk-crop.pdf Graphic file (type pdf)
-<use disk-crop.pdf>
-Package pdftex.def Info: disk-crop.pdf  used on input line 168.
-(pdftex.def)             Requested size: 252.94499pt x 129.98474pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<topsky-crop.pdf, id=15, 364.36125pt x 364.36125pt>
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 118.
+(pdftex.def)             Requested size: 260.17563pt x 260.18272pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 164--171
-$[]$ $[]$ 
- []
-
-[5 <./disk-crop.pdf>] [6]
-<disk2-crop.pdf, id=32, 305.14pt x 176.66pt>
-File: disk2-crop.pdf Graphic file (type pdf)
-<use disk2-crop.pdf>
-Package pdftex.def Info: disk2-crop.pdf  used on input line 213.
-(pdftex.def)             Requested size: 216.81pt x 125.5265pt.
-
-Overfull \hbox (31.98576pt too wide) in paragraph at lines 209--215
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 107--121
 []$[]$ $[]$ 
  []
 
-[7 <./disk2-crop.pdf>] [8] (./celestial-sphere.aux) ) 
+[3 <./topsky-crop.pdf>]
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 165.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+<botsky-crop.pdf, id=24, 364.36125pt x 364.36125pt>
+File: botsky-crop.pdf Graphic file (type pdf)
+<use botsky-crop.pdf>
+Package pdftex.def Info: botsky-crop.pdf  used on input line 171.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 162--174
+[]$[]$ $[]$ 
+ []
+
+[4 <./botsky-crop.pdf>]
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 189.
+(pdftex.def)             Requested size: 203.25937pt x 203.25699pt.
+File: botsky-crop.pdf Graphic file (type pdf)
+<use botsky-crop.pdf>
+Package pdftex.def Info: botsky-crop.pdf  used on input line 195.
+(pdftex.def)             Requested size: 203.25937pt x 203.25699pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 186--199
+[]$[]$ $[]$
+ []
+
+[5]
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 226.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+File: botsky-crop.pdf Graphic file (type pdf)
+<use botsky-crop.pdf>
+Package pdftex.def Info: botsky-crop.pdf  used on input line 232.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 223--235
+[]$[]$ $[]$ 
+ []
+
+[6]
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 348.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+File: botsky-crop.pdf Graphic file (type pdf)
+<use botsky-crop.pdf>
+Package pdftex.def Info: botsky-crop.pdf  used on input line 354.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+
+Overfull \hbox (31.98576pt too wide) in paragraph at lines 345--357
+[]$[]$ $[]$ 
+ []
+
+[7]
+File: topsky-crop.pdf Graphic file (type pdf)
+<use topsky-crop.pdf>
+Package pdftex.def Info: topsky-crop.pdf  used on input line 383.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+File: botsky-crop.pdf Graphic file (type pdf)
+<use botsky-crop.pdf>
+Package pdftex.def Info: botsky-crop.pdf  used on input line 389.
+(pdftex.def)             Requested size: 216.81082pt x 216.80597pt.
+
+Overfull \hbox (31.98576pt too wide) in paragraph at lines 380--392
+[]$[]$ $[]$ 
+ []
+
+[8] (./celestial-sphere.aux) ) 
 Here is how much of TeX's memory you used:
- 2346 strings out of 481239
- 32254 string characters out of 5920377
- 277209 words of memory out of 5000000
- 17614 multiletter control sequences out of 15000+600000
- 540302 words of font info for 51 fonts, out of 8000000 for 9000
+ 2343 strings out of 481239
+ 32218 string characters out of 5920376
+ 277210 words of memory out of 5000000
+ 17611 multiletter control sequences out of 15000+600000
+ 539463 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,34p,438b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
-b>
-Output written on celestial-sphere.pdf (8 pages, 127878 bytes).
+ 30i,6n,34p,438b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on celestial-sphere.pdf (8 pages, 162072 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
