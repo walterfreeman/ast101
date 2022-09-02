@@ -9,7 +9,6 @@ title: Labs
 
 Note that you should do the prelab *before* you come to lab. Prelab 1 requires you to download virtual planetarium software called Stellarium.
 
-|--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
