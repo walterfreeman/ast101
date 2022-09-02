@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  1 SEP 2021 23:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.15)  2 SEP 2022 09:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,8 +367,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--171
 [4] (./lab1prelab.aux) ) 
 Here is how much of TeX's memory you used:
  3320 strings out of 481239
- 47596 string characters out of 5920377
- 278841 words of memory out of 5000000
+ 47596 string characters out of 5920376
+ 278842 words of memory out of 5000000
  18535 multiletter control sequences out of 15000+600000
  546958 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -377,7 +377,7 @@ Here is how much of TeX's memory you used:
 enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on lab1prelab.pdf (4 pages, 60838 bytes).
+Output written on lab1prelab.pdf (4 pages, 60489 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream

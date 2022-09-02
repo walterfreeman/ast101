@@ -6,15 +6,15 @@ title: Labs
 ---
 
 
-Lab 1 will be posted Friday.
 
-<!--
+Note that you should do the prelab *before* you come to lab. Prelab 1 requires you to download virtual planetarium software called Stellarium.
 
-
+|--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
+<!--
 
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
 
