@@ -18,7 +18,7 @@ $start=0;
 $r=9.7;
 for ($i=0; $i<8; $i++)
 {
-    $th=($i+$start)*pi/4;
+    $th=(-$i+$start)*pi/4;
     $x=cos($th)*$r;
     $y=sin($th)*$r;
     print "$x $y \"$directions[$i]\"\n";
