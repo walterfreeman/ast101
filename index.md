@@ -21,12 +21,6 @@ quiz in class.
 <a href="slides/lecture2/lecture2-2022.pdf">The celestial sphere: apparent motion of the sky each day</a>
 
 
-### Welcome survey
-
-Please complete the <a href="https://docs.google.com/forms/d/1rppZHcxn6vuiWrEs9eRq4aEF4onvY9xRGrSZjNx0ZNo/">welcome survey</a> before Friday.
-This will let me learn a little bit about you -- and what you hope to get out of our class!
-
-
 
 ### Information
 
