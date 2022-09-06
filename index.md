@@ -12,13 +12,12 @@ slides, along with approximate dates for everything and a semester plan, under t
 
 ### Upcoming assignments:
 
-* Homework 1 is included as the back page of the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">exercise on the celestial sphere</a>. It is due Thursday, September 8, when we will have a brief
-quiz in class.
-* Lab 1 is next week. 
+* Homework 1 is included as the back page of the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">exercise on the celestial sphere</a>. It is due Thursday, September 8; the quiz is postponed to September 13.
+* Lab 1 is this week! People with Monday labs will go to class next Monday. 
 
 ### Current lecture slides:
 
-<a href="slides/lecture2/lecture2-2022.pdf">The celestial sphere: apparent motion of the sky each day</a>
+<a href="slides/lecture3/lecture3.pdf">Apparent motion of the sky each day, II</a>
 
 
 

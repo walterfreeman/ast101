@@ -105,7 +105,7 @@
   \textbf {The daily motion of the sky}
 }
 
-\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2019\\Walter Freeman}
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2022\\Walter Freeman}
 
 \date{\today}
 
@@ -120,21 +120,87 @@
 \Large
 \BI
 \item{People just now joining the class: everything you need is on the course website, \url {walterfreeman.github.io/ast101/}}
+\BI
+\item I think I've fixed the problems with github, so expect faster/more frequent updates
+\EI
 \item Labs start this week
 \BI
 \item Today is the last day to change your lab section
 \item Most sections are full; we have no ability to override section caps
+\item Please contact {\tt phyacademics@syr.edu} for registration questions/issues
 \EI
 \BS
 
 \item Homework due Thursday
 	\BI
-\item We'll collect it during class
-\item If you must miss class turn it in before class to your TA's mailbox
+\item We won't collect it
+\item We'll have a ``homework quiz'' at the end of class
 	\EI
-\item Submit your ``ask the physicist'' questions in Discord or email
 \item If you have a Monday lab, you'll do Lab 1 next week
 \EI
+}
+
+\frame{\frametitle{\textbf{Welcome survey}}
+	Thanks to all who filled out the welcome survey!
+	
+	\BS\BS
+	
+	A few reactions:
+	
+	\begin{itemize}
+
+		\item ``Hopefully more fun than stressful calculations.''
+		\pause
+		\item ``I am a but nervous being an arts kids as I was recently told the course is all math ... hoping that is not true''
+		\pause
+		\item ``a bit intimidated by the class size but I'm looking forward to it.''
+		\pause
+		\item ``nervous - physics was the worst grade I got in HS and they seem similar''
+		\pause
+		\item ``Nervous about the math and science part, math+science are not my strongest subjects.''
+		\pause
+		\item ``pretty excited! im not really a stem girly but i think that the universe is super beautiful and interesting so im excited to be involved in something new''
+		\pause
+		\BS\BS
+		\item Lots and lots of variants of excitement!
+	\end{itemize}
+}
+
+
+\frame{\frametitle{\textbf{Welcome survey}}
+	Thanks to all who filled out the welcome survey!
+	
+	\BS\BS
+	
+	Stuff people hoped to learn:
+	
+	\begin{itemize}
+		
+		\item Spacetime
+		\pause
+		\item ``learning cool facts about the universe that i can annoy my family with''
+		\pause
+		\item The scope and scale of things
+		\pause
+		\item The constellations
+		\pause
+		\item Astrology, star-signs (Thursday!)
+		\pause
+		\item The history of all this!
+		\pause
+		\item Galaxies and their nature
+		\pause
+		\item The unexpected
+	    \pause
+	    \item Telescopes and the JWST
+	    \pause 
+	    \item Light
+	    \pause
+	    \item Telling time based on stuff in space
+	    \pause
+		\BS\BS
+		\item Black holes :)
+	\end{itemize}
 }
 
 
@@ -142,13 +208,13 @@
 \Large
 
 \BI
-\item AST101 help sessions: Wednesday 2-4PM, or Friday 9-11AM, in my office (room 215) or the Physics Clinic (room 112) if we run out of room
+\item AST101 help sessions: Wednesday 2-4, or Monday 10-12, in the Physics Clinic (room 112)
 \pause
-\item Other times in the Clinic during business hours (8AM-9PM, except Thurs 3-5PM)
+\item Other times in the Clinic (usually a tutor there)
 \pause
 \item Appointments with me by request
 \pause 
-\item By email: most of you have cellphone cameras...
+\item By email or over Discord: most of you have cellphone cameras...
 \EI
 }
 
@@ -157,7 +223,7 @@
 \frame{\frametitle{\textbf{The tutorial-exercises}}
 \Large
 
-We won't be ``going over'' them in class -- this deprives you of an opportunity.
+We won't always be ``going over'' them in class -- this deprives you of an opportunity.
 
 \bigskip
 \bigskip
@@ -184,6 +250,16 @@ but we'll make sure you know how to get there on your own! (That's the point...)
 }
 
 
+
+\frame{\frametitle{\textbf{The homework}}
+	\Large
+	\BC
+	We {\it will} almost always have time for you to ask some questions about the homework before the homework quiz.
+	\EC
+}
+
+
+
 \frame{\frametitle{\textbf{This week we will...}}
 \Large
 Today: consequences of the Earth's {\bf rotation}:
@@ -199,6 +275,8 @@ Thursday: consequences of the Earth's {\bf revolution}:
 \item{What about the Sun?}
 \item{What causes the seasons?}
 \item{What does the Sun do to the Earth?}
+\item What are these ``Aries'', ``Gemini'', ``Capricornus'', and ``Scorpius'' things?
+\item What is astrology (and what is it {\it really?})
 \EI
 }
 
@@ -332,28 +410,6 @@ Thursday: consequences of the Earth's {\bf revolution}:
 	
 }
 
-
-
-\frame{\frametitle{\textbf{Tutorial from before}}
-\Large
-\BC
-Take 10-15 minutes to complete the exercise from before. Then we will do something with your beach balls!
-\EC
-\BS\BS
-
-\color{Red}Two things to note:
-
-\BI
-\item The reference to the ``camera'' on the bottom of the second page means ``the part of the simulation facing you''.
-
-\BS\BS
-
-\item There is an error on page 5 (section 2.3). \#3 should ask about the {\it green} star, not the purple one.
-\EI
-
-}
-
-
 \frame{
 	\BC
 	\Large
@@ -400,180 +456,225 @@ Take 10-15 minutes to complete the exercise from before. Then we will do somethi
 	
 }
 
-\frame{
 
-Let's look at our celestial sphere animation again.
-
-\BS\pause
-
-What's ``wrong'' with this model of the heavens?
-
-
-}
-
-\frame{\frametitle{\textbf{Problem 1: Depth and the sky}}
-	\BC \Large The constellation of Orion:\EC
-	
-	\begin{columns}
-		\begin{column}{0.5\textwidth}
-			\BC \includegraphics[width=0.8\textwidth]{orion-flat.jpg}\EC
-		\end{column}
-		\pause
-		\begin{column}{0.5\textwidth}
-			\BC \includegraphics[width=0.8\textwidth]{orion-art.jpg}\EC
-		\end{column}
-	\end{columns}
-}
-
-\frame{\frametitle{\textbf{Problem 1: Depth and the sky}}
-	\BC \Large The reality:\EC
-	
-	\bigskip
-	\bigskip
-	
-	\BC \includegraphics[width=0.9\textwidth]{orion-depth.png}\EC
-}
-
-\frame{\frametitle{\textbf{Problem 2: What's rotating?}}
-
+\frame{\frametitle{\textbf{Tutorial from before}}
 \Large
-
-
-The celestial sphere model proposes that (-------) rotates and (-------) stays still.
-
-\pause\BS\BS
-
-Really, though, we know that (-------) rotates and (-------) stays still.
-
-\pause\BS\BS
-
-Let's now figure out the motion of the stars with this knowledge.
-
-}
-
-\frame{
-\huge
-
 \BC
-We'll start the Exercise together, then you should finish with the people around you.
-
-\BS\BS
-
-As always, raise your hand as you have questions!
+Take 20-30 minutes to complete the exercise from before.
 \EC
 \BS\BS
+Note: If you have not already done so, change the diagrams on all your handouts so that East is on top and West is on the bottom.
 
-}
+\BS
 
-\frame{
-
-\huge
+See our discussion for why!
 
 \BC
-
-There are two boxes by either exit of the auditorium.
-
 \BS\BS
 
-Please turn your homework in there. (It's the last page of the Exercise handout from last Thursday.)
-
-\BS\BS\pause
-
-Don't forget your prelabs for lab this week!
-
-\BS\BS\pause
-
-Be well, enjoy the beautiful fall weather, and I'll see you Thursday!
-	
+\color{B}
+Make sure you talk to the people around you as you work! Raise your hand if you have questions and we'll come chat.
 \EC
-	
+
 }
 
 %
 %
 %\frame{
 %
-%\BC
+%Let's look at our celestial sphere animation again.
+%
+%\BS\pause
+%
+%What's ``wrong'' with this model of the heavens?
+%
+%
+%}
+%
+%\frame{\frametitle{\textbf{Problem 1: Depth and the sky}}
+%	\BC \Large The constellation of Orion:\EC
+%	
+%	\begin{columns}
+%		\begin{column}{0.5\textwidth}
+%			\BC \includegraphics[width=0.8\textwidth]{orion-flat.jpg}\EC
+%		\end{column}
+%		\pause
+%		\begin{column}{0.5\textwidth}
+%			\BC \includegraphics[width=0.8\textwidth]{orion-art.jpg}\EC
+%		\end{column}
+%	\end{columns}
+%}
+%
+%\frame{\frametitle{\textbf{Problem 1: Depth and the sky}}
+%	\BC \Large The reality:\EC
+%	
+%	\bigskip
+%	\bigskip
+%	
+%	\BC \includegraphics[width=0.9\textwidth]{orion-depth.png}\EC
+%}
+%
+%\frame{\frametitle{\textbf{Problem 2: What's rotating?}}
+%
 %\Large
-%Which star is visible longer?
 %
-%\bigskip
-%\bigskip
 %
-%\includegraphics[width=0.8\textwidth]{visible-longer-1.png}
-%\EC
+%The celestial sphere model proposes that (-------) rotates and (-------) stays still.
 %
-%\pause\bigskip
+%\pause\BS\BS
 %
-%We call a star that is always above the horizon {\color{Red}circumpolar}.
-%}	
+%Really, though, we know that (-------) rotates and (-------) stays still.
 %
+%\pause\BS\BS
+%
+%Let's now figure out the motion of the stars with this knowledge.
+%
+%}
+
 %\frame{
+%\huge
+%
 %\BC
-%\Large
-%
-%Where in the sky should I look to find circumpolar stars?
-%
-%\EC
+%We'll start the Exercise together, then you should finish with the people around you.
 %
 %\BS\BS
-%\color{A}A: High in the southern sky \\
-%\color{B}B: Low in the eastern sky \\
-%\color{C}C: High in the northern sky \\
-%\color{D}D: Low-ish in the northern sky \\
-%\color{E}E: Low in the northern sky \\
-%}
+%
+%As always, raise your hand as you have questions!
+%\EC
+%\BS\BS
+%
+%%}
 %
 %\frame{
-%\Large
+%
+%\huge
+%
 %\BC
-%What about now? Which star is visible longer?
 %
-%\bigskip
-%\bigskip
+%There are two boxes by either exit of the auditorium.
 %
-%\includegraphics[width=0.8\textwidth]{visible-longer-2.png}
+%\BS\BS
+%
+%Please turn your homework in there. (It's the last page of the Exercise handout from last Thursday.)
+%
+%\BS\BS\pause
+%
+%Don't forget your prelabs for lab this week!
+%
+%\BS\BS\pause
+%
+%Be well, enjoy the beautiful fall weather, and I'll see you Thursday!
+%	
 %\EC
-%}	
-%\frame{\frametitle{\textbf{What about the Sun?}}
-%Over the course of one day, the Sun doesn't move very much.
-%
-%\bigskip
-%\bigskip
-%
-%This means the celestial sphere model can show us how the Sun moves {\color{Red} each day}.
-%
-%\bigskip
-%\bigskip
-%
-%It rises in the East and sets in the West, just like all the other stars.
-%
+%	
 %}
-%
-%\frame{
-%\BC
-%\Large
-%How long is this star visible in the sky each day?
-%\bigskip
-%\bigskip
-%
-%\EC
-%\begin{columns}
-%\column{0.4\textwidth}
-%\Large
-%\color{A}A: All the time \\
-%\color{B}B: More than 12 hours \\
-%\color{C}C: Less than 12 hours \\
-%\color{D}D: It's never visible  
-%\column{0.6\textwidth}
-%\BC
-%\includegraphics[width=0.95\textwidth]{how-long-1.png}
-%\EC
-%\end{columns}
-%
-%}
+
 %
 %
+\frame{
+
+\BC
+\Large
+Which star is visible longer?
+
+\bigskip
+\bigskip
+
+\includegraphics[width=0.8\textwidth]{visible-longer-1.png}
+\EC
+
+\pause\bigskip
+
+We call a star that is always above the horizon {\color{Red}circumpolar}.
+}	
+
+\frame{
+\BC
+\Large
+
+Where in the sky should I look to find circumpolar stars?
+
+\EC
+
+\BS\BS
+\color{A}A: High in the southern sky \\
+\color{B}B: Low in the eastern sky \\
+\color{C}C: High in the northern sky \\
+\color{D}D: Low-ish in the northern sky \\
+\color{E}E: Low in the northern sky \\
+}
+
+\frame{
+\Large
+\BC
+What about now? Which star is visible longer?
+
+\bigskip
+\bigskip
+
+\includegraphics[width=0.8\textwidth]{visible-longer-2.png}
+\EC
+}	
+\frame{\frametitle{\textbf{What about the Sun?}}
+Over the course of one day, the Sun doesn't move very much in space relative to the Earth.
+
+\bigskip
+\bigskip
+
+This means the celestial sphere model can show us how the Sun moves {\color{Red} each day}.
+
+\bigskip
+\bigskip
+
+It rises in the East and sets in the West, just like all the other stars.
+
+}
+
+\frame{
+\BC
+\Large
+How long is this star visible in the sky each day?
+\bigskip
+\bigskip
+
+\EC
+\begin{columns}
+\column{0.4\textwidth}
+\Large
+\color{A}A: All the time \\
+\color{B}B: More than 12 hours \\
+\color{C}C: Less than 12 hours \\
+\color{D}D: It's never visible  
+\column{0.6\textwidth}
+\BC
+\includegraphics[width=0.95\textwidth]{how-long-1.png}
+\EC
+\end{columns}
+
+}
+
+
+\frame{\frametitle{\textbf{A question for Thursday}}
+	
+	\Large
+	
+	How should we define a {\it day}?
+	
+	\BS\BS
+	
+	\BI
+	\item \color{A} A: 1/365 of a year
+	\item \color{B} B: The amount of time from midnight to midnight, or noon to noon
+	\item \color{C} C: The amount of time it takes for the celestial sphere to rotate once
+	\item \color{D} D: The amount of time it takes for Earth to rotate once\pause
+	\item \color{E} E: Whatever we decide it is
+	\EI
+}
+
+
+
+
+
 %
 %\frame{\frametitle{\textbf{What does one star matter?}}
 %\Large

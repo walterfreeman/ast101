@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.30)  7 SEP 2021 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.15)  6 SEP 2022 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -845,12 +845,12 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./lecture3.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 138
+LaTeX Font Info:    Trying to load font information for U+msa on input line 141
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 138
+LaTeX Font Info:    Trying to load font information for U+msb on input line 141
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -878,92 +878,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [12
 
-]
-<sphere-3.png, id=108, 404.51125pt x 309.155pt>
-File: sphere-3.png Graphic file (type png)
-<use sphere-3.png>
-Package pdftex.def Info: sphere-3.png  used on input line 264.
-(pdftex.def)             Requested size: 174.09496pt x 133.0567pt.
- [13
+] [13
 
- <./sphere-3.png>]
-File: sphere-3.png Graphic file (type png)
-<use sphere-3.png>
-Package pdftex.def Info: sphere-3.png  used on input line 275.
-(pdftex.def)             Requested size: 217.62202pt x 166.32324pt.
- [14
+] [14
 
-]
-<star-question.png, id=124, 795.72281pt x 442.65375pt>
-File: star-question.png Graphic file (type png)
-<use star-question.png>
-Package pdftex.def Info: star-question.png  used on input line 310.
-(pdftex.def)             Requested size: 348.19656pt x 193.6943pt.
- [15
+] [15
 
- <./star-question.png>]
-<how-long-2.png, id=131, 404.51125pt x 309.155pt>
-File: how-long-2.png Graphic file (type png)
-<use how-long-2.png>
-Package pdftex.def Info: how-long-2.png  used on input line 333.
-(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
- [16
+] [16
 
- <./how-long-2.png>] [17
+] [17
 
-]
-<how-long-3.png, id=145, 404.51125pt x 309.155pt>
-File: how-long-3.png Graphic file (type png)
-<use how-long-3.png>
-Package pdftex.def Info: how-long-3.png  used on input line 378.
-(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
- [18
+] [18
 
- <./how-long-3.png>]
-<how-long-4.png, id=153, 404.51125pt x 309.155pt>
-File: how-long-4.png Graphic file (type png)
-<use how-long-4.png>
-Package pdftex.def Info: how-long-4.png  used on input line 401.
-(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
- [19
+] [19
 
- <./how-long-4.png>] [20
+] [20
 
 ] [21
 
 ]
-<orion-flat.jpg, id=175, 7.7871pt x 10.8405pt>
-File: orion-flat.jpg Graphic file (type jpg)
-<use orion-flat.jpg>
-Package pdftex.def Info: orion-flat.jpg  used on input line 426.
-(pdftex.def)             Requested size: 174.09828pt x 242.54541pt.
-<orion-art.jpg, id=176, 343.2825pt x 501.875pt>
-File: orion-art.jpg Graphic file (type jpg)
-<use orion-art.jpg>
-Package pdftex.def Info: orion-art.jpg  used on input line 426.
-(pdftex.def)             Requested size: 174.09828pt x 254.52847pt.
- [22
+[22
 
- <./orion-flat.jpg> <./orion-art.jpg>]
-File: orion-flat.jpg Graphic file (type jpg)
-<use orion-flat.jpg>
-Package pdftex.def Info: orion-flat.jpg  used on input line 426.
-(pdftex.def)             Requested size: 174.09828pt x 242.54541pt.
-File: orion-art.jpg Graphic file (type jpg)
-<use orion-art.jpg>
-Package pdftex.def Info: orion-art.jpg  used on input line 426.
-(pdftex.def)             Requested size: 174.09828pt x 254.52847pt.
- [23
+] [23
 
-]
-<orion-depth.png, id=189, 22.3495pt x 12.06909pt>
-File: orion-depth.png Graphic file (type png)
-<use orion-depth.png>
-Package pdftex.def Info: orion-depth.png  used on input line 435.
-(pdftex.def)             Requested size: 391.71698pt x 211.58739pt.
- [24
+] [24
 
- <./orion-depth.png>] [25
+] [25
 
 ] [26
 
@@ -977,6 +917,97 @@ Package pdftex.def Info: orion-depth.png  used on input line 435.
 
 ] [31
 
+] [32
+
+]
+<sphere-3.png, id=234, 404.51125pt x 309.155pt>
+File: sphere-3.png Graphic file (type png)
+<use sphere-3.png>
+Package pdftex.def Info: sphere-3.png  used on input line 342.
+(pdftex.def)             Requested size: 174.09496pt x 133.0567pt.
+ [33
+
+ <./sphere-3.png>]
+File: sphere-3.png Graphic file (type png)
+<use sphere-3.png>
+Package pdftex.def Info: sphere-3.png  used on input line 353.
+(pdftex.def)             Requested size: 217.62202pt x 166.32324pt.
+
+[34
+
+]
+<star-question.png, id=249, 795.72281pt x 442.65375pt>
+File: star-question.png Graphic file (type png)
+<use star-question.png>
+Package pdftex.def Info: star-question.png  used on input line 388.
+(pdftex.def)             Requested size: 348.19656pt x 193.6943pt.
+ [35
+
+ <./star-question.png>]
+<how-long-2.png, id=256, 404.51125pt x 309.155pt>
+File: how-long-2.png Graphic file (type png)
+<use how-long-2.png>
+Package pdftex.def Info: how-long-2.png  used on input line 411.
+(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
+ [36
+
+ <./how-long-2.png>]
+<how-long-3.png, id=264, 404.51125pt x 309.155pt>
+File: how-long-3.png Graphic file (type png)
+<use how-long-3.png>
+Package pdftex.def Info: how-long-3.png  used on input line 434.
+(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
+ [37
+
+ <./how-long-3.png>]
+<how-long-4.png, id=273, 404.51125pt x 309.155pt>
+File: how-long-4.png Graphic file (type png)
+<use how-long-4.png>
+Package pdftex.def Info: how-long-4.png  used on input line 457.
+(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
+[38
+
+ <./how-long-4.png>] [39
+
+]
+<visible-longer-1.png, id=288, 890.5772pt x 435.87843pt>
+File: visible-longer-1.png Graphic file (type png)
+<use visible-longer-1.png>
+Package pdftex.def Info: visible-longer-1.png  used on input line 589.
+(pdftex.def)             Requested size: 348.19656pt x 170.41756pt.
+ [40
+
+ <./visible-longer-1.png>]
+File: visible-longer-1.png Graphic file (type png)
+<use visible-longer-1.png>
+Package pdftex.def Info: visible-longer-1.png  used on input line 589.
+(pdftex.def)             Requested size: 348.19656pt x 170.41756pt.
+ [41
+
+] [42
+
+]
+<visible-longer-2.png, id=307, 891.33pt x 536.0025pt>
+File: visible-longer-2.png Graphic file (type png)
+<use visible-longer-2.png>
+Package pdftex.def Info: visible-longer-2.png  used on input line 617.
+(pdftex.def)             Requested size: 348.19656pt x 209.39182pt.
+ [43
+
+ <./visible-longer-2.png>] [44
+
+]
+<how-long-1.png, id=321, 404.51125pt x 309.155pt>
+File: how-long-1.png Graphic file (type png)
+<use how-long-1.png>
+Package pdftex.def Info: how-long-1.png  used on input line 654.
+(pdftex.def)             Requested size: 248.09082pt x 189.61264pt.
+ [45
+
+ <./how-long-1.png>] [46
+
+] [47
+
 ]
 \tf@nav=\write6
 \openout6 = `lecture3.nav'.
@@ -987,34 +1018,34 @@ Package pdftex.def Info: orion-depth.png  used on input line 435.
 \tf@snm=\write8
 \openout8 = `lecture3.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 591.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 591.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 692.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 692.
  (./lecture3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 591.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 591.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 692.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 692.
 Package rerunfilecheck Info: File `lecture3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18903 strings out of 481239
- 361095 string characters out of 5920377
- 607569 words of memory out of 5000000
- 33635 multiletter control sequences out of 15000+600000
- 537887 words of font info for 46 fonts, out of 8000000 for 9000
+ 18940 strings out of 481239
+ 361512 string characters out of 5920376
+ 610570 words of memory out of 5000000
+ 33641 multiletter control sequences out of 15000+600000
+ 537755 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,795b,668s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt12.pfb>
-Output written on lecture3.pdf (31 pages, 583351 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt9.pfb>
+Output written on lecture3.pdf (47 pages, 325353 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 391 PDF objects out of 1000 (max. 8388607)
+ 304 compressed objects within 4 object streams
+ 95 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
