@@ -7,6 +7,7 @@
 #
 # Site settings
 title: Our Place in the Universe
+repository: walterfreeman/ast101
 email: wafreema@syr.edu
 description: > # this means to ignore newlines until "baseurl:"
   Fall 2022, Syracuse University
