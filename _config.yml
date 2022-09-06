@@ -21,8 +21,6 @@ kramdown:
   extensions: ["tables"]
 #markdown: maruku
 
-exclude: [.git] [vendor]
-
 collection:
   assignments:
     output: true
