@@ -7,7 +7,7 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-Welcome to our class! I'll be adding more material to the website as we need it. Note that you can find links to all of the past lecture 
+Welcome to our class! I'll be adding more material to the website soon now that I have the webhost fixed. Note that you can find links to all of the past lecture 
 slides, along with approximate dates for everything and a semester plan, under the "Calendar" tab (computer) or menu item (mobile).
 
 ### Upcoming assignments:
