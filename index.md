@@ -7,9 +7,6 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-Welcome to our class! I'll be adding more material to the website soon now that I have the webhost fixed. Note that you can find links to all of the past lecture 
-slides, along with approximate dates for everything and a semester plan, under the "Calendar" tab (computer) or menu item (mobile).
-
 ### Upcoming assignments:
 
 * Homework 1 is included as the back page of the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">exercise on the celestial sphere</a>. It is due Thursday, September 8; the quiz is postponed to September 13.
