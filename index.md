@@ -14,7 +14,7 @@ title: Announcements and Information
 
 ### Current lecture slides:
 
-<a href="slides/lecture3/lecture3.pdf">Apparent motion of the sky each day, II</a>
+<a href="slides/lecture4/lecture4.pdf">The motion of the Earth throughout the year: the Zodiac</a>
 
 
 
