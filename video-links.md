@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Videos 
+title: Videos
+category: top 
 permalink: videos.html 
 use_math: true
 ---
