@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Video Links 
-permalink: climate-change.html 
+title: Videos 
+permalink: videos.html 
 use_math: true
 ---
 
