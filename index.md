@@ -9,12 +9,12 @@ title: Announcements and Information
 
 ### Upcoming assignments:
 
-* Homework 1 is included as the back page of the <a href="tutorials/celestial-sphere/celestial-sphere.pdf">exercise on the celestial sphere</a>. It is due Thursday, September 8; the quiz is postponed to September 13.
-* Lab 1 is this week! People with Monday labs will go to class next Monday. 
+Homework 3 is included as part of the exercise on <a href="tutorials/the-seasons/the-seasons.pdf">the seasons</a>. It is due on September 20; the homework quiz will be on September 22.
 
-### Current lecture slides:
+### Current lecture slides and exercise:
 
-<a href="slides/lecture4/lecture4.pdf">The motion of the Earth throughout the year: the Zodiac</a>
+* Slides: <a href="slides/lecture5/lecture5.pdf">Consequences of the Earth's tilt: the seasons</a> 
+* Exercise: <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a>
 
 
 

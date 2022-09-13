@@ -1,0 +1,259 @@
+#!/usr/bin/perl
+
+use Math::Trig;
+
+sub line {
+  my $x1=shift;
+  my $y1=shift;
+  my $x2=shift;
+  my $y2=shift;
+  printf "#\n%e %e\n %e %e\n#\n",$x1,$y1,$x2,$y2; # main line
+}
+
+sub arrowhead {
+  my $x1=shift;
+  my $y1=shift;
+  my $x2=shift;
+  my $y2=shift;
+  my $l=sqrt(($x1-$x2)**2+($y1-$y2)**2);
+  my $fx=($x2-$x1);
+  my $fy=($y2-$y1);
+
+  print "#\n";
+#  printf "%e %e\n %e %e\n#\n",$x1,$y1,$x2,$y2; # main line
+  printf "%e %e\n %e %e\n#\n",$x2,$y2,$x2-($fx*0.2+$fy*0.08),$y2-($fy*0.2-$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2,$y2,$x2-($fx*0.2-$fy*0.08),$y2-($fy*0.2+$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2-$fx*0.1,$y2-$fy*0.1,$x2-($fx*0.2+$fy*0.08),$y2-($fy*0.2-$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2-$fx*0.1,$y2-$fy*0.1,$x2-($fx*0.2-$fy*0.08),$y2-($fy*0.2+$fx*0.08);
+}
+
+
+sub arrow {
+  my $x1=shift;
+  my $y1=shift;
+  my $x2=shift;
+  my $y2=shift;
+  my $l=sqrt(($x1-$x2)**2+($y1-$y2)**2);
+  my $fx=($x2-$x1);
+  my $fy=($y2-$y1);
+
+  print "#\n";
+  printf "%e %e\n %e %e\n#\n",$x1,$y1,$x2,$y2; # main line
+  printf "%e %e\n %e %e\n#\n",$x2,$y2,$x2-($fx*0.2+$fy*0.08),$y2-($fy*0.2-$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2,$y2,$x2-($fx*0.2-$fy*0.08),$y2-($fy*0.2+$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2-$fx*0.1,$y2-$fy*0.1,$x2-($fx*0.2+$fy*0.08),$y2-($fy*0.2-$fx*0.08);
+  printf "%e %e\n %e %e\n#\n",$x2-$fx*0.1,$y2-$fy*0.1,$x2-($fx*0.2-$fy*0.08),$y2-($fy*0.2+$fx*0.08);
+}
+
+sub stickfig {
+  my $x1=shift;
+  my $y1=shift;
+  my $x2=shift;
+  my $y2=shift;
+
+  my $l=sqrt(($x1-$x2)**2+($y1-$y2)**2);
+  my $fx=($x2-$x1)/$l;
+  my $fy=($y2-$y1)/$l;
+  
+  my $beta=$l*0.3;     # ground to crotch
+  my $alpha=$l*0.2;    # leg spread and arm spread
+  my $gamma=$l*0.6;     # ground to hands
+  my $delta=$l*0.7;     # ground to shoulders
+  my $headrad=$l*0.1;
+
+  print STDERR "head radius should be $headrad (l = $l)\n";
+
+  my $crotchx=$x1+$beta*$fx;
+  my $crotchy=$y1+$beta*$fy;
+  
+  my $chestx=$x1+$gamma*$fx;
+  my $chesty=$y1+$gamma*$fy;
+  
+  my $shoulderx=$x1+$delta*$fx;
+  my $shouldery=$y1+$delta*$fy;
+
+  my $neckx=$x1+($l-$headrad*2)*$fx;
+  my $necky=$y1+($l-$headrad*2)*$fy;
+
+  my $headx=$x1+($l-$headrad)*$fx;
+  my $heady=$y1+($l-$headrad)*$fy;
+
+
+  my $leftlegx=$x1-$alpha*$fy;
+  my $leftlegy=$y1+$alpha*$fx;
+
+  my $rightlegx=$x1+$alpha*$fy;
+  my $rightlegy=$y1-$alpha*$fx;
+
+  my $leftarmx=$chestx-$alpha*$fy;
+  my $leftarmy=$chesty+$alpha*$fx;
+
+  my $rightarmx=$chestx+$alpha*$fy;
+  my $rightarmy=$chesty-$alpha*$fx;
+
+  print STDERR "Shoulders/Neck/Head/Head Radius: $shouldery, $necky, $heady,$headrad\n";
+
+  print "#\n";
+  # draw legs
+  line ($leftlegx, $leftlegy, $crotchx, $crotchy);
+  line ($rightlegx, $rightlegy, $crotchx, $crotchy);
+
+  line ($crotchx, $crotchy, $neckx, $necky);
+  line ($shoulderx, $shouldery, $leftarmx, $leftarmy);
+  line ($shoulderx, $shouldery, $rightarmx, $rightarmy);
+  
+  for ($th=0; $th<2*pi; $th+=0.1*pi)
+  {
+    line ($headx+$headrad*sin($th), $heady+$headrad*cos($th),
+          $headx+$headrad*sin($th+0.1*pi), $heady+$headrad*cos($th+0.1*pi));
+  }
+}
+  
+ 
+sub sun {
+    my $x=shift;
+    my $y=shift;
+    my $r=shift;
+    for (my $th=0;$th<=2*$pi;$th+=$ths)
+    {
+      printf "%e %e\n",$x+$r*cos($th),$y+$r*sin($th);
+    }
+    for (my $i=0; $i<8; $i++)
+    {
+	$th = $i*3.14159/4;
+	line ($x+$r*cos($th), $y+$r*sin($th), $x+2*$r*cos($th), $y+2*$r*sin($th));
+    }
+}
+
+
+
+
+
+$pi=3.1415926535;
+$ths=$pi*0.005;
+
+print "#g 0 x -10 10 y -10 10\n";
+
+while (<STDIN>)
+{
+  @w=split;
+  if ($w[0] eq "rect")
+  {
+    line ($w[1],$w[2],$w[3],$w[2]); 
+    line ($w[3],$w[2],$w[3],$w[4]); 
+    line ($w[3],$w[4],$w[1],$w[4]); 
+    line ($w[1],$w[4],$w[1],$w[2]); 
+  }
+  elsif ($w[0] eq "circ")
+  {
+    print "#c0\n";
+    $x=$w[1];
+    $y=$w[2];
+    $r=$w[3];
+    for ($th=0;$th<=2.01*$pi;$th+=$ths)
+    {
+      printf "%e %e\n",$x+$r*cos($th),$y+$r*sin($th);
+    }
+    print "#\n";
+  }
+  elsif ($w[0] eq "dotcirc")
+  {
+    print "#c0\n";
+    $x=$w[1];
+    $y=$w[2];
+    $r=$w[3];
+    $f=$w[4];
+    if ($f == 0) {$f = 0.5;}
+    $steps=int(2*3.14159*sqrt($r*4));
+    $ths = 2.314159/$steps;
+    for ($th=0;$th<=2.01*$pi;$th+=$ths)
+    {
+      printf "%e %e\n",$x+$r*cos($th),$y+$r*sin($th);
+      printf "%e %e\n",$x+$r*cos($th+$ths*$f),$y+$r*sin($th+$ths*$f);
+      print "#\n";
+    }
+    print "#\n";
+  }
+  elsif ($w[0] eq "fillcirc")
+  {
+    print "#c0\n";
+    $x=$w[1];
+    $y=$w[2];
+    $r=$w[3];
+    for ($rr=0; $rr<$r; $rr+=0.002)
+    {
+    for ($th=0;$th<=2.01*$pi;$th+=$ths)
+    {
+      printf "%e %e\n",$x+$rr*cos($th),$y+$rr*sin($th);
+    }
+    }
+    print "#\n";
+  }
+  elsif ($w[0] eq "arc")
+  {
+    print "#c0\n";
+    $x=$w[1];
+    $y=$w[2];
+    $r=$w[3];
+    $thmin=$w[4]*3.14159/180;
+    $thmax=$w[5]*3.14159/180;
+    for ($th=$thmin;$th<=$thmax;$th+=$ths)
+    {
+      print stderr "arc: theta is $th\n";
+      printf "%e %e\n",$x+$r*cos($th),$y+$r*sin($th);
+    }
+    print "#\n";
+  }
+ elsif ($w[0] eq "nsegs")
+ {
+   $ths=2*3.14159265/$w[1];
+ }
+ elsif ($w[0] eq "dcirc")
+  {
+    print "#c0\n";
+    $x=$w[1];
+    $y=$w[2];
+    $r=$w[3];
+    for ($th=0;$th<=2*$pi;$th+=2*$ths)
+    {
+      line ($x+$r*cos($th),$y+$r*sin($th),$x+$r*cos($th+$ths),$y+$r*sin($th+$ths));
+    }
+    print "#\n";
+  }
+ elsif ($w[0] eq "arrow")
+  {
+    print "#c0\n";
+    arrow($w[1],$w[2],$w[3],$w[4]);
+    print "#\n";
+  }
+ elsif ($w[0] eq "arrowhead")
+  {
+    print "#c0\n";
+    arrowhead($w[1],$w[2],$w[3],$w[4]);
+    print "#\n";
+  }
+ elsif ($w[0] eq "stickfig")
+  {
+    print "#c0\n";
+    stickfig($w[1],$w[2],$w[3],$w[4]);
+    print "#\n";
+  }
+
+ elsif ($w[0] eq "line" || $w[0] eq "l")
+  {
+    line($w[1],$w[2],$w[3],$w[4]);
+    print "#\n";
+  }
+ elsif ($w[0] eq "sun")
+  {
+    sun($w[1],$w[2],$w[3]);
+    print "#\n";
+  }
+ elsif ($w[0] eq "cl")
+  {
+    print "#cm $w[5]\n";
+    line($w[1],$w[2],$w[3],$w[4]);
+    print "#\n";
+  }
+  else {print $_;}
+}
