@@ -13,7 +13,7 @@ Homework 3 is included as part of the exercise on <a href="tutorials/the-seasons
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture5/lecture5.pdf">Consequences of the Earth's tilt: the seasons</a> 
+* Slides: <a href="slides/lecture6/lecture6.pdf">The Moon</a> 
 * Exercise: <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a>
 
 

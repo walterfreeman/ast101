@@ -18,6 +18,7 @@ in the Physics Clinic (room 112).
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
 | Lab 2: The Path of the Sun                 | <a href="labs/lab2/lab2.pdf">Lab 2</a> | <a href="labs/lab2/lab2prelab.pdf">Lab 2 Prelab</a> |
+| Lab 3: The Phases of the Moon                 | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 ### Instructors

@@ -21,7 +21,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | September 6 | <a href="slides/lecture3/lecture3.pdf">The Celestial Sphere II / What is a day?</a> |  | |  |
 | September 8 | <a href="slides/lecture4/lecture4.pdf">The revolving Earth: the Sun and the Zodiac</a> | HW2 assigned | <a href="tutorials/zodiac-motion/zodiac-motion.pdf">The Zodiac</a> |  |
 | September 13 | <a href="slides/lecture5/lecture5.pdf">Consequences of the Earth's tilt: the seasons</a> | HW3 assigned  | <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a>  |  |
-| September 15 | The Moon | HW3 assigned | The Seasons |  |
+| September 15 | <a href="slides/lecture6/lecture6.pdf">The Moon</a> | |  |  |
 | September 20 | Timekeeping; oddballs in the sky |  |  |  |
 | September 22 | The planets: from geocentrism to heliocentrism |  |  |  |
 | September 27 | Exam 1 |  |  |  |

@@ -437,7 +437,7 @@ int main(int argc, char **argv)
    for (int i=0;i<12;i++)
    {
      if (earth * Vc > 0) printf("C 1 1 1\n"); else printf("C 0.5 0.3 0.3\n");
-     printf("c3 %e %e %e0.4\n",Vc.x,Vc.y,Vc.z);
+//     printf("c3 %e %e %e0.4\n",Vc.x,Vc.y,Vc.z);
      rotate_z(Vc,M_PI/6);
    }
    Vc=zv; Vc.x=Rconst;
