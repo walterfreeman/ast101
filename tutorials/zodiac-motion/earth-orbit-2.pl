@@ -5,13 +5,13 @@ dcirc 0 0 1.5
 circ 0 0 0.2
 EOF
 
-$eang = 240 * 3.14159/180;
+$eang = 60 * 3.14159/180;
 $ex = 1.5 * cos($eang);
 $ey = 1.5 * sin($eang);
 print "#cm 3\ncirc $ex $ey 0.5\n";
-$oang = 180 * 3.14159/180;
+$oang = 0 * 3.14159/180;
 print "#cm 4\n";
-printf "stickfig %e %e %e %e\n",$ex+0.5*cos($oang),$ey+0.5*sin($oang),$ex+1.0*cos($oang),$ey+1.0*sin($oang);
+#printf "stickfig %e %e %e %e\n",$ex+0.5*cos($oang),$ey+0.5*sin($oang),$ex+1.0*cos($oang),$ey+1.0*sin($oang);
 
 $pi=3.14159265;
 $r1=8.5;
