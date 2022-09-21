@@ -11,3 +11,5 @@ Here you can find video explanations for the ideas behind the homework. Some of 
 <a href="https://youtu.be/TiwV0YsEB6g">Homework 1 Explanation</a>, by Sydney
 
 <a href="https://youtu.be/nG6MlM59y2E">Homework 2 Explanation</a>, by Sydney
+
+<a href="https://youtu.be/LkbBFNZUyOM">Homework 3 Explanation</a>, by Walter
