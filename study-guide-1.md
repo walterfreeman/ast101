@@ -83,3 +83,40 @@ others will only be visible briefly or not at all (those lying close to the SCP)
   * When we are tilted toward the Sun, we get more direct sunlight than when we are tilted away
 * You should be familiar with the language used to describe this: solstices, equinoxes, etc.
 
+## Emergence of heliocentrism 
+We studied a bunch of history, showing how we arrived at the modern picture of the Solar System. Here's an outline of the history:
+
+* Ancient Greek thought (practiced by Ptolemy in Egypt):
+        * Division between natural philosophy (seeking the truth of Nature) and astronomy (predicting the motion of things in the sky)
+        * "Astronomy" looked down upon as mere number-crunching
+        * Certain philosophical assumptions: Earth is at the center of everything; planets, sun, moon, stars move in circles around Earth
+        * Sought natural, not supernatural, explanations for things
+        * Used mathematics (particularly geometry) to make their explanations precise
+* Ptolemaic model:
+        * Constrained by philosophical preconceptions: Everything moves in perfect circles with the Earth at the center
+        * Big difficulty with geocentric solar system models: explain retrograde motion of the planets
+        * Ptolemy's model explained this with "epicycles", smaller circular motions overlaid on the large orbit of the planet around the Earth
+        * System of epicycles very complicated, but the predictions were quite accurate
+        * Transmitted, refined, and used by scholars in the area, particularly the Persian and Islamic astronomers
+* Huge gap in time -- Ptolemy was in the 2nd century CE. Fast-forward to Europe in the 16th century...
+* Copernicus: proposed Sun, not Earth, at the center of the solar system
+        * Explained retrograde motion without recourse to epicycles
+        * Much simpler
+        * ... but not as accurate as Ptolemaic model
+* Galileo: observed sky for the first time with a telescope
+        * Empirical observations are the highest authority in science
+        * Saw mountains on the Moon: celestial bodies are not perfect!
+        * Saw moons of Jupiter: things orbit objects other than Earth!
+        * Saw phases of Venus: confirmation that the Sun is at the center!
+        * Published this to great acclaim, but was accused of heresy and imprisoned in his house
+
+We end with a cliffhanger:
+
+* The Ptolemaic geocentric model makes accurate predictions of how the planets move, but it has some problems:
+  * It doesn't give us the correct arrangement of things in the sky (it has the Earth at the center)
+  * It is too complicated (epicycles)
+* The Copernican heliocentric model agrees with Galileo's observations that show the Sun is at the center of the Solar System
+  * ... but it doesn't actually make accurate predictions about the movement of the planets!
+
+We need to resolve this somehow -- stay tuned!
+

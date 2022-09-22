@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.5)  22 SEP 2022 11:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.5)  22 SEP 2022 12:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,38 +959,38 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [9
 
-] [10
-
-] [11
-
-] [12
-
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 280
+LaTeX Font Info:    Trying to load font information for U+msa on input line 249
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 280
+LaTeX Font Info:    Trying to load font information for U+msb on input line 249
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<sphere-medieval.png, id=113, 640.3925pt x 658.46pt>
+<sphere-medieval.png, id=91, 640.3925pt x 658.46pt>
 File: sphere-medieval.png Graphic file (type png)
 <use sphere-medieval.png>
-Package pdftex.def Info: sphere-medieval.png  used on input line 280.
+Package pdftex.def Info: sphere-medieval.png  used on input line 249.
 (pdftex.def)             Requested size: 130.57454pt x 134.25172pt.
-<ss-modern.jpg, id=114, 398.99063pt x 272.51813pt>
+<ss-modern.jpg, id=92, 398.99063pt x 272.51813pt>
 File: ss-modern.jpg Graphic file (type jpg)
 <use ss-modern.jpg>
-Package pdftex.def Info: ss-modern.jpg  used on input line 280.
+Package pdftex.def Info: ss-modern.jpg  used on input line 249.
 (pdftex.def)             Requested size: 152.33475pt x 104.04863pt.
- [13
+ [10
 
- <./sphere-medieval.png> <./ss-modern.jpg>] [14
+ <./sphere-medieval.png> <./ss-modern.jpg>] [11
+
+] [12
+
+] [13
+
+] [14
 
 ] [15
 
@@ -1002,92 +1002,92 @@ Package pdftex.def Info: ss-modern.jpg  used on input line 280.
 
 ] [19
 
-] [20
-
-] [21
-
-] [22
-
 ]
-<lunar-eclipse-composite.jpg, id=179, 537.50812pt x 412.54124pt>
+<lunar-eclipse-composite.jpg, id=157, 537.50812pt x 412.54124pt>
 File: lunar-eclipse-composite.jpg Graphic file (type jpg)
 <use lunar-eclipse-composite.jpg>
-Package pdftex.def Info: lunar-eclipse-composite.jpg  used on input line 340.
+Package pdftex.def Info: lunar-eclipse-composite.jpg  used on input line 309.
 (pdftex.def)             Requested size: 261.14908pt x 200.43477pt.
 
-[23
+[20
 
- <./lunar-eclipse-composite.jpg>] [24
+ <./lunar-eclipse-composite.jpg>] [21
 
 ]
-<eclipse-flat.jpg, id=192, 321.2pt x 321.2pt>
+<eclipse-flat.jpg, id=170, 321.2pt x 321.2pt>
 File: eclipse-flat.jpg Graphic file (type jpg)
 <use eclipse-flat.jpg>
-Package pdftex.def Info: eclipse-flat.jpg  used on input line 364.
+Package pdftex.def Info: eclipse-flat.jpg  used on input line 333.
 (pdftex.def)             Requested size: 261.14908pt x 261.1557pt.
- [25
+ [22
 
- <./eclipse-flat.jpg>] [26
-
-]
-[27
+ <./eclipse-flat.jpg>] [23
 
 ]
-<parallax.png, id=212, 235.88126pt x 359.3425pt>
+[24
+
+]
+<parallax.png, id=189, 235.88126pt x 359.3425pt>
 File: parallax.png Graphic file (type png)
 <use parallax.png>
-Package pdftex.def Info: parallax.png  used on input line 443.
+Package pdftex.def Info: parallax.png  used on input line 412.
 (pdftex.def)             Requested size: 130.57454pt x 198.92203pt.
- [28
+ [25
 
  <./parallax.png (PNG copy)>]
-<retrograde.jpg, id=219, 1541.76pt x 1027.84pt>
+<retrograde.jpg, id=197, 1541.76pt x 1027.84pt>
 File: retrograde.jpg Graphic file (type jpg)
 <use retrograde.jpg>
-Package pdftex.def Info: retrograde.jpg  used on input line 452.
+Package pdftex.def Info: retrograde.jpg  used on input line 421.
 (pdftex.def)             Requested size: 369.96008pt x 246.63959pt.
- [29
+ [26
 
- <./retrograde.jpg>] [30
+ <./retrograde.jpg>] [27
 
-] [31
-
-]
-File: sphere-medieval.png Graphic file (type png)
-<use sphere-medieval.png>
-Package pdftex.def Info: sphere-medieval.png  used on input line 507.
-(pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
-
-Overfull \vbox (15.80423pt too high) detected at line 507
- []
-
-[32
+] [28
 
 ]
 File: sphere-medieval.png Graphic file (type png)
 <use sphere-medieval.png>
-Package pdftex.def Info: sphere-medieval.png  used on input line 507.
+Package pdftex.def Info: sphere-medieval.png  used on input line 476.
 (pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
 
-Overfull \vbox (15.80423pt too high) detected at line 507
+Overfull \vbox (15.80423pt too high) detected at line 476
  []
 
-[33
+[29
 
 ]
-<epicycle1.png, id=251, 1003.75pt x 1003.75pt>
+File: sphere-medieval.png Graphic file (type png)
+<use sphere-medieval.png>
+Package pdftex.def Info: sphere-medieval.png  used on input line 476.
+(pdftex.def)             Requested size: 174.09496pt x 179.00229pt.
+
+Overfull \vbox (15.80423pt too high) detected at line 476
+ []
+
+[30
+
+]
+<epicycle1.png, id=228, 1003.75pt x 1003.75pt>
 File: epicycle1.png Graphic file (type png)
 <use epicycle1.png>
-Package pdftex.def Info: epicycle1.png  used on input line 529.
+Package pdftex.def Info: epicycle1.png  used on input line 498.
 (pdftex.def)             Requested size: 130.57454pt x 130.56865pt.
- [34
+ [31
 
  <./epicycle1.png>]
 File: epicycle1.png Graphic file (type png)
 <use epicycle1.png>
-Package pdftex.def Info: epicycle1.png  used on input line 529.
+Package pdftex.def Info: epicycle1.png  used on input line 498.
 (pdftex.def)             Requested size: 130.57454pt x 130.56865pt.
- [35
+ [32
+
+] [33
+
+] [34
+
+] [35
 
 ] [36
 
@@ -1099,55 +1099,55 @@ Package pdftex.def Info: epicycle1.png  used on input line 529.
 
 ] [40
 
-] [41
+]
+<copernican-model.jpg, id=297, 812.03375pt x 743.77875pt>
+File: copernican-model.jpg Graphic file (type jpg)
+<use copernican-model.jpg>
+Package pdftex.def Info: copernican-model.jpg  used on input line 611.
+(pdftex.def)             Requested size: 217.62202pt x 199.32486pt.
 
-] [42
+[41
+
+ <./copernican-model.jpg>] [42
 
 ] [43
 
-]
-<copernican-model.jpg, id=320, 812.03375pt x 743.77875pt>
-File: copernican-model.jpg Graphic file (type jpg)
-<use copernican-model.jpg>
-Package pdftex.def Info: copernican-model.jpg  used on input line 642.
-(pdftex.def)             Requested size: 217.62202pt x 199.32486pt.
+] [44
 
-[44
-
- <./copernican-model.jpg>] [45
+] [45
 
 ] [46
 
 ] [47
 
-] [48
-
-] [49
-
-] [50
-
 ]
-<jupiter-moons.png, id=367, 605.10814pt x 357.64384pt>
+<jupiter-moons.png, id=345, 605.10814pt x 357.64384pt>
 File: jupiter-moons.png Graphic file (type png)
 <use jupiter-moons.png>
-Package pdftex.def Info: jupiter-moons.png  used on input line 734.
+Package pdftex.def Info: jupiter-moons.png  used on input line 703.
 (pdftex.def)             Requested size: 348.19656pt x 205.80186pt.
- [51
+ [48
 
  <./jupiter-moons.png (PNG copy)>]
-<jupiter-stellarium.png, id=375, 698.20169pt x 410.76538pt>
+<jupiter-stellarium.png, id=353, 698.20169pt x 410.76538pt>
 File: jupiter-stellarium.png Graphic file (type png)
 <use jupiter-stellarium.png>
-Package pdftex.def Info: jupiter-stellarium.png  used on input line 752.
+Package pdftex.def Info: jupiter-stellarium.png  used on input line 721.
 (pdftex.def)             Requested size: 348.19656pt x 204.84943pt.
- [52
+ [49
 
- <./jupiter-stellarium.png (PNG copy)>] [53
+ <./jupiter-stellarium.png (PNG copy)>] [50
+
+] [51
+
+]
+[52
+
+] [53
 
 ] [54
 
-]
-[55
+] [55
 
 ] [56
 
@@ -1158,12 +1158,6 @@ Package pdftex.def Info: jupiter-stellarium.png  used on input line 752.
 ] [59
 
 ] [60
-
-] [61
-
-] [62
-
-] [63
 
 ]
 \tf@nav=\write6
@@ -1180,9 +1174,9 @@ Package rerunfilecheck Info: File `lecture8.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21815 strings out of 478855
- 404066 string characters out of 5858636
- 694628 words of memory out of 6000000
+ 21809 strings out of 478855
+ 404009 string characters out of 5858636
+ 693915 words of memory out of 6000000
  38839 multiletter control sequences out of 15000+600000
  411140 words of font info for 56 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
@@ -1199,10 +1193,10 @@ fonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 
-Output written on lecture8.pdf (63 pages, 2075768 bytes).
+Output written on lecture8.pdf (60 pages, 2069353 bytes).
 PDF statistics:
- 522 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 127 named destinations out of 1000 (max. 500000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 396 compressed objects within 4 object streams
+ 121 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
