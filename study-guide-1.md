@@ -1,7 +1,8 @@
 ---
 layout: page
 use_math: true
-title: Study Guide 1+2
+title: Study Guide
+category: top
 permalink: exam1study.html
 ---
 
@@ -15,7 +16,7 @@ In this unit, we studied:
 * how the motions of the Earth and Moon cause the motions of the Sun, Moon, and planets to differ from the celestial sphere model.
 
 I'll talk about each in turn. However, this review doesn't contain pictures, and **this unit is all about geometry**. It is up to you to draw these diagrams for yourself,
-find them in the lecture slides, review your **Lecture Tutorials**, and read the textbook. This unit, more than any other, requires active problem-solving on your part, not just recall
+find them in the lecture slides, review your **Exercises**, and recall what you did in lab. This unit, more than any other, requires active problem-solving on your part, not just recall
 of the laws of nature. This is just a list of what you need to be familiar with, **not** the only thing you should read to study. You are responsible for going back through your notes,
 the book, the **Tutorials**, the slides, and the like and working through examples. There will be problems on this exam where you're presented with a diagram and have to figure stuff out
 from it.
@@ -26,7 +27,6 @@ Study tips:
 * use your fingers to point in three dimensions and trace the paths of things in the sky
 * draw a bigger picture
 * no, really, draw a picture :)
-* use your Earth beach-ball to help you visualize things in 3D!
 
 ### Our local neighborhood: stuff to know
 
@@ -65,7 +65,6 @@ others will only be visible briefly or not at all (those lying close to the SCP)
   * We measure days and calibrate our clocks by the solar day, not the sidereal day
 * The twelve constellations in the sky that lie behind the Sun as the Earth orbits it are together called the zodiac; which one lies behind the Sun depends on the time of year.
 
-# Study guide for Unit 2
 
 ### The Moon
 

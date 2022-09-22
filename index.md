@@ -15,7 +15,7 @@ Exam 1 will be on September 27.
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture7/lecture7.pdf">The Moon, continued; oddballs in the sky; timekeeping</a> 
+* Slides: <a href="slides/lecture8/lecture8.pdf">The emergence of heliocentrism</a>
 * Exercise: none today 
 
 
