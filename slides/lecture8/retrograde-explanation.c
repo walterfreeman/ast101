@@ -426,7 +426,7 @@ double period[nplanets]; for (int i=0;i<nplanets;i++) period[i]=-1;
   double trbskip=0.008,trb=0;
   // solve solar system with Euler-Cromer
 
-  double dt=1e-5;
+  double dt=2e-6;
  for (int i=0;i<nplanets;i++)
     {
       vector vnew = ss[i].r + ss[i].v * dt/2; // position update
