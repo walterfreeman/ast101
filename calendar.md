@@ -22,8 +22,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | September 8 | <a href="slides/lecture4/lecture4.pdf">The revolving Earth: the Sun and the Zodiac</a> | HW2 assigned | <a href="tutorials/zodiac-motion/zodiac-motion.pdf">The Zodiac</a> |  |
 | September 13 | <a href="slides/lecture5/lecture5.pdf">Consequences of the Earth's tilt: the seasons</a> | HW3 assigned  | <a href="tutorials/the-seasons/the-seasons.pdf">The Seasons</a>  |  |
 | September 15 | <a href="slides/lecture6/lecture6.pdf">The Moon</a> | |  |  |
-| September 20 | <a href="The Moon, continued; oddballs in the sky; timekeeping"</a> |  |  |  |
-| September 22 | The planets: from geocentrism to heliocentrism |  |  |  |
+| September 20 | <a href="slides/lecture7/lecture7.pdf">The Moon, continued; oddballs in the sky; timekeeping"</a> |  |  |  |
+| September 22 | <a href="slides/lecture8/lecture8.pdf">The planets: from geocentrism to heliocentrism</a> |  |  |  |
 | September 27 | Exam 1 |  |  |  |
 | September 29 | The laws of orbital motion | HW4 assigned |  |  |
 | October 4 | Interlude: Science done well |  |  |  |
