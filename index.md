@@ -7,11 +7,11 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-### Upcoming assignments:
+## Exam seating charts:
 
-Homework 3 is included as part of the exercise on <a href="tutorials/the-seasons/the-seasons.pdf">the seasons</a>. It is due on September 20; the homework quiz will be on September 22.
+* <a href="chart-secM001.pdf">Seating chart for 12:30 section</a>
+* <a href="chart-secM002.pdf">Seating chart for 2:00 section</a>
 
-Exam 1 will be on September 27.
 
 ### Current lecture slides and exercise:
 
