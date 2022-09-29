@@ -14,6 +14,8 @@ You do not need to turn the prelab in to anyone; you should just bring it to lab
 You can either print the prelabs yourself, do them on a tablet with a stylus, or pick up a copy
 in the Physics Clinic (room 112).
 
+**Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
+
 | Lab Title | Lab Link | Prelab Link |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 | Lab 1: Stellarium and the Celestial Sphere | <a href="labs/lab1/lab1.pdf">Lab 1</a> | <a href="labs/lab1/lab1prelab.pdf">Lab 1 Prelab</a> |
@@ -21,6 +23,7 @@ in the Physics Clinic (room 112).
 | Lab 3: The Phases of the Moon              | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 | Lab 4: Measuring Distance with Parallax    | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
+
 
 ### Instructors
 

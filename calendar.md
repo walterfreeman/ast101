@@ -25,7 +25,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | September 20 | <a href="slides/lecture7/lecture7.pdf">The Moon, continued; oddballs in the sky; timekeeping"</a> |  |  |  |
 | September 22 | <a href="slides/lecture8/lecture8.pdf">The planets: from geocentrism to heliocentrism</a> |  |  |  |
 | September 27 | Exam 1 |  |  |  |
-| September 29 | The laws of orbital motion | HW4 assigned |  |  |
+| September 29 | <a href="slides/lecture9/lecture9.pdf">The laws of orbital motion</a> | |  |  |
 | October 4 | Interlude: Science done well |  |  |  |
 | October 6 | The law of gravitation and Newton's laws of motion |  |  |  |
 | October 11 | The conservation of energy |  |  |  |

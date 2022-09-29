@@ -7,15 +7,9 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-## Exam seating charts:
-
-* <a href="chart-secM001.pdf">Seating chart for 12:30 section</a>
-* <a href="chart-secM002.pdf">Seating chart for 2:00 section</a>
-
-
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture8/lecture8.pdf">The emergence of heliocentrism</a>
+* Slides: <a href="slides/lecture9/lecture9.pdf">Kepler's laws of motion</a>
 * Exercise: none today 
 
 
