@@ -365,8 +365,8 @@ int main(int argc, char **argv)
   ss[1].eqline=xhat*ss[1].size;
   ss[1].color=xhat*0.5+yhat*0.5+zhat*1;
   ss[1].m=0.0000;
-  ss[1].r=xhat*4;
-  ss[1].v=sqrt(G/ss[1].r.x)*yhat*0.9;
+  ss[1].r=xhat*2;
+  ss[1].v=sqrt(G/ss[1].r.x)*yhat*0.98;
 
   ss[2].size=0.04;
   ss[2].rotax=zhat*ss[2].size;

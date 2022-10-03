@@ -65,7 +65,7 @@
 \textbf{\Large
 AST101: Our Corner of the Universe \\
 \vspace*{0.1cm}
-Lab 4: Parallax
+Lab 5: Cycles in the Sky as Clocks
 }
 \end{center}
 
@@ -84,39 +84,43 @@ People have used the cycles in the sky to keep time since prehistoric ages. Inde
 
 In this lab, you'll explore the choices that different cultures around the world have made in connecting the cycles in the sky to timekeeping. First we will understand the Gregorian calendar, the one we use; then, we will extend that understanding to several other calendars, and finally design one of our own.
 
+{\bf A note:} This lab has some arithmetic in it, but no difficult mathematics -- you will need to add, subtract, and multiply, though. So you will need a calculator, smartphone, or a computer's calculator program.
+
 \subsection{Cycles in the Sky}
 
-While practices vary throughout cultures in the world, people's approach to timekeeping has centered around the major cycles in the sky.
+While practices vary throughout cultures in the world, people's approach to timekeeping has centered around the major cycles in the sky. The most obvious ones are:
 
 \begin{enumerate}
 	\item {\bf The solar day}: This is the cycle from daytime to nighttime and back; it is 24 hours.
-	\item {\bf The sidereal day:} This is the amount of time it takes the Earth to rotate once, and thus for the stars to rotate once in the sky. It is 23.934 hours (23h 56m).
+%	\item {\bf The sidereal (sid-eh-reh-al) day:} This is the amount of time it takes the Earth to rotate once, and thus for the stars to rotate once in the sky. It is 23.934 hours (23h 56m).
 	\item {\bf The synodic month:} This is the time it takes the Moon to cycle through its phases; it is 29.53 solar days.
 	\item {\bf The seasonal year:} This is the time from winter solstice to winter solstice. It is 365.2422 solar days.
-	\item {\bf The sidereal year:} This is the time it takes the Earth to orbit the Sun once, and thus for the Sun to cycle through the Zodiac. It is 365.2564 solar days.
+%	\item {\bf The sidereal year:} This is the time it takes the Earth to orbit the Sun once, and thus for the Sun to cycle through the Zodiac. It is 365.2564 solar days.
 \end{enumerate}
+
+%The word ``sidereal'' is based on the Latin ``sider'', meaning ``star''. So a sidereal day is a day by the stars; a solar day is a day by the Sun.
 
 A calendar, in its most basic form, tells you where you are in the astronomical cycles. For instance, our 24-hour cycle is based on the solar day -- knowing that it is 12:30 PM tells you that it is slightly after noon. Likewise, the Jewish calendar reckons dates based on the phase of the Moon, so if you know that it is the first day of a month, you also know that it is a new moon. 
 
 \section{The Gregorian calendar}
 
-The familiar calendar we use is the Gregorian calendar; we should be familiar with its days, months, and years.
+The familiar calendar we use is the Gregorian calendar; you are likely familiar with its days, months, and years.
 
-Suppose I tell you that it is 6:29 PM on September 21.  There are three pieces of information here: 
+Suppose I tell you that it is 6:29 PM on September 30.  There are three components of the date here: 
 
 \begin{itemize}
 	\item It is 6:29 PM
-	\item It is the 21st day of the month
+	\item It is the 30th day of the month
 	\item It is September
 \end{itemize}
 
-{\bf Question 1.}  Which of the five main cycles in the sky does this connect to? (What does this time/date tell you about daytime vs. nighttime, the position of the stars in their motion around the celestial poles, the phase of the moon, the seasons, and the position of the Sun relative to the Zodiac?) 
+Which of the three main cycles in the sky does this connect to? (What does this time/date tell you about daytime vs. nighttime, the phase of the moon, and the seasons?) 
 
-(Hint: It is connected to only {\it two} of the five cycles in the sky. Which ones are they, and how are they reflected in the date?)
+(Hint: It is connected to only {\it two} of these three cycles; one of the components of the date doesn't actually carry any information! Which cycles are they, and how are they reflected in the date?)
 
 \vspace{2in} \underline{\hspace{6in}}
 
-{\bf Question 2.} Let's ask the previous question another way. Which of the five cycles in the sky do each of the following describe? 
+Let's ask the previous question another way. Which of the three cycles in the sky do each of the following describe? (One of them doesn't describe any of them!)
 
 \begin{enumerate}
 	\item The Gregorian day
@@ -130,8 +134,244 @@ Suppose I tell you that it is 6:29 PM on September 21.  There are three pieces o
 
 \subsection{Intercalation (Leap-Things)}
 
-Since the time of year is supposed to tell us what season it is, it would be a problem if this were no longer true.
+Our goal here is to understand why we add leap days. 
+
+Suppose that we stopped putting leap days in the Gregorian calendar -- if every year was 365 solar days long. What do you think would happen over the next few hundred years? How long would it take before people noticed that something was wrong?
+
+\vspace{1.5in}
+
+Our pattern of leap-days repeats every 400 years, so let's use that for reference. 
+\vspace{1em}
+
+\begin{minipage}{0.45\textwidth}
+How many solar days are in 400 seasonal years? (Remember, one seasonal year is 365.2422 solar days.)
+
+\vspace{1in}
+
+\underline{\hspace{3in}}
+\end{minipage}
+\hspace{0.1\textwidth}
+\begin{minipage}{0.45\textwidth}
+	How many solar days are in 400 years if the year is exactly 365 days (with no leap years at all)
+	
+	\vspace{1in}
+	
+	\underline{\hspace{3in}}
+\end{minipage}
+
+How big of a deal do you think this discrepancy is? 
+
+\vspace{1in}
+
+	\underline{\hspace{6in}}
+
+In 45 BC, Julius Caesar issued an edict to add an {\it intercalary day} or {\it leap day} every fourth year, so the Julian calendar had three years of 365 days, followed by one year of 366 days.
+
+How many days are in 400 Julian years? {\it (Hint: You just calculated the number of days in 400 365-day years; you can just add the number of leap days in 400 years to this.)}
+
+\vspace{1in}
+
+\underline{\hspace{6in}}
+
+How does this compare to the number of days in 400 seasonal years? How long do you think before people would notice the remaining discrepancy?
+
+\vspace{1in}
+\underline{\hspace{6in}}
+
+Around 1600, Pope Gregory introduced a new rule leading to the calendar we use today: years ending in 00 would not be leap years, unless they were divisible by 400. So 1600 would be a leap year, but 1700, 1800, and 1900 would not be; 2000 would be a leap year.
+
+How close does this scheme come to aligning the Gregorian calendar with the seasonal year? (How close are 400 Gregorian years to 400 seasonal years? Compare the number of days Gregory added to the discrepancy that you determined in the previous question.)
 
 
+\vspace{1in}
+\underline{\hspace{6in}}
 
+\section{The Islamic (Hijra) Calendar}
+
+You'll notice that we totally ignored the 29.53-day cycle of the moon phases in the Gregorian calendar, which is based only on the seasonal year. The Gregorian months are {\it close} to ``moonths'', but they are longer by a few days so that the cycle of the moon phases doesn't align with the Gregorian months.
+
+The Islamic calendar, on the other hand, is based extremely heavily on the cycles of the Moon. It is based on two principles:
+
+\begin{enumerate}
+	\item Every month should begin on the new moon (it will be either 29 or 30 days, since the lunar cycle is 29.53 days)
+	\item There should be exactly 12 months in a year (there is a Quranic verse prohibiting adding extra months)
+\end{enumerate}
+
+How many days is a year in the Islamic calendar? How does this compare to the number of days in a seasonal year?
+
+\vspace{1in}
+\underline{\hspace{6in}}
+
+An important day in the Islamic calendar is Eid al-Fitr, the end of the month of Ramadan. (Muslims observe the month of Ramadan by not eating or drinking from sunrise to sunset.)
+
+Eid al-Fitr is the first day of the month of Shawwal in the Islamic calendar, but it falls on different dates in the Gregorian calendar:
+
+\begin{minipage}{0.5\textwidth}
+	\begin{center}
+		\begin{tabular}{|c|c|}
+			\hline
+			Year & Date of Eid al-Fitr \\ \hline
+			2001 & 16 December         \\ \hline
+			2002 & 5 December          \\ \hline
+			2003 & 25 November         \\ \hline
+			2004 & 14 November         \\ \hline
+			2005 & 3 November          \\ \hline
+			2006 & 23 October          \\ \hline
+			2007 & 13 October          \\ \hline
+			2008 & 1 October           \\ \hline
+			2009 & 20 September        \\ \hline
+			2010 & 10 September        \\ \hline
+			2011 & 30 August           \\ \hline
+		
+		\end{tabular}
+	\end{center}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+	\begin{center}
+	\begin{tabular}{|c|c|}
+		\hline
+		Year & Date of Eid al-Fitr \\ \hline
+	
+		2012 & 19 August           \\ \hline
+		2013 & 8 August            \\ \hline
+		2014 & 28 July             \\ \hline
+		2015 & 17 July             \\ \hline
+		2016 & 6 July              \\ \hline
+		2017 & 25 June             \\ \hline
+		2018 & 15 June             \\ \hline
+		2019 & 4 June              \\ \hline
+		2020 & 24 May              \\ \hline
+		2021 & 13 May              \\ \hline
+		2022 & 2 May               \\ \hline
+	\end{tabular}
+\end{center}
+\end{minipage}
+
+What do you think is going on here? Based on the definition of the Islamic calendar (12 lunar months per year), why does Eid al-Fitr ``drift'' backwards relative to the Gregorian calendar?
+
+\vspace{2in}
+\underline{\hspace{6in}}
+
+Muslims observe the month of Ramadan by not eating or drinking from sunrise to sunset. This tradition, and the Islamic calendar, were devised in the tropics. Based on what you have learned about the seasons and their variability across Earth, would the experience of observing the Ramadan fast differ from place to place and in different years?
+
+
+\vspace{2in}
+\underline{\hspace{6in}}
+
+\section{The Chinese and Jewish calendars}
+
+As we have seen, the Gregorian calendar has a year synchronized (within a day) to the cycle of seasons, but ignores the Moon; the Islamic calendar synchronizes its twelve months to the Moon, but ignores the seasons. 
+
+This results in the Islamic year ``slipping'' 11 days relative to the cycle of the seasons each year.
+
+But what if a culture wanted to observe both the seasons and the Moon? For instance, the Jewish holiday of Rosh Hashanah marks the new year; it is both always on a new moon and always during Northern Hemisphere autumn. The Chinese calendar works in a similar way, with the Lunar New Year happening on a new moon during late Northern Hemisphere winter. The Chinese and Jewish calendars are thus {\it lunisolar} -- they care about both the Sun and the Moon.
+
+Unlike in Islam, Jewish tradition contains no prohibition on adding or removing months from a year. How might Jewish timekeepers ensure that Rosh Hashanah always happens in the early fall (in the Northern Hemisphere), or Chinese timekeepers keep the New Year in the late winter?
+
+\vspace{2in}
+\underline{\hspace{6in}}
+
+As you saw in the Islamic calendar, 12 lunar months is 354.36 days - about 11 days short of the seasonal year. How many days is a ``leap year'' in the Jewish or Chinese system, and how does it compare to the seasonal year?
+
+\vspace{1in}
+\underline{\hspace{6in}}
+
+
+Jewish and Chinese timekeepers' approach to the months repeats every 19 years, so we'll use this as a base for our calculation. 
+
+\bigskip
+
+\begin{minipage}{0.45\textwidth}
+	How many solar days are in 19 seasonal years? (Remember the seasonal year is 365.2422 solar days.)
+	
+	\vspace{1in}
+	
+	\underline{\hspace{3in}}
+\end{minipage}
+\hspace{0.1\textwidth}
+\begin{minipage}{0.45\textwidth}
+	How many lunar months is this? (Remember the lunar month is 29.53 days.) Does it come out close to even?
+	
+	\vspace{1in}
+	
+	\underline{\hspace{3in}}
+\end{minipage}
+
+In a 19-year-cycle, how many intercalary (leap) months must be added in total, so that 19 Jewish/Chinese calendar years equal 19 seasonal years? This 19-year cycle, discovered independently by various cultures that tracked both the lunar and seasonal cycles, is called the Metonic cycle.
+
+\vspace{1in}
+\underline{\hspace{6in}}
+
+\begin{minipage}{0.5\textwidth}
+	Here is a table of the Gregorian dates of Rosh Hashanah in recent years. (These dates are slightly different in different countries, so they may not match the dates observed in the US.) 
+	
+	\bigskip
+	
+	What patterns do you see? How are they explained by the lunisolar system that mixes 12-lunar-month and 13-lunar-month years?
+
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+	\begin{center}
+		\begin{tabular}{|c|c|}
+			\hline
+			Year & Date of Rosh Hashanah \\ \hline
+			
+			2010 & 9 September          \\ \hline
+			2011 & 29 September            \\ \hline
+			2012 & 17 September             \\ \hline
+			2013 & 5 September             \\ \hline
+			2014 & 25 September              \\ \hline
+			2015 & 14 September             \\ \hline
+			2016 & 3 October             \\ \hline
+			2017 & 21 September              \\ \hline
+			2018 & 10 September              \\ \hline
+			2019 & 30 September              \\ \hline
+			2020 & 19 September               \\ \hline
+			2021 & 7 September               \\ \hline
+			2022 & 26 September               \\ \hline
+		\end{tabular}
+	\end{center}
+\end{minipage}
+
+
+\vspace{1in}
+\underline{\hspace{6in}}
+
+\section{The Astrological/Zodiac Calendar and the Sidereal Year}
+
+So far, we've seen three approaches:
+
+\begin{enumerate}
+	\item The Gregorian calendar ignores the cycle of the Moon entirely; the year is very close to the seasonal year, with a pattern of 365 and 366 day years so that the calendar year matches the seasonal year on average
+	\item The Islamic calendar ignores the seasons entirely; the year is 12 lunar months (29 or 30 days)
+	\item The Jewish and Chinese calendars consider both; the year is 12 or 13 lunar months, so that the calendar year matches the seasonal year on average
+\end{enumerate}
+
+However, there are two more cycles in the sky we have ignored. Let's now think about the {\it sidereal year}, the time it takes for the Sun to pass through all of the constellations in the Zodiac. This takes 365.2564 days.
+
+Ancient astronomers divided the Sun's path against the stars into twelve equal pieces, and named each after a mythological character -- these are the twelve constellations in the Zodiac.
+
+How long does it take for the Sun to pass through each constellation? How does this compare to other subdivisions of the year that you know about? (Why do you think astronomers divided the Zodiac into twelve pieces, rather than some other number?)
+
+\vspace{2in}
+\underline{\hspace{6in}}
+
+We now have {\it two} ways to define a year: 
+
+\begin{enumerate}
+	\item The cycle of the seasons (seasonal year): 365.2422 days
+	\item The cycle of the Sun in the zodiac (sidereal year): 365.2564 days
+\end{enumerate}
+
+These are very slightly different because the direction that Earth's axis is tilted changes slowly over time. 
+
+Does it make sense to define a new year by the seasons (``the new year starts in the winter'') or by the stars (``the new year starts when the Sun is in Aries'')? Do {\it both} choices make sense? Is there a reason that some ancient cultures might have favored one or the other?
+
+\underline{\hspace{6in}}
+
+\vspace{2in}
 \end{document}
+
+(Horoscope alignment question; deficit goes here)
+
+(Weird polar calendar question goes here)

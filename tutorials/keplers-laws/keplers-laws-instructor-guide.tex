@@ -3,6 +3,7 @@
 \usepackage{amsmath}
 \usepackage{lscape}
 \usepackage{graphicx}
+\usepackage{color}
 \usepackage{fullpage}
 \usepackage[margin=0.8in]{geometry}
 \setlength{\parskip}{4mm}
@@ -18,6 +19,7 @@
 \newcommand{\BE}{\begin{displaymath}}
 \newcommand{\EE}{\end{displaymath}}
 \newcommand{\BI}{\begin{itemize}}
+	\newcommand{\red}{\color{red}}
 \newcommand{\EI}{\end{itemize}}
 \newcommand{\BNE}{\begin{equation}}
 \newcommand{\ENE}{\end{equation}}
@@ -38,7 +40,7 @@
 \pagenumbering{gobble}
 \begin{document}
 \Large
-\centerline{\sc{Tutorial-Exercise -- Kepler's Laws}}
+\centerline{\sc{Tutorial-Exercise -- Kepler's Laws (instructor's guide)}}
 
 \normalsize
 
@@ -46,7 +48,7 @@ In this exercise, you'll explore Kepler's laws of orbital motion.
 
 Remember that these exercises are not meant for you to do alone; you should work with others near you on them, and should raise your hand and ask questions as you have them.
 
-Your fourth homework assignment is included on the back of this handout. It is due Tuesday, October 11.
+Your fourth homework assignment is included on the back of this handout. You should complete it by class time on October 12 (or 7) and put it in your TA's mailbox.
 
 \bigskip\bigskip
 
@@ -83,11 +85,16 @@ Here are four orbits.
 	\end{center}
 \end{minipage}
 
+{\color{red} The leftmost orbit isn't an ellipse; it's an oval. The second one is very eccentric, so its foci are close to the ends of the long axis. The third one is less eccentric, so its foci are closer to the center along the long axis. The rightmost one is a perfect circle; it has only one focus at the center.}
+
 Of the three possible orbits, which one has zero eccentricity? 
 
-\vspace{0.8in}
+{\red A circle is an ellipse with zero eccentricity, so that's the one on the right. Students may not realize at first that a circle is a special case of an ellipse.}
+
 
 Which one has the highest eccentricity?
+
+{\red The most stretched one (2).}
 
 \newpage
 
@@ -97,22 +104,22 @@ Which one has the highest eccentricity?
 As we saw demonstrated a bit ago, Kepler's second law says that an imaginary line between the Sun and a planet orbiting it sweeps out an equal amount of area in an equal amount of time. First, let's apply this to Earth's orbit, which is very close to a perfect circle.
 
 
-
 Pretending for now that Earth's year is divided into twelve equal months and that its orbit is a perfect circle, here is a cartoon of Earth going around the Sun.
 \begin{center}
 \includegraphics[width=0.4\textwidth]{earth-crop.pdf}
 \end{center}
 \begin{enumerate}
-\item Using your pencil, shade the region that the imaginary line between Earth and the Sun sweeps out during January, and again during September.  These regions should look like a piece of pizza with their point at the Sun.
-\bigskip
+\item Using your pencil, shade the region that the imaginary line between Earth and the Sun sweeps out during January, and again during September. These regions should look like a piece of pizza with their point at the Sun.
+{\red They will need to realize that the month of January goes from Jan 1 to Feb 1, and draw the appropriate pizza piece.}
 \item Does Earth's orbit follow Kepler's second law? How do you know? 
+{\red Each piece of pizza (area swept out by the line from Sun to Earth) is a month (equal time), and they all have equal area. Here the argument is trivial because of symmetry.}
 
-\vspace{1.6in}
+{\color{blue} Here the idea is for students to get used to the argument -- this notion of equal-time-equal-area -- in a situation where symmetry makes it obvious.}
+
 
 \item Kepler described his observations of planetary motion in terms of the ``area swept out'' by the line, but we can also think about the {\it speed} of Earth's motion.
 
-
-Does the Earth move faster during January, move faster during September, or move at the same speed during both? How do you know?
+Does the Earth move faster during January, move faster during September, or move at the same speed during both? How do you know? {\red The same during both -- Earth covers the same distance (1/12 of the way around its orbit, which we are treating as circular) in the same time (1 month). This is basically velocity equals distance over time, but without the formalism.}
 
 \newpage
 
@@ -138,21 +145,29 @@ Shade in the area that the line connecting the Sun to the planet would sweep out
 \rm
 
 
+{\red This is the critical point here. The {\bf area} needs to match. It is not important what shape they draw over on the left -- we are not calculating things precisely -- but it should wind up spanning 4-6 letters. Many students -- particularly those who are used to the ``there is one right answer and I have to get someone to tell me what it is" mindset -- will have a tougher time thinking logically about this.}
+
 Remember what ``area'' means: this means that if you were to color both areas in with ink, you would use the same amount of ink on both.
 
 \bigskip
 
 \item Does the motion on the left through the region you've highlighted take {\it more than}, {\it less than}, or {\it exactly} one month? How do you know? (Look back at the text of Kepler's second law on the front page.)
 
+{\red People will try to overcomplicate this: it's exactly one month. Same area $\rightarrow$ same time. You may need to remind the students that Jan 1 to Feb 1 is one month.}
+
 \vspace{1.5in}
 
 \item Does the planet cover {\it more distance} during January or during the highlighted portion you've shown on the left?
 
-\vspace{1in}
+{\red It will cover more distance during the highlighted portion close to the Sun. The cause-and-effect is important here: because the planet is closer to the Sun, it must travel further for the line connecting it to the Sun to sweep out the same area.}
+
+
+
 
 \item {Does the planet {\it travel faster} during January or during the motion shown on the left? How do you know?}
 
-\vspace{1in}
+{\red Again, we are doing velocity = distance / time, but without the formalism: to cover more distance in the same time, it must go faster.}
+
 
 
 
@@ -169,10 +184,13 @@ Mars & 1.38 AU & 1.67 AU & 0.093 \\ \hline
 
 Which of these planets {\it changes speed by the largest fraction} over the course of one orbit? How do you know?
 
+{\red If they put together what they've just learned, then they can see that planets speed up when close to the Sun and slow down when they're further from it, and thus they're looking for the planet whose aphelion and perihelion are different by the greatest fraction. Helpfully I've calculated the eccentricity for them so they can just look at that: largest eccentricity = largest change, so Mercury.}
+
 \vspace{1in}
 
 \item Which of these planets {\it changes speed by the smallest fraction} over the course of one orbit? How do you know?
 
+{\red Smallest eccentricity = smallest change, so Venus.}
 
 \end{enumerate}
 
