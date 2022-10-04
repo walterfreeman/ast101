@@ -9,8 +9,8 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture9/lecture9.pdf">Kepler's laws of motion</a>
-* Exercise: none today 
+* Slides: <a href="slides/lecture10/lecture10.pdf">Gravitation</a>
+* Exercise: <a href="tutorials/keplers-laws/keplers-laws.pdf">Kepler's laws of orbital motion</a> 
 
 
 

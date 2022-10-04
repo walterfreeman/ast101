@@ -26,8 +26,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | September 22 | <a href="slides/lecture8/lecture8.pdf">The planets: from geocentrism to heliocentrism</a> |  |  |  |
 | September 27 | Exam 1 |  |  |  |
 | September 29 | <a href="slides/lecture9/lecture9.pdf">The laws of orbital motion</a> | |  |  |
-| October 4 | Interlude: Science done well |  |  |  |
-| October 6 | The law of gravitation and Newton's laws of motion |  |  |  |
+| October 4 | <a href="slides/lecture10/lecture10.pdf">The law of gravitation and Newton's laws of motion</a> | HW4 assigned |<a href="tutorials/keplers-laws/keplers-laws.pdf">Orbits</a>  |  |
+| October 6 | Interlude: Science done well |  |  |  |
 | October 11 | The conservation of energy |  |  |  |
 | October 13 | Interlude: Science done poorly | Paper assigned |  |  |
 | October 18 | Exam 2 |  |  |  |
