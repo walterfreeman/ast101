@@ -25,7 +25,7 @@ in the Physics Clinic (room 112).
 | Lab 3: The Phases of the Moon              | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 | Lab 4: Measuring Distance with Parallax    | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
 | Lab 5: Telling Time by the Sky             | <a href="labs/lab-calendar/lab-calendar.pdf">Lab 5</a> | No prelab this week                 |
-| Lab 6: Measuring Distance with Parallax    | <a href="labs/lab-orbits-1/lab-orbits-1.pdf">Lab 6</a> | <a href="labs/lab-orbits-1-prelab.pdf">Lab 6 Prelab</a> |
+| Lab 6: Measuring Distance with Parallax    | <a href="labs/lab-orbits-1/lab-orbits-1.pdf">Lab 6</a> | <a href="labs/lab-orbits-1/lab-orbits-1-prelab.pdf">Lab 6 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 
