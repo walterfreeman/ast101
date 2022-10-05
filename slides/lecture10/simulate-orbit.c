@@ -18,7 +18,7 @@ int main(void)
 {
   // these lines just tell the computer what quantities it will need to keep track of and calculate
   vector earth_position(1,0,0);                             
-  vector earth_velocity(0,6.2,0);
+  vector earth_velocity(0,7.8,0);
   vector gravitational_accel;
   double radius;
   vector direction;

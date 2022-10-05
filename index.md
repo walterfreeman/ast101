@@ -7,6 +7,8 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+
+
 ### Current lecture slides and exercise:
 
 * Slides: <a href="slides/lecture10/lecture10.pdf">Gravitation</a>
