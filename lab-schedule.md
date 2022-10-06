@@ -14,6 +14,8 @@ You do not need to turn the prelab in to anyone; you should just bring it to lab
 You can either print the prelabs yourself, do them on a tablet with a stylus, or pick up a copy
 in the Physics Clinic (room 112).
 
+**<a href="orbitsim.html">Orbit Simulator for Lab 6</a>**
+
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
 
 | Lab Title | Lab Link | Prelab Link |
@@ -22,6 +24,8 @@ in the Physics Clinic (room 112).
 | Lab 2: The Path of the Sun                 | <a href="labs/lab2/lab2.pdf">Lab 2</a> | <a href="labs/lab2/lab2prelab.pdf">Lab 2 Prelab</a> |
 | Lab 3: The Phases of the Moon              | <a href="labs/lab3/lab3.pdf">Lab 3</a> | <a href="labs/lab3/lab3prelab.pdf">Lab 3 Prelab</a> |
 | Lab 4: Measuring Distance with Parallax    | <a href="labs/lab4/lab4.pdf">Lab 4</a> | <a href="labs/lab4/lab4prelab.pdf">Lab 4 Prelab</a> |
+| Lab 5: Telling Time by the Sky             | <a href="labs/lab-calendar/lab-calendar.pdf">Lab 5</a> | No prelab this week                 |
+| Lab 6: Measuring Distance with Parallax    | <a href="labs/lab-orbits-1/lab-orbits-1.pdf">Lab 6</a> | <a href="labs/lab-orbits-1/lab-orbits-1-prelab.pdf">Lab 6 Prelab</a> |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 

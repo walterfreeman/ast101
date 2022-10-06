@@ -7,6 +7,13 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+### Upcoming assignments
+
+* Homework 4 is included as part of the <a href="tutorials/keplers-laws/keplers-laws.pdf">exercise on Kepler's laws.</a> It is due October 11 with a quiz that day.
+* Prelab 6 is available now.
+* Don't forget the takehome lab!
+
+
 ### Current lecture slides and exercise:
 
 * Slides: <a href="slides/lecture11/lecture11.pdf">Gravitation and Newton's laws</a>
