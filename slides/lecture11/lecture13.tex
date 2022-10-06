@@ -1,0 +1,391 @@
+
+\documentclass[10pt]{beamer}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{multimedia}
+\usepackage{hyperref}
+
+
+\usefonttheme{professionalfonts} % using non standard fonts for beamer
+\usefonttheme{serif} % default family is serif
+%\documentclass[12pt]{beamerthemeSam.sty}
+\usepackage{epsf}
+%\usepackage{pstricks}
+%\usepackage[orientation=portrait,size=A4]{beamerposter}
+\geometry{paperwidth=160mm,paperheight=120mm}
+%DT favorite definitions
+\def\LL{\left\langle}	% left angle bracket
+\def\RR{\right\rangle}	% right angle bracket
+\def\LP{\left(}		% left parenthesis
+\def\RP{\right)}	% right parenthesis
+\def\LB{\left\{}	% left curly bracket
+\def\RB{\right\}}	% right curly bracket
+\def\PAR#1#2{ {{\partial #1}\over{\partial #2}} }
+\def\PARTWO#1#2{ {{\partial^2 #1}\over{\partial #2}^2} }
+\def\PARTWOMIX#1#2#3{ {{\partial^2 #1}\over{\partial #2 \partial #3}} }
+
+\def\rightpartial{{\overrightarrow\partial}}
+\def\leftpartial{{\overleftarrow\partial}}
+\def\diffpartial{\buildrel\leftrightarrow\over\partial}
+
+\def\BS{\bigskip}
+\def\HC{\column{0.5\textwidth}}
+\def\BCC{\begin{columns}}
+\def\ECC{\end{columns}}
+\def\BC{\begin{center}}
+\def\EC{\end{center}}
+\def\BN{\begin{enumerate}}
+\def\EN{\end{enumerate}}
+\def\BI{\begin{itemize}}
+\def\EI{\end{itemize}}
+\def\BE{\begin{displaymath}}
+\def\EE{\end{displaymath}}
+\def\BEA{\begin{eqnarray*}}
+\def\EEA{\end{eqnarray*}}
+\def\BNEA{\begin{eqnarray}}
+\def\ENEA{\end{eqnarray}}
+\def\EL{\nonumber\\}
+
+\newcommand{\etal}{{\it et al.}}
+\newcommand{\gbeta}{6/g^2}
+\newcommand{\la}[1]{\label{#1}}
+\newcommand{\ie}{{\em i.e.\ }}
+\newcommand{\eg}{{\em e.\,g.\ }}
+\newcommand{\cf}{cf.\ }
+\newcommand{\etc}{etc.\ }
+\newcommand{\atantwo}{{\rm atan2}}
+\newcommand{\Tr}{{\rm Tr}}
+\newcommand{\dt}{\Delta t}
+\newcommand{\op}{{\cal O}}
+\newcommand{\msbar}{{\overline{\rm MS}}}
+\def\chpt{\raise0.4ex\hbox{$\chi$}PT}
+\def\schpt{S\raise0.4ex\hbox{$\chi$}PT}
+\def\MeV{{\rm Me\!V}}
+\def\GeV{{\rm Ge\!V}}
+
+%AB: my color definitions
+%\definecolor{mygarnet}{rgb}{0.445,0.184,0.215}
+%\definecolor{mygold}{rgb}{0.848,0.848,0.098}
+%\definecolor{myg2g}{rgb}{0.647,0.316,0.157}
+\definecolor{A}{rgb}{1.0,0.3,0.3}
+\definecolor{B}{rgb}{0.0,1.0,0.0}
+\definecolor{C}{rgb}{1.0,1.0,0.0}
+\definecolor{D}{rgb}{0.5,0.5,1.0}
+\definecolor{E}{rgb}{0.7,0.7,0.7}
+\definecolor{abtitlecolor}{rgb}{1.0,1.0,1.0}
+\definecolor{absecondarycolor}{rgb}{0.0,0.416,0.804}
+\definecolor{abprimarycolor}{rgb}{1.0,0.686,0.0}
+\definecolor{Red}           {rgb}{1,0.4,0.4}
+\definecolor{Yellow}           {rgb}{1,1,0.0}
+\definecolor{Grey}          {cmyk}{.7,.7,.7,0}
+\definecolor{Blue}          {cmyk}{1,1,0,0}
+\definecolor{Green}         {cmyk}{1,0,1,0}
+\definecolor{Brown}         {cmyk}{0,0.81,1,0.60}
+\definecolor{Silver}        {rgb}{0.95,0.9,1.0}
+\definecolor{White}        {rgb}{0.95,0.9,1.0}
+\definecolor{Sky}           {rgb}{0.07,0.0,0.2}
+\definecolor{Darkbrown}     {rgb}{0.4,0.3,0.2}
+\definecolor{40Gray}        {rgb}{0.4,0.4,0.5}
+\usetheme{Madrid}
+
+
+\setbeamercolor{normal text}{fg=Silver,bg=Sky}
+
+%AB: redefinition of beamer colors
+%\setbeamercolor{palette tertiary}{fg=white,bg=mygarnet}
+%\setbeamercolor{palette secondary}{fg=white,bg=myg2g}
+%\setbeamercolor{palette primary}{fg=black,bg=mygold}
+\setbeamercolor{title}{fg=abtitlecolor}
+\setbeamercolor{frametitle}{fg=abtitlecolor}
+\setbeamercolor{palette tertiary}{fg=white,bg=Darkbrown}
+\setbeamercolor{palette secondary}{fg=white,bg=absecondarycolor}
+\setbeamercolor{palette primary}{fg=white,bg=40Gray}
+\setbeamercolor{structure}{fg=abtitlecolor}
+
+\setbeamerfont{section in toc}{series=\bfseries}
+
+%AB: remove navigation icons
+\beamertemplatenavigationsymbolsempty
+\title[The conservation of energy]{
+  \textbf {The conservation of energy}}
+
+
+\author [Astronomy 101]{Astronomy 101\\Syracuse University, Fall 2019\\Walter Freeman}
+
+\date{\today}
+
+\begin{document}
+
+
+
+\frame{\titlepage}
+
+%\frame{
+%
+%
+%"What, then, is the meaning of it all? ... I think that we must frankly admit that {\em we do not know.}
+%
+%\bigskip
+%
+%This is not a new idea; this is the idea of the age of reason.  This is the philosophy that guided the men who made the democracy that we live under. 
+%The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, tossed out, more new ideas brought in; a trial and error system.  
+%This method was a result of the fact that science was already showing itself to be a successful venture at the end of the 18th century.  
+%Even then it was clear to socially‑minded people that the openness of the possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown.  
+%If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar.
+%
+%\bigskip
+%
+%We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems....  Our responsibility is to do what we can, learn what we can, improve the solutions and pass them on.  
+%It is our responsibility to leave the men of the future a free hand.  In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time.
+%This we will do if we say we have the answers now, so young and ignorant; if we suppress all discussion, all criticism, saying, "This is it, boys, man is saved!" and thus doom man for a long time to the chains of authority, confined to the limits of our present imagination.  It has been done so many times before.
+%
+%\bigskip
+%
+%It is our responsibility as scientists, knowing the great progress and great value of a satisfactory philosophy
+%of ignorance, the great progress that is the fruit of freedom of thought, to proclaim the value of this freedom, 
+%to teach how doubt is not to be feared but welcomed and discussed, and to demand this freedom as our duty to all coming generations.
+%
+%\bigskip
+%
+%\large
+%\begin{flushright}--Feynman, {\it The Value of Science} (1955)\end{flushright}
+%}
+%
+%
+
+
+\frame{\frametitle{\textbf{Announcements}}
+\Large
+\BC Exam 2 is next Thursday. That means:\EC
+\BI
+
+
+\item Review session 2-5 PM Monday in the Physics Clinic (by Walter) 
+\item ``Suggest-a-question'' warmup question is on the course website
+\EI
+
+\pause
+
+\BS\BS
+
+Next week's prelab is available online; paper copies will be available by the end of the day today.
+\pause
+
+\BS\BS
+
+I am behind answering messages. I hope to catch up tomorrow morning. Sorry!
+}
+
+
+\frame{\frametitle{\textbf{Last time}}
+\Large
+We saw last time that Newton's two big ideas let us predict the motion of all the planets.
+
+\BCC
+\HC
+\color{A}
+\BC
+\Huge Newton's second law
+\EC
+\HC
+\color{B}
+\BC
+\Huge Gravitation 
+\EC
+\ECC
+
+\BCC
+\HC
+\color{A}
+\Large \BC $F = ma$ or $a = F/m$
+
+\BS
+
+Tells us the size of the acceleration created by any force\EC
+\HC 
+\color{B}
+\Large \BC $F_g = \frac{Gm_Am_B}{r^2}$
+
+\BS
+
+Tells us how big the gravitational force is between two objects A and B whose centers are a distance $r$ apart
+\EC
+\ECC
+}
+
+\frame{
+
+\Huge
+\BC
+Finish {\it Lecture Tutorials} pp. 29-32 if you haven't yet.
+\EC
+}
+
+
+\frame{\frametitle{\textbf{Ugh, math}}
+\Large
+
+These two ideas, put together, let us predict things as complicated
+as galactic collisions! 
+
+\BS\pause
+
+Kepler's laws (``what happens'') are consequences of Newton's mechanics (``why 
+does it happen?'')
+
+\pause\BS
+
+\color{Red}
+... but we need a {\it supercomputer} to do that, and it takes either very hard math 
+or a computer simulation to even get Kepler's second law out of them! 
+ 
+\BS\pause
+
+\color{B}
+
+Kepler knew that there were underlying causes of his laws, but he wasn't good enough
+at math to discover them. Can we do better than Kepler? Can we find 
+{\it general principles of physics} that give us insight without needing hard math?
+}
+
+\frame{\frametitle{\textbf{The conservation of energy}}
+\BC
+\Large
+
+Yes -- at least for Kepler's second law.
+
+\BS
+
+Newton totally missed the idea of {\it energy} in all his work. 
+\EC
+\pause\BS\BS
+\Large
+Energy comes in two kinds:
+\BI
+\large
+\item Kinetic energy: the motion of objects
+\BI
+\normalsize
+\item Heat, light, and sound energy are technically kinds of kinetic energy, but
+we usually call them by those names instead
+\EI
+
+\BS
+
+\item Potential energy: objects are in a place where they are attracted to each 
+other
+\BI 
+\normalsize
+\item If I let them go, they'll move toward each other
+\item {\it \color{Red} Potential} to become kinetic energy
+\item Chemical energy is a kind of potential energy
+\item The one we really care about is {\it gravitational potential energy}
+\EI
+\EI
+}
+
+
+\frame{\frametitle{\textbf{The big idea: {conservation} of energy}}
+
+\huge\color{Red}\BC Energy can never be created or destroyed.
+
+It can only be changed from one form to another.\EC
+
+\Large\BS
+\color{White}
+A pendulum swings back and forth: it converts gravitational potential energy
+to kinetic energy and back again.
+
+\BS
+
+This perspective is universal: {\color{B}all} forces just convert energy from one sort into another}
+
+\frame{\frametitle{\textbf{A short history of some energy:}}
+\small
+
+\begin{columns}
+  \column{0.5\textwidth}
+\BI
+\item{Hydrogen in the sun fuses into helium}
+\item{Hot gas emits light}
+\item{Light shines on the ocean, heating it}
+\item{Seawater evaporates and rises, then falls as rain}
+\item{Rivers run downhill}
+\item{Falling water turns a turbine}
+\item{Turbine turns coils of wire in generator}
+\item{Electric current ionizes gas}
+\item{Recombination of gas ions emits light}
+  \EI
+  \column{0.5\textwidth}
+\BI
+\item{Nuclear energy $\rightarrow$ thermal energy}
+\item{Thermal energy $\rightarrow$ light}
+\item{Light $\rightarrow$ thermal energy}
+\item{Thermal energy $\rightarrow$ gravitational pot. energy}
+\item{Gravitational PE $\rightarrow$ kinetic energy and sound}
+\item{Kinetic energy in water $\rightarrow$ KE in turbine}
+\item{Kinetic energy $\rightarrow$ electric energy}
+\item{Electric energy $\rightarrow$ chemical potential energy}
+\item{Chemical PE $\rightarrow$ light}
+\EI
+\end{columns}
+}
+
+\frame{\frametitle{\textbf{The pendulum, revisited}}
+\Large
+How much kinetic energy does the pendulum have when I hold it?
+
+\pause \BS \BS
+
+As it moves downward, what happens?
+
+\BS
+
+\color{A}A: It converts some potential energy into kinetic energy \\
+\color{B}B: The Earth's gravity makes it accelerate down \\
+\color{C}C: Its total energy goes up, since its kinetic energy increases \\ 
+\color{D}D: Its total energy goes down, since its potential energy decreases \\
+\color{E}E: Its kinetic energy and potential energy both go up \\
+}
+
+\frame{\frametitle{\textbf{The pendulum, revisited}}
+\Large
+How much kinetic energy does the pendulum have when I hold it?
+
+\pause \BS \BS
+
+How high will it go on the other side?
+
+\BS
+
+\color{A}A: To the same height that it started at \\ 
+\color{B}B: Slightly less high \\
+\color{C}C: A little bit higher \\  \pause
+\color{D}D: Let's try it and find out!
+
+\pause\BS
+
+\color{White}
+
+At its starting height it has no kinetic energy; to make it go higher, 
+we'd need to get more energy from {\it somewhere} to convert into 
+gravitational potential energy.
+}
+
+
+
+
+\frame{
+\Huge
+\BC
+Complete the handout Tutorial. 
+
+\BS
+
+After this, we'll discuss Exam 2 from last year.
+\EC
+}
+
+
+
+\end{document}
