@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: exam2study.html 
-title: Study Guide 3+4
+title: Study Guide
+category: top
 use_math: true
 ---
 
-# Study guide for Quizzes 3+4
+# Study guide for Exam 2
 
 In this unit, we studied:
 
@@ -98,9 +99,13 @@ Here's an outline of each of these.
 you must lose kinetic energy to compensate.
 * This gives a **physics explanation** for why Kepler's second law is true: the closer a planet gets to the star, the faster it must go!
 
+### The philosophy and process of science
+
+* Notes coming soon -- see the slides for lecture 12 (calendar link) in the meantime
+
 ## Advice for how to study
 
-The *Lecture Tutorials* are the best source for material on Kepler's second and third laws, and Newton's law of gravity. These are the central ideas of this unit.
+The *Exercises* are the best source for material on Kepler's second and third laws, and Newton's law of gravity. These are the central ideas of this unit.
 
 Also, do some background reading, especially if you learn well from books. The parts of your text you should focus on are:
 

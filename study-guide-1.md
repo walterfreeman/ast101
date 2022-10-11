@@ -2,7 +2,6 @@
 layout: page
 use_math: true
 title: Study Guide
-category: top
 permalink: exam1study.html
 ---
 

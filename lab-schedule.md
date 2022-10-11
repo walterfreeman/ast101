@@ -56,7 +56,7 @@ The lab sections and their instructors are:
 |   M007  |    Monday 3:45-5:05    |   Sierra   |
 |   M008  |    Monday 5:15-6:35    |    Nada    |
 |   M009  |    Monday 6:45-8:05    |   Sierra   |
-|   M019  |   Monday 8:15-9:35 pm  |    Dylan   |
+|   M010  |   Monday 8:15-9:35 pm  |    Dylan   |
 |   M027  |    Tuesday 3:30-4:50   |    Byron   |
 |   M028  |    Tuesday 5:00-6:20   |    Byron   |
 |   M029  |    Tuesday 6:30-7:50   |    Chad    |
