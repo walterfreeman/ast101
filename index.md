@@ -16,7 +16,7 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture11/lecture11.pdf">Gravitation and Newton's laws</a>
+* Slides: <a href="slides/lecture12/lecture12.pdf">The process of science</a>
 * Exercise: <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of gravity and motion</a> 
 
 
