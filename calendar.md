@@ -27,9 +27,9 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | September 27 | Exam 1 |  |  |  |
 | September 29 | <a href="slides/lecture9/lecture9.pdf">The laws of orbital motion</a> | |  |  |
 | October 4 | <a href="slides/lecture10/lecture10.pdf">The law of gravitation and Newton's laws of motion</a> | HW4 assigned |<a href="tutorials/keplers-laws/keplers-laws.pdf">Orbits</a>  |  |
-| October 6 |  <a href="slides/lecture10/lecture10.pdf">The law of gravitation and Newton's laws of motion, continued</a> | <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of motion</a> |  |  |
-| October 11 | Interlude: Science done poorly | Paper assigned |  |  |
-| October 13 | The conservation of energy |  |  |  |
+| October 6 |  <a href="slides/lecture11/lecture11.pdf">The law of gravitation and Newton's laws of motion, continued</a> | <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of motion</a> |  |  |
+| October 11 | <a href="slides/lecture12/lecture12.pdf">The process of science</a> | Paper assigned |  |  |
+| October 13 | <a href="slides/lecture13/lecture13.pdf">Science and pseudoscience</a> |  |  |  |
 | October 18 | Exam 2 |  |  |  |
 | October 20 | The nature of light | Final projects discussed | The electromagnetic spectrum |  |
 | October 25 | Thermal radiation | HW5 assigned | Thermal radiation |  |
