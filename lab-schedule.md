@@ -14,7 +14,9 @@ You do not need to turn the prelab in to anyone; you should just bring it to lab
 You can either print the prelabs yourself, do them on a tablet with a stylus, or pick up a copy
 in the Physics Clinic (room 112).
 
-**<a href="orbitsim.html">Orbit Simulator for Lab 6</a>**
+**<a href="orbitsim.html">Orbit Simulator for Lab 6 and 7</a>**
+
+**Movie for Lab 7:** Star orbiting the center of the galaxy, <a href="https://gfycat.com/lividanxiousamericancreamdraft-black-hole">[link to gfycat]</a> <a href="labs/lab6/black-hole-orbit.mp4">[direct link]</a>
 
 **Takehome Lab:** <a href="labs/takehome/moon_and_sun.pdf">Moon and Sun</a> (due December 10)
 
