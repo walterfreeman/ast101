@@ -7,6 +7,11 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
+## Exam seating chart
+
+* <a href="chart-sec001.pdf">12:30 section seating chart</a>
+* <a href="chart-sec002.pdf">2:00 section seating chart</a>
+
 ### Upcoming assignments
 
 * Homework 4 is included as part of the <a href="tutorials/keplers-laws/keplers-laws.pdf">exercise on Kepler's laws.</a> It is due October 11 with a quiz that day.
