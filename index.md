@@ -14,16 +14,13 @@ title: Announcements and Information
 
 ### Upcoming assignments
 
-* Homework 4 is included as part of the <a href="tutorials/keplers-laws/keplers-laws.pdf">exercise on Kepler's laws.</a> It is due October 11 with a quiz that day.
-* Prelab 6 is available now.
-* Don't forget the takehome lab!
+* Your paper is due November 1. 
 
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture13/lecture13.pdf">The process of science, continued</a>
-* Exercise: <a href="tutorials/newtons-laws-of-motion/newtons-laws-of-motion.pdf">Newton's laws of gravity and motion</a> 
-
+* Slides: <a href="slides/lecture14/lecture14.pdf">Light</a>
+* Exercise: none today
 
 
 ### Information

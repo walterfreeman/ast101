@@ -31,7 +31,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | October 11 | <a href="slides/lecture12/lecture12.pdf">The process of science</a> | Paper assigned |  |  |
 | October 13 | <a href="slides/lecture13/lecture13.pdf">Science and pseudoscience</a> |  |  |  |
 | October 18 | Exam 2 |  |  |  |
-| October 20 | The nature of light | Final projects discussed | The electromagnetic spectrum |  |
+| October 20 | <a href="slides/lecture14/lecture14.pdf">The nature of light</a> | | |  |
 | October 25 | Thermal radiation | HW5 assigned | Thermal radiation |  |
 | October 27 | Atomic energy levels: absorption and emission |  |  |  |
 | November 1 | Putting it together: spectroscopy | HW6 assigned | Spectroscopy |  |
