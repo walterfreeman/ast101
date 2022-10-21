@@ -29,6 +29,7 @@ in the Physics Clinic (room 112).
 | Lab 5: Telling Time by the Sky             | <a href="labs/lab-calendar/lab-calendar.pdf">Lab 5</a> | No prelab this week                 |
 | Lab 6: Simulating and Studying Orbits      | <a href="labs/lab-orbits-1/lab-orbits-1.pdf">Lab 6</a> | <a href="labs/lab-orbits-1/lab-orbits-1-prelab.pdf">Lab 6 Prelab</a> |
 | Lab 7: The Black Hole at the Center of the Galaxy    | <a href="labs/lab-black-hole/lab-black-hole.pdf">Lab 7</a> | No prelab this week             |
+| Lab 8: Thermal Radiation    | <a href="labs/lab-light-1/lab-light-.pdf">Lab 8</a> | <a href="labs/lab-light-1/lab-light-1-prelab.pdf">Lab 8 Prelab</a>             |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 
