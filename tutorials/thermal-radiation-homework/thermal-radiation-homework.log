@@ -1,30 +1,30 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.8.23)  22 OCT 2021 00:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  24 OCT 2022 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thermal-radiation-homework.tex
 (./thermal-radiation-homework.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
@@ -34,58 +34,58 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
-\ex@=\dimen135
+\ex@=\dimen139
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen136
+\pmbraise@=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count175
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count176
-\leftroot@=\count177
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count178
-\DOTSCASE@=\count179
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen137
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count180
-\c@MaxMatrixCols=\count181
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
 \dotsspace@=\muskip16
-\c@parentequation=\count182
-\dspbrk@lvl=\count183
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
 \tag@help=\toks16
-\row@=\count184
-\column@=\count185
-\maxfields@=\count186
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
 \andhelp@=\toks17
-\eqnshift@=\dimen138
-\alignsep@=\dimen139
-\tagshift@=\dimen140
-\tagwidth@=\dimen141
-\totwidth@=\dimen142
-\lineht@=\dimen143
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
 \@envbody=\toks18
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -96,17 +96,17 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-\Gin@req@height=\dimen144
-\Gin@req@width=\dimen145
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
 )
 (/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
@@ -121,23 +121,23 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count187
-\Gm@cntv=\count188
-\c@Gm@tempcnt=\count189
-\Gm@bindingoffset=\dimen146
-\Gm@wd@mp=\dimen147
-\Gm@odd@mp=\dimen148
-\Gm@even@mp=\dimen149
-\Gm@layoutwidth=\dimen150
-\Gm@layoutheight=\dimen151
-\Gm@layouthoffset=\dimen152
-\Gm@layoutvoffset=\dimen153
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks21
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count190
-\l__pdf_internal_box=\box47
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box49
 )
 (./thermal-radiation-homework.aux)
 \openout1 = `thermal-radiation-homework.aux'.
@@ -159,16 +159,16 @@ LaTeX Font Info:    ... okay on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count191
-\scratchdimen=\dimen154
-\scratchbox=\box48
-\nofMPsegments=\count192
-\nofMParguments=\count193
+\scratchcounter=\count269
+\scratchdimen=\dimen158
+\scratchbox=\box50
+\nofMPsegments=\count270
+\nofMParguments=\count271
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count194
-\MPscratchDim=\dimen155
-\MPnumerator=\count195
-\makeMPintoPDFobject=\count196
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen159
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -216,29 +216,24 @@ e
 <EMSpec.png, id=1, 689.57625pt x 340.27126pt>
 File: EMSpec.png Graphic file (type png)
 <use EMSpec.png>
-Package pdftex.def Info: EMSpec.png  used on input line 58.
-(pdftex.def)             Requested size: 289.07999pt x 142.64815pt.
+Package pdftex.def Info: EMSpec.png  used on input line 52.
+(pdftex.def)             Requested size: 433.62pt x 213.97223pt.
 
-Overfull \hbox (289.07999pt too wide) in paragraph at lines 58--59
- [] 
- []
-
-
-Overfull \hbox (20.1685pt too wide) in paragraph at lines 80--92
+Overfull \hbox (20.1685pt too wide) in paragraph at lines 74--86
 [][] 
  []
 
 [1
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./EMSpec.pn
-g>]
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./EMSpec.png
+>]
 <twostars-crop.pdf, id=13, 441.65pt x 321.2pt>
 File: twostars-crop.pdf Graphic file (type pdf)
 <use twostars-crop.pdf>
-Package pdftex.def Info: twostars-crop.pdf  used on input line 119.
+Package pdftex.def Info: twostars-crop.pdf  used on input line 113.
 (pdftex.def)             Requested size: 180.67499pt x 131.39879pt.
 
-Overfull \hbox (9.66219pt too wide) in paragraph at lines 109--121
+Overfull \hbox (9.66219pt too wide) in paragraph at lines 103--115
 []$[]$   $[]$ 
  []
 
@@ -246,22 +241,22 @@ Overfull \hbox (9.66219pt too wide) in paragraph at lines 109--121
 <three-objects-crop.pdf, id=21, 441.65pt x 321.2pt>
 File: three-objects-crop.pdf Graphic file (type pdf)
 <use three-objects-crop.pdf>
-Package pdftex.def Info: three-objects-crop.pdf  used on input line 135.
+Package pdftex.def Info: three-objects-crop.pdf  used on input line 129.
 (pdftex.def)             Requested size: 180.67499pt x 131.39879pt.
 
-Overfull \hbox (9.66219pt too wide) in paragraph at lines 125--137
+Overfull \hbox (9.66219pt too wide) in paragraph at lines 119--131
 []$[]$   $[]$ 
  []
 
 [3 <./three-objects-crop.pdf>] (./thermal-radiation-homework.aux) ) 
 Here is how much of TeX's memory you used:
- 2373 strings out of 480616
- 32626 string characters out of 5906382
- 282005 words of memory out of 6000000
- 18264 multiletter control sequences out of 15000+600000
- 537646 words of font info for 42 fonts, out of 8000000 for 9000
+ 2459 strings out of 478855
+ 34776 string characters out of 5858635
+ 341937 words of memory out of 6000000
+ 20090 multiletter control sequences out of 15000+600000
+ 408738 words of font info for 45 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 30i,6n,34p,323b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,62p,323b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/
 texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
@@ -269,7 +264,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/cm-super/sfrm1200.pfb>
-Output written on thermal-radiation-homework.pdf (3 pages, 195023 bytes).
+Output written on thermal-radiation-homework.pdf (3 pages, 194100 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

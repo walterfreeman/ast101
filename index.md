@@ -7,14 +7,9 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-## Exam seating chart
-
-* <a href="chart-sec001.pdf">12:30 section seating chart</a>
-* <a href="chart-sec002.pdf">2:00 section seating chart</a>
-
 ### Upcoming assignments
 
-* Your paper is due November 1. 
+* Your paper is due November 3. 
 
 
 ### Current lecture slides and exercise:
@@ -47,7 +42,5 @@ Teaching staff:
 
 ---
 
-<a href="stellarium-mac.html">Trying to install Stellarium on a Mac?</a>
-
-<center> <img src="darkened-milky-way.jpg">
+<center> <img src="solarspectrum.jpg">
 <br>

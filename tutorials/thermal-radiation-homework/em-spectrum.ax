@@ -1,0 +1,2 @@
+#lx "Wavelength (nm)" x 100 1200 100 h 1 w 1.8 sc 0.5 r -0.7 u -0.3 gy 0 
+#ly "Intensity"
