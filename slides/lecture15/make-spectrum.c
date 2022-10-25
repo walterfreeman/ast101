@@ -17,7 +17,7 @@ int main(int argc, char **argv)
   {
   
   t=atof(argv[1+shift*3]);
-  double a=atof(argv[2+shift*3])*1e34;
+  double a=atof(argv[2+shift*3])*1e34*0.75;
 
   double lmax;
   if (t < 1000) lmax = 20000; else lmax = 2000;
