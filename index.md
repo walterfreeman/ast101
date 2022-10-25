@@ -14,7 +14,7 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture14/lecture14.pdf">Light</a>
+* Slides: <a href="slides/lecture15/lecture15.pdf">Thermal radiation</a>
 * Exercise: none today
 
 

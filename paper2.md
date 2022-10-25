@@ -7,7 +7,7 @@ use_math: true
 ---
 
 **tl;dr Write a case study on a situation where the process of science has run off the rails.
-This is due November 1. Email your submission to suast101projects@gmail.com and put a copy in your TA's mailbox.**
+This is due November 3. Email your submission to suast101projects@gmail.com and put a copy in your TA's mailbox.**
 
 ## Case Study: Flawed Process of Science
 
