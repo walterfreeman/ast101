@@ -33,8 +33,8 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | October 18 | Exam 2 |  |  |  |
 | October 20 | <a href="slides/lecture14/lecture14.pdf">The nature of light</a> | | |  |
 | October 25 | <a href="slides/lecture15/lecture15.pdf">Thermal radiation</a> |              |                   |  |
-| October 27 | Atomic energy levels: absorption and emission |  |  |  |
-| November 1 | Putting it together: spectroscopy | HW6 assigned | Spectroscopy |  |
+| October 27 | <a href="slides/lecture16/lecture16.pdf">Atomic energy levels: absorption and emission</a> | HW5 assigned | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a>  |  |
+| November 1 | Putting it together: spectroscopy | | |  |
 | November 3 | Telescopes  | Paper due | Telescopes |  |
 | November 8 | Exam 3 |  |  |  |
 | November 10 | The nature of the Sun |  |  |  |

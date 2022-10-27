@@ -14,8 +14,8 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture15/lecture15.pdf">Thermal radiation</a>
-* Exercise: none today
+* Slides: <a href="slides/lecture16/lecture16.pdf">Atomic energy levels</a>
+* Exercise: Spectroscopy
 
 
 ### Information
