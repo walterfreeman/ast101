@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  27 OCT 2022 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  26 OCT 2022 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**spectroscopy.tex
-(./spectroscopy.tex
+**keplers-laws-quiz-2.tex
+(./keplers-laws-quiz-2.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-07>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -139,8 +139,8 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box49
 )
-(./spectroscopy.aux)
-\openout1 = `spectroscopy.aux'.
+(./keplers-laws-quiz-2.aux)
+\openout1 = `keplers-laws-quiz-2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -187,15 +187,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.7pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-36.135pt
+* \textwidth=498.66258pt
+* \textheight=679.33757pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-14.45378pt
 * \headheight=0.0pt
 * \headsep=0.0pt
 * \topskip=12.0pt
@@ -213,72 +213,37 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<spectrum-continuous.png, id=1, 677.37813pt x 163.07077pt>
-File: spectrum-continuous.png Graphic file (type png)
-<use spectrum-continuous.png>
-Package pdftex.def Info: spectrum-continuous.png  used on input line 54.
-(pdftex.def)             Requested size: 289.07999pt x 69.59154pt.
-<spectrum-discrete.png, id=2, 929.09822pt x 190.86693pt>
-File: spectrum-discrete.png Graphic file (type png)
-<use spectrum-discrete.png>
-Package pdftex.def Info: spectrum-discrete.png  used on input line 63.
-(pdftex.def)             Requested size: 289.07999pt x 59.38365pt.
-<spectrum-absorption.png, id=3, 660.84178pt x 163.07077pt>
-File: spectrum-absorption.png Graphic file (type png)
-<use spectrum-absorption.png>
-Package pdftex.def Info: spectrum-absorption.png  used on input line 67.
-(pdftex.def)             Requested size: 289.07999pt x 71.33582pt.
+<quiz1-crop.pdf, id=1, 64.24pt x 40.15pt>
+File: quiz1-crop.pdf Graphic file (type pdf)
+<use quiz1-crop.pdf>
+Package pdftex.def Info: quiz1-crop.pdf  used on input line 59.
+(pdftex.def)             Requested size: 79.78783pt x 49.87123pt.
 [1
 
-{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./spectrum-c
-ontinuous.png (PNG copy)> <./spectrum-discrete.png (PNG copy)> <./spectrum-abso
-rption.png (PNG copy)>] [2]
-<spectrum-blank.png, id=18, 657.16704pt x 155.65846pt>
-File: spectrum-blank.png Graphic file (type png)
-<use spectrum-blank.png>
-Package pdftex.def Info: spectrum-blank.png  used on input line 129.
-(pdftex.def)             Requested size: 505.89pt x 119.82649pt.
- [3 <./spectrum-blank.png (PNG copy)>]
-File: spectrum-continuous.png Graphic file (type png)
-<use spectrum-continuous.png>
-Package pdftex.def Info: spectrum-continuous.png  used on input line 158.
-(pdftex.def)             Requested size: 397.48499pt x 95.68837pt.
-File: spectrum-blank.png Graphic file (type png)
-<use spectrum-blank.png>
-Package pdftex.def Info: spectrum-blank.png  used on input line 169.
-(pdftex.def)             Requested size: 397.48499pt x 94.14871pt.
-File: spectrum-continuous.png Graphic file (type png)
-<use spectrum-continuous.png>
-Package pdftex.def Info: spectrum-continuous.png  used on input line 178.
-(pdftex.def)             Requested size: 397.48499pt x 95.68837pt.
- [4]
-File: spectrum-blank.png Graphic file (type png)
-<use spectrum-blank.png>
-Package pdftex.def Info: spectrum-blank.png  used on input line 216.
-(pdftex.def)             Requested size: 505.89pt x 119.82649pt.
-
-[5] [6] (./spectroscopy.aux) ) 
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./quiz1-crop
+.pdf>]
+<quiz-two-crop.png, id=13, 241.78923pt x 217.78006pt>
+File: quiz-two-crop.png Graphic file (type png)
+<use quiz-two-crop.png>
+Package pdftex.def Info: quiz-two-crop.png  used on input line 80.
+(pdftex.def)             Requested size: 249.33128pt x 224.57846pt.
+ [2 <./quiz-two-crop.png>] (./keplers-laws-quiz-2.aux) ) 
 Here is how much of TeX's memory you used:
- 2475 strings out of 478855
- 34971 string characters out of 5858635
- 338909 words of memory out of 6000000
- 20104 multiletter control sequences out of 15000+600000
- 410524 words of font info for 51 fonts, out of 8000000 for 9000
+ 2435 strings out of 478855
+ 34353 string characters out of 5858635
+ 335947 words of memory out of 6000000
+ 20077 multiletter control sequences out of 15000+600000
+ 406353 words of font info for 37 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 55i,7n,62p,430b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm
--super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on spectroscopy.pdf (6 pages, 127611 bytes).
+ 55i,4n,62p,234b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on keplers-laws-quiz-2.pdf (2 pages, 86627 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

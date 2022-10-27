@@ -275,7 +275,6 @@ Throughout the semester you will write a paper and complete an open-ended projec
 These will focus on the connections between astronomy and the broader study of the humanities; astronomy is likely the scientific discipline that has
 both exerted the greatest influence on, and been influenced the most by, the broader story of human intellect and philosophy.
 
-# * First paper: an exploration of the connection between timekeeping and the sky, as embodied in a historical, present, or fictional calendar 
 * Your paper is an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
 * Your final project is extremely open-ended, and is an opportunity for you to connect your talents and interests outside astronomy to the scientific world
 
