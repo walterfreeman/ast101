@@ -14,7 +14,7 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture16/lecture16.pdf">Atomic energy levels</a>
+* Slides: <a href="slides/lecture17/lecture17.pdf">Spectroscopy</a>
 * Exercise: Spectroscopy
 
 

@@ -261,7 +261,8 @@ on their experiences and careers, and how they relate to the experiences of wome
 
 ### Ethnic studies in general
 
-* Gene Roddenberry's vision of an ethnically-diverse, cooperative future in *Star Trek* is an important part of the setting. In Joss Whedon's *Firefly*, he presupposes a spacefaring future for humanity in which a mix of American and Chinese cultural practices and language dominate. (Of course, he wrote *Firefly* for an American audience and with mostly Western actors, so most of the dialogue is in English and -- I'm told -- the actors do not speak Chinese all that well!) Science-fiction texts that depict a spacefaring future of humanity must answer the question "What happens to race?" Choose at least one of these texts and discuss its answer to this question. Do you believe it depicts a likely future? Is this future one that you would like to see?
+* Gene Roddenberry's vision of an ethnically-diverse, cooperative future in *Star Trek* is an important part of the setting. In Joss Whedon's *Firefly*, he presupposes a spacefaring future for humanity in which a mix of American and Chinese cultural practices and language dominate. (Of course, he wrote *Firefly* for an American audience and with mostly Western actors, so most of the dialogue is in English and -- I'm told -- the actors do not speak Chinese all that well!) Science-fiction texts that depict a spacefaring future of humanity must answer the question "What happens to race?" Choose at least one 
+science fiction text that depicts the future of humanity and discuss its answer to this question. Do you believe it depicts a likely future? Is this future one that you would like to see?
 
 ### Islamic studies
 
