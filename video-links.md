@@ -15,3 +15,5 @@ Here you can find video explanations for the ideas behind the homework. Some of 
 <a href="https://youtu.be/LkbBFNZUyOM">Homework 3 Explanation</a>, by Walter
 
 <a href="https://www.youtube.com/watch?v=1g0Nbs2mAmI">Kepler's laws explanation</a>, by Sydney
+
+<a href="https://youtu.be/m8jRo-SSbyY">Spectroscopy explanation</a>, by Sydney
