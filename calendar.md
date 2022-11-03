@@ -35,7 +35,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | October 25 | <a href="slides/lecture15/lecture15.pdf">Thermal radiation</a> |              |                   |  |
 | October 27 | <a href="slides/lecture16/lecture16.pdf">Atomic energy levels: absorption and emission</a> | HW5 assigned | <a href="tutorials/spectroscopy/spectroscopy.pdf">Spectroscopy</a>  |  |
 | November 1 | <a href="slides/lecture17/lecture17.pdf">Putting it together: spectroscopy</a> | | |  |
-| November 3 | Telescopes  | Paper due |  |  |
+| November 3 | <a href="slides/lecture18/lecture18.pdf">Telescopes</a>  | Paper due |  |  |
 | November 8 | Exam 3 |  |  |  |
 | November 10 | The nature of the Sun |  |  |  |
 | November 15 | The birth of the Solar System |  |  |  |

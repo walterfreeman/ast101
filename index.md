@@ -14,8 +14,8 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture17/lecture17.pdf">Spectroscopy</a>
-* Exercise: Spectroscopy
+* Slides: <a href="slides/lecture18/lecture18.pdf">Telescopes</a>
+* Exercise: none today 
 
 
 ### Information
