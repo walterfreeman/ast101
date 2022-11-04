@@ -13,7 +13,7 @@ In this unit, we studied:
 * the nature of light   
 * how light interacts with matter
 * how the spectra we observe can tell us about things in the sky 
-* how the Sun produces its energy (see the notes for more detail)
+* how telescopes work and why the James Webb Space Telescope is uniquely capable 
 
 I'll talk about each in turn.
 
