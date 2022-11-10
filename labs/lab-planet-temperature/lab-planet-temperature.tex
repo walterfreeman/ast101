@@ -150,7 +150,9 @@ It is important here that the temperature $T$ be measured in the Kelvin scale. Y
 
 The Earth is very nearly in a state of {\it thermal equilibrium}. The Sun is a very hot object, so it emits a great deal of thermal radiation -- sunlight. 
 This sunlight falls on Earth's surface, which absorbs it. If this were the only thing happening, then Earth would gain more
-and more energy, continually heating up. However, since Earth also has a temperature, it emits thermal radiation as well, allowing it to cool off.
+and more energy, continually heating up. However, since Earth also has a temperature, it emits thermal radiation as well, allowing it to cool off.  
+
+Just like we call the Sun's thermal radiation ``sunlight'', I will call the Earth's thermal radiation ``planetlight''. (Sunlight is mostly visible light and planetlight is infrared, but this difference doesn't matter for the calculation.)
 
 If Earth's average temperature is going to stay relatively constant, then we can write the following:
 
@@ -158,7 +160,7 @@ If Earth's average temperature is going to stay relatively constant, then we can
 {(amount of sunlight absorbed by Earth) = (amount of thermal radiation emitted by Earth)}
 \end{center}
 
-By writing formulas for both of these things and setting them equal, we can get a crude estimate of the Earth's temperature.
+By writing formulas for both of these things and setting them equal, we can get a crude estimate of the Earth's temperature. (This is similar to what you did your prelab, when you thought about a tea kettle.)
 
 \subsection*{The approach}
 
@@ -193,9 +195,9 @@ Please use the following symbols for quantities:
 \item $d$ -- the distance from the Sun to the planet in question (we'll apply this formula to both Earth and other planets)
 \item $T_p$ -- the temperature of the planet
 \item $I_1$ -- the intensity of sunlight at the surface of the Sun
-\item $I_2$ -- the intensity of sunlight at the surface of the planet
-\item $I_3$ -- the intensity of {\it outgoing} thermal radiation from the planet
-\item $k$ -- the proportionality constant in the Stefan-Boltzmann law (it will cancel in the end)
+\item $I_2$ -- the intensity of sunlight at falling on to the planet
+\item $I_3$ -- the intensity of planetlight going out from the planet
+\item $k$ -- the constant in the Stefan-Boltzmann law (it will cancel in the end)
 \EI
 
 \section*{Intensity of sunlight at the Sun's surface}
@@ -237,21 +239,21 @@ sunlight passing through it $P_2$, and the intensity of the light there $I_2$, a
 The key insight here is that the light from the Sun spreads out, but doesn't ``vanish'' as it travels through space. Thus,
 the total power passing through both spheres is the same, and $I_1 A_1 = I_2 A_2$.
 
-{\bf Question 3a:} Write expressions for $A_1$ and $A_2$ in terms of $r$ and $d$.
+{\bf Question 2a:} Write expressions for $A_1$ and $A_2$ in terms of $r$ and $d$.
 
 \vspace*{5cm}
 
 \hrulefill
 
 \newpage
-{\bf Question 3b:} Substitute the preceding expressions into $I_1 A_1 = I_2 A_2$ to arrive at an equation relating $d$, $r$,
+{\bf Question 2b:} Substitute the preceding expressions into $I_1 A_1 = I_2 A_2$ to arrive at an equation relating $d$, $r$,
 $I_2$, and $I_1$.
 
 \vspace*{5cm}
 
 \hrulefill
 
-{\bf Question 3c:} Solve the above for $I_2$ to get an expression for $I_2$, the intensity of sunlight at the Earth, in terms of
+{\bf Question 2c:} Solve the above for $I_2$ to get an expression for $I_2$, the intensity of sunlight at the Earth, in terms of
 $d$, $r$, and $I_1$.
 Hint: Consider whether $d$ or $r$ is larger.
 We expect $I_2$ to be much less than $I_1$; does your formula have this property? Call your TA over if you have questions; this is actually the trickiest part of this whole calculation.
@@ -262,7 +264,7 @@ We expect $I_2$ to be much less than $I_1$; does your formula have this property
 
 
 
-When you are done with this section, ask your TA to check your results so far; they should sign below.
+When you are done with this section, ask your TA to check your results so far.
 
 \newpage
 
@@ -283,7 +285,7 @@ Consider the following picture (color available online on the course website if 
 The larger green square is located three times further from the center than the smaller red one (which lies on the surface of the Sun). Since it is three times further away, it is also
 three times taller and three times wider, as shown in the picture.
 
-{\bf Question 2a:} How many times larger is the {\bf area} of the larger square than the smaller one?
+{\bf Question 3a:} How many times larger is the {\bf area} of the larger square than the smaller one?
 
 \vspace*{2cm}
 
@@ -302,13 +304,13 @@ This last exercise involved looking at some example numbers; now, let's go back 
 center than the ``small square'' (on the surface of the Sun), it is now $d/r$ times further away.
 
 
-{\bf Question 2b:} In terms of $d$ and $r$, by what factor has the sunlight spread out by the time it reaches Earth?
+{\bf Question 3b:} In terms of $d$ and $r$, by what factor has the sunlight spread out by the time it reaches Earth?
 
 \vspace*{5cm}
 
 \hrulefill
 \newpage
-{\bf Question 2c:} In terms of $d$, $r$, and $I_1$ (the intensity of sunlight at the Sun's surface), write a formula for $I_2$ (the intensity of sunlight at Earth). 
+{\bf Question 3c:} In terms of $d$, $r$, and $I_1$ (the intensity of sunlight at the Sun's surface), write a formula for $I_2$ (the intensity of sunlight at Earth). 
 Hint: Consider whether $d$ or $r$ is larger.
 We expect $I_2$ to be much less than $I_1$; does your formula have this property? Call your TA over if you have questions; this is actually the trickiest part of this whole calculation.
 
@@ -318,7 +320,7 @@ We expect $I_2$ to be much less than $I_1$; does your formula have this property
 
 When you are done with this section, ask your TA to check your results so far.
 
-
+\newpage
 
 \bigskip
 \bigskip
@@ -339,21 +341,21 @@ sunlight on the Earth, $I_2$, in terms of $d$, $r$, $k$, and $T_s$.
 
 Once you are done, ask your TA to come check your result; they should sign below.
 
-\newpage
 
 
-\section*{The thermal radiation of Earth}
 
-{\bf Question 6:} If the Earth has a temperature $T_p$, what is the intensity of its outgoing thermal radiation $I_3$ in terms of $k$ and $T_p$? (This is again a straightforward application of the Stefan-Boltzmann law.)
+\section*{The thermal radiation of Earth: planetlight}
+
+{\bf Question 6:} If the Earth has a temperature $T_p$, what is the intensity of its outgoing planetlight $I_3$ in terms of $k$ and $T_p$? (This is again a straightforward application of the Stefan-Boltzmann law.)
 
 \vspace*{3cm}
 
 \hrulefill
-
+\newpage
 
 \section*{The temperature of Earth}
 
-As discussed earlier, for Earth to be in balance, the same amount of light must flow in (from sunlight) and out (from Earth's thermal radiation). Na\"{i}vely, this would imply that
+As discussed earlier, for Earth to be in balance, the same amount of light must flow in (from sunlight) and out (from Earth's planetlight). Na\"{i}vely, this would imply that
 $I_2=I_3$. 
 
 {\bf Question 7:} Equate the formulae you wrote for $I_2$ (in Question 5) and $I_3$ (in Question 6). Algebraically solve this equation for $T_p$, the temperature of the Earth. Ask your 
@@ -378,7 +380,7 @@ Now, finally, it's time to plug in numbers. Use the following:
 
 \hrulefill
 
-{\bf Question 9:} Convert this value to Celsius or Fahrenheit. Is this a reasonably accurate value of the temperature of the Earth? Show your work to your TA ; they should sign by your result after your conversation.
+{\bf Question 9:} Convert this value to Celsius or Fahrenheit. Is this a reasonably accurate value of the temperature of the Earth? Show your work to your TA; they will check to make sure you're on the right track.
 
 \vspace*{4cm}
 
@@ -386,22 +388,22 @@ Now, finally, it's time to plug in numbers. Use the following:
 
 \vspace{1in}
 
-What has gone wrong here? We made an assumption that $I_3=I_2$ -- that is, that the {\it intensity of Earth's thermal radiation} must equal the {\it intensity of sunlight at Earth.}
+What has gone wrong here? We made an assumption that $I_3=I_2$ -- that is, that the {\it intensity of planetlight produced by Earth} must equal the {\it intensity of sunlight absorbed by Earth.}
 This was a good first guess, and -- in a universe where things range from 3 Kelvin to millions of Kelvin -- it's not too bad. But we can do better!
 
 The issue is that, really, we shouldn't be equating {\it intensities}; we should be thinking about the total {\it amount} of radiation. There are two ways we can improve our calculation:
 
 \BI
-\item Not all of the Earth is facing the Sun! The night half of Earth is still giving off thermal light; this implies that $I_3$ needs to be only half as big, since only half of 
-Earth receives sunlight, but the entire Earth emits thermal radiation.
+\item Not all of the Earth is facing the Sun! The night half of Earth is still giving off planetlight; this implies that $I_3$ needs to be only half as big, since only half of 
+Earth receives sunlight, but the entire Earth emits planetlight.
 \item Remember how sunlight striking Earth at an angle doesn't heat it up as much, partially causing winter? This also reduces the amount of sunlight striking Earth's surface -- by
-another factor of two. (The proof of this requires calculus.)
+another factor of two. (The proof that this is exactly a factor of two requires calculus.)
 \EI
 
 So, instead of writing $I_3 = I_2$, we can do better by writing $I_3 = \frac{1}{4} I_2$, since the Earth's shape means that the ``area that absorbs sunlight'' is only one-quarter
-the area that emits thermal radiation. 
+the area that emits planetlight 
 
-{\bf Question 10:} Set $I_3 = \frac{1}{4}I_2$ and solve this new equation for $T_p$. You should get an expression very similar to the one you got for Question 7.
+{\bf Question 10:} Set $I_3 = \frac{1}{4}I_2$ and solve this new equation for $T_p$. You should get an expression very similar to the one you got for Question 7, but with a factor of 1/4.
 
 \vspace*{4cm}
 
@@ -414,7 +416,7 @@ too low?
 
 \hrulefill
 
-
+\newpage
 
 \section*{The temperatures of other planets}
 
@@ -423,7 +425,7 @@ Now, each of you in your lab group will individually repeat this calculation for
 \BI
 \item Venus, d=0.723 AU
 \item Pluto, d=39.4 AU 
-\item Mars, d=1.524 AU (groups of 3)
+\item Mars, d=1.524 AU 
 \EI
 
 This should only require you to plug different values into the expression you got for Question 10. Each of you should do one planet, and share answers. 
@@ -495,26 +497,4 @@ has the following properties:
 how far from Sirius would its orbit be?
 
 \newpage
-\section*{Algebra reference}
-
-Square roots: the square root of a product is equal to the product of the square roots. For instance:
-
-$$\sqrt{abc} = \sqrt{a}\sqrt{b} \sqrt{c}$$
-
-$$\sqrt{x^2y} = \sqrt{4}\sqrt{x^2}\sqrt{y} = 2x\sqrt{y}.$$
-
-Square roots of fractions:
-
-$$\sqrt{\frac{x}{y}} = \frac {\sqrt{x}}{\sqrt{y}}$$
-
-$$\sqrt{\frac{1}{9}} = \frac{\sqrt{1}}{\sqrt{9}} = \frac{1}{3}$$.
-
-Fourth roots: A quick way to simplify a fourth root is to think of it as a square root of a square root:
-
-$$\sqrt[4]{x} = \sqrt{\sqrt{x}}$$
-
-Then you can do each of those square roots in sequence:
-
-$$\sqrt[4]{9x^2} = \sqrt{\sqrt{9x^2}} = \sqrt{3 x}$$
-
 \end{document}

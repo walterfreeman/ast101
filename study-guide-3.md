@@ -2,7 +2,6 @@
 layout: page
 title: Exam 3 Study Guide 
 permalink: exam3study.html 
-category: top
 use_math: true
 ---
 

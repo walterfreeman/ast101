@@ -37,7 +37,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | November 1 | <a href="slides/lecture17/lecture17.pdf">Putting it together: spectroscopy</a> | | |  |
 | November 3 | <a href="slides/lecture18/lecture18.pdf">Telescopes</a>  | Paper due |  |  |
 | November 8 | Exam 3 |  |  |  |
-| November 10 | The nature of the Sun |  |  |  |
+| November 10 | <a href="slides/lecture19/lecture19.pdf">The nature of the Sun</a> |  |  |  |
 | November 15 | The birth of the Solar System |  |  |  |
 | November 17 | The effect of atmospheres and the greenhouse effect |  |  |  |
 | November 29 | Anthropogenic climate change |  |  |  |

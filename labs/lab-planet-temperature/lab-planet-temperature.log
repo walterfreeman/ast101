@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  4 NOV 2022 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  6 NOV 2022 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,36 +294,35 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 <expand-crop.pdf, id=17, 302.12875pt x 260.975pt>
 File: expand-crop.pdf Graphic file (type pdf)
 <use expand-crop.pdf>
-Package pdftex.def Info: expand-crop.pdf  used on input line 230.
+Package pdftex.def Info: expand-crop.pdf  used on input line 232.
 (pdftex.def)             Requested size: 216.81pt x 187.27666pt.
  [4 <./expand-crop.pdf>] [5]
 <expansion.png, id=29, 629.35126pt x 404.51125pt>
 File: expansion.png Graphic file (type png)
 <use expansion.png>
-Package pdftex.def Info: expansion.png  used on input line 280.
+Package pdftex.def Info: expansion.png  used on input line 282.
 (pdftex.def)             Requested size: 238.49121pt x 153.28998pt.
  [6 <./expansion.png>] [7] [8] [9] [10] [11] [12] [13] [14]
 (./lab-planet-temperature.aux) ) 
 Here is how much of TeX's memory you used:
- 3060 strings out of 478855
- 41262 string characters out of 5858635
+ 3054 strings out of 478855
+ 41228 string characters out of 5858635
  336556 words of memory out of 6000000
  20640 multiletter control sequences out of 15000+600000
- 426696 words of font info for 86 fonts, out of 8000000 for 9000
+ 424867 words of font info for 80 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  55i,5n,62p,316b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/palatino/uplri8a.pfb>
-Output written on lab-planet-temperature.pdf (14 pages, 129741 bytes).
+base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/palatino/uplri8a.pfb>
+Output written on lab-planet-temperature.pdf (14 pages, 121111 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
