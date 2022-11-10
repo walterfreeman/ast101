@@ -7,14 +7,10 @@ title: Announcements and Information
 
 ## Welcome to Astronomy 101!
 
-### Upcoming assignments
-
-* Your paper is due November 3. 
-
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture18/lecture18.pdf">Telescopes</a>
+* Slides: <a href="slides/lecture19/lecture19.pdf">The Sun</a>
 * Exercise: none today 
 
 

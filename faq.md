@@ -2,7 +2,6 @@
 layout: page 
 permalink: faq.html
 use_math: true 
-category: top
 title: FAQ 
 ---
 ## Questions and Answers

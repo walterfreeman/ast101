@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: exam2study.html 
-category: top
 use_math: true
 ---
 
