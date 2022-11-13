@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  13 NOV 2022 00:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.5)  13 NOV 2022 00:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**lab-radioactive-decay.tex
-(./lab-radioactive-decay.tex
+**lab-radioisotope-dating.tex
+(./lab-radioisotope-dating.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-07>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -230,8 +230,8 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box53
 )
-(./lab-radioactive-decay.aux)
-\openout1 = `lab-radioactive-decay.aux'.
+(./lab-radioisotope-dating.aux)
+\openout1 = `lab-radioisotope-dating.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
@@ -403,22 +403,22 @@ Overfull \hbox (24.45563pt too wide) in paragraph at lines 259--268
 [][] 
  []
 
-[10] [11] (./lab-radioactive-decay.aux) ) 
+[10] [11] (./lab-radioisotope-dating.aux) ) 
 Here is how much of TeX's memory you used:
  4334 strings out of 478855
- 62606 string characters out of 5858635
- 357713 words of memory out of 6000000
+ 62628 string characters out of 5858635
+ 357715 words of memory out of 6000000
  21866 multiletter control sequences out of 15000+600000
  432089 words of font info for 103 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 59i,8n,66p,399b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/e
-nc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-tt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on lab-radioactive-decay.pdf (11 pages, 349894 bytes).
+ 59i,8n,66p,401b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts
+/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on lab-radioisotope-dating.pdf (11 pages, 349894 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
