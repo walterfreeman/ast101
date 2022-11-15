@@ -10,7 +10,7 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture19/lecture19.pdf">The Sun</a>
+* Slides: <a href="slides/lecture20/lecture20.pdf">The birth of the Solar System</a>
 * Exercise: none today 
 
 
