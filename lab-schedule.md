@@ -32,6 +32,7 @@ in the Physics Clinic (room 112).
 | Lab 8: Thermal Radiation    | <a href="labs/lab-light-1/lab-light-1.pdf">Lab 8</a> | <a href="labs/lab-light-1/lab-light-1-prelab.pdf">Lab 8 Prelab</a>             |
 | Lab 9: Spectroscopy         | <a href="labs/lab-light-2/lab-light-2.pdf">Lab 9</a> | No prelab this week             |
 | Lab 10: Temperature of the Planets        | <a href="labs/lab-planet-temperature/lab-planet-temperature.pdf">Lab 10</a> | <a href="labs/lab-planet-temperature/lab-planet-temperature-prelab.pdf">Lab 10 Prelab</a>             |
+| Lab 11: The Age Of The Earth (with dice)        | <a href="labs/lab-radioisotope-dating/lab-radioisotope-dating.pdf">Lab 11</a> | <a href="labs/lab-radioisotope-dating/lab-radioisotope-dating-prelab.pdf">Lab 11 Prelab</a>             |
 |--------------------------------------------|----------------------------------------|-----------------------------------------------------|
 
 
