@@ -1,0 +1,329 @@
+\documentclass[11pt]{article}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{array}
+\usepackage[sc]{mathpazo}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{amsmath}
+
+%\linespread{1.05}
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\textwidth=6.5in
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+\textheight=9in
+% EXPERIMENTAL
+%\parindent=0pt
+%\parskip=3pt
+\setlength{\parindent}{0cm}
+\newcommand\secfont{\fontfamily{cmss}\selectfont}%\textwidth 5.5truein
+\newcommand\pifheading[1]{{\secfont\textbf{#1}:}}
+%\oddsidemargin -0.40truein
+%\textheight 8.0truein
+%\topmargin -0.25truein
+\def\lo{
+\mathrel{\raise.3ex\hbox{$<$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+\def\hi{
+\mathrel{\raise.3ex\hbox{$>$}\mkern-14mu\lower0.6ex\hbox{$\sim$}}
+}
+
+\textwidth = 6.6 in
+\textheight = 9.1 in
+\oddsidemargin = -0.05 in
+\evensidemargin = +0.05 in
+\topmargin = -.1 in
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.06in
+\newcommand\registered{{\ooalign{\hfil\raise .00ex\hbox{\scriptsize R}\hfil\crcr\mathhexbox20D}}}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leostyle}
+
+%\pagestyle{empty}
+%\includeonly{previous,proposal_references}
+%\includeonly{proposal_references}
+%\includeonly{previous}
+
+% TOC
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\Large
+AST101: Our Place in the Universe \\
+\vspace*{0.1cm}
+Lab 12: Astrology 101
+}
+\vspace{1em}
+
+
+
+
+\end{center}
+
+{\bf Note on calculations:} This lab asks you to do arithmetic in several places. If you do not have a calculator, or even if you do, using Google to do arithmetic and convert units can be very convenient. You can Google, for instance, things like ``57 * (2 AU) / (0.0001) in light years'', and it will do the arithmetic and convert the units for you. Do {\it not} put the word ``degree'' into your units in Google Calculator, however; this will lead to weird things happening.
+
+\vspace*{0.5cm}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Throughout this course, you've studied the field of astronomy, but the principles used to study astronomy apply to science more broadly. Creating models to explain and predict the behavior of the world around us, collecting data to verify and improve those models, and eventually developing deeper insight into the workings of nature from those models, is at the core of every scientific discipline, from astronomy to economics. Having now (almost!) completed this course, you are equipped to be able to examine an idea in a scientific way. 
+
+We sometimes get emails from students asking about the ``Astrology 101'' course. Astronomy is the scientific study of stars; astrology is a different word, meaning the process of soothsaying or divination using things in the sky.
+
+In this lab, you'll study the constellations in the Zodiac to see whether they could have an impact in our day to day lives, and in the process review ideas that you saw in lab throughout the year. \\ \\ \\
+
+%\begin{center}
+%	\textbf{You are to complete this lab \textit{on your own!}}
+%\end{center}
+
+\newpage
+\section{Stellarium}
+%If you need your table's lab computer and it is currently in use, you may skip this sections and return to it when the computer is available.\\
+
+\textbf{Question 1.} Open Stellarium, and set the date to January 1 in the year 2003. What constellation is the Sun in on this day? Note: it may help to turn off the atmosphere and ground and turn on the display of constellation boundaries and art.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 2.} Rewind time until the Sun is halfway between this constellation and one other. What date does this occur? We'll refer to this as the first day that someone would have that constellation as their birth sign. This need not be exact.\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 3.} Go back to January 1 2003, and advance time until the Sun is halfway between the constellation it starts in and one other. What date does this occur? We'll refer to this as the last day that someone would have that constellation as their birth sign. This need not be exact!\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\newpage
+
+\textbf{Question 4.} Complete the chart below by finding the start and end dates for each constellation in the year 2002. The ``traditional'' dates for the horoscope are shown for comparison.\\
+
+\begin{center}
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+		Constellation&Start Day&End Day&Horoscope\\ \hline
+		Aquarius    & & &Jan 20-Feb 18\\ \hline
+		Pisces      & & &Feb 19-Mar 20\\ \hline
+		Aries       & & &Mar 21-Apr 19\\ \hline
+		Taurus      & & &Apr 20-May 20\\ \hline
+		Gemini      & & &May 21-Jun 20\\ \hline
+		Cancer      & & &Jun 21-Jul 22\\ \hline
+		Leo         & & &Jul 23-Aug 22\\ \hline	
+		Virgo       & & &Aug 23-Sep 22\\ \hline
+		Libra       & & &Sep 23-Oct 22\\ \hline
+		Scorpio     & & &Oct 23-Nov 21\\ \hline
+		Sagittarius & & &Nov 22-Dec 21\\ \hline
+		Capricorn   & & &Dec 22-Jan 19\\
+		\hline
+	\end{tabular}
+\end{center}
+
+\textbf{Question 5.} Compare the date ranges for the constellations that you found with Stellarium to those claimed by horoscopes. Does the horoscope accurately describe the motion of the Sun through the Zodiac?\\
+
+\vspace{1.5cm}
+%\hrulefill\\
+
+\textbf{Question 6.} Set yourself to the start date for Taurus according to the horoscope. Go back in time to find approximately the year in which the horoscope correctly predicts when that birth-sign began. You will likely want to move more than 1 year at a time, since you will have to go pretty far back in history.\\
+
+%\textbf{Question 6.} This ``error'' happens because of the slight difference between the year by the stars and the year by the seasons. Think back to the lab you did on timekeep\\
+
+
+\bf At this point, call your TA or coach over and discuss with them to what extent the traditional horoscope dates match the actual alignment of the Sun and the stars. Are the horoscope dates ``wrong'', or are they just old?
+\rm
+
+
+
+\vspace{1.5cm}
+\hrulefill\\
+
+If the zodiac constellations can impact us here on Earth, there must be a mechanism by which this happens. The two most promising mechanisms seem to be either the force of gravity, or the light from the stars. To explore these options, we'll need to learn a bit more about the constellations themselves. We'll do this by studying the brightest star in the Zodiac, Aldebaran, and use this to draw conclusions about whether gravity or light from them could be affecting us here on Earth.\\
+
+\newpage
+
+\section{Parallax}
+
+\textbf{Question 7.} Recall that parallax occurs when you observe an object from two different locations, and even though the object and the background haven't moved, the object \textit{appears} to move relative to the background. The distance between the two places you observe the object from is called your \textit{baseline}.\\
+
+What is the largest baseline we have access to on Earth, measured in AU?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 8.} The formula to calculate the distance to an object by measuring its parallax is:
+\begin{align*}
+\text{distance}=57\times \frac{\text{baseline}}{\text{parallax angle}}
+\end{align*}
+where ``distance'' is how far away the object is, ``baseline'' is the distance between observation points, and ``parallax angle'' is the apparent motion of the object due to observing it from two different locations, measured in degrees.\\
+
+If you observe two objects using the \textit{same} baseline, which one is closer: the object with larger parallax, or smaller parallax? \\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 9.} The brightest star in the Zodiac is Aldebaran, found in Taurus; it is sometimes called ``the heart of the bull''.\\ 
+
+After observing this star twice six months apart, astronomers found it had a parallax of 0.000028$^\circ$. (This number is small enough that it is convenient to write it in scientific notation: $2.8 \times 10^{-5}$ deg.) Based on this, and your answer to question 7, how far away is this star? Give your answer in AU, then convert it to meters by multiplying your answer by $1.5\times 10^{11}$ (the number of meters in an AU).
+{\it Hint: You will first need to think about what the baseline is here.}\\
+
+\vfill
+\hrulefill\\
+
+\section{Gravity}
+If the constellations do have an effect on us, we would need to figure out by what physical process they affect us. Perhaps it's gravity!\\
+
+\textbf{Question 10.} Newton's law of gravity tells us that the force in newtons due to gravity between two objects is
+\begin{align*}
+F_G=G\frac{m_1 m_2}{r^2}
+\end{align*}
+where $m_1$ and $m_2$ are the masses of the two objects, r is the distance between the two objects, and G is a constant whose value is approximately $7\times 10^{-11}$. We've not used the exact value of $G$ before; now we will!\\
+
+Use the distance in meters you calculated using parallax (Question 9), the mass of the star ($2.3\times 10^{30}$ kg), and the fact that the average mass of a person is around 70 kg to calculate the force of gravity that this star exerts on a person on Earth.\\
+
+The result you get will be in newtons, the SI unit of force. One newton is about 1/5 of a pound and 1/10 of a kilogram-weight. Convert your answer to pounds or kilogram-weights (whichever you prefer) by dividing by 5 or 10. 
+
+\vspace{2.5cm}
+\hrulefill\\
+\vspace{2em}
+
+\textbf{Question 11.} How much do you think the gravity of people around you affects you? Calculate the force of gravity two people would exert on each other when sitting next to each other, with about 1 meter of space between them. Can you feel this force?
+\vspace{1em}
+
+
+\vspace{2.5cm}
+\hrulefill\\
+\vspace{2em}
+
+%\vspace{1.5cm}
+%\hrulefill\\
+\newpage
+\textbf{Question 12.} How does the force of gravity that a person exerts on you compare to the gravity that Aldebaran exerts on you? Do you think it's reasonable to think that, if the constellations affect our lives and futures, that the force of gravity is the mechanism that makes it happen? \\
+%
+%\vspace{1.5cm}
+%\hrulefill\\
+
+\bf At this point, call your TA or coach over and discuss with them your findings. Does the gravity of the distant stars have any influence on events on Earth?
+
+\rm 
+
+\newpage
+
+\section{Light}
+If gravity isn't the mechanism that allows stars to influence us, perhaps it's the light from those stars?\\
+
+\textbf{Question 13.)} The brightest star in the zodiac is Aldebaran, which is an orangish-red star. We know that a lot can be learned about the light from a star by knowing its temperature. If Aldebaran appears orangish-red, is it hotter or colder than the Sun?\\
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\textbf{Question 14.)} The peak emission wavelength from Aldebaran is around $0.75\mu m$ (750 nm). Open the PhET blackbody simulator (link below or google ``Colorado PhET blackbody'') and change the temperature until you find the temperature of Aldebaran.
+
+\begin{center}\small
+	\url{https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html}
+\end{center}
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\vspace{1em}
+
+
+
+\textbf{Question 15.} In the "How Hot are the Planets?" lab, you derived a formula for the intensity of light from a star with radius $r$ a distance $d$ away from the star:
+\begin{align*}
+I=\frac{k T^4r^2}{d^2}
+\end{align*} 
+During that lab, we never had to calculate anything with $k$, but here we will. So, for when you need it, the value of $k$ is about $5.67\times 10^{-8}$.\\
+
+Use the temperature you found in Question 14, the distance to the star in AU you found in Question 9, and the fact that the radius of Aldebaran is 0.2 AU, to find the intensity of the light that the Earth gets from Aldebaran.\\
+\vfill
+\hrulefill\\
+
+\vspace{1em}
+
+
+\newpage
+
+\textbf{Question 16.)} The maximum intensity of microwave radiation from your cellphone held next to your body is around $10 \rm\, W/m^2$. The intensity of direct sunlight is around $1000 \rm \, W/m^2$. How does this compare to the radiation we receive from Aldebaran? Do you think it's possible for light to be how the constellations affect us?\\
+
+{\bf As before, when you reach this point, call your TA over and discuss your findings with them. Other than being visible to our eyes, is it likely that starlight influences events on Earth?}
+
+\vspace{1.5cm}
+\hrulefill\\
+
+\section{Pseudoscience}
+By now, you've probably realized that astrophysics takes the position that there is no physical basis for the motions of the stars to dictate our fates. This doesn't mean that there is no value in the legends or mythology surrounding divination using the Zodiac, accumulated by humanity over thousands of years, but it serves as an interesting case study in people trying to justify its validity in ways that do not match the scientific method. Remember that while ``science'' can apply to many things, there are a few features that sound scientific claims have in common:
+\begin{itemize}
+	
+	\item \textbf{Empirical testing:} The highest authority in the scientific process is what we actually observe after careful experiment and testing.\\
+	\item \textbf{Universality:} Those physical laws should be the same at all places and times.\\
+	\item \textbf{The search for refuting evidence / self-skepticism:} Any scientific claim should be subject to attempts to disprove it.\\
+	\item \textbf{Objectivity:} This explanation of something by natural principles doesn't depend on the identity of the people involved, and doesn't apply special rules to human beings simply because they are human that don't apply to other matter.
+	
+\end{itemize}
+\newpage
+
+\textbf{Question 17.)} When read carefully, you can see that most horoscopes would apply to just about anyone, using vague terms and generalities that aren't very specific. Because of this, it's all but impossible for a horoscope to actually be wrong.\\
+
+Which of the above aspects of science does this fail? If it meets all of them, briefly explain how. 
+
+\vspace{5.5cm}
+\hrulefill\\
+
+%\newpage
+
+\textbf{Question 18.)} We've shown throughout this lab that there aren't any physical processes that would allow the stars in the zodiac constellations to meaningfully impact us on Earth. However, some people claim that there's perhaps an unseeable, undetectable mystical force that the stars exert specifically on people that science can't ever measure.\\
+
+Which of the above aspects of science does this fail? If it meets all of them, briefly explain how.
+
+\vfill
+\hrulefill\\
+\newpage
+
+
+\textbf{Question 19.)} Despite all of this, there {\it} are real trends based on Zodiacal ``sun signs''. For example, people born with a birth sign of Libra, Scorpius, Sagittarius, or Capricornus live a year longer on average than those whose birthsign is Taurus, Gemini, Cancer, or Leo.\\
+
+However, there is an explanation; birthsigns correlate with dates on Earth! A study looked at babies born in Denmark, Austria, and Britain; the researchers found that those born in October, November, December, or January have slightly longer lives than those born in May, June, July, or August on average.
+
+
+
+\bigskip
+
+
+\begin{enumerate}
+	\item Devise a possible explanation for why European babies born in October-January might live longer than Europeans born in May-August. (This explanation doesn't need to involve detailed biology; a sentence or two will suffice.)
+	\item Design an experiment that you might do to test your explanation. What would you measure? This experiment should have the potential to potentially refute your explanation above.
+\end{enumerate}
+
+Once you have your explanation and experiment to test it, call your TA or coach over and describe it to them. 
+
+
+\vspace{3in}
+
+\vspace{1.5cm}
+\hrulefill
+
+\bfseries
+
+Congratulations! You are done with the lab aspect of AST101, unless you are in a Monday lab.
+
+If you have lab on Monday, you will go to lab next week to make up the lab you missed earlier in the semester because of Labor Day. 
+
+\end{document}

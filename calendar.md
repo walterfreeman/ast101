@@ -40,7 +40,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | November 10 | <a href="slides/lecture19/lecture19.pdf">The nature of the Sun</a> |  |  |  |
 | November 15 | <a href="slides/lecture20/lecture20.pdf">The birth of the Solar System</a> |  |  |  |
 | November 17 | <a href="slides/lecture21/lecture21.pdf">Planets, air, and the greenhouse effect</a> |  |  |  |
-| November 29 | Anthropogenic climate change |  |  |  |
+| November 29 | <a href="slides/lecture22/lecture22,pdf">Anthropogenic climate change</a> |  |  |  |
 | December 1 | Spaceflight: from Earth to the Moon |  |  |  |
 | December 6 | Beyond the Moon: voyages to the planets |  |  |  |
 | December 8 | To the stars! |  |  |  |
