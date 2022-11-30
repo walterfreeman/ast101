@@ -8,11 +8,10 @@ title: Announcements and Information
 ## Welcome to Astronomy 101!
 
 
-### Current lecture slides and exercise:
+### Current lecture slides and homework
 
 * Slides: <a href="slides/lecture22/lecture22.pdf">Climate change</a>
-* Exercise: none today 
-
+* Homework: <a href="tutorials/climate-change-homework/climate-change.pdf">Climate change homework</a>
 
 ### Information
 
