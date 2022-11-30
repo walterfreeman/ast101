@@ -13,6 +13,9 @@ title: Announcements and Information
 * Slides: <a href="slides/lecture22/lecture22.pdf">Climate change</a>
 * Homework: <a href="tutorials/climate-change-homework/climate-change.pdf">Climate change homework</a>
 
+In 2019, I was sick on the day when we covered climate change, so I wrote a series of notes for students instead. If you would like them, here are my <a href="climate-change.html">notes on climate change</a>.
+
+
 ### Information
 
 Teaching staff:

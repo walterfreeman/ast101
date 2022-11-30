@@ -6,7 +6,7 @@ use_math: true
 ---
 
 
-Here are the long-promised notes on climate change. Please read them before the final; there will be a few questions on the main ideas here.
+Here are the notes on climate change. 
 
 ## The greenhouse effect
 
@@ -40,12 +40,12 @@ A few things to note here, working from right (the present) to left (the distant
 
 By looking at the history of our climate, we can thus get a rough scale of the kinds of climate conditions Earth can produce. All of these temperatures are relative to the 20th century average:
 
--33C: complete absence of greenhouse effect
--10C: "Snowball earth": glaciers cover entire planet except a small band around the Equator
--5C: ice age; Syracuse covered by glaciers; the climate during the human diaspora out of Africa
-0C: our familiar climate
-+5C: ??? (but perhaps our near future...)
-+10C: climate during the time of the dinosaurs; much of America underwater
+* -33C: complete absence of greenhouse effect; where we'd be without our atmosphere
+* -10C: "Snowball earth": glaciers cover entire planet except a small band around the Equator
+* -5C: ice age; Syracuse covered by glaciers; the climate during the human diaspora out of Africa
+* 0C: our familiar climate
+* +5C: ??? (but perhaps our near future...)
+* +10C: climate during the time of the dinosaurs; much of America underwater
 
 ### Climate drivers
 
@@ -60,6 +60,11 @@ Some of them will tend to magnify that small change, further warming the Earth. 
 Other mechanisms go in the other direction. If CO2 is released into the air, this will warm the Earth, but over time, the oceans will absorb that CO2, bringing CO2 levels and the temperature back down slowly. This is called **negative feedback**.
 
 In the short term, though, the positive feedback wins out. This means that *small changes to the Earth's climate are magnified*. Some people argue that CO2 levels are not enough on their own to cause significant warming; they omit the fact that positive feedback mechanisms -- snow melting, water evaporating (since water vapor is also a greenhouse gas), and even the release of methane trapped under the Siberian permafrost -- will exaggerate any direct temperature changes due to CO2 levels.
+
+This idea is not new. The very large positive feedback from increased water vapor in the air was first discussed by 
+the Swedish scientist Svante Arrhenius in 1896, who calculated that the burning of coal would result in the Earth
+becoming warmer. In fact, Arrhenius -- coming from a very cold place and not fully understanding the challenges faced
+by people in warmer latitudes -- suggested that this would be a good thing, since it would let people grow more food!
 
 CO2 levels in the Earth's atmosphere have fluctuated quite a bit over millions of years, since they are also affected by the temperature; they were quite low during the Ice Ages and quite high during the time of the dinosaurs. *It is very unlikely that human CO2 emissions will turn Earth into a world like Venus* -- we will, at most, push Earth's climate out of the cycle of ice ages and nudge it -- very rapidly! -- into something closer to the climate during the time of the dinosaurs.
 
@@ -125,7 +130,7 @@ The people responsible for burning all of this CO2 are, collectively, the global
 
 A cautionary note: it is tempting to look at this graph and say "Wow! The Chinese have really started to use a lot of fossil fuels! But the USA is getting better!" Be *very careful* here when pointing fingers. Many wealthy countries, like the US and France, are moving away from industrial economies -- we manufacture a lot less stuff than we used to. But countries like China and India are industrializing rapidly, and export many of their products to places like the USA. So it is *absolutely not fair* to blame China for using fossil fuels when those fossil fuels are used to produce products that we buy. Ours is a global economy: I am typing this on a laptop designed by Americans, with a CPU designed by Americans and Israelis, running software made by South African company, and built in China with Chinese aluminum. **Ours is a global economy; climate change is a global problem**.
 
-It is certainly true, however, that wealthy countries have gotten *most of the benefit* from burning fossil fuels (since we industrialized first), while developing countries stand to incur most of the *harm* from climate change (since their people have fewer resources to mitigate its effects). Some people argue that this has created a "climate debt", owed by wealthy nations to poorer ones, to help fix the problem we created. 
+It is certainly true, however, that wealthy countries have gotten *most of the benefit* from burning fossil fuels (since they industrialized first), while developing countries stand to incur most of the *harm* from climate change (since their people have fewer resources to mitigate its effects). Some people argue that this has created a "climate debt", owed by wealthy nations to poorer ones, to help fix the problem that the wealthy nations (mostly) created. 
 
 ## Doing something about this
 
@@ -150,6 +155,6 @@ Any discussion of which solutions are better, or even whether addressing climate
 * This has already caused the earth to warm by about 1C
 * This warming effect is amplified in the Arctic due to the feedback between melting ice and the increased absorption of sunlight
 * This will change local climate patterns and cause sea levels to rise, greatly disrupting life for many people and ecological communities
-* Warming of about 2C is likely to happen no matter what
-* Depending on how quickly we act to mitigate CO2 emissions, we may be in store for warming of up to 5-7C over the next century
+* Warming of about 1.5C is likely to happen even with immediate drastic action
+* Depending on how quickly we continue to act to mitigate CO2 emissions, we may be in store for warming of up to 5C over the next century
 * The overwhelming scientific consensus supports this picture; the only serious dispute is in the details.
