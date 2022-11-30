@@ -10,7 +10,7 @@ title: Announcements and Information
 
 ### Current lecture slides and exercise:
 
-* Slides: <a href="slides/lecture21/lecture21.pdf">Planets and their air</a>
+* Slides: <a href="slides/lecture22/lecture22.pdf">Climate change</a>
 * Exercise: none today 
 
 
