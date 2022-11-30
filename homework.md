@@ -15,3 +15,5 @@ Your third homework assignment is included as part of the <a href="tutorials/the
 Your fourth homework assignment is included as part of the <a href="tutorials/keplers-laws/keplers-laws.pdf">fourth Exercise on Kepler's laws</a>. It is due October 11 with a quiz on the same day. 
 
 Your fifth homework assignment is included as part of the <a href="tutorials/spectroscopy/spectroscopy.pdf">fifth Exercise on spectroscopy.</a>. It is due November 3 with a quiz on the same day. 
+
+Here is your <a href="tutorials/climate-change-homework/climate-change.pdf">sixth homework assignment on climate change</a>. It is due December 6 in class.
