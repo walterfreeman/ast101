@@ -10,7 +10,7 @@ title: Announcements and Information
 
 ### Current lecture slides and homework
 
-* Slides: <a href="slides/lecture22/lecture22.pdf">Climate change</a>
+* Slides: <a href="slides/lecture23/lecture23.pdf">To the Moon!</a>
 * Homework: <a href="tutorials/climate-change-homework/climate-change.pdf">Climate change homework</a>
 
 In 2019, I was sick on the day when we covered climate change, so I wrote a series of notes for students instead. If you would like them, here are my <a href="climate-change.html">notes on climate change</a>.
@@ -40,5 +40,5 @@ Teaching staff:
 
 ---
 
-<center> <img src="solarspectrum.jpg">
+<center> <img src="8909250~medium.jpg">
 <br>
