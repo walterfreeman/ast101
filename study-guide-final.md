@@ -2,6 +2,7 @@
 layout: page
 title: Final Exam Prep
 permalink: finalstudy.html 
+category: top
 use_math: true
 ---
 
