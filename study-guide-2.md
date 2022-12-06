@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: exam2study.html 
+title: Study Guide 2
 use_math: true
 ---
 

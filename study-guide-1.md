@@ -1,7 +1,7 @@
 ---
 layout: page
 use_math: true
-title: Study Guide
+title: Study Guide 1
 permalink: exam1study.html
 ---
 

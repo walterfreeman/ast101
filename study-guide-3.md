@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exam 3 Study Guide 
+title: Study Guide 3
 permalink: exam3study.html 
 use_math: true
 ---
