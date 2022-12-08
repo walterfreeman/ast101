@@ -43,7 +43,7 @@ You should read the pages listed in the textbook **before** class. The pages in 
 | November 29 | <a href="slides/lecture22/lecture22.pdf">Anthropogenic climate change</a> |  |  |  |
 | December 1 | <a href="slides/lecture23/lecture23.pdf">Spaceflight: from Earth to the Moon</a> |  |  |  |
 | December 6 | <a href="slides/lecture24/lecture24.pdf">Beyond the Moon: voyages to the planets</a> |  |  |  |
-| December 8 | To the stars! |  |  |  |
+| December 8 | <a href="slides/lecture25/lecture25.pdf">Ad astra per aspera: To the stars!</a> |  |  |  |
 | December 13 | Final Exam 3:00-5:00 |  |  |  |
 |---------------+---------------------------------------------------------+-------------+-----------------------+---------------------------------------+
 
