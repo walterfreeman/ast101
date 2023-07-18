@@ -2,7 +2,6 @@
 layout: page
 permalink: finalprojects.html
 title: Final project
-category: top
 use_math: true
 ---
 
