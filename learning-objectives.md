@@ -13,14 +13,14 @@ After this class, students will be able to...
 1. Philosophy of Science (throughout the whole course)
 * describe the characteristics of scientific thought and its place within human intellectual endeavor 
 * recognize the special historical role of astronomy as a bridge between science and the humanities
-* explain the basics of the philosophy of humanism, and how scientific development is one manifestation of it
-* create rhetoric, art, writing, and the like that blends astronomical ideas with other academic fields
-* describe the basics of scientific integrity, and recognize and rebut (pseudo)scientific rhetoric that is dishonest or misleading
+<!--* explain the basics of the philosophy of humanism, and how scientific development is one manifestation of it -->
+* describe the basics of the scientific process and recognize and rebut (pseudo)scientific rhetoric that is dishonest or misleading
+<!--* create rhetoric, art, writing, and the like that blends astronomical ideas with other academic fields -->
 
 2. Astronomy by Eye (Unit 1)
 * describe the actual motions of the Sun, Earth, Moon, planets, and stars, using both words and pictures
 * discuss how the apparent motion of celestial bodies in the sky is a consequence of the relative movements of the Earth and those bodies
-* predict the motion of those things
+* predict the apparent motion of those bodies
 * describe how the "celestial sphere model", formulated without the knowledge that the Earth moves around the Sun, still makes reasonably accurate predictions
 * describe the causes of the seasons and the moon phases
 * predict the differences in the sky, seasons, etc., between different places on Earth

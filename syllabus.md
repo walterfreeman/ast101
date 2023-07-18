@@ -12,7 +12,6 @@ use_math: true
 * [Contact Information](#contact)
 * [Textbooks](#books)
 * [Course philosophy](#philosophy)
-* [Health and wellness](#health)
 * [Inclusion and dignity](#inclusion)
 * [Course material](#material)
 * [Learning objectives](#objectives)
@@ -36,73 +35,12 @@ soon.*
 -   Office hours: Monday 10:00 AM-12:00 PM or Wednesday 2:00-4:00 PM in the Physics Clinic, or by appointment; you may visit me any time in my office, room 215.
 -   Course website: http://walterfreeman.github.io/ast101/
 - Teaching assistants: 
-  - Nada Nabil Elsayed Elmeigy	
-  - Keisi Kacanja
-  - Chandler Martin
-  - Chad Skerbec
-  - Byron Sleight
-  - Sierra Thomas
-  - Dylan Van Allen
-  - Lindsay Wilson
-
 -   Point of Contact for Registration Issues: Kristine Weisblatt, <phyacademics@syr.edu>
-  - Discord server invite link shared via Blackboard for security reasons 
-
-### Who's who
-
-There are a lot of people teaching this class; who are they?
-
-#### The professor
-Walter is in charge of giving the lectures, writing materials, helping students in any way I can (with my class or anything else!), supervising grading, and leading the course as a whole.
-
-If you want to talk to me, come to ioffice hours or catch me before or after class. I am also
-frequently on the Discord server.
-
-You can also email me about private issues at <wafreema@syr.edu>. 
-
-Contact Walter if:
-
-* You have a question about astronomy (or anything else!)
-* You have a suggestion that will improve your experience in the course as a whole or the lecture portion specifically
-* Something is badly wrong in your lab that your TA can’t fix, or that you don’t feel comfortable discussing with them
-* You will miss a large amount of work
-* You need high-level assistance with anything in our class or at the university
 
 #### The TA's
 The lab teaching assistants are PhD students in physics who work as junior instructors as part of their training. 
 They are in charge of leading labs and helping grade your work. You can contact them by email, by going to
-their office hours in the Physics Clinic, or by simply talking to them during lab.
-
-Contact your TA if:
-* You have a question about astronomy
-* You have a suggestion that will improve their lab, or that you want them to pass on to me
-* Something is wrong with your grade
-* You will miss a lab
-* The people in your lab group are not working together effectively
-
-#### The coaches
-The coaches are undergraduate students like yourself who took this class in the past and who will be helping you
-during lecture, occasionally during lab, and over the internet and the Discord server.
-
-You can contact them by talking to them during class or lab or on Discord.
-
-Talk to the undergraduate coaches if:
-* You have a question about the tutorials in class, your homework, or your paper
-* You want advice on studying, writing your paper, or anything else!
-
-#### A note on email
-
-We will receive prodigious amounts of email this semester and will sometimes get behind on answering mail. Please help us out! There are a few things you can do:
-
-1. If you have a question that might apply to other students and are on Discord, please ask there instead of sending it as an email. You will get a quicker answer there, and other people will benefit.
-
-2. When you email us, please include a meaningful subject line in your message telling us what it is about; don’t write “Astronomy 101”, since almost all of the mail I get is about Astronomy 101, and that doesn’t help! Also don't use a subject line of "Lab" -- tell me what your issue is with your lab!
-
-We will try to answer all messages that need a reply within 24 hours. 
-If you don’t get a reply after two days, but your message needs a reply, please just send us your message again to remind us. (We get a lot of mail and
-we sometimes get behind.) In particular, on the day of an exam, I am only able to answer the most urgent emails. 
-
-
+visit them in the Physics Clinic when they are on duty, or by simply talking to them during lab.
 
 ---
 
@@ -116,7 +54,6 @@ we sometimes get behind.) In particular, on the day of an exam, I am only able t
 
 ---
 
-
 ### Course philosophy 
 
 #### 1. Our birthright: a beautiful Universe
@@ -127,7 +64,8 @@ to use that knowledge to change our lives and our world for the better. Astronom
 of the sciences, and the heavens were the playground where the scientific method developed.
 In our class we will learn how the sky works and how we know about it, but we will also explore 
 what it means for humanity: how over the last few thousand years we have gone from the Stone Age to
-walking on another world and exploring the furthest reaches of the Universe. 
+walking on another world and exploring the furthest reaches of the Universe with our telescopes 
+and other instruments. 
 
 It is the story of how our species has grown up and discovered that the Universe
  holds more promise for us and is more beautiful than we ever could have imagined.
@@ -146,30 +84,25 @@ to be *doing* and *thinking*, not just passively amassing facts.
 
 So, during class, you'll be spending a lot of your time *doing stuff* to learn: collaborating with people near you
 in the auditorium to figure things out. We will give you copies of tutorials that guide you through developing
-the skills involved in astronomy, and I and the coaches will be on hand to help you as you develop your skills.
+the skills involved in astronomy, and we will be on hand to help you as you develop your skills.
 
-Take this seriously: it is the most important part of our class.
+Take this seriously: it is the most important part of our class. Many of the questions on our exams will closely parallel
+these exercises.
 
-<!-- #### 3. Group work
+#### 3. Group work
 
+One of the most vibrant aspects of university life is the intellectual community you form with your peers. Science, like most 
+areas of human achievement, is not done by individuals working alone; it is a collaborative process.
 
-One of the most vibrant aspects of university life is the intellectual community you form with your peers. In normal circumstances this sort of community forms naturally, as you become friends and colleagues with the people around you in your classes. This semester, this sort of community will be even more important (as you support each other through a difficult time), but harder to maintain (since you will often be online). 
+Thus, you'll be working in groups of three in your labs. These groups will remain the same throughout the semester; we will
+assign you to a lab group early in the semester and you will work with them throughout. 
 
-Thus, we will be more deliberate than we usually are in providing a structure for this community to you. We will assign you to groups and expect you to work together with the folks in your group on our class. You should get to know them, exchange contact information, and establish a means of working together that works well for the three of you. 
-
-We expect everyone to contribute in their groups. Part of your grade will be based on your groupmates' evaluation of you. Likewise, the things that your group creates will be read by other groups. Your projects aren't just a way for
-you to demonstrate what you know; they're a way for you to create things that other people in our class will
-learn from. Their evaluations will be part of your grade, and the grade that they give you will be based not
-just on whether your work is correct but whether they could learn from it.
-
-You will be vital supports to each other in both learning our material and during this weird semester as a whole. Our class is full of friendly people; become friends with them! A part of your grade will come from how effectively your group works together, and you will assess that yourselves. 
-
-If there is a problem with how your group is collaborating -- if one person is not making any effort, or if one person is not collaborating well with the others -- then please tell your TA. These sorts of issues will both make the class a lot less enjoyable and interfere with your learning, but they can be fixed. Let us know, and we will fix them.
---> 
+During the first lab, you will work with your group to create a set of expectations for group work -- how you will work
+together over the semester. 
 
 #### 4. This is your class, too
 
-As part of this philosophy, I welcome your input. If there is some aspect of astronomy that inspires or fascinates you, please ask; if you have feedback for me that will help you enjoy the class more, then please let me know.>>
+As part of this philosophy, I welcome your input. If there is some aspect of astronomy that inspires or fascinates you, please ask; if you have feedback for me that will help you enjoy the class more, then please let me know.
 
 
 <a id="health"></a>
@@ -180,13 +113,16 @@ If you have an illness or injury that interferes with your ability to do work in
 
 If you are too sick to come to class, or have COVID-19 or another condition
 that is highly contagious, we want you to focus on taking care of yourself. (The stars will still be there later.) 
-Please contact the Barnes Center for advice; they will send me a note saying that you are sick.
+Please contact the Barnes Center for advice on what to do.
 
 If you miss a large amount of class (two weeks or more) for a reason beyond your control, you may be eligible to take an “incomplete grade” in the course.
-This is a “grade pending” status that means that you were not able to finish all your work during the semester. Once you finish up your work in the spring, we can go back and give you your final grade.
+This is a “grade pending” status that means that you were not able to finish all your work during the semester because of issues beyond your control. 
+Once you finish up your work in the spring, we can go back and give you your final grade.
 
 If you think you might need to use this option, it is important to talk to us as early as possible so we can discuss arrangements. 
-In general, only students who have completed a meaningful amount of classwork with a strong grade are eligible to take an incomplete.
+In general, only students who have completed a majority of the course with a strong grade (roughly 2/3 of the course with a C+ or better)
+are eligible to take an incomplete. If the issues that have taken you away from your studies have been so pervasive that you would need to repeat a significant portion
+of the semester to gain the skills from our course, then it is more appropriate for you to repeat the course in another semester. 
 
 <a id="inclusion">
 ---
@@ -228,7 +164,8 @@ A more detailed version of the <a href="learning-objectives.html">learning objec
 #### Readings
 
 We are using a free textbook this semester, but it's actually quite good -- and not excessively long. We won't be going through the book in order; 
-instead, we will jump around through topics in an order that makes more sense for our class. 
+instead, we will jump around through topics in an order that makes more sense for our class. In some cases, I will provide you a set of notes to 
+read instead, which will take the form of a "textbook-like" narrative of a topic.
 
 I encourage you to read the assigned sections on the [calendar](./calendar.html) ahead of time, as that way the presentation of the material in class will serve as reinforcement and enrichment rather than be the first time you see something. 
 
@@ -240,11 +177,6 @@ I want to avoid a "static" lecture as much as possible, and I want to hear your 
 So, during class, I will frequently ask your thoughts on things. Sometimes that will take the form of an informal conversation. 
 Feel free to raise your hands and ask me things. We will also have "poll" questions in class, which you can answer using multiple-choice
 cards.
-
-Additionally, coaches and I will be keeping an eye on the Discord chat during class. If you'd rather ask things on Discord instead of 
-calling them out in the auditorium, please do that. However, note that I will often defer logistical questions that don't pertain to
-the whole class until afterwards, and answer them then. (This is to be considerate of the rest of the class, since otherwise they would
-have to wait while I discussed something with you that doesn't relate to them.)
 
 #### Tutorials
 
@@ -259,138 +191,221 @@ the things in them. If you still have questions, please ask in class or in the P
 #### Homework
 
 There will be a brief homework set attached to many of the tutorials you do in class. They are designed to be done in sequence; 
-we expect that you will finish the tutorial in class, and then work on the homework at home. 
-Instead of turning in homework, we will sometimes have brief "homework quizzes" in class: 
-on the day the homework is due, we will give you a short quiz that will be very similar to what you did on your homework. 
+we expect that you will finish the tutorial in class, and then work on the homework at home. When we don't have a tutorial in class,
+we may have standalone homework for you to do.
+
+Your homework will not be collected. Instead, the weekly online quizzes will reference your homework and ask questions about it.
+
+#### Weekly quizzes
+
+We will have weekly online quizzes which you will complete on Blackboard. These will be most directly related to your homework, but may also
+tie together things from lecture and lab.
 
 #### Exams
 
 We will have three midterm exams on each of the first three units and a final exam. 
-These exams will be partly multiple choice and partly free-response, and will cover things from lecture, the tutorials and homework, and the labs.
+These exams will be multiple choice and will cover things from lecture, the tutorials and homework, and the labs. 
 
+#### Paper 
 
-#### Paper and Project
+During the semester you will write a paper that explores the scientific process and discusses what scientific thought is and what it is not.
 
-Throughout the semester you will write a paper and complete an open-ended project. 
-These will focus on the connections between astronomy and the broader study of the humanities; astronomy is likely the scientific discipline that has
-both exerted the greatest influence on, and been influenced the most by, the broader story of human intellect and philosophy.
-
-* Your paper is an exploration of the nature of science, and a discussion of what scientific thought is and what it is not
-* Your final project is extremely open-ended, and is an opportunity for you to connect your talents and interests outside astronomy to the scientific world
-
-Some of you, at some point in the semester, will probably ask me for extra credit. **This is it**; these will be graded out of ten points, but there is no limit on the grade you can achieve. 
+One of your labs will be a writing workshop where you work with your group to create an outline sketch of the story you will tell and the
+the claims that you will make in your paper.
 
 #### Labs
 <a id="labs"></a>
 AST101 satisfies the laboratory course requirement of the liberal arts core and so it has a lab component.
-Many important course activities take place in the laboratories, and so attendance at the lab sections is required. 
-There are also two take-home labs that you will complete with your lab group.
+We expect you to attend your lab section every week, and many important course activities take place in the laboratories. 
+
+There is also a take-home lab that you will complete with your lab group.
 Because the labs are a crucial element of the course, no student may receive a final grade for the course more than one letter grade
 above their lab average. (That is, if you get a D average for the lab, the highest grade you can get for the class is a C.)
 
 Your lab grade will reflect both your learning and participation while in lab and the quality of the work you submit. 
-
-Note that the point of the lab portion of the class is to learn by doing; it is not to "get the right answers". 
-Your grade is based on your understanding of what is going on *as reflected by* what you turn in; it is not based only on a mechanical evaluation of whether you "wrote down the right answers or not".
-In the past we have had some students who copied lab answers from students in other sections or the internet. This is a serious sort of academic dishonesty that will
-result in you failing the course (or worse).
+The point of the lab portion of the class is to learn by doing; it is not to "get the right answers". 
+Your grade is based on your understanding of what is going on *as reflected by* what you turn in; 
+it is not based only on a mechanical evaluation of whether you "wrote down the right answers or not".
 
 The lab attendance policy is as follows:
 
-* You must have completed the prelab to attend lab. If you have not, then you will need to use your "one unexcused swap" to attend a different lab 
-section that week.
-* You should attend lab at the time that you registered for. If you aren't able to attend lab at that time, you should:
+* You must have completed the prelab before coming to your lab. 
+* You must attend the lab section that you registered for. 
+  * If you anticipate regular conflicts with your scheduled lab time (for instance, if you have registered for a Friday lab but you are on an athletics team that regularly is on the road on Fridays), please switch your enrollment to another lab section.
+* If it is necessary for you to attend a different lab section than you are enrolled in:
   * Contact the TA of another lab section at a time you can attend and ask if they have space
-  * If they do, inform your TA that you will be attending their section instead that week
-  * You may do this only once during the semester for an unexcused reason (including not having your prelab done). If you must miss lab for an illness or emergency, this does not count.
-* You should come to lab on time.
+  * If they do, inform your TA that you will be attending their section instead that week, and tell them the reason for your absence
+  * Contact your lab group and inform them that you will be absent. (You do not need to tell them why.)
+* Once during the semester, you may switch lab sections for any reason (including not having completed your prelab). 
+* If it is necessary for you to switch your lab section more than once, all of those switches must correspond to University-excused absences (see below). 
+* You should come to lab on time. TA's may at their discretion ask students to come to another section if they arrive for lab more than ten minutes late.
 
-We're very willing to work with and around problems that you may encounter in helping you succeed in our 
-class; please let us know if something is going on that requires special accommodations. However, by default, this is the expectation.
+##### Lab Schedule
+
+We will begin labs during the week of Labor Day during the second week of class. Since there are no classes Monday, this means that the lab week
+will start on Tuesday and end on Monday (so that students in Monday labs will be the *last* students to complete any given lab, rather than the *first*).
+
+We will adjust this in the middle of the semester by omitting one lab from the Monday rotation. After this, the lab week will start on Monday and end on Friday.
+Students enrolled in Monday labs will complete this omitted lab at the end of the semester.
 
 ---
 
 ### Grading
 
-Due dates for these things may change slightly as the semester elapses.
+Your grade will be based on the following items. Due dates for these things may change slightly as the semester elapses.
 
-| Item                     |            Date        | Points (approximate)|
-|--------------------------|:----------------------:|--------------------:|
-| Homework Quizzes         | Throughout             | 30 each             |
-| Exam 1                   | September 27           | 80                  |
-| Exam 2                   | October 18             | 80                  |
-| Exam 3                   | November 8             | 80                  |
-| Final Exam               | December 13            | 120                 |
-| Paper                    | November 3             | 80                  |
-| Final project            | December 6-13          | 80                  |
-| Labs                     | Throughout the semester| 25 each             |
-| Weekly checkins          | Weekly                 | 3 each              |
-|--------------------------|:----------------------:|--------------------:|
+| Item                     |            Date        | Points (approximate)      |
+|--------------------------|:----------------------:|--------------------------:|
+| Weekly Quizzes           | Throughout             | 10 each; about 140 total  |
+| Exam 1                   |                        | about 100                 |
+| Exam 2                   |                        | about 100                 |
+| Exam 3                   |                        | about 100                 |
+| Final Exam               |                        | about 150                 |
+| Paper                    |                        | 80                        |
+| Labs                     | Throughout the semester| 25 each; about 275 total  |
+| Group Evaluation         | End of the semester    | 40                        |
+|--------------------------|:----------------------:|--------------------------:|
 
-Your score will be converted to a percentage and your final grade will be determined from your score as follows:
+There are no further weights for these items; one point is worth one point, regardless of where it came from.
+
+We will not count your lowest weekly quiz grade, your lowest lab, or your lowest exam grade. This policy is not to
+allow you to skip a lab, exam, or quiz; it is to accommodate students who must miss a lab or assessment when 
+calculating grades. 
+
+The sum of the points you have earned will be converted to a percentage of the total and your final grade will be determined as follows:
 
 * 88-100: A
-* 80-88: A-
-* 75-80: B+
-* 70-75: B
-* 65-70: B-
-* 62-65: C+
-* 58-62: C
-* 55-58: C-
-* 50-55: D
-* 0-50: F
+*  80-88: A-
+*  75-80: B+
+*  70-75: B
+*  65-70: B-
+*  62-65: C+
+*  58-62: C
+*  55-58: C-
+*  50-55: D
+*   0-50: F
 
 **Note that this is a different grading scale than the common one used in American high schools**. I will ask you to do challenging things in this class; I am aware of that, and do not expect everyone to be able to do everything perfectly.
 
+#### Requests for Academic Accommodation
+
+Students often have other events in their lives that conflict with their studies. It is our goal to give students an opportunity to learn even if they must miss class occasionally,
+and to give students a way to be evaluated on their knowledge and ability despite these conflicts. However, because of the large number of students in this class, we are unable
+to provide *ad hoc* academic accommodations or to make our own judgments about whether any given event should or should not take precedence over our class's activities. 
+For fairness, we must establish a policy that applies uniformly to everyone, and defer to other University offices about whether particular absences have the University's sanction
+since we do not have the perspective or resources to judge which absences should be excused.
+
+We will omit your lowest quiz grade, lab grade, and midterm exam grade regardless of situation.
+We will also allow everyone to switch lab sections once during the semester regardless of reason. We anticipate that this policy will cover most circumstances. 
+Beyond this, our policy is to offer the following accommodations in class attendance:
+
+**Labs:**
+
+* You may attend a different lab section than the one you are registered for once during the semester for any reason, as detailed above
+* If you miss multiple labs, we will omit up to three lab grades only if:
+  * You missed every one of those labs for university-sanctioned or university-excused reasons
+  * You were unable to attend a lab section at any time later in the week because of university-sanctioned absences or conflicts with other courses
+  * If you knew in advance that your lab section would conflict with other commitments, you made an effort to enroll for a lab section that would not have such conflicts. (For instance, if you will regularly be participating in NCAA-sponsored athletics on Thursdays and/or Fridays, or have a recurring medical appointment, you should enroll in a lab section that meets at another time.)
+
+**Quizzes:**
+
+Our weekly quizzes will be available to you online for at least three days. We will allow you to take 
+up to three missed quizzes up to a week after your return from a University-sanctioned absence (for instance, illness or injury)
+if you were unable to complete the quiz during the period when the it was available.
+
+**Midterm Exams:**
+
+If you are unable to take two midterm exams, we will replace both of your missed exam grades with your percentage grade on the final exam. 
+We will do this only if both of your exam absences were for university-sanctioned reasons.
+
+If you miss an exam due to NCAA-sponsored athletics-related travel, you may take the exam on the road so long as:
+
+* A team official is available to print the exam for you, sit with you while you take the exam, and send me a record of your answers
+* You begin the exam between two hours before and twelve hours after the time that the class starts the exam
+
+**Final Exam:**
+
+If you are unable to take the final exam due to a University-sanctioned absence (such as illness or injury), 
+we will give you an opportunity to make up the final exam. We expect you to do this as soon as possible after you return.
+Note that we will not arrange online final exams for students who leave Syracuse for break early. 
+
+**Exam Scheduling for Students with Disabilities:**
+
+Students who receive extended time from the Center for Disability Resources on exams should schedule to take their exams as soon as practical
+with CDR. Note that:
+
+* You may not *finish* your exam at CDR before the rest of the class has *begun* to take it
+* We will not require you to miss other classes to make use of your extended time at CDR
+* You should schedule your exam as soon as practical after the nominal time of the exam, but may do so on the following day if necessary
+* If you take an exam on a different day than scheduled, it is your responsibility to email me when you are done so I can pick up your exam paper for grading
+
+**University-Sanctioned Absences:**
+
+An absence is university-sanctioned if:
+
+* The Barnes Center or Student Outreach and Retention sends me a notice requesting accommodations for you on the specific date of the absence
+* You are receiving medical treatment at the time of the absence (documented either by the Barnes Center or by your provider)
+* A NCAA-affiliated athletics team sends me a notice requesting accommodations for you on the date of the absence
+* Another University-related organization (for instance, the marching band or ROTC cadre) requests accommodations for you
+* You have registered a religious observance with the University 
+* You are attending an academic conference related to your studies
+
+**Incompletes:**
+
+The University allows us to give students a final grade with an "incomplete" tag. This indicates that a student has not finished all of their work, but has
+an arrangement with a professor to complete that work after the semester has closed and receive a higher grade once it is complete.
+
+This arrangement is not designed to allow students to "make up" large portions of a course, no matter how justified the reason for their absence. In that
+event, the appropriate thing is to retake the course. (Note that Syracuse University automatically uses only the highest grade for students who take courses
+more than once.)
+
+We will make "incomplete" arrangements only if:
+
+* You have missed up to three weeks of our course or missed the final exam for an extended University-sanctioned absence
+* You have contacted Student Outreach and Retention about your situation and they agree an incomplete is appropriate
+* Your grade on the portion of the course you have completed is C+ or better
+* You notify us of the situation as soon as possible upon your return to class, rather than waiting until the end of the semester
+
+
 #### Papers 
 
-The paper will be graded out of ten points, although there is no fixed maximum value for your grade; exceptional work will get substantial extra credit. (Both Dr. Freeman and the lab TA's will be helping grade the papers.)
-We will be grading on the basis of:
+The paper will be graded out of 80 points, although there is no fixed maximum value for your grade; exceptional work will get substantial extra credit.
 
-* astronomical insight and factual correctness
-* clarity of writing, including correct use of astronomical terminology. Note that we will not penalize students for spelling or minor grammar issues, and will be particularly lenient to students who have not lived for long in an English-speaking country. I’m more interested in whether your ideas fit together to tell a coherent story.
-* ambition and creativity
-* **We are not looking for perfection; we are looking for insight.** I am aware that many of you speak English as a second language. Don’t worry about your English skills; I want to know what you think. If you need help with your writing, we have 
-multiple resources available for you -- the Writing Center, and a few coaches who have specialized skills in helping students with their writing. 
+The grading rubric for the paper will be explained in depth as part of the assignment when we present it to you.
 
----
+
 <a id="policy"></a>
 
 ### Academic integrity
 
 Our university's motto is "Suos cultores scientia coronat" -- "knowledge crowns those who seek her". Our class's theme is a variant on this: "Science allows us to
-write our own future." The most valuable thing you will gain from your education here isn't a degree or a bunch of marks on your transcript: it is the power to influence your world that you will gain from the things you learn.
+write our own future." The most valuable thing you will gain from your education here isn't a degree or a bunch of marks on your transcript: 
+it is the power to influence your world that you will gain from the things you learn.
 
-As such, if you pass off someone else's work as your own in this class, you are cheating yourself out of the value of education itself. 
+As such, if you pass off someone else's work as your own in this class, you are depriving yourself of of the value of education itself. 
 This class is designed so that any student who works hard and keeps up will pass. 
 You do not need to substitute someone else's work or knowledge for your own; your own talents, your own skill, and your own work are enough. 
 
-While you are encouraged to discuss everything in the course with your peers, 
-all work you submit must reflect your own understanding. 
-We may impose a grade sanction up to course failure for any instance of academic dishonesty. 
+While you are encouraged to discuss everything in the course with your peers, all work you submit must reflect your own understanding and
+be a product of your own effort. We may impose a grade sanction up to course failure for any instance of academic dishonesty. 
 Syracuse University’s Academic Integrity Policy governs general expectations for students and is incorporated into this syllabus by reference. 
 
+On your weekly quizzes, you may consult any references you wish as long as you are doing this to gain understanding rather than to 
+copy answers. (For instance, you may read Wikipedia articles, Google things, talk to your classmates, consult your textbook, etc.,
+but you may not solicit answers to copy.) 
 
-
-For your homework quizzes, you may use your homework as reference, so long as you did your homework yourself. If you have a disability that interferes with 
-this, you may prepare your homework using a computer, so long as you do it yourself. 
-
-In your writing for this class, you must show clearly which text is original to you, which reflects ideas which you found elsewhere but have digested and expressed in your own words, and which text is a direct quote from someone else’s words.
-You must cite any references that you use. (You do not need to cite anything from the course textbook, notes, or lectures.) 
+In your paper, you must show clearly which text is original to you,
+which reflects ideas which you found elsewhere but have expressed with original rhetoric, 
+and which text is a direct quote from someone else’s words.
+You must cite any references that you use. (You do not need to cite anything from the course textbook, notes, or lectures.)
 If you consult a webpage or book for information, you should tell us this. We don’t care what citation style you use.
 
 Direct quotes must be indicated. This is done by either blockquoting the other writer’s text or by putting it in quotation marks. In general, however, you should use direct quotes only sparingly in your writing.
 
-**A note on "paraphrasing"**: Taking the organization and content of someone else’s writing and merely replacing words with synonyms, reordering words, omitting sentences or phrases, etc., is never a good idea. This is called "substitution plagiarism". 
-If you want to use someone else's rhetoric, then quote it directly and attribute the quote.
+**A note on "paraphrasing"**: You should never take the organization and content of someone else’s writing 
+and merely replace words with synonyms, reorder words, omit sentences or phrases, etc. This is called "substitution plagiarism".
+If you do wish to use someone else's rhetoric, then quote the original author's words directly and attribute the quote.
 If you want to use their ideas, then read what they have written and describe their ideas using your own logic, rhetoric, and organization.
-
-
-**A note on Chegg and similar platforms:** You are not allowed to post any materials from our class to Chegg’s “ask an expert” platform or any similar platform soliciting solutions to copy. Our experience has shown that these platforms are overwhelmingly used for academic dishonesty, i.e. to copy things without doing the work or understanding the process. 
-Instead, you should collaborate with your classmates or ask one of your instructors for help. The best way to do this is to talk to us during class or 
-on Discord. 
-We will almost certainly be more helpful than anonymous people over the internet in helping you learn the material and gain skills and understanding. 
-It is an extremely serious breach of academic integrity to solicit or use solutions from Chegg or similar, 
 
 
 ### Students with disabilities and other access challenges
@@ -398,13 +413,11 @@ Syracuse University values diversity and inclusion; we are committed to a climat
 
 If you would like to discuss disability-related accommodations with CDR, please visit their website at disabilityservices.syr.edu, visit them in person in Room 309 of 8047 University Avenue, or call (315) 443-4498, TDD: (315) 443-1371 for an appointment to discuss your needs and the process for requesting accommodations. CDR is responsible for coordinating disability-related accommodations. Since accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible.
 
-CDR is one of the most helpful offices on campus. They coordinate academic accommodations to students who have short-term illnesses (physical or mental). If you are injured or ill and need academic accommodations beyond short-term due date extensions for AST101, we will likely design those accommodations for you in collaboration with CDR.
-
-If there are other things presenting access challenges to you in our class – family situations, health challenges, etc. – please talk to me as soon as possible. We will do whatever we must to ensure that you have every opportunity to gain skills in astronomy and be assessed on those skills fairly.
+CDR coordinates academic accommodations to students who have short-term illnesses (physical or mental). If you are injured or ill and need academic accommodations beyond short-term due date extensions for AST101, we will likely design those accommodations for you in collaboration with CDR.
 
 ### Copyright
 
-All materials that we have developed this class are the copyright of their authors, but we do not intend to restrict their use; anyone may use them under the Creative Commons cc-by-nc-sa license, which gives you the right to share our materials freely or adapt them so long as you credit their authors, do not use them for commercial purposes, and require that anyone else distributing them also license them under these same terms. 
+All materials that we have developed this class are the copyright of their authors, but we do not intend to restrict their use; anyone may use them under the Creative Commons cc-by-nc-sa license, which gives you the right to share our materials freely or adapt them so long as you credit their authors, do not use them for commercial purposes, and require that anyone else distributing them also license them under these same terms.
 
 You are free to record class for your personal use but those recordings are not included in this license; 
 those may not be distributed outside of our class without our permission to protect students’ freedom of expression in class.
@@ -419,14 +432,14 @@ Note that uploading materials to Chegg, CourseHero, or similar websites constitu
 
 SU’s religious observances notification and policy, found at http://hendricks.syr.edu/spiritual-life/index.html, recognizes the diversity of faiths represented among the campus community and protects the rights of students, faculty, and staff to observe religious holidays according to their tradition. Under the policy, students are provided an opportunity to make up any examination, study, or work requirements that may be missed due to a religious observance provided they notify their instructors before the end of the second week of classes. An online notification process is available for students in My Slice / StudentServices / Enrollment / MyReligiousObservances / Add a Notification.
 
-*(The following is specific to my classes)*
-
 Events of equal solemnity to major religious observances, occurring on inflexible dates, will be given the same deference as religious observances. This includes weddings and commitment ceremonies of immediate family members, funerals, caregiving duties for sick family members, other family emergencies or singularly-important events, job interviews, and the like.
 
-Participation in political or social activism occurring on inflexible dates or in response to ongoing circumstances – attending a demonstration, canvassing for a campaign, 
-serving as a poll worker, or the like – will be given this same deference.
+Likewise, you may have conflicts between elements of our course and other University-sponsored activities or other activities of an academic nature (for instance, NCAA athletics or travel to an academic conference).
+These events will be given the same deference, as will participation in political or social activism occurring on inflexible dates or in response to ongoing circumstances – attending a demonstration, canvassing for a campaign, 
+serving as a poll worker, or the like.
 
-If you must miss your lab because of a solemn observance, social or political activism, illness or injury, or academic conflict, please discuss this with your group and arrange to attend at a different time that week. 
+If you must miss your lab because of a solemn observance, social or political activism, illness or injury, or academic or university-sanctioned conflict, 
+please discuss this with your group and arrange to attend at a different time that week. 
 
-If you miss an exam or homework quiz for such a reason, then we will arrange an alternate opportunity for you to demonstrate proficiency on that material.
+If you miss an exam for such a reason, then we will replace that exam grade with the average of other exam grades.
 
